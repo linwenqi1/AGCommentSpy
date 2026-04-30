@@ -1,0 +1,19 @@
+__pycache__/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+# hmdriver2 cache/temp files
+hmdriver2/__pycache__/
+hmdriver2/*.pyc
+hmdriver2/*.pyo
+hmdriver2/.cache/
+# common Python ignores
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+env/
+venv/
+temp/
