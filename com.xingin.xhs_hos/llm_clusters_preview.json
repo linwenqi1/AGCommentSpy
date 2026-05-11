@@ -1,0 +1,1779 @@
+{
+  "n_items": 116,
+  "n_items_deduped": 114,
+  "功能体验": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "AI评论显示问题",
+          "canonical_issue": "AI评论功能无法正常显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_1",
+              "pain": "AI评论不显示",
+              "suggestion": "修复AI评论显示问题，确保用户能看到AI生成的评论",
+              "source": "Ai评论不显示，动态图没原声",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_1"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "动态图原声缺失",
+          "canonical_issue": "动态图缺少原声支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_1",
+              "pain": "动态图没有原声",
+              "suggestion": "为动态图添加原声支持，允许用户上传和播放带声音的动态图片",
+              "source": "Ai评论不显示，动态图没原声",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_1"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "人脸识别功能缺失",
+          "canonical_issue": "人脸识别功能未完善或缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_4",
+              "pain": "人脸识别功能缺失或不完善",
+              "suggestion": "完善人脸识别功能，用于登录验证或内容审核",
+              "source": "人脸识别是个什么东西。。还不跟进一下么",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_4"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "专业号个人售卖功能缺失",
+          "canonical_issue": "专业号用户无法使用个人售卖功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_7",
+              "pain": "无法使用专业号的个人售卖功能",
+              "suggestion": "为专业号用户增加个人售卖功能，完善电商工具",
+              "source": "还无法使用专业号的个人售卖功能",
+              "device": "HUAWEI Pura X Max"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_7"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "群接龙功能缺失",
+          "canonical_issue": "群聊中缺少接龙功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_8",
+              "pain": "不支持群接龙功能",
+              "suggestion": "在群聊中添加接龙功能，方便用户组织活动和收集信息",
+              "source": "能不能群接龙。。。",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_8"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "长文功能缺失",
+          "canonical_issue": "缺少长文编辑和发布功能",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_11",
+              "pain": "缺少长文功能",
+              "suggestion": "尽快更新长文编辑功能",
+              "source": "快更新长文功能！！！",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.xingin.xhs_hos_23",
+              "pain": "不支持发布长文内容",
+              "suggestion": "增加长文发布功能",
+              "source": "不能写长文",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_11",
+            "com.xingin.xhs_hos_23"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "智感握姿功能缺失",
+          "canonical_issue": "缺少智感握姿功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_12",
+              "pain": "缺少智感握姿功能",
+              "suggestion": "增加智感握姿功能",
+              "source": "赶快上智感握姿",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_12"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "直播观看历史缺失",
+          "canonical_issue": "无法查看直播观看历史记录",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_16",
+              "pain": "无法找到直播观看历史，只有浏览笔记记录",
+              "suggestion": "增加直播观看历史记录功能",
+              "source": "我昨天看的直播去哪里找…只有浏览笔记的记录！",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_16"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "小程序功能缺失",
+          "canonical_issue": "缺少小程序功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_18",
+              "pain": "缺少小程序功能",
+              "suggestion": "尽快增加小程序功能",
+              "source": "暂时没有小程序功能 急需增加小程序",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_18"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "评论历史查看功能缺失",
+          "canonical_issue": "缺少查看评论历史（点赞、收藏、自己发出的评论）的功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_19",
+              "pain": "缺少查看评论历史（点赞、收藏、自己发出的评论）的功能；市集功能缺失多",
+              "suggestion": "增加评论历史查看功能，并完善市集功能",
+              "source": "查看评论（包括不限于点赞、收藏过的评论和自己发出去的评论）的功能都没有，还有市集里很多功能都缺失",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_19"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "直播回看讲解加载失败",
+          "canonical_issue": "直播商品回看讲解加载失败，出现黑屏和无限加载",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_21",
+              "pain": "直播商品回看讲解加载失败，出现黑屏和无限加载",
+              "suggestion": "优化直播回看讲解的加载功能，修复黑屏问题",
+              "source": "为什么看直播商品的时候有的能看，有的点开回看讲解就一直一个小圆圈转转转，且屏是黑的",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_21"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "评论中笔记链接无法点击",
+          "canonical_issue": "评论中的笔记链接无法点击打开，也无法复制",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_24",
+              "pain": "评论中的笔记链接无法点击打开，也无法复制",
+              "suggestion": "修复评论中笔记链接的点击和复制功能，确保与其它系统版本一致",
+              "source": "快更新，评论里发的笔记链接点不开，复制也没有反应，快更新到和其他系统一样的版本！！！！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_24"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "虚拟产品购买体验差",
+          "canonical_issue": "虚拟产品购买体验差，无法正常沟通",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_27",
+              "pain": "虚拟产品购买体验差，无法正常沟通",
+              "suggestion": "优化虚拟商品的购买流程和沟通渠道，改善用户体验",
+              "source": "不行啊，虚拟产品购买体验差，无法正常沟通",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_27"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "群内发送文件功能缺失",
+          "canonical_issue": "群聊中缺少发送文件功能，如PDF",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_31",
+              "pain": "缺少群内发送文件功能，如PDF",
+              "suggestion": "尽快上线群文件分享功能，支持PDF等常见格式",
+              "source": "什么时候上线群里发文件功能，比如PDF文件。希望尽快加上",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_31"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "笔记模板应用失败",
+          "canonical_issue": "套用模板发布笔记时失败",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_32",
+              "pain": "套用模板发布笔记时失败",
+              "suggestion": "修复笔记模板应用功能，确保用户能正常使用模板",
+              "source": "套模板发笔记套不上",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_32"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "问一问AI功能未更新",
+          "canonical_issue": "问一问AI功能未更新，无法看到或使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_33",
+              "pain": "问一问AI功能未更新，无法看到或使用",
+              "suggestion": "尽快更新问一问AI功能，确保用户界面显示入口",
+              "source": "问一问ai没有更新，看不到这个",
+              "device": "nova 12 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_33"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "图片预加载功能未上线",
+          "canonical_issue": "图片预加载功能未更新上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_35",
+              "pain": "图片预加载功能未更新上线",
+              "suggestion": "尽快更新上线图片预加载功能",
+              "source": "图片预加载功能还没有更新上么？一张图片加载半天",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_35"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "海外登录支持",
+          "canonical_issue": "不支持海外用户登录",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_36",
+              "pain": "不支持海外用户登录",
+              "suggestion": "支持海外地区登录，适配国际账号体系",
+              "source": "不支持海外登陆",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_36"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "翻译功能缺失",
+          "canonical_issue": "缺少翻译功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_38",
+              "pain": "缺少翻译功能",
+              "suggestion": "集成翻译功能，支持多语言翻译",
+              "source": "请把翻译功能加上呀～",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_38"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "问一问AI功能异常",
+          "canonical_issue": "问一问AI功能无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_41",
+              "pain": "问一问AI功能无法使用",
+              "suggestion": "修复问一问AI功能，确保新版本可用",
+              "source": "这个版本用不了问一问ai",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_41"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "评论区展开回复异常",
+          "canonical_issue": "评论区“展开n条回复”无法点开",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_42",
+              "pain": "评论区“展开n条回复”无法点开",
+              "suggestion": "修复评论区展开回复按钮的点击事件",
+              "source": "pura x max目前存在bug，评论区最下面的“展开n条回复”目前无法点开，希望尽快修复。",
+              "device": "HUAWEI Pura X Max 典藏版"
+            },
+            {
+              "id": "com.xingin.xhs_hos_45",
+              "pain": "横屏笔记最下面一条评论无法展开更多回复",
+              "suggestion": "修复横屏下评论展开回复功能",
+              "source": "Pura X Max横屏点进笔记的时候最下面一条评论无法展开更多回复，bug速度修复",
+              "device": "HUAWEI Pura X Max"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_42",
+            "com.xingin.xhs_hos_45"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "智感握姿功能异常",
+          "canonical_issue": "横屏看视频时智感握姿功能不触发",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_43",
+              "pain": "横屏看视频时智感握姿功能不触发",
+              "suggestion": "修复横屏场景下智感握姿功能的触发逻辑",
+              "source": "横屏看视频，智感握姿功能不会触发。",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_43"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "评论区问一问@功能缺失",
+          "canonical_issue": "评论区问一问无法@用户",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_44",
+              "pain": "评论区问一问无法@用户",
+              "suggestion": "为评论区问一问添加@功能",
+              "source": "鸿蒙评论区的问一问没法艾特",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_44"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "购物车数据加载异常",
+          "canonical_issue": "购物车打开后无内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_46",
+              "pain": "购物车打开后无内容",
+              "suggestion": "修复购物车数据加载问题",
+              "source": "怎么购物车打开没东西了",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_46"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "笔记发送功能异常",
+          "canonical_issue": "部分笔记发送失败",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_48",
+              "pain": "部分笔记发送失败",
+              "suggestion": "排查并修复笔记发送功能",
+              "source": "为啥有的笔记发送不了啊？",
+              "device": "HUAWEI MatePad 11.5\"S 灵动款"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_48"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "悬浮底栏机型独占",
+          "canonical_issue": "悬浮底栏功能存在机型独占，部分机型不支持",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_51",
+              "pain": "悬浮底栏功能存在机型独占，部分机型不支持",
+              "suggestion": "取消悬浮底栏的机型独占，让所有机型都能使用该功能",
+              "source": "太拉了，一个悬浮底栏竟然还有机型独占？闻所未闻。",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.xingin.xhs_hos_57",
+              "pain": "Dock栏（悬浮底栏）功能存在机型独占",
+              "suggestion": "取消Dock栏的机型独占，让所有机型都能使用",
+              "source": "low完了，一个应用都能搞dock栏独占",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_51",
+            "com.xingin.xhs_hos_57"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "基础功能适配差异",
+          "canonical_issue": "功能按机型区别适配，基础功能适配较差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_52",
+              "pain": "功能按机型区别适配，基础功能适配较差",
+              "suggestion": "统一功能适配，确保所有机型的基础功能体验一致",
+              "source": "存在功能按机型区别适配的情况，基础功能及动画适配较差，如打开笔记后的返回动画经常出现动画路径错误的情况",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_52"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "沉浸光感机型独占",
+          "canonical_issue": "沉浸光感功能被独占，仅部分机型可用",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_53",
+              "pain": "Pura X机型不支持沉浸光感功能",
+              "suggestion": "为Pura X机型添加沉浸光感功能支持",
+              "source": "purax也要沉浸光感",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.xingin.xhs_hos_56",
+              "pain": "沉浸光感功能被独占，仅部分机型可用",
+              "suggestion": "取消沉浸光感功能的独占策略，让更多机型支持",
+              "source": "沉浸光感还要独占",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.xingin.xhs_hos_59",
+              "pain": "沉浸光感功能不给其他机型，导致低分评价",
+              "suggestion": "将沉浸光感功能开放给所有机型，避免用户不满",
+              "source": "必须评价1分，连个沉浸光感都不给其他机型",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_53",
+            "com.xingin.xhs_hos_56",
+            "com.xingin.xhs_hos_59"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "底部光感机型区分",
+          "canonical_issue": "底部光感功能按机型区分，部分机型缺失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_54",
+              "pain": "底部光感功能按机型区分，部分机型缺失",
+              "suggestion": "取消底部光感功能的机型区分，在所有机型上提供该功能",
+              "source": "一个底部光感都能分机型",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.xingin.xhs_hos_60",
+              "pain": "光感功能按机型提供，引发用户不满",
+              "suggestion": "在所有机型上统一提供光感功能，取消按机型限制",
+              "source": "一个光感还要按照机型去提供，你不一星谁一星",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_54",
+            "com.xingin.xhs_hos_60"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "功能机型差异化限制",
+          "canonical_issue": "功能根据机型做区分，认为不合理",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_55",
+              "pain": "功能根据机型做区分，认为不合理",
+              "suggestion": "去除功能根据机型的差异化限制，统一功能体验",
+              "source": "你是系统吗，功能还能根据机型做区分？",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_55"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "群功能缺失",
+          "canonical_issue": "群聊功能不完善，缺少接龙、红包等常用群能力",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_61",
+              "pain": "无法查看小红书群接龙信息",
+              "suggestion": "添加群接龙功能，支持在群聊中发起和查看接龙",
+              "source": "什么时候才能够看到小红书的群接龙信息？",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.xingin.xhs_hos_65",
+              "pain": "群功能不完善",
+              "suggestion": "完善群功能，如增加接龙、红包等常用群能力",
+              "source": "能完善一下群里的功能就更好了",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.xingin.xhs_hos_68",
+              "pain": "群消息中缺少链接红包功能",
+              "suggestion": "推进群链接红包功能，支持在群聊中发送红包链接",
+              "source": "群消息链接红包什么时候能推进一下",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_61",
+            "com.xingin.xhs_hos_65",
+            "com.xingin.xhs_hos_68"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "私信功能缺失",
+          "canonical_issue": "私信模块缺少感谢点赞等快捷操作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_66",
+              "pain": "不能私信感谢点赞",
+              "suggestion": "在私信模块增加感谢点赞的快捷操作或入口",
+              "source": "不能私信感谢点赞，不能搜索灵感，不能便捷的进行选品管理",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_66"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "灵感搜索缺失",
+          "canonical_issue": "缺少灵感内容搜索功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_66",
+              "pain": "无法搜索灵感",
+              "suggestion": "增加灵感搜索功能，支持关键词检索平台灵感内容",
+              "source": "不能私信感谢点赞，不能搜索灵感，不能便捷的进行选品管理",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_66"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "选品管理不便",
+          "canonical_issue": "商品选品管理流程操作不便",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_66",
+              "pain": "选品管理操作不便",
+              "suggestion": "优化商品选品管理流程，提供更便捷的编辑、分类和批量操作",
+              "source": "不能私信感谢点赞，不能搜索灵感，不能便捷的进行选品管理",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_66"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "长文功能缺失",
+          "canonical_issue": "缺少写长文笔记功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_67",
+              "pain": "缺少写长文功能",
+              "suggestion": "添加写长文功能，支持发布长文笔记",
+              "source": "写长文的功能什么时候加进去",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_67"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "沉浸光感适配问题",
+          "canonical_issue": "沉浸光感功能机型适配不全或缺少开关设置",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_69",
+              "pain": "Mate X7 缺乏沉浸光感和智感握姿适配",
+              "suggestion": "尽快为 Mate X7 机型适配沉浸光感和智感握姿功能",
+              "source": "为什么给Pura X max的更新优化要给我X7推送，X7小红书的沉浸光感和智感握姿啥时候适配",
+              "device": "HUAWEI Mate X7"
+            },
+            {
+              "id": "com.xingin.xhs_hos_74",
+              "pain": "沉浸光感功能没有开关设置，用户无法自主控制。",
+              "suggestion": "增加沉浸光感功能的开关设置，让用户自主选择开启或关闭。",
+              "source": "沉浸光感还搞机型歧视？你就不能弄个开关设置？",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_69",
+            "com.xingin.xhs_hos_74"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "关注人备注缺失",
+          "canonical_issue": "无法给关注的人添加备注名字",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_77",
+              "pain": "无法给关注的人添加备注名字。",
+              "suggestion": "增加关注人备注功能。",
+              "source": "什么时候能升级给关注的人备注名字呀",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_77"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "直播回放缺失",
+          "canonical_issue": "直播缺少回放功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_80",
+              "pain": "直播缺少回放功能。",
+              "suggestion": "支持直播回放功能。",
+              "source": "直播无法看回放",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_80"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "地区登录限制",
+          "canonical_issue": "澳门手机账号无法登录，仅支持内地手机号",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_81",
+              "pain": "澳门手机账号无法登录，仅支持内地手机号。",
+              "suggestion": "增加对澳门及其他地区手机号登录的支持，确保功能与内地一致。",
+              "source": "澳門手機帳號登入暫不支援鴻蒙系統，但內地手機號就能，為什麼",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_81"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "标签搜索不准",
+          "canonical_issue": "标签搜索功能体验差，搜索结果不相关",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_82",
+              "pain": "标签搜索功能体验差，搜索结果不相关，搜AB出现BA。",
+              "suggestion": "优化标签搜索算法，提高搜索结果的准确性和相关性。",
+              "source": "标签到底是干啥用的呢！？搜AB老出现BA体验非常差！！",
+              "device": "nova 12"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_82"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "平板直播功能缺失",
+          "canonical_issue": "平板版小红书缺少手游直播功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_84",
+              "pain": "平板版小红书缺少手游直播功能。",
+              "suggestion": "在平板版本中增加手游直播功能。",
+              "source": "为什么平板版的不能直播手游",
+              "device": "HUAWEI MatePad Air"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_84"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "问一问功能异常",
+          "canonical_issue": "“问一问”功能不可见或无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_88",
+              "pain": "“问一问”功能不可见或无法使用。",
+              "suggestion": "修复“问一问”功能入口和可用性问题，确保其正常显示和运作。",
+              "source": "问一问看不到，也用不了",
+              "device": "HUAWEI Pura X Max"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_88"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "实况图片无声",
+          "canonical_issue": "实况图片发布后没有声音",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_90",
+              "pain": "实况图片发布后没有声音。",
+              "suggestion": "修复实况图片声音录制或播放问题，确保实况图片包含音频。",
+              "source": "实况图片没声音，编辑帖子话题会重复，好卡呀，消息加载半天不显示。不显示、不能下载附件文件，星标朋友什么时候上？还有不能备注。不能看群文件，群置顶，群通知最‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_90"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "附件下载缺失",
+          "canonical_issue": "无法下载帖子中的附件文件",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_90",
+              "pain": "无法下载帖子中的附件文件。",
+              "suggestion": "增加附件下载功能。",
+              "source": "实况图片没声音，编辑帖子话题会重复，好卡呀，消息加载半天不显示。不显示、不能下载附件文件，星标朋友什么时候上？还有不能备注。不能看群文件，群置顶，群通知最‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_90"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "星标朋友缺失",
+          "canonical_issue": "缺少星标朋友功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_90",
+              "pain": "缺少星标朋友功能。",
+              "suggestion": "添加星标朋友功能。",
+              "source": "实况图片没声音，编辑帖子话题会重复，好卡呀，消息加载半天不显示。不显示、不能下载附件文件，星标朋友什么时候上？还有不能备注。不能看群文件，群置顶，群通知最‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_90"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "好友备注功能缺失",
+          "canonical_issue": "无法为好友添加备注",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_90",
+              "pain": "无法为好友添加备注。",
+              "suggestion": "添加好友备注功能。",
+              "source": "实况图片没声音，编辑帖子话题会重复，好卡呀，消息加载半天不显示。不显示、不能下载附件文件，星标朋友什么时候上？还有不能备注。不能看群文件，群置顶，群通知最‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_90"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "群聊功能缺失",
+          "canonical_issue": "群聊功能缺失，不能查看群文件、群置顶、群通知等",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_90",
+              "pain": "群聊功能缺失，不能查看群文件、群置顶、群通知等。",
+              "suggestion": "完善群聊功能，增加群文件、群置顶、群通知等。",
+              "source": "实况图片没声音，编辑帖子话题会重复，好卡呀，消息加载半天不显示。不显示、不能下载附件文件，星标朋友什么时候上？还有不能备注。不能看群文件，群置顶，群通知最‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_90"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "PDF查看功能缺失",
+          "canonical_issue": "无法查看PDF文件",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_91",
+              "pain": "无法查看PDF文件",
+              "suggestion": "添加PDF查看器功能",
+              "source": "可以加上看pdf的功能吗",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_91"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "视频画质问题",
+          "canonical_issue": "视频画质差且无法调整",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_92",
+              "pain": "视频画质差且无法调整",
+              "suggestion": "提供画质调整选项或优化默认画质",
+              "source": "画质很烂的不能调",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_92"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "文章点赞功能缺失",
+          "canonical_issue": "缺少文章点赞（好）功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_94",
+              "pain": "缺少文章点赞（好）功能",
+              "suggestion": "添加文章点赞功能",
+              "source": "请尽快更新鸿蒙系统文章点“好”的功能及翻译功能",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_94"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "直播间缩放功能缺失",
+          "canonical_issue": "直播间缺少缩放功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_95",
+              "pain": "直播间缺少缩放功能",
+              "suggestion": "添加直播间缩放功能",
+              "source": "没有直播间缩放功能，希望能尽快更新",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_95"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "@问一问功能异常",
+          "canonical_issue": "无法使用@问一问功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_98",
+              "pain": "无法使用@问一问功能",
+              "suggestion": "修复@问一问功能",
+              "source": "不能@问一问 影响使用体验",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_98"
+          ]
+        }
+      ]
+    }
+  },
+  "UI与交互": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "52",
+          "cluster_name": "左滑手势误触",
+          "canonical_issue": "左滑手势直接进入主页，可能是误触或BUG",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_3",
+              "pain": "左滑手势直接进入主页，可能是误触或BUG",
+              "suggestion": "修复左滑手势逻辑，避免直接跳转主页，或增加确认机制",
+              "source": "存在左滑直接进入主页的bug",
+              "device": "HUAWEI Pura 80 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_3"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "圆角卡片设计",
+          "canonical_issue": "更新后界面采用大量圆角卡片，设计不够简洁",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_47",
+              "pain": "更新后界面采用大量圆角卡片，设计不够简洁",
+              "suggestion": "优化UI设计，提供更简洁的显示模式或减少圆角卡片",
+              "source": "9.27.1针对PuraXMax用户更新的版本，更新后主页的笔记浏览页和每篇带图片的笔记浏览界面，采用了大量圆角卡片的显示模式，我想请问工程师有没有审美，明不明白简洁构‪...",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_47"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "返回动画路径错误",
+          "canonical_issue": "打开笔记后的返回动画经常出现动画路径错误",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_52",
+              "pain": "打开笔记后的返回动画经常出现动画路径错误",
+              "suggestion": "修复返回动画的路径错误，确保动画效果正确流畅",
+              "source": "存在功能按机型区别适配的情况，基础功能及动画适配较差，如打开笔记后的返回动画经常出现动画路径错误的情况",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_52"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "话题功能混乱",
+          "canonical_issue": "话题功能界面混乱，无法找到收藏的话题和管理关注的话题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_87",
+              "pain": "话题功能界面混乱，无法找到收藏的话题和管理关注的话题。",
+              "suggestion": "重新设计话题功能，提供清晰的话题收藏入口和关注话题列表。",
+              "source": "话题有关的功能太混乱了，以前有个收藏话题，结果现在找不到不说，新的关注话题，我都不知道我关注了哪些话题",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_87"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "编辑话题重复",
+          "canonical_issue": "编辑帖子时话题重复显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_90",
+              "pain": "编辑帖子时话题重复显示。",
+              "suggestion": "修复编辑帖子时话题重复的bug，确保话题正确显示。",
+              "source": "实况图片没声音，编辑帖子话题会重复，好卡呀，消息加载半天不显示。不显示、不能下载附件文件，星标朋友什么时候上？还有不能备注。不能看群文件，群置顶，群通知最‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_90"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "83",
+          "cluster_name": "关注栏头像缺失",
+          "canonical_issue": "关注栏缺少关注头像展示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_86",
+              "pain": "关注栏缺少关注头像展示，个人页缺少评论区入口。",
+              "suggestion": "在关注栏顶部增加关注头像，在个人页面增加评论区入口。",
+              "source": "把关注栏的上方关注头像，我的栏的评论区，快点做出来好吗 特别需要",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_86"
+          ]
+        }
+      ]
+    }
+  },
+  "运营与规则": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "57",
+          "cluster_name": "账号封禁问题",
+          "canonical_issue": "账号被无故或随意封禁，缺乏透明度和申诉机制",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_9",
+              "pain": "账号被无故封禁",
+              "suggestion": "优化封号审核流程，提供详细的封禁原因和申诉渠道，避免误封",
+              "source": "无缘无故就被封号了",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.xingin.xhs_hos_22",
+              "pain": "账号被随意封禁",
+              "suggestion": "完善封号审核机制，明确封禁原因，避免误伤",
+              "source": "你动不动就封账号，什么意思啊，我一没烧杀抢掠，二没犯法的。为啥非得让大家人脸识别和实名信息，你居心何在啊！！！手机号验证码都满足不了你了吗？注销账号你还保‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.xingin.xhs_hos_26",
+              "pain": "新创建的账号立即被封禁",
+              "suggestion": "审查新账号封禁的规则，避免误伤正常用户",
+              "source": "不是。。。我刚起的号就给我封了。。🤣还是人吗",
+              "device": "HUAWEI MatePad 11.5"
+            },
+            {
+              "id": "com.xingin.xhs_hos_28",
+              "pain": "正常使用的账号被无故永久封号，申诉失败且不告知具体违规原因",
+              "suggestion": "完善封号规则透明度，明确告知用户违规原因；改进申诉流程，提供有效复核机制",
+              "source": "正常使用的账号无任何违规行为，突然被永久封号，且多次申诉失败🤨具体哪里违规了也不说，全凭审核一句话是吧",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.xingin.xhs_hos_79",
+              "pain": "强制实名认证，感觉隐私被侵犯；无故封号。",
+              "suggestion": "改进实名认证流程，保护用户隐私；明确封号原因并提供申诉渠道。",
+              "source": "为啥一定要实名认证 为了得到我的个人信息？我也没发啥呀 我就发了几个绘画作品 无故封号！！！！",
+              "device": "HUAWEI MatePad Air"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_9",
+            "com.xingin.xhs_hos_22",
+            "com.xingin.xhs_hos_26",
+            "com.xingin.xhs_hos_28",
+            "com.xingin.xhs_hos_79"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "实名认证问题",
+          "canonical_issue": "实名认证地区覆盖不全或强制要求引发隐私担忧",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_6",
+              "pain": "特定地区不支持实名认证，导致无法找回账号",
+              "suggestion": "扩展实名认证的地区覆盖范围，或提供其他身份验证和账号找回方式",
+              "source": "该地区暂不支持实名认证无法找回。。。。。 为什么。。。。。",
+              "device": "HUAWEI Mate X6 典藏版"
+            },
+            {
+              "id": "com.xingin.xhs_hos_22",
+              "pain": "强制人脸识别和实名信息，过度收集个人信息",
+              "suggestion": "优化身份验证方式，提供更灵活的验证选项，减少不必要的隐私要求",
+              "source": "你动不动就封账号，什么意思啊，我一没烧杀抢掠，二没犯法的。为啥非得让大家人脸识别和实名信息，你居心何在啊！！！手机号验证码都满足不了你了吗？注销账号你还保‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.xingin.xhs_hos_76",
+              "pain": "平台监管不利，缺少实名制。",
+              "suggestion": "加强监管，尽快推行实名认证制度。",
+              "source": "监管不利。什么时候能实名",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_6",
+            "com.xingin.xhs_hos_22",
+            "com.xingin.xhs_hos_76"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "平台管理问题",
+          "canonical_issue": "平台管理水平低下，用户信任度不足",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_25",
+              "pain": "平台管理水平低下，用户不满",
+              "suggestion": "提升平台管理质量，优化用户服务",
+              "source": "管理水平低下，愧对热爱这个平台的广大网友",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_25"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "举报系统问题",
+          "canonical_issue": "举报系统无效，虚假处置反馈，黑产账号未清理",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_85",
+              "pain": "举报系统形同虚设，虚假处置反馈，黑产账号未得到实际清理。",
+              "suggestion": "加强举报审核机制，确保举报后实际执行处罚，并公开处理结果以提高信任度。",
+              "source": "举报成摆设，黑产账号举报通过说已处置，结果还好好的在那里…这功能还不如不要，变相鼓励黄牛黑产，放纵偷税漏税违法行为\n‪...",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_85"
+          ]
+        },
+        {
+          "cluster_id": "61",
+          "cluster_name": "流量分配问题",
+          "canonical_issue": "内容流量分配不均或偏低",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_99",
+              "pain": "内容流量低",
+              "suggestion": "优化流量分配机制",
+              "source": "流量不是很好",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_99"
+          ]
+        },
+        {
+          "cluster_id": "62",
+          "cluster_name": "功能独占问题",
+          "canonical_issue": "沉浸光感功能仅限部分机型，存在独占",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_50",
+              "pain": "沉浸光感功能仅限部分机型，存在独占",
+              "suggestion": "考虑将沉浸光感功能开放给更多机型",
+              "source": "沉浸光感还要搞独占",
+              "device": "nova 12 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_50"
+          ]
+        }
+      ]
+    }
+  },
+  "体验赞赏": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "63",
+          "cluster_name": "整体体验优秀",
+          "canonical_issue": "用户对应用整体体验表示高度满意",
+          "size": 6,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_2",
+              "pain": "整体体验很好",
+              "suggestion": "无",
+              "source": "好用！！！",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.xingin.xhs_hos_13",
+              "pain": "整体体验良好",
+              "suggestion": "无",
+              "source": "挺好的",
+              "device": "HUAWEI MatePad Pro"
+            },
+            {
+              "id": "com.xingin.xhs_hos_20",
+              "pain": "好用易用",
+              "suggestion": "无",
+              "source": "好使好用。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.xingin.xhs_hos_30",
+              "pain": "用户表示喜欢该应用",
+              "suggestion": "无",
+              "source": "喜欢",
+              "device": "HUAWEI MatePad 11.5 S 活力版"
+            },
+            {
+              "id": "com.xingin.xhs_hos_37",
+              "pain": "产品整体实用性强，得到用户认可",
+              "suggestion": "无",
+              "source": "实用性高",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_2",
+            "com.xingin.xhs_hos_13",
+            "com.xingin.xhs_hos_20",
+            "com.xingin.xhs_hos_30",
+            "com.xingin.xhs_hos_37",
+            "com.xingin.xhs_hos_58"
+          ]
+        },
+        {
+          "cluster_id": "64",
+          "cluster_name": "应用趣味性强",
+          "canonical_issue": "用户认为应用内容有趣、好玩",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_5",
+              "pain": "应用很有趣，很好玩",
+              "suggestion": "无",
+              "source": "超级好玩",
+              "device": "HUAWEI MatePad 11.5 S"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_5"
+          ]
+        },
+        {
+          "cluster_id": "65",
+          "cluster_name": "更新频繁体验好",
+          "canonical_issue": "用户赞赏应用更新频繁且体验良好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_14",
+              "pain": "更新频繁，体验良好",
+              "suggestion": "无",
+              "source": "小红书真牛逼，一个月更新9个版本！",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_14"
+          ]
+        },
+        {
+          "cluster_id": "66",
+          "cluster_name": "鸿蒙PC触控流畅",
+          "canonical_issue": "鸿蒙PC触控板刷视频体验丝滑流畅",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_49",
+              "pain": "鸿蒙PC触控板刷视频丝滑流畅",
+              "suggestion": "无",
+              "source": "鸿蒙PC触控盘刷视频十分丝滑",
+              "device": "HUAWEI MateBook Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_49"
+          ]
+        },
+        {
+          "cluster_id": "67",
+          "cluster_name": "社交体验佳",
+          "canonical_issue": "用户赞赏应用社交功能，能交到朋友",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_93",
+              "pain": "社交体验好，能交到朋友",
+              "suggestion": "无",
+              "source": "真的很好！\n在上面交到了很多朋友\n还有喜欢我的粉丝们！",
+              "device": "HUAWEI MatePad Air"
+            },
+            {
+              "id": "com.xingin.xhs_hos_97",
+              "pain": "社交体验好，能交到好友",
+              "suggestion": "无",
+              "source": "特别好的小红书。在里面呢，我真的交到了许多我喜欢的好友。真心推荐小红书哈",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_93",
+            "com.xingin.xhs_hos_97"
+          ]
+        }
+      ]
+    }
+  },
+  "内容生态": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "68",
+          "cluster_name": "内容覆盖全面",
+          "canonical_issue": "内容范围广泛，资料齐全",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_10",
+              "pain": "内容范围广泛，资料齐全",
+              "suggestion": "无",
+              "source": "内容范围很广呢，基本啥资料都能找到。必须好评。",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_10"
+          ]
+        }
+      ]
+    }
+  },
+  "系统与机型适配": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "69",
+          "cluster_name": "外屏分屏布局遮挡",
+          "canonical_issue": "外屏分屏时聊天框被菜单栏遮挡",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_15",
+              "pain": "外屏分屏时，聊天框被菜单栏遮挡",
+              "suggestion": "优化外屏分屏布局，避免聊天框被遮挡",
+              "source": "Pura x max 外屏看小红书，进入消息界面分屏后，聊天框正好被菜单栏遮挡住了",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_15"
+          ]
+        },
+        {
+          "cluster_id": "70",
+          "cluster_name": "鸿蒙系统红包功能异常",
+          "canonical_issue": "鸿蒙系统上红包功能存在bug，无法领取",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_29",
+              "pain": "鸿蒙系统上红包功能存在bug，无法领取",
+              "suggestion": "针对鸿蒙系统优化红包功能，修复无法领取的bug",
+              "source": "求求了，鸿蒙系统红包老是bug领不了～能不能改进一下",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_29"
+          ]
+        },
+        {
+          "cluster_id": "71",
+          "cluster_name": "沉浸光感功能适配不全",
+          "canonical_issue": "沉浸光感功能仅适配PXM设备，其他设备未支持",
+          "size": 8,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_34",
+              "pain": "沉浸光感功能仅适配PXM设备，其他设备未支持",
+              "suggestion": "扩展沉浸光感功能到更多设备型号",
+              "source": "为何只有PXM适配沉浸光感",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.xingin.xhs_hos_39",
+              "pain": "沉浸光感功能仅限特定高端机型，导致用户感到被区别对待",
+              "suggestion": "开放沉浸光感功能给更多设备，或增加其他机型适配计划",
+              "source": "肉分五花三层，人分三六九等。现在还得加一句，小红书也把用户分成“下中下等”，毕竟只有尊贵的Pura X Max用户才配得上沉浸光感。",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.xingin.xhs_hos_62",
+              "pain": "更新推荐仅针对折叠屏，对非折叠屏用户无意义",
+              "suggestion": "根据用户机型精准推送更新内容，或明确标注适配机型范围",
+              "source": "那个折叠屏才支持沉浸光感，那你给我们推荐什么更新",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.xingin.xhs_hos_64",
+              "pain": "Mate 80 Pro 及以上机型与折叠屏同 CPU 却不支持沉浸光感，存在机型差别对待",
+              "suggestion": "统一高端机型的适配标准，将沉浸光感功能扩展至同 CPU 的机型",
+              "source": "Mate 80Pro和以上的机型也是一样的CPU,为什么就不能适配沉浸光感？这个还搞机型差别对待。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.xingin.xhs_hos_70",
+              "pain": "沉浸光感功能仅限特定机型，其他高端机型无法使用",
+              "suggestion": "扩大沉浸光感适配范围，覆盖更多主流中高端机型",
+              "source": "我寻思应用适配已经被小红书进入到一个新的高度了吗？其它机型都不配沉浸光感吗",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_34",
+            "com.xingin.xhs_hos_39",
+            "com.xingin.xhs_hos_62",
+            "com.xingin.xhs_hos_64",
+            "com.xingin.xhs_hos_70",
+            "com.xingin.xhs_hos_72",
+            "com.xingin.xhs_hos_73",
+            "com.xingin.xhs_hos_74"
+          ]
+        },
+        {
+          "cluster_id": "72",
+          "cluster_name": "群聊信息功能未适配",
+          "canonical_issue": "部分版本的群聊信息功能未适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_40",
+              "pain": "部分版本的群聊信息功能未适配",
+              "suggestion": "尽快完成群聊信息功能的全版本适配",
+              "source": "群聊信息还有不支持本版本的，希望能快一点完全适配",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_40"
+          ]
+        },
+        {
+          "cluster_id": "73",
+          "cluster_name": "更新推送逻辑错误",
+          "canonical_issue": "收到与当前设备无关的Pura X Max优化更新推送",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_63",
+              "pain": "收到与当前设备无关的 Pura X Max 优化更新推送",
+              "suggestion": "修复更新推送逻辑，确保用户只收到相应机型的适配更新",
+              "source": "pura x max 的优化适配干嘛叫我更新？逆天",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.xingin.xhs_hos_69",
+              "pain": "收到与 Mate X7 无关的 Pura X Max 优化更新",
+              "suggestion": "优化更新推送机制，避免给用户推送不匹配的机型更新",
+              "source": "为什么给Pura X max的更新优化要给我X7推送，X7小红书的沉浸光感和智感握姿啥时候适配",
+              "device": "HUAWEI Mate X7"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_63",
+            "com.xingin.xhs_hos_69"
+          ]
+        },
+        {
+          "cluster_id": "74",
+          "cluster_name": "Pura X Max版本更新问题",
+          "canonical_issue": "在Pura X Max上无法升级到最新版本，缺乏宣传的沉浸光感功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_83",
+              "pain": "在Pura X Max上无法升级到最新版本，缺乏宣传的沉浸光感功能，应用尝鲜也未提供。",
+              "suggestion": "尽快在应用市场推送更新版本，适配新机型特性，并确保应用尝鲜渠道可用。",
+              "source": "手机是Pura X MAX，小红书版本9.27.0，不能升级9.27.1，没有沉浸光感，应用市场里应用尝鲜也没有小红书。不是当亮点来宣传吗？结果根本用不了，问客服也只会说现在只‪...",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_83"
+          ]
+        },
+        {
+          "cluster_id": "75",
+          "cluster_name": "澳门用户登录问题",
+          "canonical_issue": "澳门用户无法登录，系统提示使用安卓或iOS",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_96",
+              "pain": "澳門用戶無法登入，系統提示使用安卓或iOS",
+              "suggestion": "修复澳门用户登录问题，支持鸿蒙系统登录",
+              "source": "澳門用戶登入不了，叫我使用安卓或iOS登入。",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_96"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "82",
+          "cluster_name": "新机型适配积极",
+          "canonical_issue": "应用快速适配最新机型，工作态度好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_71",
+              "pain": "赞赏应用快速适配最新机型，工作态度好。",
+              "suggestion": "无",
+              "source": "这么快就适配最新机型 就这份工作态度就该点赞👍",
+              "device": "HUAWEI MatePad Mini"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_71"
+          ]
+        }
+      ]
+    }
+  },
+  "稳定性与性能": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "76",
+          "cluster_name": "编辑功能异常",
+          "canonical_issue": "编辑笔记或帖子时出现光标乱跳、内容清空等异常问题",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_17",
+              "pain": "帖子添加话题和@用户时出现明显bug，且会清空编辑好的内容",
+              "suggestion": "修复添加话题和@用户时的bug，防止清空编辑内容",
+              "source": "帖子添加话题和@用户的时候bug那么明显，还动不动触发bug清空编辑好的内容，为啥那么长时间都修复不了？",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.xingin.xhs_hos_78",
+              "pain": "在Pura X Max上编辑笔记时，打字光标会到处乱跳。",
+              "suggestion": "修复在Pura X Max上编辑笔记时光标乱跳的Bug。",
+              "source": "用Pura X Max编辑笔记打字的光标会到处乱跳",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_17",
+            "com.xingin.xhs_hos_78"
+          ]
+        },
+        {
+          "cluster_id": "77",
+          "cluster_name": "图片加载缓慢",
+          "canonical_issue": "图片加载速度慢，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_35",
+              "pain": "图片加载速度慢，一张图片加载半天",
+              "suggestion": "优化图片加载机制，提升加载速度",
+              "source": "图片预加载功能还没有更新上么？一张图片加载半天",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_35"
+          ]
+        },
+        {
+          "cluster_id": "78",
+          "cluster_name": "内存占用过高",
+          "canonical_issue": "应用内存占用较高，影响设备性能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_89",
+              "pain": "应用内存占用较高，希望优化。",
+              "suggestion": "优化应用内存使用，减少后台占用，提升流畅度。",
+              "source": "要是能把内存占用再优化就更好了，B站内存占用就很小",
+              "device": "HUAWEI MatePad Air"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_89"
+          ]
+        },
+        {
+          "cluster_id": "79",
+          "cluster_name": "应用运行卡顿",
+          "canonical_issue": "应用运行过程中出现卡顿现象",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_90",
+              "pain": "应用运行卡顿。",
+              "suggestion": "进行性能优化，减少卡顿现象。",
+              "source": "实况图片没声音，编辑帖子话题会重复，好卡呀，消息加载半天不显示。不显示、不能下载附件文件，星标朋友什么时候上？还有不能备注。不能看群文件，群置顶，群通知最‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_90"
+          ]
+        },
+        {
+          "cluster_id": "80",
+          "cluster_name": "消息加载缓慢",
+          "canonical_issue": "消息界面加载缓慢，影响用户查看消息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_90",
+              "pain": "消息界面加载缓慢，半天不显示。",
+              "suggestion": "优化消息加载机制，提高加载速度。",
+              "source": "实况图片没声音，编辑帖子话题会重复，好卡呀，消息加载半天不显示。不显示、不能下载附件文件，星标朋友什么时候上？还有不能备注。不能看群文件，群置顶，群通知最‪...",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_90"
+          ]
+        },
+        {
+          "cluster_id": "81",
+          "cluster_name": "应用耗电严重",
+          "canonical_issue": "应用耗电严重，影响设备续航",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.xingin.xhs_hos_100",
+              "pain": "应用耗电严重",
+              "suggestion": "优化应用耗电问题",
+              "source": "除了太耗电，很不错！",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.xingin.xhs_hos_100"
+          ]
+        }
+      ]
+    }
+  },
+  "n_clusters": 84
+}
