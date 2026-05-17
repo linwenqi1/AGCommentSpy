@@ -23,3 +23,4 @@ COMMENT_USERNAME = './/*[@description="单指双击可跳转至个人中心"]//T
 COMMENT_RATING   = './/*[starts-with(@id,"CommentDetailStarsStack")]//Rating[1]'
 COMMENT_TEXT     = './/*[starts-with(@id,"CommentDetailTextContainer")]//Text[1]'
 COMMENT_META = './/*[starts-with(@id,"CommentDetailPostInfo") and not(contains(@id,"AndOperation"))]'
+COMMENT_EXPAND_BUTTON = '//*[starts-with(@id,"CommentDetailExpendAndCollapse")]'
