@@ -1,10 +1,15 @@
 
 # 标准库
 import argparse
+import sys
 import re
 import json
 import logging
 import time
+
+# 强制将标准输出和标准错误的编码设置为 UTF-8，防止在 Windows 的 GBK 终端下打印 Emoji 等特殊字符时报错
+sys.stdout.reconfigure(encoding='utf-8')
+sys.stderr.reconfigure(encoding='utf-8')
 
 # 第三方库
 from lxml import etree
@@ -131,16 +136,27 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="AppGallery comments scraper")
     parser.add_argument("-p", "--package", type=str, required=True, help="Target application package name (e.g. com.tencent.wechat)")
     parser.add_argument("-m", "--max-swipes", type=int, default=20, help="Maximum number of swipes to scrape comments")
+    parser.add_argument("-t", "--task", choices=["app_info", "comments", "both"], default="both", help="Task to perform: app_info, comments, or both")
     args = parser.parse_args()
 
     app_package = args.package
     app_url = f"https://appgallery.huawei.com/app/detail?id={app_package}"
     ability = "MainAbility"
     max_swipes = args.max_swipes
+    task = args.task
     output_dir = Path(app_package)
 
     try:
         d = Driver(DEVICE_ID)
+        
+        # 每次工作前先熄屏再亮屏
+        print("Turning screen off...")
+        d.screen_off()
+        time.sleep(1)
+        print("Turning screen on (wake up)...")
+        d.screen_on()
+        time.sleep(1)
+        
         d.start_app("com.huawei.hmsapp.appgallery", "MainAbility")
         # w, h = d.display_size
         # print(f"Display size: {w}x{h}")
@@ -170,28 +186,31 @@ if __name__ == "__main__":
 
         output_dir.mkdir(parents=True, exist_ok=True)
         
-        title    = xe.text if xe and xe.exists() else ""
-        subtitle = sub.text if sub and sub.exists() else ""
-        save_app_info({"title": title, "subtitle": subtitle}, output_dir)
+        if task in ["app_info", "both"]:
+            title    = xe.text if xe and xe.exists() else ""
+            subtitle = sub.text if sub and sub.exists() else ""
+            save_app_info({"title": title, "subtitle": subtitle}, output_dir)
 
-        component = scroll_until_component(d, VIEW_ALL_COMMENTS, max_swipes=10)
-        
-        if component:
-            d.xpath(VIEW_ALL_COMMENTS).click()
-            time.sleep(2)
-            d.xpath(SORT_BY_LATEST).click()
-            time.sleep(2)
+        if task in ["comments", "both"]:
+            component = scroll_until_component(d, VIEW_ALL_COMMENTS, max_swipes=10)
+            
+            if component:
+                d.xpath(VIEW_ALL_COMMENTS).click()
+                time.sleep(2)
+                d.xpath(SORT_BY_LATEST).click()
+                time.sleep(2)
 
-            # test single dump
-            layout = d.dump_hierarchy()
-            xml = json2xml(layout)
-            nodes = xml.xpath(COMMENT_ITEMS)	
-            print(f"Found {len(nodes)} comment nodes")
+                # test single dump
+                layout = d.dump_hierarchy()
+                xml = json2xml(layout)
+                nodes = xml.xpath(COMMENT_ITEMS)	
+                print(f"Found {len(nodes)} comment nodes")
 
-            comments = scrape_comments(d, max_swipes=max_swipes, wait=1.5)
-            save_comments(comments, str(output_dir / "comments.json"))
-        else:
-            print("'查看全部' button not found")
+                comments = scrape_comments(d, max_swipes=max_swipes, wait=1.5)
+                save_comments(comments, str(output_dir / "comments.json"))
+            else:
+                print("'查看全部' button not found")
+                
         print("\nAll tasks completed. Press Ctrl+C to exit.")
         while True:
             time.sleep(1)
