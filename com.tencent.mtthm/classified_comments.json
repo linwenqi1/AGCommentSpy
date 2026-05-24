@@ -1,0 +1,3192 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.tencent.mtthm_1",
+        "User_Pain_Point": "在QQ浏览器的私密文件里删除不了文件，也移除不了文件",
+        "Actionable_Suggestion": "修复私密文件删除/移除功能，排查华为X5兼容性"
+      },
+      {
+        "id": "com.tencent.mtthm_3",
+        "User_Pain_Point": "鸿蒙6版本的Q浏览器没有投屏功能",
+        "Actionable_Suggestion": "增加投屏功能以适配鸿蒙6系统"
+      },
+      {
+        "id": "com.tencent.mtthm_5",
+        "User_Pain_Point": "找不到工具箱，怀疑功能缺失",
+        "Actionable_Suggestion": "确认工具箱功能是否存在，若缺失则添加，若隐藏则优化入口"
+      },
+      {
+        "id": "com.tencent.mtthm_6",
+        "User_Pain_Point": "阉割版没有了视频格式转换功能",
+        "Actionable_Suggestion": "恢复视频格式转换功能"
+      },
+      {
+        "id": "com.tencent.mtthm_8",
+        "User_Pain_Point": "编辑文档无法添加图片",
+        "Actionable_Suggestion": "增加文档编辑时插入图片的功能"
+      },
+      {
+        "id": "com.tencent.mtthm_10",
+        "User_Pain_Point": "文件不能编辑",
+        "Actionable_Suggestion": "提供文件编辑功能或明确说明不支持编辑"
+      },
+      {
+        "id": "com.tencent.mtthm_11",
+        "User_Pain_Point": "小说畅读功能被移除，用户强烈要求恢复。",
+        "Actionable_Suggestion": "恢复小说畅读功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_13",
+        "User_Pain_Point": "听小说功能被移除，用户希望恢复并支持本地TXT阅读。",
+        "Actionable_Suggestion": "恢复听小说功能，并支持用户自行下载的TXT文件朗读。"
+      },
+      {
+        "id": "com.tencent.mtthm_15",
+        "User_Pain_Point": "听书功能缺少人声选择选项。",
+        "Actionable_Suggestion": "在听书功能中添加多个人声选项供用户选择。"
+      },
+      {
+        "id": "com.tencent.mtthm_16",
+        "User_Pain_Point": "隐私空间缺少批量操作功能（全选上传/移除）、图片查看需逐个确认、不支持左右滑动切换图片，导致操作繁琐效率低。",
+        "Actionable_Suggestion": "隐私空间增加全选/批量操作功能，优化图片查看方式支持滑动切换，并提高确认效率。"
+      },
+      {
+        "id": "com.tencent.mtthm_17",
+        "User_Pain_Point": "鸿蒙系统文件管理器缺少搜索功能。",
+        "Actionable_Suggestion": "在文件管理器中增加全局搜索功能，支持按文件名、类型搜索。"
+      },
+      {
+        "id": "com.tencent.mtthm_18",
+        "User_Pain_Point": "新版浏览器功能严重缩水，缺少菜单、工具箱、阅读模式等核心功能，用户无法自定义设置。",
+        "Actionable_Suggestion": "恢复旧版中的菜单、工具箱、阅读模式等常用功能，并保持设置的可定制性。"
+      },
+      {
+        "id": "com.tencent.mtthm_19",
+        "User_Pain_Point": "百宝箱插件功能不完整，大多数插件未上架，实际可用内容极少。",
+        "Actionable_Suggestion": "尽快完成百宝箱所有插件的上架工作，或明确上架时间表。"
+      },
+      {
+        "id": "com.tencent.mtthm_20",
+        "User_Pain_Point": "华为设备下载后没有扫描文件功能，用户表示疑惑。",
+        "Actionable_Suggestion": "添加扫描文件功能，支持文档扫描和识别。"
+      },
+      {
+        "id": "com.tencent.mtthm_21",
+        "User_Pain_Point": "文件搜索功能缺失",
+        "Actionable_Suggestion": "增加文件搜索功能"
+      },
+      {
+        "id": "com.tencent.mtthm_23",
+        "User_Pain_Point": "畅读模式缺失",
+        "Actionable_Suggestion": "恢复畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_23",
+        "User_Pain_Point": "清理缓存选项缺失",
+        "Actionable_Suggestion": "增加清理缓存选项"
+      },
+      {
+        "id": "com.tencent.mtthm_26",
+        "User_Pain_Point": "畅读模式缺失",
+        "Actionable_Suggestion": "尽快更新畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_27",
+        "User_Pain_Point": "视频格式转换功能缺失",
+        "Actionable_Suggestion": "增加视频格式转换功能"
+      },
+      {
+        "id": "com.tencent.mtthm_28",
+        "User_Pain_Point": "视频转格式功能缺失",
+        "Actionable_Suggestion": "恢复视频转格式功能"
+      },
+      {
+        "id": "com.tencent.mtthm_28",
+        "User_Pain_Point": "移动储存位置功能缺失",
+        "Actionable_Suggestion": "恢复移动储存位置功能"
+      },
+      {
+        "id": "com.tencent.mtthm_29",
+        "User_Pain_Point": "不支持m3u8转mp4格式",
+        "Actionable_Suggestion": "支持m3u8转mp4格式转换"
+      },
+      {
+        "id": "com.tencent.mtthm_30",
+        "User_Pain_Point": "m3u8转mp4功能不可用",
+        "Actionable_Suggestion": "恢复m3u8转mp4功能"
+      },
+      {
+        "id": "com.tencent.mtthm_31",
+        "User_Pain_Point": "文档转换中的在线文档无法转换，只有链接不可用",
+        "Actionable_Suggestion": "修复在线文档转换功能，确保链接可正常转换或提供其他方式"
+      },
+      {
+        "id": "com.tencent.mtthm_33",
+        "User_Pain_Point": "无法直接查看手机文件",
+        "Actionable_Suggestion": "增加手机文件直接浏览功能"
+      },
+      {
+        "id": "com.tencent.mtthm_33",
+        "User_Pain_Point": "没有私密空间功能",
+        "Actionable_Suggestion": "增加私密空间功能，允许用户加密存储文件"
+      },
+      {
+        "id": "com.tencent.mtthm_33",
+        "User_Pain_Point": "无法直接导入本地文件",
+        "Actionable_Suggestion": "增加本地文件导入功能，支持从手机存储直接选择文件"
+      },
+      {
+        "id": "com.tencent.mtthm_35",
+        "User_Pain_Point": "小说听书功能仅支持一种声音",
+        "Actionable_Suggestion": "增加多种语音选项，提供不同风格的朗读声音"
+      },
+      {
+        "id": "com.tencent.mtthm_36",
+        "User_Pain_Point": "缺少MEU38转mp4格式转换功能",
+        "Actionable_Suggestion": "增加MEU38到mp4的格式转换支持"
+      },
+      {
+        "id": "com.tencent.mtthm_38",
+        "User_Pain_Point": "小说无法观看",
+        "Actionable_Suggestion": "修复小说阅读功能，确保内容正常加载"
+      },
+      {
+        "id": "com.tencent.mtthm_39",
+        "User_Pain_Point": "扫码功能无法使用",
+        "Actionable_Suggestion": "修复扫码功能，确保摄像头正常工作"
+      },
+      {
+        "id": "com.tencent.mtthm_40",
+        "User_Pain_Point": "没有视频加密功能",
+        "Actionable_Suggestion": "增加视频文件加密功能，允许用户设置密码保护"
+      },
+      {
+        "id": "com.tencent.mtthm_42",
+        "User_Pain_Point": "输入IP地址不能访问，只能转到搜索",
+        "Actionable_Suggestion": "修复IP地址直接访问功能，允许用户输入IP地址直接打开网页"
+      },
+      {
+        "id": "com.tencent.mtthm_43",
+        "User_Pain_Point": "升级后私密文件只能看到，无法正常使用",
+        "Actionable_Suggestion": "完善私密文件功能，确保升级后私密文件可正常访问和操作"
+      },
+      {
+        "id": "com.tencent.mtthm_44",
+        "User_Pain_Point": "缺少听小说功能",
+        "Actionable_Suggestion": "增加听小说功能，支持语音朗读小说"
+      },
+      {
+        "id": "com.tencent.mtthm_45",
+        "User_Pain_Point": "无法查看CAD图dwg文件",
+        "Actionable_Suggestion": "增加dwg文件格式的查看支持"
+      },
+      {
+        "id": "com.tencent.mtthm_46",
+        "User_Pain_Point": "解压后的文件在华为手机上无法另存、无法查看保存路径",
+        "Actionable_Suggestion": "修复解压文件保存路径的可访问性，确保文件可被其他应用和文件管理器找到"
+      },
+      {
+        "id": "com.tencent.mtthm_47",
+        "User_Pain_Point": "畅读功能消失",
+        "Actionable_Suggestion": "恢复畅读功能，提供沉浸式阅读体验"
+      },
+      {
+        "id": "com.tencent.mtthm_49",
+        "User_Pain_Point": "缺少视频格式转换功能",
+        "Actionable_Suggestion": "增加视频格式转换功能，支持常见格式互转"
+      },
+      {
+        "id": "com.tencent.mtthm_50",
+        "User_Pain_Point": "切换出去后网页会话丢失，再打开时不是之前的页面",
+        "Actionable_Suggestion": "优化后台网页缓存，保持会话状态，确保返回时页面不丢失"
+      },
+      {
+        "id": "com.tencent.mtthm_51",
+        "User_Pain_Point": "无法压缩文件",
+        "Actionable_Suggestion": "恢复文件压缩功能，或提供替代的压缩方案。"
+      },
+      {
+        "id": "com.tencent.mtthm_54",
+        "User_Pain_Point": "缺少.m3u8视频文件转mp4视频文件功能",
+        "Actionable_Suggestion": "增加视频格式转换功能，支持常见格式如m3u8转mp4。"
+      },
+      {
+        "id": "com.tencent.mtthm_55",
+        "User_Pain_Point": "鸿蒙版文件编辑功能缺失，合同盖章不便",
+        "Actionable_Suggestion": "恢复文件编辑中的盖章等常用功能，或提供第三方编辑工具集成。"
+      },
+      {
+        "id": "com.tencent.mtthm_56",
+        "User_Pain_Point": "缺少私密空间，无法移动文件到私密空间",
+        "Actionable_Suggestion": "增加私密空间功能，允许用户将文件移入私密区域。"
+      },
+      {
+        "id": "com.tencent.mtthm_57",
+        "User_Pain_Point": "查看文件没有阅读功能",
+        "Actionable_Suggestion": "恢复文件阅读功能，支持常见文档格式的阅读。"
+      },
+      {
+        "id": "com.tencent.mtthm_58",
+        "User_Pain_Point": "找不到文库功能",
+        "Actionable_Suggestion": "恢复文库入口或提供搜索结果中显示文库内容。"
+      },
+      {
+        "id": "com.tencent.mtthm_59",
+        "User_Pain_Point": "浏览器扫二维码功能消失",
+        "Actionable_Suggestion": "恢复浏览器内的扫码功能，或提供快捷方式启动扫码。"
+      },
+      {
+        "id": "com.tencent.mtthm_60",
+        "User_Pain_Point": "新款手机听电子书只有女音",
+        "Actionable_Suggestion": "增加多种语音选项，让用户可以选择喜欢的语音。"
+      },
+      {
+        "id": "com.tencent.mtthm_61",
+        "User_Pain_Point": "m3u8视频格式转mp4功能缺失",
+        "Actionable_Suggestion": "尽快增加m3u8转mp4功能"
+      },
+      {
+        "id": "com.tencent.mtthm_62",
+        "User_Pain_Point": "私密空间无法添加文件",
+        "Actionable_Suggestion": "修复私密空间添加文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_63",
+        "User_Pain_Point": "不能新建Word、PDF等文件",
+        "Actionable_Suggestion": "恢复新建Word/PDF文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_66",
+        "User_Pain_Point": "不能查看图纸",
+        "Actionable_Suggestion": "恢复图纸查看功能"
+      },
+      {
+        "id": "com.tencent.mtthm_67",
+        "User_Pain_Point": "缺少畅读模式",
+        "Actionable_Suggestion": "增加畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_68",
+        "User_Pain_Point": "缺少畅读模式，打开txt文件麻烦",
+        "Actionable_Suggestion": "增加畅读模式，优化txt打开方式"
+      },
+      {
+        "id": "com.tencent.mtthm_68",
+        "User_Pain_Point": "无法搜索文件",
+        "Actionable_Suggestion": "增加文件搜索功能"
+      },
+      {
+        "id": "com.tencent.mtthm_71",
+        "User_Pain_Point": "缺少快连功能，使用不方便。",
+        "Actionable_Suggestion": "添加快连功能，方便用户快速连接。"
+      },
+      {
+        "id": "com.tencent.mtthm_73",
+        "User_Pain_Point": "文件重命名功能缺失，无法重命名文件。",
+        "Actionable_Suggestion": "恢复文件重命名功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_74",
+        "User_Pain_Point": "无法打开文件夹，使用受限。",
+        "Actionable_Suggestion": "修复打开文件夹的功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_75",
+        "User_Pain_Point": "缺少扫二维码功能，无法使用。",
+        "Actionable_Suggestion": "增加扫二维码功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_76",
+        "User_Pain_Point": "没有听书功能，用户不满意。",
+        "Actionable_Suggestion": "增加听书功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_77",
+        "User_Pain_Point": "缺乏听书功能，否则将卸载应用。",
+        "Actionable_Suggestion": "增加听书功能以满足用户需求。"
+      },
+      {
+        "id": "com.tencent.mtthm_78",
+        "User_Pain_Point": "没有标签模式，与日常浏览器差距大，使用不便。",
+        "Actionable_Suggestion": "增加标签模式，提升浏览器体验。"
+      },
+      {
+        "id": "com.tencent.mtthm_79",
+        "User_Pain_Point": "不能新建文件，找不到新建按钮。",
+        "Actionable_Suggestion": "恢复新建文件功能，并明确新建按钮位置。"
+      },
+      {
+        "id": "com.tencent.mtthm_80",
+        "User_Pain_Point": "新建文档功能缺失，用户期待恢复。",
+        "Actionable_Suggestion": "恢复新建文档功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_81",
+        "User_Pain_Point": "没有标签页模式",
+        "Actionable_Suggestion": "添加标签页模式"
+      },
+      {
+        "id": "com.tencent.mtthm_82",
+        "User_Pain_Point": "缺少阅读模式",
+        "Actionable_Suggestion": "增加阅读模式功能"
+      },
+      {
+        "id": "com.tencent.mtthm_83",
+        "User_Pain_Point": "Flash动画不能显示",
+        "Actionable_Suggestion": "支持Flash动画显示"
+      },
+      {
+        "id": "com.tencent.mtthm_84",
+        "User_Pain_Point": "什么都能看，内容杂乱或不够专注",
+        "Actionable_Suggestion": "优化内容分类或筛选功能"
+      },
+      {
+        "id": "com.tencent.mtthm_85",
+        "User_Pain_Point": "私密空间不能删除东西",
+        "Actionable_Suggestion": "允许在私密空间中删除文件"
+      },
+      {
+        "id": "com.tencent.mtthm_86",
+        "User_Pain_Point": "小说听书声音无法切换",
+        "Actionable_Suggestion": "提供听书声音切换选项"
+      },
+      {
+        "id": "com.tencent.mtthm_88",
+        "User_Pain_Point": "缺少云盘功能",
+        "Actionable_Suggestion": "增加云盘功能"
+      },
+      {
+        "id": "com.tencent.mtthm_89",
+        "User_Pain_Point": "好多功能没有了，之前的文件也找不到了",
+        "Actionable_Suggestion": "恢复缺失功能并修复文件丢失问题"
+      },
+      {
+        "id": "com.tencent.mtthm_90",
+        "User_Pain_Point": "版本更新后新创建文件功能缺失",
+        "Actionable_Suggestion": "恢复新创建文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_91",
+        "User_Pain_Point": "私密空间的照片无法导出",
+        "Actionable_Suggestion": "增加私密空间照片导出功能"
+      },
+      {
+        "id": "com.tencent.mtthm_92",
+        "User_Pain_Point": "无法打开畅读卡",
+        "Actionable_Suggestion": "修复畅读卡打开功能"
+      },
+      {
+        "id": "com.tencent.mtthm_93",
+        "User_Pain_Point": "扫码功能缺失",
+        "Actionable_Suggestion": "恢复扫码功能"
+      },
+      {
+        "id": "com.tencent.mtthm_95",
+        "User_Pain_Point": "文件解压功能缺失",
+        "Actionable_Suggestion": "添加文件解压功能"
+      },
+      {
+        "id": "com.tencent.mtthm_96",
+        "User_Pain_Point": "文件重命名功能被移除",
+        "Actionable_Suggestion": "恢复文件重命名功能"
+      },
+      {
+        "id": "com.tencent.mtthm_97",
+        "User_Pain_Point": "无法查看图纸文件",
+        "Actionable_Suggestion": "添加图纸文件查看支持"
+      },
+      {
+        "id": "com.tencent.mtthm_98",
+        "User_Pain_Point": "文件格式转换、阅读模式、文件管理、本地小说听书等功能缺失",
+        "Actionable_Suggestion": "逐步恢复或改进这些功能"
+      },
+      {
+        "id": "com.tencent.mtthm_99",
+        "User_Pain_Point": "点击文件无跳转反应",
+        "Actionable_Suggestion": "修复文件点击跳转功能"
+      },
+      {
+        "id": "com.tencent.mtthm_100",
+        "User_Pain_Point": "小说听书语音种类太少",
+        "Actionable_Suggestion": "增加更多语音选项"
+      },
+      {
+        "id": "com.tencent.mtthm_101",
+        "User_Pain_Point": "分享图片功能缺失或无法使用",
+        "Actionable_Suggestion": "增加或优化分享图片功能"
+      },
+      {
+        "id": "com.tencent.mtthm_102",
+        "User_Pain_Point": "不能创建文件，只能查看已有文件",
+        "Actionable_Suggestion": "恢复文件创建功能"
+      },
+      {
+        "id": "com.tencent.mtthm_103",
+        "User_Pain_Point": "无法查看网页小说",
+        "Actionable_Suggestion": "支持网页小说阅读"
+      },
+      {
+        "id": "com.tencent.mtthm_104",
+        "User_Pain_Point": "文件功能缺失，没有生成压缩包功能",
+        "Actionable_Suggestion": "恢复文件相关功能，增加压缩包生成"
+      },
+      {
+        "id": "com.tencent.mtthm_105",
+        "User_Pain_Point": "实用工具找不到",
+        "Actionable_Suggestion": "恢复实用工具或优化入口"
+      },
+      {
+        "id": "com.tencent.mtthm_106",
+        "User_Pain_Point": "无法打开CAD图纸，缺少插件",
+        "Actionable_Suggestion": "增加CAD图纸支持及所需插件"
+      },
+      {
+        "id": "com.tencent.mtthm_107",
+        "User_Pain_Point": "文件不能重命名",
+        "Actionable_Suggestion": "增加文件重命名功能"
+      },
+      {
+        "id": "com.tencent.mtthm_108",
+        "User_Pain_Point": "文档编辑功能找不到",
+        "Actionable_Suggestion": "恢复文档编辑功能"
+      },
+      {
+        "id": "com.tencent.mtthm_109",
+        "User_Pain_Point": "找不到小云盘",
+        "Actionable_Suggestion": "恢复小云盘入口"
+      },
+      {
+        "id": "com.tencent.mtthm_110",
+        "User_Pain_Point": "无法授权QQ文件",
+        "Actionable_Suggestion": "解决QQ文件授权问题"
+      },
+      {
+        "id": "com.tencent.mtthm_111",
+        "User_Pain_Point": "缺少打印功能",
+        "Actionable_Suggestion": "增加打印功能"
+      },
+      {
+        "id": "com.tencent.mtthm_112",
+        "User_Pain_Point": "文件工具功能缺失，如格式转换、文件加密、文件编辑等",
+        "Actionable_Suggestion": "完善文件工具功能，恢复格式转换、文件加密、文件编辑等"
+      },
+      {
+        "id": "com.tencent.mtthm_113",
+        "User_Pain_Point": "文档中无法插入图片",
+        "Actionable_Suggestion": "增加文档插入图片功能"
+      },
+      {
+        "id": "com.tencent.mtthm_116",
+        "User_Pain_Point": "小说无法同步安卓的听书三倍速",
+        "Actionable_Suggestion": "增加听书三倍速功能并同步"
+      },
+      {
+        "id": "com.tencent.mtthm_118",
+        "User_Pain_Point": "缺少网页看小说功能",
+        "Actionable_Suggestion": "增加网页看小说功能"
+      },
+      {
+        "id": "com.tencent.mtthm_120",
+        "User_Pain_Point": "畅读功能消失，需要更新版本支持微信和QQ",
+        "Actionable_Suggestion": "恢复畅读功能，更新版本"
+      },
+      {
+        "id": "com.tencent.mtthm_122",
+        "User_Pain_Point": "只剩搜索功能了，其他功能缺失",
+        "Actionable_Suggestion": "恢复除搜索外的其他核心功能，如文件管理、浏览等"
+      },
+      {
+        "id": "com.tencent.mtthm_123",
+        "User_Pain_Point": "没法新建文档",
+        "Actionable_Suggestion": "增加新建文档功能"
+      },
+      {
+        "id": "com.tencent.mtthm_124",
+        "User_Pain_Point": "全部功能都没有，更新后无变化",
+        "Actionable_Suggestion": "全面恢复浏览器功能，并确保更新后功能正常"
+      },
+      {
+        "id": "com.tencent.mtthm_124",
+        "User_Pain_Point": "没有热点热榜",
+        "Actionable_Suggestion": "增加热点热榜功能"
+      },
+      {
+        "id": "com.tencent.mtthm_124",
+        "User_Pain_Point": "没有设置内容",
+        "Actionable_Suggestion": "恢复设置内容入口"
+      },
+      {
+        "id": "com.tencent.mtthm_124",
+        "User_Pain_Point": "没有AI功能",
+        "Actionable_Suggestion": "增加AI辅助功能"
+      },
+      {
+        "id": "com.tencent.mtthm_125",
+        "User_Pain_Point": "云盘和解压文件功能缺失",
+        "Actionable_Suggestion": "恢复云盘和解压文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_126",
+        "User_Pain_Point": "创建文件功能没了",
+        "Actionable_Suggestion": "恢复创建文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_127",
+        "User_Pain_Point": "听书不能换声音",
+        "Actionable_Suggestion": "增加听书多声音切换功能"
+      },
+      {
+        "id": "com.tencent.mtthm_128",
+        "User_Pain_Point": "无法新建文件",
+        "Actionable_Suggestion": "修复新建文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_129",
+        "User_Pain_Point": "图片无法点进去查看，左右滑动查看其他图片功能也没有",
+        "Actionable_Suggestion": "恢复图片点击查看及左右滑动切换功能"
+      },
+      {
+        "id": "com.tencent.mtthm_130",
+        "User_Pain_Point": "下载的资源全部失效，需重新下载",
+        "Actionable_Suggestion": "修复资源下载链接有效性"
+      },
+      {
+        "id": "com.tencent.mtthm_131",
+        "User_Pain_Point": "小说阅读情景选项缺失",
+        "Actionable_Suggestion": "恢复小说阅读情景选项"
+      },
+      {
+        "id": "com.tencent.mtthm_132",
+        "User_Pain_Point": "图片转PDF功能缺失",
+        "Actionable_Suggestion": "恢复图片转PDF功能"
+      },
+      {
+        "id": "com.tencent.mtthm_133",
+        "User_Pain_Point": "读本地书功能缺失",
+        "Actionable_Suggestion": "尽快添加读本地书功能"
+      },
+      {
+        "id": "com.tencent.mtthm_134",
+        "User_Pain_Point": "无法新建文件夹或文件",
+        "Actionable_Suggestion": "恢复新建文件夹/文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_135",
+        "User_Pain_Point": "视频格式转换、扫描等核心功能缺失",
+        "Actionable_Suggestion": "增加视频格式转换和扫描功能"
+      },
+      {
+        "id": "com.tencent.mtthm_136",
+        "User_Pain_Point": "文档创建、回收站等功能缺失",
+        "Actionable_Suggestion": "恢复文档创建和回收站功能"
+      },
+      {
+        "id": "com.tencent.mtthm_137",
+        "User_Pain_Point": "下载的视频不能分享，不能转mp4格式",
+        "Actionable_Suggestion": "支持视频分享和转mp4格式"
+      },
+      {
+        "id": "com.tencent.mtthm_138",
+        "User_Pain_Point": "视频转换功能缺失",
+        "Actionable_Suggestion": "恢复视频转换功能"
+      },
+      {
+        "id": "com.tencent.mtthm_139",
+        "User_Pain_Point": "下载的视频播放不了，且m3u8格式无法转换",
+        "Actionable_Suggestion": "修复视频播放兼容性并支持m3u8格式转换"
+      },
+      {
+        "id": "com.tencent.mtthm_140",
+        "User_Pain_Point": "导入本地小说和朗读功能缺失",
+        "Actionable_Suggestion": "恢复导入本地小说和朗读功能"
+      },
+      {
+        "id": "com.tencent.mtthm_141",
+        "User_Pain_Point": "文件转化和视频转化功能未上线",
+        "Actionable_Suggestion": "添加文件转化和视频转化功能"
+      },
+      {
+        "id": "com.tencent.mtthm_142",
+        "User_Pain_Point": "文件无法同步图图",
+        "Actionable_Suggestion": "优化文件同步功能"
+      },
+      {
+        "id": "com.tencent.mtthm_143",
+        "User_Pain_Point": "小说畅读模式没有了",
+        "Actionable_Suggestion": "恢复小说畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_147",
+        "User_Pain_Point": "更新后听书声音更换，使用不便",
+        "Actionable_Suggestion": "恢复或优化听书功能"
+      },
+      {
+        "id": "com.tencent.mtthm_148",
+        "User_Pain_Point": "M3u8直接转MP4功能没有了",
+        "Actionable_Suggestion": "恢复M3u8转MP4功能"
+      },
+      {
+        "id": "com.tencent.mtthm_149",
+        "User_Pain_Point": "新版本隐私空间功能消失",
+        "Actionable_Suggestion": "恢复隐私空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_149",
+        "User_Pain_Point": "收藏的地址无法编辑名称",
+        "Actionable_Suggestion": "增加收藏地址编辑名称功能"
+      },
+      {
+        "id": "com.tencent.mtthm_150",
+        "User_Pain_Point": "鸿蒙版未同步安卓版的m3u8转mp4功能",
+        "Actionable_Suggestion": "鸿蒙版尽快跟进该功能"
+      },
+      {
+        "id": "com.tencent.mtthm_151",
+        "User_Pain_Point": "工具不见了",
+        "Actionable_Suggestion": "恢复或增加工具功能入口"
+      },
+      {
+        "id": "com.tencent.mtthm_151",
+        "User_Pain_Point": "听小说不能更换掉讨厌的女声",
+        "Actionable_Suggestion": "增加多种听书声音选择功能"
+      },
+      {
+        "id": "com.tencent.mtthm_152",
+        "User_Pain_Point": "扫码功能缺失",
+        "Actionable_Suggestion": "增加扫码功能"
+      },
+      {
+        "id": "com.tencent.mtthm_153",
+        "User_Pain_Point": "浏览器数据占用大且无清理选项",
+        "Actionable_Suggestion": "提供数据清理功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "不能压缩文件",
+        "Actionable_Suggestion": "增加文件压缩功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "不能新建文档",
+        "Actionable_Suggestion": "增加新建文档功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "不能扫码",
+        "Actionable_Suggestion": "增加扫码功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "不能投屏",
+        "Actionable_Suggestion": "增加投屏功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "没有游戏板块",
+        "Actionable_Suggestion": "增加游戏板块"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "没有浏览记录",
+        "Actionable_Suggestion": "增加浏览记录功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "没有打印机选项",
+        "Actionable_Suggestion": "增加打印机选项"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "没有新闻推送",
+        "Actionable_Suggestion": "增加新闻推送功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "没有小说的畅读模式、评论区",
+        "Actionable_Suggestion": "增加小说畅读模式和评论区"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "没有记笔记功能",
+        "Actionable_Suggestion": "增加记笔记功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "不能读取文件",
+        "Actionable_Suggestion": "增加文件读取功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "文件管理不能多选分享多张图片",
+        "Actionable_Suggestion": "优化文件管理多选分享图片功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "没有文件查找功能",
+        "Actionable_Suggestion": "增加文件查找功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "不支持打卡CAD图纸",
+        "Actionable_Suggestion": "增加CAD图纸支持"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "更改不了文件名",
+        "Actionable_Suggestion": "增加文件名修改功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "没有小云盘",
+        "Actionable_Suggestion": "增加小云盘功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "不能编辑、分享文件",
+        "Actionable_Suggestion": "增加文件编辑和分享功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "flash动画不能显示",
+        "Actionable_Suggestion": "优化flash动画显示或提供替代方案"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "小说不能自动翻页",
+        "Actionable_Suggestion": "增加小说自动翻页功能"
+      },
+      {
+        "id": "com.tencent.mtthm_154",
+        "User_Pain_Point": "听书声音只有一个女声，希望增加其他声音",
+        "Actionable_Suggestion": "增加多种听书声音选择"
+      },
+      {
+        "id": "com.tencent.mtthm_155",
+        "User_Pain_Point": "听书功能无法选择声音类型，只有默认女声",
+        "Actionable_Suggestion": "恢复或增加听书声音类型选择功能"
+      },
+      {
+        "id": "com.tencent.mtthm_156",
+        "User_Pain_Point": "网页小说和本地文本小说无法畅读听说",
+        "Actionable_Suggestion": "完善畅读听说功能"
+      },
+      {
+        "id": "com.tencent.mtthm_157",
+        "User_Pain_Point": "小说广告遮挡文字",
+        "Actionable_Suggestion": "优化广告展示位置，避免遮挡文字"
+      },
+      {
+        "id": "com.tencent.mtthm_159",
+        "User_Pain_Point": "没有游戏板块，礼包无法领取",
+        "Actionable_Suggestion": "增加游戏板块并修复礼包领取功能"
+      },
+      {
+        "id": "com.tencent.mtthm_160",
+        "User_Pain_Point": "不能压缩文件",
+        "Actionable_Suggestion": "增加文件压缩功能"
+      },
+      {
+        "id": "com.tencent.mtthm_160",
+        "User_Pain_Point": "不能新建文档",
+        "Actionable_Suggestion": "增加新建文档功能"
+      },
+      {
+        "id": "com.tencent.mtthm_162",
+        "User_Pain_Point": "浏览器文件中缺少搜索功能，查找文件不便",
+        "Actionable_Suggestion": "在浏览器文件中增加搜索功能"
+      },
+      {
+        "id": "com.tencent.mtthm_164",
+        "User_Pain_Point": "扫码功能不见了",
+        "Actionable_Suggestion": "恢复扫码功能或优化入口"
+      },
+      {
+        "id": "com.tencent.mtthm_165",
+        "User_Pain_Point": "无法看电影和投屏",
+        "Actionable_Suggestion": "修复电影播放和投屏功能"
+      },
+      {
+        "id": "com.tencent.mtthm_166",
+        "User_Pain_Point": "文件格式转换缺少高清图选项，转换图片模糊，影响会员体验",
+        "Actionable_Suggestion": "恢复高清图选项，保证转换质量"
+      },
+      {
+        "id": "com.tencent.mtthm_167",
+        "User_Pain_Point": "电气原理图跳转功能缺失",
+        "Actionable_Suggestion": "恢复原理图跳转功能"
+      },
+      {
+        "id": "com.tencent.mtthm_168",
+        "User_Pain_Point": "小说朗读只有单一女声，声音单调",
+        "Actionable_Suggestion": "增加多种朗读人声"
+      },
+      {
+        "id": "com.tencent.mtthm_169",
+        "User_Pain_Point": "读取文件功能消失，迁移的数据无法使用",
+        "Actionable_Suggestion": "恢复文件读取功能"
+      },
+      {
+        "id": "com.tencent.mtthm_170",
+        "User_Pain_Point": "缺少浏览记录功能",
+        "Actionable_Suggestion": "增加浏览记录功能"
+      },
+      {
+        "id": "com.tencent.mtthm_171",
+        "User_Pain_Point": "希望尽快上架元宝",
+        "Actionable_Suggestion": "优先排期开发元宝功能，并尽快上架应用市场"
+      },
+      {
+        "id": "com.tencent.mtthm_172",
+        "User_Pain_Point": "扫码功能缺失",
+        "Actionable_Suggestion": "恢复扫码功能，确保正常使用"
+      },
+      {
+        "id": "com.tencent.mtthm_173",
+        "User_Pain_Point": "图片压缩小工具被移除",
+        "Actionable_Suggestion": "恢复图片压缩小工具，或提供替代方案"
+      },
+      {
+        "id": "com.tencent.mtthm_174",
+        "User_Pain_Point": "听书体验不好",
+        "Actionable_Suggestion": "优化听书功能，提升语音合成质量和播放稳定性"
+      },
+      {
+        "id": "com.tencent.mtthm_177",
+        "User_Pain_Point": "看不了新闻",
+        "Actionable_Suggestion": "修复新闻浏览功能，确保与旧版本一致"
+      },
+      {
+        "id": "com.tencent.mtthm_178",
+        "User_Pain_Point": "缺少本地文件管理功能",
+        "Actionable_Suggestion": "增加本地文件管理功能，或优化与系统文件管理的集成"
+      },
+      {
+        "id": "com.tencent.mtthm_180",
+        "User_Pain_Point": "听书只有女声，缺少男声选项",
+        "Actionable_Suggestion": "增加男声语音库，提供多种语音选择"
+      },
+      {
+        "id": "com.tencent.mtthm_181",
+        "User_Pain_Point": "小说文档听书功能被移除",
+        "Actionable_Suggestion": "恢复小说文档听书功能"
+      },
+      {
+        "id": "com.tencent.mtthm_181",
+        "User_Pain_Point": "网页畅读模式被移除",
+        "Actionable_Suggestion": "恢复网页畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_183",
+        "User_Pain_Point": "扫一扫功能被移除",
+        "Actionable_Suggestion": "添加扫一扫功能"
+      },
+      {
+        "id": "com.tencent.mtthm_184",
+        "User_Pain_Point": "小说缺少畅读模式",
+        "Actionable_Suggestion": "添加畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_184",
+        "User_Pain_Point": "听书只有女声，缺少其他声音选项",
+        "Actionable_Suggestion": "增加听书声音选项（如男声）"
+      },
+      {
+        "id": "com.tencent.mtthm_185",
+        "User_Pain_Point": "新闻推送功能被放弃",
+        "Actionable_Suggestion": "恢复新闻推送功能"
+      },
+      {
+        "id": "com.tencent.mtthm_186",
+        "User_Pain_Point": "浏览器主页显示被移除",
+        "Actionable_Suggestion": "恢复主页显示功能"
+      },
+      {
+        "id": "com.tencent.mtthm_187",
+        "User_Pain_Point": "听书人声选项太少",
+        "Actionable_Suggestion": "增加听书人声选项"
+      },
+      {
+        "id": "com.tencent.mtthm_189",
+        "User_Pain_Point": "浏览器页面显示异常，只有一个页面",
+        "Actionable_Suggestion": "修复浏览器页面显示逻辑，支持多页面或正常主页"
+      },
+      {
+        "id": "com.tencent.mtthm_190",
+        "User_Pain_Point": "投屏按钮被移除，不能直接投屏",
+        "Actionable_Suggestion": "在鸿蒙6版本中添加投屏按钮"
+      },
+      {
+        "id": "com.tencent.mtthm_191",
+        "User_Pain_Point": "AI功能强制使用，无法切回老版本模式",
+        "Actionable_Suggestion": "增加模式切换选项，允许用户选择是否开启AI功能，或保留经典模式"
+      },
+      {
+        "id": "com.tencent.mtthm_192",
+        "User_Pain_Point": "之前分类好的文件夹分类丢失，无法整理文件",
+        "Actionable_Suggestion": "恢复文件夹分类功能，并优化文件管理布局"
+      },
+      {
+        "id": "com.tencent.mtthm_192",
+        "User_Pain_Point": "文件无法搜索，全部罗列导致使用困难",
+        "Actionable_Suggestion": "增加文件搜索功能，支持按名称、类型等检索"
+      },
+      {
+        "id": "com.tencent.mtthm_193",
+        "User_Pain_Point": "阅读功能中声音选择减少，不如以前",
+        "Actionable_Suggestion": "恢复并增加阅读声音选项，提供更多语音选择"
+      },
+      {
+        "id": "com.tencent.mtthm_195",
+        "User_Pain_Point": "小说不支持听书功能，阅读不便",
+        "Actionable_Suggestion": "增加听书功能，支持语音朗读小说"
+      },
+      {
+        "id": "com.tencent.mtthm_195",
+        "User_Pain_Point": "小说阅读时不支持自动转换电子书模式",
+        "Actionable_Suggestion": "增加自动转换电子书模式功能，提升阅读体验"
+      },
+      {
+        "id": "com.tencent.mtthm_197",
+        "User_Pain_Point": "文件无法查找",
+        "Actionable_Suggestion": "增加文件搜索功能，支持全文搜索和过滤"
+      },
+      {
+        "id": "com.tencent.mtthm_199",
+        "User_Pain_Point": "缺少必要插件，无法查看图纸",
+        "Actionable_Suggestion": "尽快开发并更新支持图纸查看的插件"
+      },
+      {
+        "id": "com.tencent.mtthm_201",
+        "User_Pain_Point": "编辑文件功能缺失",
+        "Actionable_Suggestion": "恢复编辑文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_203",
+        "User_Pain_Point": "下载文件位置不明，无法直接在浏览器中打开",
+        "Actionable_Suggestion": "优化下载管理，下载后可直接打开文件或视频"
+      },
+      {
+        "id": "com.tencent.mtthm_204",
+        "User_Pain_Point": "缺少打印机选项",
+        "Actionable_Suggestion": "增加打印功能"
+      },
+      {
+        "id": "com.tencent.mtthm_205",
+        "User_Pain_Point": "不能编辑文件，文件选择困难",
+        "Actionable_Suggestion": "恢复编辑功能，优化文件选择界面"
+      },
+      {
+        "id": "com.tencent.mtthm_206",
+        "User_Pain_Point": "无法直接生成PDF格式后进行分享",
+        "Actionable_Suggestion": "增加生成PDF并分享的功能"
+      },
+      {
+        "id": "com.tencent.mtthm_207",
+        "User_Pain_Point": "不能多选分享多张图片",
+        "Actionable_Suggestion": "增加多选分享图片功能，加快适配"
+      },
+      {
+        "id": "com.tencent.mtthm_208",
+        "User_Pain_Point": "复制链接无法直接访问，被强制搜索",
+        "Actionable_Suggestion": "修复链接访问逻辑，允许直接访问"
+      },
+      {
+        "id": "com.tencent.mtthm_209",
+        "User_Pain_Point": "扫描、翻译等功能消失，新闻页面和账号丢失",
+        "Actionable_Suggestion": "恢复旧版功能，解决账号和数据问题"
+      },
+      {
+        "id": "com.tencent.mtthm_210",
+        "User_Pain_Point": "不支持打开CAD图纸",
+        "Actionable_Suggestion": "增加CAD图纸支持"
+      },
+      {
+        "id": "com.tencent.mtthm_211",
+        "User_Pain_Point": "用户找不到腾讯王卡免流设置入口。",
+        "Actionable_Suggestion": "在设置中增加免流设置入口或提供引导。"
+      },
+      {
+        "id": "com.tencent.mtthm_212",
+        "User_Pain_Point": "用户不知道如何删除隐私空间的文件。",
+        "Actionable_Suggestion": "增加删除操作的提示或教程。"
+      },
+      {
+        "id": "com.tencent.mtthm_214",
+        "User_Pain_Point": "更新后界面无画面显示。",
+        "Actionable_Suggestion": "修复更新后界面显示问题。"
+      },
+      {
+        "id": "com.tencent.mtthm_216",
+        "User_Pain_Point": "隐私空间文件无法取出。",
+        "Actionable_Suggestion": "修复隐私空间文件取出功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_217",
+        "User_Pain_Point": "找书不方便。",
+        "Actionable_Suggestion": "优化搜索和推荐功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_217",
+        "User_Pain_Point": "评论看不到。",
+        "Actionable_Suggestion": "修复或优化评论显示功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_217",
+        "User_Pain_Point": "书架不能整理。",
+        "Actionable_Suggestion": "增加书架整理功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_219",
+        "User_Pain_Point": "更新后收藏只能删除，无法修改名字。",
+        "Actionable_Suggestion": "恢复收藏的改名功能或增加编辑选项。"
+      },
+      {
+        "id": "com.tencent.mtthm_220",
+        "User_Pain_Point": "鸿蒙版功能照比安卓版差很多。",
+        "Actionable_Suggestion": "参照安卓版完善功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_220",
+        "User_Pain_Point": "隐私空间没有密码设置。",
+        "Actionable_Suggestion": "增加隐私空间密码设置。"
+      },
+      {
+        "id": "com.tencent.mtthm_221",
+        "User_Pain_Point": "新版本无法修改文件名",
+        "Actionable_Suggestion": "恢复文件重命名功能"
+      },
+      {
+        "id": "com.tencent.mtthm_222",
+        "User_Pain_Point": "不能将小说设为起始页",
+        "Actionable_Suggestion": "增加设置小说为起始页的选项"
+      },
+      {
+        "id": "com.tencent.mtthm_223",
+        "User_Pain_Point": "文件修改无法重命名",
+        "Actionable_Suggestion": "恢复文件重命名功能"
+      },
+      {
+        "id": "com.tencent.mtthm_224",
+        "User_Pain_Point": "小说书架不能直接进入，更新看不到",
+        "Actionable_Suggestion": "优化书架入口与更新提示"
+      },
+      {
+        "id": "com.tencent.mtthm_225",
+        "User_Pain_Point": "自动阅读功能消失",
+        "Actionable_Suggestion": "恢复自动阅读功能"
+      },
+      {
+        "id": "com.tencent.mtthm_225",
+        "User_Pain_Point": "听书只有一种女声，无法选择其他音色",
+        "Actionable_Suggestion": "增加多种听书音色选择"
+      },
+      {
+        "id": "com.tencent.mtthm_226",
+        "User_Pain_Point": "缺少全屏功能",
+        "Actionable_Suggestion": "增加全屏模式"
+      },
+      {
+        "id": "com.tencent.mtthm_227",
+        "User_Pain_Point": "无法查看CAD图",
+        "Actionable_Suggestion": "支持CAD图查看"
+      },
+      {
+        "id": "com.tencent.mtthm_228",
+        "User_Pain_Point": "无法设置听书音色",
+        "Actionable_Suggestion": "恢复听书音色设置功能"
+      },
+      {
+        "id": "com.tencent.mtthm_229",
+        "User_Pain_Point": "小云盘功能缺失",
+        "Actionable_Suggestion": "恢复小云盘功能"
+      },
+      {
+        "id": "com.tencent.mtthm_231",
+        "User_Pain_Point": "书签功能丢失，找不到书签",
+        "Actionable_Suggestion": "恢复书签功能"
+      },
+      {
+        "id": "com.tencent.mtthm_232",
+        "User_Pain_Point": "更新后无法正常使用，基本操作失效",
+        "Actionable_Suggestion": "修复功能问题，恢复基本操作"
+      },
+      {
+        "id": "com.tencent.mtthm_233",
+        "User_Pain_Point": "升级后体验下降，不如之前",
+        "Actionable_Suggestion": "优化升级质量，或提供回退版本"
+      },
+      {
+        "id": "com.tencent.mtthm_234",
+        "User_Pain_Point": "缺少网页畅读模式",
+        "Actionable_Suggestion": "增加畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_234",
+        "User_Pain_Point": "朗读语音只有女生，选择单一",
+        "Actionable_Suggestion": "增加多种语音选项，包括男声"
+      },
+      {
+        "id": "com.tencent.mtthm_234",
+        "User_Pain_Point": "老版小说功能缺失，不如以前好用",
+        "Actionable_Suggestion": "恢复老版小说功能"
+      },
+      {
+        "id": "com.tencent.mtthm_235",
+        "User_Pain_Point": "小说阅读语音女声太僵硬，接受不了",
+        "Actionable_Suggestion": "增加男声语音包或自定义语音选项"
+      },
+      {
+        "id": "com.tencent.mtthm_236",
+        "User_Pain_Point": "缺少网页畅读模式",
+        "Actionable_Suggestion": "增加畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_236",
+        "User_Pain_Point": "下载的电子书听书功能不好用或缺失",
+        "Actionable_Suggestion": "优化电子书听书功能"
+      },
+      {
+        "id": "com.tencent.mtthm_236",
+        "User_Pain_Point": "之前的表格、文件功能都没有了",
+        "Actionable_Suggestion": "恢复表格和文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_237",
+        "User_Pain_Point": "首页新闻入口消失",
+        "Actionable_Suggestion": "恢复首页新闻内容"
+      },
+      {
+        "id": "com.tencent.mtthm_238",
+        "User_Pain_Point": "缺少记笔记功能",
+        "Actionable_Suggestion": "增加记笔记功能"
+      },
+      {
+        "id": "com.tencent.mtthm_239",
+        "User_Pain_Point": "小说不能自动翻页",
+        "Actionable_Suggestion": "恢复自动翻页功能"
+      },
+      {
+        "id": "com.tencent.mtthm_239",
+        "User_Pain_Point": "小说模式消失",
+        "Actionable_Suggestion": "恢复小说模式"
+      },
+      {
+        "id": "com.tencent.mtthm_240",
+        "User_Pain_Point": "阅读历史无法删除",
+        "Actionable_Suggestion": "增加删除阅读历史功能"
+      },
+      {
+        "id": "com.tencent.mtthm_241",
+        "User_Pain_Point": "听书语音无法选择，固定模板声音难听，不如以前好用。",
+        "Actionable_Suggestion": "恢复听书语音选择功能，提供多种语音模板。"
+      },
+      {
+        "id": "com.tencent.mtthm_242",
+        "User_Pain_Point": "听书功能无法使用，声音不能选择。",
+        "Actionable_Suggestion": "修复听书功能，允许用户选择语音。"
+      },
+      {
+        "id": "com.tencent.mtthm_243",
+        "User_Pain_Point": "升级后推荐内容消失，小说删除必须逐个操作，阅读历史无法取消。",
+        "Actionable_Suggestion": "恢复推荐内容功能，增加批量删除小说功能，提供阅读历史清除选项。"
+      },
+      {
+        "id": "com.tencent.mtthm_244",
+        "User_Pain_Point": "首页直接进入AI，没有其他内容，不如原版有短视频。",
+        "Actionable_Suggestion": "优化首页布局，提供短视频与AI内容的平衡，或增加可配置选项。"
+      },
+      {
+        "id": "com.tencent.mtthm_245",
+        "User_Pain_Point": "QQ浏览器收藏功能无法拖动和编辑。",
+        "Actionable_Suggestion": "增加收藏夹拖动排序和编辑功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_246",
+        "User_Pain_Point": "小说评论区功能缺失。",
+        "Actionable_Suggestion": "尽快上线小说评论区功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_248",
+        "User_Pain_Point": "新闻内容无法查看。",
+        "Actionable_Suggestion": "修复新闻内容加载问题。"
+      },
+      {
+        "id": "com.tencent.mtthm_250",
+        "User_Pain_Point": "小说加载不出，无法阅读。",
+        "Actionable_Suggestion": "修复小说加载问题。"
+      },
+      {
+        "id": "com.tencent.mtthm_251",
+        "User_Pain_Point": "无法全屏播放网页和将收藏网址添加到主页",
+        "Actionable_Suggestion": "增加网页全屏显示和收藏网址到主页功能"
+      },
+      {
+        "id": "com.tencent.mtthm_252",
+        "User_Pain_Point": "缺少小云盘功能",
+        "Actionable_Suggestion": "增加小云盘功能"
+      },
+      {
+        "id": "com.tencent.mtthm_253",
+        "User_Pain_Point": "搜索页面无法关闭榜单",
+        "Actionable_Suggestion": "增加关闭榜单的选项"
+      },
+      {
+        "id": "com.tencent.mtthm_254",
+        "User_Pain_Point": "更新后全是AI升级，没有非AI版本",
+        "Actionable_Suggestion": "提供非AI升级版本选项"
+      },
+      {
+        "id": "com.tencent.mtthm_255",
+        "User_Pain_Point": "听书功能中人物声音选项消失，许多设置被移除",
+        "Actionable_Suggestion": "恢复人物声音选项和其他设置"
+      },
+      {
+        "id": "com.tencent.mtthm_256",
+        "User_Pain_Point": "文件管理和新建文档功能缺失，操作变得复杂",
+        "Actionable_Suggestion": "恢复文件管理和新建文档功能，简化操作"
+      },
+      {
+        "id": "com.tencent.mtthm_257",
+        "User_Pain_Point": "更新删除了新建文件功能",
+        "Actionable_Suggestion": "恢复新建文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_258",
+        "User_Pain_Point": "找不到推荐页面",
+        "Actionable_Suggestion": "添加推荐页面入口或恢复推荐页面"
+      },
+      {
+        "id": "com.tencent.mtthm_261",
+        "User_Pain_Point": "QQ浏览器鸿蒙版本功能阉割严重，尤其是听书功能不完善，与安卓版差距大。",
+        "Actionable_Suggestion": "加快鸿蒙QQ浏览器版本迭代，补充听书等缺失功能，使其功能对标安卓版本。"
+      },
+      {
+        "id": "com.tencent.mtthm_264",
+        "User_Pain_Point": "小说阅读功能缺失。",
+        "Actionable_Suggestion": "恢复小说阅读功能，确保用户能正常使用。"
+      },
+      {
+        "id": "com.tencent.mtthm_264",
+        "User_Pain_Point": "浏览器基本功能无法使用。",
+        "Actionable_Suggestion": "修复浏览器核心功能，确保正常浏览网页。"
+      },
+      {
+        "id": "com.tencent.mtthm_266",
+        "User_Pain_Point": "文件小说畅读模式体验差，需要优化。",
+        "Actionable_Suggestion": "优化鸿蒙系统的文件小说畅读模式，提升阅读体验。"
+      },
+      {
+        "id": "com.tencent.mtthm_267",
+        "User_Pain_Point": "听小说语音只有单一女生声音，缺乏选择。",
+        "Actionable_Suggestion": "增加听小说语音库，提供多种声音选项，满足个性化需求。"
+      },
+      {
+        "id": "com.tencent.mtthm_268",
+        "User_Pain_Point": "工具箱中的定时刷新功能消失。",
+        "Actionable_Suggestion": "恢复工具箱的定时刷新功能，并确保其正常更新。"
+      },
+      {
+        "id": "com.tencent.mtthm_271",
+        "User_Pain_Point": "找不到效率工具入口",
+        "Actionable_Suggestion": "在浏览器主界面增加效率工具入口或提供引导"
+      },
+      {
+        "id": "com.tencent.mtthm_272",
+        "User_Pain_Point": "鸿蒙6.0下载的视频无法投屏，缺少TV选项",
+        "Actionable_Suggestion": "恢复投屏功能，增加TV选项"
+      },
+      {
+        "id": "com.tencent.mtthm_273",
+        "User_Pain_Point": "压缩包解压缩工具缺失",
+        "Actionable_Suggestion": "恢复压缩包解压缩功能"
+      },
+      {
+        "id": "com.tencent.mtthm_273",
+        "User_Pain_Point": "看小说功能缺失",
+        "Actionable_Suggestion": "恢复看小说功能"
+      },
+      {
+        "id": "com.tencent.mtthm_273",
+        "User_Pain_Point": "PDF工具缺失",
+        "Actionable_Suggestion": "恢复PDF阅读工具"
+      },
+      {
+        "id": "com.tencent.mtthm_274",
+        "User_Pain_Point": "浏览器无法读取手机文件，找不到文件",
+        "Actionable_Suggestion": "修复文件读取权限或优化文件管理功能"
+      },
+      {
+        "id": "com.tencent.mtthm_275",
+        "User_Pain_Point": "新闻页面缺失",
+        "Actionable_Suggestion": "恢复新闻页面功能"
+      },
+      {
+        "id": "com.tencent.mtthm_276",
+        "User_Pain_Point": "浏览器打开照片有时无法保存",
+        "Actionable_Suggestion": "修复照片保存功能，优化稳定性"
+      },
+      {
+        "id": "com.tencent.mtthm_277",
+        "User_Pain_Point": "看小说缺少畅读模式",
+        "Actionable_Suggestion": "增加小说畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_277",
+        "User_Pain_Point": "本地文件无法自动扫描添加",
+        "Actionable_Suggestion": "优化本地文件扫描功能，实现自动添加"
+      },
+      {
+        "id": "com.tencent.mtthm_278",
+        "User_Pain_Point": "听小说功能缺失",
+        "Actionable_Suggestion": "恢复听小说功能"
+      },
+      {
+        "id": "com.tencent.mtthm_279",
+        "User_Pain_Point": "隐私空间功能无效，无法将文件加入隐私空间",
+        "Actionable_Suggestion": "修复隐私空间功能，支持文件加入"
+      },
+      {
+        "id": "com.tencent.mtthm_279",
+        "User_Pain_Point": "浏览器不能作为视频播放器使用",
+        "Actionable_Suggestion": "恢复浏览器播放视频功能"
+      },
+      {
+        "id": "com.tencent.mtthm_280",
+        "User_Pain_Point": "下载图标不在浏览器主界面",
+        "Actionable_Suggestion": "将下载图标放回浏览器主界面"
+      },
+      {
+        "id": "com.tencent.mtthm_281",
+        "User_Pain_Point": "QQ浏览器不支持微信分享图片。",
+        "Actionable_Suggestion": "增加微信分享图片功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_282",
+        "User_Pain_Point": "小说无分类，下载的小说不能加入书架，网页小说不能看。",
+        "Actionable_Suggestion": "增加小说分类、书架功能，支持网页小说阅读。"
+      },
+      {
+        "id": "com.tencent.mtthm_283",
+        "User_Pain_Point": "不能插入图片。",
+        "Actionable_Suggestion": "增加插入图片功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_284",
+        "User_Pain_Point": "视频无法转换格式无法分享，私密空间不见了，下载的文档小说也找不到了。",
+        "Actionable_Suggestion": "修复视频转换分享功能，恢复私密空间入口，修复下载文件丢失问题。"
+      },
+      {
+        "id": "com.tencent.mtthm_285",
+        "User_Pain_Point": "所有文件点不开，显示文件未授权。",
+        "Actionable_Suggestion": "修复文件授权问题，确保文件可正常打开。"
+      },
+      {
+        "id": "com.tencent.mtthm_286",
+        "User_Pain_Point": "没有推荐功能，不知如何设置。",
+        "Actionable_Suggestion": "恢复推荐功能，并明确鸿蒙系统的设置方法。"
+      },
+      {
+        "id": "com.tencent.mtthm_287",
+        "User_Pain_Point": "小说的畅读模式哪里去了。",
+        "Actionable_Suggestion": "恢复小说畅读模式。"
+      },
+      {
+        "id": "com.tencent.mtthm_288",
+        "User_Pain_Point": "听小说不能切换人声（如男声、女声），设置没有任何选项。",
+        "Actionable_Suggestion": "增加切换人声的选项。"
+      },
+      {
+        "id": "com.tencent.mtthm_289",
+        "User_Pain_Point": "文件保存功能失效，看一次下次就没有了。",
+        "Actionable_Suggestion": "修复文件保存功能，确保内容可持久保存。"
+      },
+      {
+        "id": "com.tencent.mtthm_290",
+        "User_Pain_Point": "听小说找不到人声阅读，只有基础版，听惯温柔女生版没了。",
+        "Actionable_Suggestion": "恢复丰富的人声阅读选项，如温柔女生版。"
+      },
+      {
+        "id": "com.tencent.mtthm_291",
+        "User_Pain_Point": "没有畅读模式，看小说不方便",
+        "Actionable_Suggestion": "添加畅读模式，优化小说阅读体验"
+      },
+      {
+        "id": "com.tencent.mtthm_292",
+        "User_Pain_Point": "txt文件不能跳转到小说，无法看小说",
+        "Actionable_Suggestion": "修复txt文件跳转功能"
+      },
+      {
+        "id": "com.tencent.mtthm_296",
+        "User_Pain_Point": "压缩解压后无法转发",
+        "Actionable_Suggestion": "修复文件解压后转发功能"
+      },
+      {
+        "id": "com.tencent.mtthm_297",
+        "User_Pain_Point": "听小说看小说体验不如以前",
+        "Actionable_Suggestion": "优化小说阅读与听书体验"
+      },
+      {
+        "id": "com.tencent.mtthm_298",
+        "User_Pain_Point": "听书功能不如旧版，声音不能切换男女声，选择少，机械女声难听",
+        "Actionable_Suggestion": "恢复原有听书功能，增加声音切换选项，优化音质"
+      },
+      {
+        "id": "com.tencent.mtthm_299",
+        "User_Pain_Point": "整体体验不如旧版",
+        "Actionable_Suggestion": "参考旧版体验进行优化"
+      },
+      {
+        "id": "com.tencent.mtthm_300",
+        "User_Pain_Point": "付费小说无法打开",
+        "Actionable_Suggestion": "修复付费小说无法打开的bug"
+      },
+      {
+        "id": "com.tencent.mtthm_301",
+        "User_Pain_Point": "小说功能缺少原版的功能",
+        "Actionable_Suggestion": "将原版小说功能完整移植过来"
+      },
+      {
+        "id": "com.tencent.mtthm_302",
+        "User_Pain_Point": "无法创建文件，仅能查看",
+        "Actionable_Suggestion": "增加创建文件的功能"
+      },
+      {
+        "id": "com.tencent.mtthm_303",
+        "User_Pain_Point": "无法重命名文件",
+        "Actionable_Suggestion": "增加文件重命名功能"
+      },
+      {
+        "id": "com.tencent.mtthm_304",
+        "User_Pain_Point": "无法分享文件",
+        "Actionable_Suggestion": "恢复或增加文件分享功能"
+      },
+      {
+        "id": "com.tencent.mtthm_305",
+        "User_Pain_Point": "看小说功能不如以前方便",
+        "Actionable_Suggestion": "优化小说阅读功能，恢复之前的使用体验"
+      },
+      {
+        "id": "com.tencent.mtthm_306",
+        "User_Pain_Point": "私密空间功能消失",
+        "Actionable_Suggestion": "恢复私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_307",
+        "User_Pain_Point": "缺少图片转PDF功能",
+        "Actionable_Suggestion": "增加图片转PDF功能"
+      },
+      {
+        "id": "com.tencent.mtthm_308",
+        "User_Pain_Point": "缓存视频不支持转换为MP4格式",
+        "Actionable_Suggestion": "增加缓存视频转换为MP4格式的功能"
+      },
+      {
+        "id": "com.tencent.mtthm_309",
+        "User_Pain_Point": "下载的视频无法转发",
+        "Actionable_Suggestion": "允许下载的视频转发/分享"
+      },
+      {
+        "id": "com.tencent.mtthm_310",
+        "User_Pain_Point": "整体功能不完整",
+        "Actionable_Suggestion": "完善各项功能，参考用户需求"
+      },
+      {
+        "id": "com.tencent.mtthm_311",
+        "User_Pain_Point": "系统更新后不好用，没有以前方便",
+        "Actionable_Suggestion": "恢复或优化用户熟悉的操作流程和界面布局"
+      },
+      {
+        "id": "com.tencent.mtthm_312",
+        "User_Pain_Point": "小说声音不能切换男女声，有机械感",
+        "Actionable_Suggestion": "增加男女声切换功能，优化语音合成自然度"
+      },
+      {
+        "id": "com.tencent.mtthm_313",
+        "User_Pain_Point": "云备份小网盘功能被移除",
+        "Actionable_Suggestion": "恢复云备份小网盘功能"
+      },
+      {
+        "id": "com.tencent.mtthm_314",
+        "User_Pain_Point": "新闻排行榜、私密空间、小说方便查看的功能缺失",
+        "Actionable_Suggestion": "恢复新闻排行榜、私密空间，优化小说阅读入口"
+      },
+      {
+        "id": "com.tencent.mtthm_316",
+        "User_Pain_Point": "新版不好用，用户希望回到原版",
+        "Actionable_Suggestion": "评估用户反馈，提供经典模式切换选项"
+      },
+      {
+        "id": "com.tencent.mtthm_318",
+        "User_Pain_Point": "小说框架不完善",
+        "Actionable_Suggestion": "加速完善小说框架功能"
+      },
+      {
+        "id": "com.tencent.mtthm_319",
+        "User_Pain_Point": "小说朗读功能改得不好",
+        "Actionable_Suggestion": "优化小说朗读功能，提供更多个性化设置"
+      },
+      {
+        "id": "com.tencent.mtthm_320",
+        "User_Pain_Point": "快捷编辑功能缺失",
+        "Actionable_Suggestion": "恢复并优化快捷编辑功能"
+      },
+      {
+        "id": "com.tencent.mtthm_321",
+        "User_Pain_Point": "不能做文档了",
+        "Actionable_Suggestion": "增加文档编辑功能"
+      },
+      {
+        "id": "com.tencent.mtthm_322",
+        "User_Pain_Point": "原来的私密文件去哪儿了",
+        "Actionable_Suggestion": "恢复或迁移私密文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_323",
+        "User_Pain_Point": "文件名不能改",
+        "Actionable_Suggestion": "允许修改文件名"
+      },
+      {
+        "id": "com.tencent.mtthm_323",
+        "User_Pain_Point": "不能直接打印",
+        "Actionable_Suggestion": "增加打印功能"
+      },
+      {
+        "id": "com.tencent.mtthm_324",
+        "User_Pain_Point": "小说的书架怎么都没了",
+        "Actionable_Suggestion": "恢复书架功能"
+      },
+      {
+        "id": "com.tencent.mtthm_325",
+        "User_Pain_Point": "下载的视频转MP4光有个样子在那边，实际上都没这个功能",
+        "Actionable_Suggestion": "完善视频转MP4功能"
+      },
+      {
+        "id": "com.tencent.mtthm_326",
+        "User_Pain_Point": "以前的本地私密空间功能没有了吗？",
+        "Actionable_Suggestion": "恢复本地私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_327",
+        "User_Pain_Point": "畅读模式没有了",
+        "Actionable_Suggestion": "恢复畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_327",
+        "User_Pain_Point": "视频网页也不见了",
+        "Actionable_Suggestion": "恢复视频网页功能"
+      },
+      {
+        "id": "com.tencent.mtthm_327",
+        "User_Pain_Point": "新闻也没有",
+        "Actionable_Suggestion": "恢复新闻功能"
+      },
+      {
+        "id": "com.tencent.mtthm_328",
+        "User_Pain_Point": "原来的私密空间找：找不到了呢",
+        "Actionable_Suggestion": "明确私密空间入口"
+      },
+      {
+        "id": "com.tencent.mtthm_329",
+        "User_Pain_Point": "鸿蒙 6 版本 怎么不能添加文件管理里面的文件了？",
+        "Actionable_Suggestion": "允许添加文件管理中的文件"
+      },
+      {
+        "id": "com.tencent.mtthm_330",
+        "User_Pain_Point": "不能下载网页图片？",
+        "Actionable_Suggestion": "增加网页图片下载功能"
+      },
+      {
+        "id": "com.tencent.mtthm_330",
+        "User_Pain_Point": "希望增加文件管理功能，尤其是查看压缩包里面的图片功能",
+        "Actionable_Suggestion": "增加查看压缩包内图片的功能"
+      },
+      {
+        "id": "com.tencent.mtthm_331",
+        "User_Pain_Point": "小说板块使用体验下降",
+        "Actionable_Suggestion": "优化小说板块功能，提升内容质量与交互流畅度"
+      },
+      {
+        "id": "com.tencent.mtthm_332",
+        "User_Pain_Point": "私密空间缺失，担心数据丢失",
+        "Actionable_Suggestion": "恢复私密空间功能，并告知用户原有文件是否安全"
+      },
+      {
+        "id": "com.tencent.mtthm_335",
+        "User_Pain_Point": "网页阅读和文件管理功能被阉割",
+        "Actionable_Suggestion": "恢复网页阅读和文件管理功能"
+      },
+      {
+        "id": "com.tencent.mtthm_336",
+        "User_Pain_Point": "听书功能不完善",
+        "Actionable_Suggestion": "完善听书功能，增加资源库和播放体验"
+      },
+      {
+        "id": "com.tencent.mtthm_337",
+        "User_Pain_Point": "找不到私密空间入口",
+        "Actionable_Suggestion": "明确私密空间的位置或恢复该功能"
+      },
+      {
+        "id": "com.tencent.mtthm_339",
+        "User_Pain_Point": "私密空间消失",
+        "Actionable_Suggestion": "恢复私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_341",
+        "User_Pain_Point": "文件转发功能缺失",
+        "Actionable_Suggestion": "增加文件转发功能"
+      },
+      {
+        "id": "com.tencent.mtthm_342",
+        "User_Pain_Point": "付费小说不能购买和阅读",
+        "Actionable_Suggestion": "支持付费小说购买和阅读"
+      },
+      {
+        "id": "com.tencent.mtthm_342",
+        "User_Pain_Point": "缺乏网页听书功能",
+        "Actionable_Suggestion": "增加网页听书功能"
+      },
+      {
+        "id": "com.tencent.mtthm_343",
+        "User_Pain_Point": "微信/QQ书籍在QQ浏览器中无法听书",
+        "Actionable_Suggestion": "修复微信/QQ书籍通过QQ浏览器打开后的听书功能"
+      },
+      {
+        "id": "com.tencent.mtthm_344",
+        "User_Pain_Point": "小说书架和下载功能被阉割",
+        "Actionable_Suggestion": "恢复小说书架和下载功能"
+      },
+      {
+        "id": "com.tencent.mtthm_345",
+        "User_Pain_Point": "占用100G空间不知如何删除",
+        "Actionable_Suggestion": "提供清晰的存储管理功能帮助用户清理"
+      },
+      {
+        "id": "com.tencent.mtthm_346",
+        "User_Pain_Point": "私密空间等原有功能缺失",
+        "Actionable_Suggestion": "恢复私密空间等原有功能"
+      },
+      {
+        "id": "com.tencent.mtthm_348",
+        "User_Pain_Point": "浏览器转换的图片不能保存到相册",
+        "Actionable_Suggestion": "支持转换图片直接保存到手机相册"
+      },
+      {
+        "id": "com.tencent.mtthm_349",
+        "User_Pain_Point": "缺乏网页听书功能",
+        "Actionable_Suggestion": "尽快上线网页听书功能"
+      },
+      {
+        "id": "com.tencent.mtthm_351",
+        "User_Pain_Point": "隐私空间没有了，里面的文件丢失。",
+        "Actionable_Suggestion": "恢复隐私空间功能，确保用户数据不丢失。"
+      },
+      {
+        "id": "com.tencent.mtthm_352",
+        "User_Pain_Point": "网页小说不能看了。",
+        "Actionable_Suggestion": "修复网页小说阅读功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_354",
+        "User_Pain_Point": "私密空间里东西打不开了。",
+        "Actionable_Suggestion": "修复私密空间访问功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_355",
+        "User_Pain_Point": "文件档案名字不能更改。",
+        "Actionable_Suggestion": "增加文件重命名功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_356",
+        "User_Pain_Point": "私密空间问题导致私密文件出现在图库，隐私泄露风险。",
+        "Actionable_Suggestion": "尽快更新私密空间，确保私密文件不显示在图库等公共位置。"
+      },
+      {
+        "id": "com.tencent.mtthm_357",
+        "User_Pain_Point": "平板端缺少自定义调节字体大小功能，使用体验差。",
+        "Actionable_Suggestion": "增加自定义调节字体大小功能，尤其是在平板端。"
+      },
+      {
+        "id": "com.tencent.mtthm_358",
+        "User_Pain_Point": "首页新闻没有了，不方便。",
+        "Actionable_Suggestion": "恢复首页新闻模块。"
+      },
+      {
+        "id": "com.tencent.mtthm_359",
+        "User_Pain_Point": "朗读网页功能缺失，工具箱也没有了，AI功能无用。",
+        "Actionable_Suggestion": "恢复朗读网页功能和工具箱，优化AI功能使其更有用。"
+      },
+      {
+        "id": "com.tencent.mtthm_361",
+        "User_Pain_Point": "推荐内容缺失，用户需自行搜索新鲜事",
+        "Actionable_Suggestion": "优化推荐算法，增加个性化推荐内容"
+      },
+      {
+        "id": "com.tencent.mtthm_363",
+        "User_Pain_Point": "小说看不到评论",
+        "Actionable_Suggestion": "开放小说评论功能"
+      },
+      {
+        "id": "com.tencent.mtthm_363",
+        "User_Pain_Point": "小说排行榜只有十个，选择有限",
+        "Actionable_Suggestion": "增加排行榜显示数量或提供更多筛选"
+      },
+      {
+        "id": "com.tencent.mtthm_363",
+        "User_Pain_Point": "视频不能投屏电视",
+        "Actionable_Suggestion": "增加投屏功能支持"
+      },
+      {
+        "id": "com.tencent.mtthm_364",
+        "User_Pain_Point": "菜单中新闻娱乐等栏目消失",
+        "Actionable_Suggestion": "恢复菜单中的新闻娱乐栏目"
+      },
+      {
+        "id": "com.tencent.mtthm_364",
+        "User_Pain_Point": "看小说充值会员找不到页面",
+        "Actionable_Suggestion": "优化会员充值页面入口，便于用户找到"
+      },
+      {
+        "id": "com.tencent.mtthm_365",
+        "User_Pain_Point": "私密空间功能消失",
+        "Actionable_Suggestion": "恢复私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_367",
+        "User_Pain_Point": "小说没有评论功能，用户无法留言",
+        "Actionable_Suggestion": "开放小说评论功能"
+      },
+      {
+        "id": "com.tencent.mtthm_369",
+        "User_Pain_Point": "隐私空间找不到",
+        "Actionable_Suggestion": "恢复隐私空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_371",
+        "User_Pain_Point": "之前的文件丢失，新版本不支持使用",
+        "Actionable_Suggestion": "修复文件迁移问题，确保新版本兼容性"
+      },
+      {
+        "id": "com.tencent.mtthm_372",
+        "User_Pain_Point": "隐私空间下载内容丢失",
+        "Actionable_Suggestion": "恢复隐私空间数据，提供数据迁移方案"
+      },
+      {
+        "id": "com.tencent.mtthm_373",
+        "User_Pain_Point": "不支持dxf等文件格式",
+        "Actionable_Suggestion": "增加对更多文件格式的支持"
+      },
+      {
+        "id": "com.tencent.mtthm_374",
+        "User_Pain_Point": "小说阅读时无法发评论、看评论、复制",
+        "Actionable_Suggestion": "增加小说阅读的评论和复制功能"
+      },
+      {
+        "id": "com.tencent.mtthm_375",
+        "User_Pain_Point": "下载的文件无法重命名、分享，文件管理器看不到视频",
+        "Actionable_Suggestion": "完善文件管理功能，提供重命名、分享、在文件管理器中可见"
+      },
+      {
+        "id": "com.tencent.mtthm_376",
+        "User_Pain_Point": "不支持投屏",
+        "Actionable_Suggestion": "增加投屏功能"
+      },
+      {
+        "id": "com.tencent.mtthm_377",
+        "User_Pain_Point": "电脑书签无法编辑、头像无法查看、DeepSeek模型不能QQ浏览器登陆",
+        "Actionable_Suggestion": "修复书签编辑、头像查看和登录功能"
+      },
+      {
+        "id": "com.tencent.mtthm_379",
+        "User_Pain_Point": "文件管理功能缺失，之前正常现在不正常，文件显示重复",
+        "Actionable_Suggestion": "恢复并改进文件管理功能，修复文件显示重复问题"
+      },
+      {
+        "id": "com.tencent.mtthm_382",
+        "User_Pain_Point": "游戏礼包的功能没有了",
+        "Actionable_Suggestion": "恢复游戏礼包功能"
+      },
+      {
+        "id": "com.tencent.mtthm_384",
+        "User_Pain_Point": "新闻、视频、推荐内容消失",
+        "Actionable_Suggestion": "恢复新闻、视频、推荐功能"
+      },
+      {
+        "id": "com.tencent.mtthm_385",
+        "User_Pain_Point": "小说付费内容无法阅读，剩余金额无法使用",
+        "Actionable_Suggestion": "修复小说付费内容阅读功能，保障用户已付费权益"
+      },
+      {
+        "id": "com.tencent.mtthm_386",
+        "User_Pain_Point": "文件打开标注缺少添加图片的选项",
+        "Actionable_Suggestion": "在文件标注功能中添加图片插入选项"
+      },
+      {
+        "id": "com.tencent.mtthm_387",
+        "User_Pain_Point": "文件打开标注缺少添加图片的功能",
+        "Actionable_Suggestion": "在文件标注功能中添加图片插入选项"
+      },
+      {
+        "id": "com.tencent.mtthm_388",
+        "User_Pain_Point": "小说排行榜和新闻未更新",
+        "Actionable_Suggestion": "及时更新小说排行榜和新闻内容"
+      },
+      {
+        "id": "com.tencent.mtthm_389",
+        "User_Pain_Point": "小说功能不完善，无法查看其他读者评论",
+        "Actionable_Suggestion": "完善小说功能，增加读者评论查看功能"
+      },
+      {
+        "id": "com.tencent.mtthm_390",
+        "User_Pain_Point": "私密空间功能没有了",
+        "Actionable_Suggestion": "恢复私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_392",
+        "User_Pain_Point": "下载视频不能更名",
+        "Actionable_Suggestion": "增加视频文件重命名功能"
+      },
+      {
+        "id": "com.tencent.mtthm_393",
+        "User_Pain_Point": "音量键翻页功能缺失",
+        "Actionable_Suggestion": "增加音量键翻页功能"
+      },
+      {
+        "id": "com.tencent.mtthm_396",
+        "User_Pain_Point": "无法新建文件（编辑功能缺失）",
+        "Actionable_Suggestion": "恢复新建文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_401",
+        "User_Pain_Point": "功能还没有完善",
+        "Actionable_Suggestion": "尽快完善基础功能"
+      },
+      {
+        "id": "com.tencent.mtthm_403",
+        "User_Pain_Point": "功能不完善",
+        "Actionable_Suggestion": "完善功能"
+      },
+      {
+        "id": "com.tencent.mtthm_408",
+        "User_Pain_Point": "很多网页内容（视频、头条、新闻等）还没有适配",
+        "Actionable_Suggestion": "加紧适配这些内容"
+      },
+      {
+        "id": "com.tencent.mtthm_409",
+        "User_Pain_Point": "不能新建文件，好多功能都没有了",
+        "Actionable_Suggestion": "恢复原有功能，支持新建文件"
+      },
+      {
+        "id": "com.tencent.mtthm_410",
+        "User_Pain_Point": "m3u8转换mp4格式功能缺失",
+        "Actionable_Suggestion": "修复m3u8转mp4功能"
+      },
+      {
+        "id": "com.tencent.mtthm_411",
+        "User_Pain_Point": "下载视频不能编辑名称",
+        "Actionable_Suggestion": "增加下载视频重命名功能"
+      },
+      {
+        "id": "com.tencent.mtthm_413",
+        "User_Pain_Point": "下载网页视频不能转换mp4格式",
+        "Actionable_Suggestion": "增加视频格式转换功能（如转为mp4）"
+      },
+      {
+        "id": "com.tencent.mtthm_414",
+        "User_Pain_Point": "鸿蒙版缺少很多功能，m3u8格式不能转换mp4，选项只有重新下载和删除",
+        "Actionable_Suggestion": "恢复视频格式转换功能，增加更多下载选项"
+      },
+      {
+        "id": "com.tencent.mtthm_415",
+        "User_Pain_Point": "缺少MP4转换功能",
+        "Actionable_Suggestion": "尽快上线视频格式转换为MP4的功能"
+      },
+      {
+        "id": "com.tencent.mtthm_416",
+        "User_Pain_Point": "AI功能太差，找不到新闻",
+        "Actionable_Suggestion": "优化AI搜索和内容推荐算法，确保能准确找到新闻资讯"
+      },
+      {
+        "id": "com.tencent.mtthm_417",
+        "User_Pain_Point": "下载视频无法转换成mp4",
+        "Actionable_Suggestion": "增加视频格式转换功能"
+      },
+      {
+        "id": "com.tencent.mtthm_417",
+        "User_Pain_Point": "无法重命名（第二次出现）",
+        "Actionable_Suggestion": "增加文件重命名功能"
+      },
+      {
+        "id": "com.tencent.mtthm_418",
+        "User_Pain_Point": "文件无法重命名",
+        "Actionable_Suggestion": "增加文件重命名功能"
+      },
+      {
+        "id": "com.tencent.mtthm_419",
+        "User_Pain_Point": "私密空间和私密文件功能缺失",
+        "Actionable_Suggestion": "恢复或增加私密空间和私密文件功能"
+      },
+      {
+        "id": "com.tencent.mtthm_420",
+        "User_Pain_Point": "升级后看小说没有书评",
+        "Actionable_Suggestion": "恢复小说书评功能"
+      },
+      {
+        "id": "com.tencent.mtthm_420",
+        "User_Pain_Point": "没有新闻资讯和视频推荐",
+        "Actionable_Suggestion": "完善新闻资讯和视频推荐功能"
+      },
+      {
+        "id": "com.tencent.mtthm_421",
+        "User_Pain_Point": "私密空间的文件都没了，还找不回来",
+        "Actionable_Suggestion": "修复私密空间文件丢失问题，确保数据不丢失"
+      },
+      {
+        "id": "com.tencent.mtthm_422",
+        "User_Pain_Point": "看小说体验超级差",
+        "Actionable_Suggestion": "优化小说阅读体验，提升翻页流畅度和界面设计"
+      },
+      {
+        "id": "com.tencent.mtthm_423",
+        "User_Pain_Point": "不可以创建个新的书签收藏文件夹",
+        "Actionable_Suggestion": "增加创建书签文件夹功能"
+      },
+      {
+        "id": "com.tencent.mtthm_425",
+        "User_Pain_Point": "不小心升级了，私密空间哪里去了？",
+        "Actionable_Suggestion": "升级后保留私密空间入口，确保功能不丢失"
+      },
+      {
+        "id": "com.tencent.mtthm_426",
+        "User_Pain_Point": "怎么找私密文件",
+        "Actionable_Suggestion": "优化私密文件查找路径，提供清晰入口"
+      },
+      {
+        "id": "com.tencent.mtthm_427",
+        "User_Pain_Point": "打开文档无法保存到相册",
+        "Actionable_Suggestion": "增加文档保存到相册功能"
+      },
+      {
+        "id": "com.tencent.mtthm_429",
+        "User_Pain_Point": "私密空间呢？又没换手机，怎么可以把这个弄没？文件都没了，最起码要还原到手机里吧",
+        "Actionable_Suggestion": "恢复私密空间功能并确保文件不丢失"
+      },
+      {
+        "id": "com.tencent.mtthm_430",
+        "User_Pain_Point": "小说书架里面不能分类了，看小说也不能仿真翻页了，只能平移翻页和上下翻页，很不方便，也不能设置字体大小，字体样式和背景颜色",
+        "Actionable_Suggestion": "恢复书架分类功能，增加仿真翻页选项，提供字体大小/样式和背景颜色自定义设置"
+      },
+      {
+        "id": "com.tencent.mtthm_431",
+        "User_Pain_Point": "小说听书更换声源功能缺失",
+        "Actionable_Suggestion": "增加声源更换选项"
+      },
+      {
+        "id": "com.tencent.mtthm_432",
+        "User_Pain_Point": "听小说只有一种声音，没得选",
+        "Actionable_Suggestion": "增加多种声音选择"
+      },
+      {
+        "id": "com.tencent.mtthm_433",
+        "User_Pain_Point": "听小说只有女声",
+        "Actionable_Suggestion": "增加其他声源选项"
+      },
+      {
+        "id": "com.tencent.mtthm_435",
+        "User_Pain_Point": "不能另存文件名",
+        "Actionable_Suggestion": "增加文件保存时自定义文件名的功能"
+      },
+      {
+        "id": "com.tencent.mtthm_436",
+        "User_Pain_Point": "私密空间功能缺失",
+        "Actionable_Suggestion": "恢复私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_437",
+        "User_Pain_Point": "本地书无法导入",
+        "Actionable_Suggestion": "恢复本地书籍导入功能"
+      },
+      {
+        "id": "com.tencent.mtthm_440",
+        "User_Pain_Point": "小说不能搜索",
+        "Actionable_Suggestion": "添加小说搜索功能"
+      },
+      {
+        "id": "com.tencent.mtthm_442",
+        "User_Pain_Point": "AI版浏览器太差劲",
+        "Actionable_Suggestion": "优化AI版浏览器的功能和体验"
+      },
+      {
+        "id": "com.tencent.mtthm_443",
+        "User_Pain_Point": "看小说太费劲，小说搜索功能不行",
+        "Actionable_Suggestion": "改善小说阅读体验和搜索功能"
+      },
+      {
+        "id": "com.tencent.mtthm_445",
+        "User_Pain_Point": "升级后体验下降，不如原来好用",
+        "Actionable_Suggestion": "回退或优化升级内容，保持旧版优秀功能"
+      },
+      {
+        "id": "com.tencent.mtthm_445",
+        "User_Pain_Point": "找不到收集的电视剧合集",
+        "Actionable_Suggestion": "恢复电视剧合集功能，或提供迁移路径"
+      },
+      {
+        "id": "com.tencent.mtthm_447",
+        "User_Pain_Point": "升级后功能简化，无法处理文件",
+        "Actionable_Suggestion": "恢复文件处理等核心功能"
+      },
+      {
+        "id": "com.tencent.mtthm_448",
+        "User_Pain_Point": "小说没有书架和阅读历史",
+        "Actionable_Suggestion": "增加书架和阅读历史功能"
+      },
+      {
+        "id": "com.tencent.mtthm_449",
+        "User_Pain_Point": "畅读模式缺失",
+        "Actionable_Suggestion": "恢复畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_450",
+        "User_Pain_Point": "私密空间功能丢失",
+        "Actionable_Suggestion": "恢复私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_451",
+        "User_Pain_Point": "视频新闻刷不了",
+        "Actionable_Suggestion": "恢复视频新闻功能，确保与旧版本兼容"
+      },
+      {
+        "id": "com.tencent.mtthm_451",
+        "User_Pain_Point": "私密空间没有了",
+        "Actionable_Suggestion": "恢复私密空间功能，并提供迁移指南"
+      },
+      {
+        "id": "com.tencent.mtthm_453",
+        "User_Pain_Point": "找不到东西（包括收藏、文件等）",
+        "Actionable_Suggestion": "优化内容索引和搜索功能，确保数据可见"
+      },
+      {
+        "id": "com.tencent.mtthm_453",
+        "User_Pain_Point": "看小说体验差",
+        "Actionable_Suggestion": "改进小说阅读模式，提供沉浸式阅读体验"
+      },
+      {
+        "id": "com.tencent.mtthm_454",
+        "User_Pain_Point": "阅读模式缺失",
+        "Actionable_Suggestion": "恢复阅读模式功能"
+      },
+      {
+        "id": "com.tencent.mtthm_454",
+        "User_Pain_Point": "下载功能缺失",
+        "Actionable_Suggestion": "恢复下载功能"
+      },
+      {
+        "id": "com.tencent.mtthm_455",
+        "User_Pain_Point": "私密空间无法找到",
+        "Actionable_Suggestion": "修复私密空间入口，确保升级后数据可访问"
+      },
+      {
+        "id": "com.tencent.mtthm_457",
+        "User_Pain_Point": "私密空间丢失",
+        "Actionable_Suggestion": "恢复私密空间功能，提供找回数据方法"
+      },
+      {
+        "id": "com.tencent.mtthm_458",
+        "User_Pain_Point": "语音包缺失",
+        "Actionable_Suggestion": "增加语音包选择，恢复原有语音包"
+      },
+      {
+        "id": "com.tencent.mtthm_458",
+        "User_Pain_Point": "阅读只有单一女声",
+        "Actionable_Suggestion": "提供多种语音角色选择"
+      },
+      {
+        "id": "com.tencent.mtthm_459",
+        "User_Pain_Point": "设置功能缺失",
+        "Actionable_Suggestion": "恢复原有的设置选项，增加自定义能力"
+      },
+      {
+        "id": "com.tencent.mtthm_459",
+        "User_Pain_Point": "畅读模式缺失",
+        "Actionable_Suggestion": "恢复畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_460",
+        "User_Pain_Point": "推荐新闻缺失",
+        "Actionable_Suggestion": "恢复个性化新闻推荐功能"
+      },
+      {
+        "id": "com.tencent.mtthm_461",
+        "User_Pain_Point": "文件不能转发",
+        "Actionable_Suggestion": "添加文件转发功能"
+      },
+      {
+        "id": "com.tencent.mtthm_462",
+        "User_Pain_Point": "小说阅读体验不友好，功能改变导致不便",
+        "Actionable_Suggestion": "恢复原有小说阅读模式或优化新方案"
+      },
+      {
+        "id": "com.tencent.mtthm_463",
+        "User_Pain_Point": "更新后应用功能倒退，体验变差",
+        "Actionable_Suggestion": "优化更新策略，保证功能不退化"
+      },
+      {
+        "id": "com.tencent.mtthm_463",
+        "User_Pain_Point": "更新后文件丢失",
+        "Actionable_Suggestion": "修复更新导致文件丢失的bug，并找回用户文件"
+      },
+      {
+        "id": "com.tencent.mtthm_464",
+        "User_Pain_Point": "私密空间功能消失",
+        "Actionable_Suggestion": "恢复私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_464",
+        "User_Pain_Point": "私密空间内的文件丢失",
+        "Actionable_Suggestion": "找回用户文件并恢复私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_465",
+        "User_Pain_Point": "微信传输文件不支持QQ浏览器打开",
+        "Actionable_Suggestion": "优化微信与QQ浏览器的文件交互，支持通过QQ浏览器打开微信传输的文件"
+      },
+      {
+        "id": "com.tencent.mtthm_466",
+        "User_Pain_Point": "看小说不能自动翻页，也没有畅读模式",
+        "Actionable_Suggestion": "恢复自动翻页和畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_467",
+        "User_Pain_Point": "小说评论功能缺失",
+        "Actionable_Suggestion": "恢复或添加小说评论功能"
+      },
+      {
+        "id": "com.tencent.mtthm_468",
+        "User_Pain_Point": "私密空间功能消失，内部视频丢失",
+        "Actionable_Suggestion": "恢复私密空间功能，并找回用户文件"
+      },
+      {
+        "id": "com.tencent.mtthm_469",
+        "User_Pain_Point": "网页畅读模式缺失",
+        "Actionable_Suggestion": "尽快开发并上线网页畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_470",
+        "User_Pain_Point": "流畅播功能消失",
+        "Actionable_Suggestion": "恢复流畅播功能"
+      },
+      {
+        "id": "com.tencent.mtthm_471",
+        "User_Pain_Point": "小说模板变得很坑",
+        "Actionable_Suggestion": "优化小说模板功能，改善用户体验"
+      },
+      {
+        "id": "com.tencent.mtthm_473",
+        "User_Pain_Point": "没有新建文件管理，只能打开和编辑文件但不能保存",
+        "Actionable_Suggestion": "添加新建文件管理功能，支持保存文件"
+      },
+      {
+        "id": "com.tencent.mtthm_475",
+        "User_Pain_Point": "原来的打开后网页模式不见了",
+        "Actionable_Suggestion": "恢复网页模式或提供说明"
+      },
+      {
+        "id": "com.tencent.mtthm_476",
+        "User_Pain_Point": "没有以前的好用了，啥也找不到了",
+        "Actionable_Suggestion": "优化界面布局，使功能更易查找"
+      },
+      {
+        "id": "com.tencent.mtthm_477",
+        "User_Pain_Point": "文档都不见了",
+        "Actionable_Suggestion": "恢复文档显示功能"
+      },
+      {
+        "id": "com.tencent.mtthm_477",
+        "User_Pain_Point": "没有之前那种畅读模式了",
+        "Actionable_Suggestion": "恢复畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_477",
+        "User_Pain_Point": "小说一打开就是文档，没有分章节，不能调整字体",
+        "Actionable_Suggestion": "增加分章节和字体调整功能"
+      },
+      {
+        "id": "com.tencent.mtthm_477",
+        "User_Pain_Point": "希望能换回上个版本",
+        "Actionable_Suggestion": "考虑提供版本回退选项或优化当前版本"
+      },
+      {
+        "id": "com.tencent.mtthm_478",
+        "User_Pain_Point": "打开浏览器没有网页新闻可以看了",
+        "Actionable_Suggestion": "恢复浏览器中的网页新闻内容"
+      },
+      {
+        "id": "com.tencent.mtthm_479",
+        "User_Pain_Point": "不适合看小说",
+        "Actionable_Suggestion": "优化小说阅读体验"
+      },
+      {
+        "id": "com.tencent.mtthm_481",
+        "User_Pain_Point": "看缓存的视频没有记忆功能，每次从头开始",
+        "Actionable_Suggestion": "增加视频播放进度记忆功能"
+      },
+      {
+        "id": "com.tencent.mtthm_483",
+        "User_Pain_Point": "文件不支持此格式，无法解压",
+        "Actionable_Suggestion": "增加更多文件格式支持和解压功能"
+      },
+      {
+        "id": "com.tencent.mtthm_484",
+        "User_Pain_Point": "不能保存网页图片",
+        "Actionable_Suggestion": "增加网页图片保存功能"
+      },
+      {
+        "id": "com.tencent.mtthm_486",
+        "User_Pain_Point": "小说下载后是文档模式，不是畅读模式，且不能听",
+        "Actionable_Suggestion": "提供小说畅读模式并增加朗读功能"
+      },
+      {
+        "id": "com.tencent.mtthm_486",
+        "User_Pain_Point": "功能缺失，体验非常差",
+        "Actionable_Suggestion": "梳理并恢复缺失的功能"
+      },
+      {
+        "id": "com.tencent.mtthm_487",
+        "User_Pain_Point": "下载的视频是m3u8格式，缺少转换mp4功能",
+        "Actionable_Suggestion": "增加视频格式转换功能"
+      },
+      {
+        "id": "com.tencent.mtthm_487",
+        "User_Pain_Point": "没有添加本地txt电子书功能",
+        "Actionable_Suggestion": "增加本地txt电子书导入功能"
+      },
+      {
+        "id": "com.tencent.mtthm_487",
+        "User_Pain_Point": "功能缺失，只有一个AI搜索",
+        "Actionable_Suggestion": "完善基础功能，避免过度依赖AI"
+      },
+      {
+        "id": "com.tencent.mtthm_488",
+        "User_Pain_Point": "除了AI其他功能都没用",
+        "Actionable_Suggestion": "平衡AI与基础功能的发展"
+      },
+      {
+        "id": "com.tencent.mtthm_489",
+        "User_Pain_Point": "网页版小说缺少畅读功能",
+        "Actionable_Suggestion": "尽快完善网页版小说畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_490",
+        "User_Pain_Point": "缺少私密空间功能",
+        "Actionable_Suggestion": "恢复私密空间功能"
+      },
+      {
+        "id": "com.tencent.mtthm_490",
+        "User_Pain_Point": "缺少小说畅读模式",
+        "Actionable_Suggestion": "增加小说畅读模式"
+      },
+      {
+        "id": "com.tencent.mtthm_491",
+        "User_Pain_Point": "编辑文件缺少PDF、学习工具、扫描、压缩等功能",
+        "Actionable_Suggestion": "增加PDF、学习工具、扫描、压缩等文件编辑功能"
+      },
+      {
+        "id": "com.tencent.mtthm_492",
+        "User_Pain_Point": "PDF用浏览器打开后保存图片失败",
+        "Actionable_Suggestion": "修复PDF保存图片的功能"
+      },
+      {
+        "id": "com.tencent.mtthm_493",
+        "User_Pain_Point": "华为手机缺少自动阅读功能",
+        "Actionable_Suggestion": "在华为手机上增加自动阅读功能"
+      },
+      {
+        "id": "com.tencent.mtthm_494",
+        "User_Pain_Point": "升级后找不到阅读历史记录",
+        "Actionable_Suggestion": "修复或恢复阅读历史记录功能"
+      },
+      {
+        "id": "com.tencent.mtthm_495",
+        "User_Pain_Point": "缺少m3u8转mp4功能",
+        "Actionable_Suggestion": "增加m3u8转mp4功能"
+      },
+      {
+        "id": "com.tencent.mtthm_496",
+        "User_Pain_Point": "图片无法转换为PDF或其他格式",
+        "Actionable_Suggestion": "增加图片转PDF或其他格式功能"
+      },
+      {
+        "id": "com.tencent.mtthm_497",
+        "User_Pain_Point": "安卓版本缺少推荐导航页面",
+        "Actionable_Suggestion": "恢复推荐导航页面"
+      },
+      {
+        "id": "com.tencent.mtthm_498",
+        "User_Pain_Point": "无法同步之前的文件视频",
+        "Actionable_Suggestion": "修复文件视频同步功能"
+      },
+      {
+        "id": "com.tencent.mtthm_499",
+        "User_Pain_Point": "缺少识别花草功能",
+        "Actionable_Suggestion": "增加识别花草功能"
+      },
+      {
+        "id": "com.tencent.mtthm_500",
+        "User_Pain_Point": "下载的视频无法保存到相册",
+        "Actionable_Suggestion": "增加下载视频保存到相册的功能"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.tencent.mtthm_330",
+        "User_Pain_Point": "能看小说了",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.tencent.mtthm_315",
+        "User_Pain_Point": "询问云空间开放时间",
+        "Actionable_Suggestion": "尽快开放云空间功能并公告时间"
+      },
+      {
+        "id": "com.tencent.mtthm_340",
+        "User_Pain_Point": "找不到小云盘入口",
+        "Actionable_Suggestion": "优化功能入口布局，增加指引提示"
+      },
+      {
+        "id": "com.tencent.mtthm_474",
+        "User_Pain_Point": "希望添加M3U8转MP4功能",
+        "Actionable_Suggestion": "考虑添加M3U8转MP4功能"
+      },
+      {
+        "id": "com.tencent.mtthm_480",
+        "User_Pain_Point": "希望支持页面手动放大缩小",
+        "Actionable_Suggestion": "增加手动缩放功能"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.tencent.mtthm_14",
+        "User_Pain_Point": "华为MatePad Edge缺少PC版QQ浏览器适配。",
+        "Actionable_Suggestion": "开发针对华为MatePad Edge的PC版QQ浏览器，或提供平板的桌面模式适配。"
+      },
+      {
+        "id": "com.tencent.mtthm_48",
+        "User_Pain_Point": "鸿蒙适配不足，小说和之前文件无法查看",
+        "Actionable_Suggestion": "加快鸿蒙系统适配，确保数据兼容性和功能完整性"
+      },
+      {
+        "id": "com.tencent.mtthm_114",
+        "User_Pain_Point": "鸿蒙6系统下，无法用QQ浏览器打开微信安装包",
+        "Actionable_Suggestion": "适配鸿蒙6系统，支持打开微信安装包"
+      },
+      {
+        "id": "com.tencent.mtthm_134",
+        "User_Pain_Point": "鸿蒙系统升级后软件功能变差，且QQ音乐也有问题",
+        "Actionable_Suggestion": "优化鸿蒙系统适配，修复与QQ音乐等应用的兼容性"
+      },
+      {
+        "id": "com.tencent.mtthm_200",
+        "User_Pain_Point": "版本落后于安卓版，功能缺失",
+        "Actionable_Suggestion": "加快版本更新，缩小与安卓版功能差距，保持同步"
+      },
+      {
+        "id": "com.tencent.mtthm_247",
+        "User_Pain_Point": "应用不兼容Mate 80机型，导航栏显示异常。",
+        "Actionable_Suggestion": "适配Mate 80机型，确保导航栏正常显示。"
+      },
+      {
+        "id": "com.tencent.mtthm_260",
+        "User_Pain_Point": "升级鸿蒙系统后QQ浏览器小说会员无法打开",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复会员打开问题"
+      },
+      {
+        "id": "com.tencent.mtthm_282",
+        "User_Pain_Point": "不适配鸿蒙6.0版本。",
+        "Actionable_Suggestion": "适配鸿蒙6.0系统。"
+      },
+      {
+        "id": "com.tencent.mtthm_293",
+        "User_Pain_Point": "与鸿蒙4.2相比，部分小程序未适配",
+        "Actionable_Suggestion": "完善小程序适配，补充缺失的小程序"
+      },
+      {
+        "id": "com.tencent.mtthm_400",
+        "User_Pain_Point": "体验不符合鸿蒙特性（'点都不鸿蒙'）",
+        "Actionable_Suggestion": "提升鸿蒙系统适配性，优化用户体验"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.tencent.mtthm_2",
+        "User_Pain_Point": "刷新会卡顿",
+        "Actionable_Suggestion": "优化刷新性能，减少卡顿"
+      },
+      {
+        "id": "com.tencent.mtthm_7",
+        "User_Pain_Point": "普通的搜索老是说网络连接不上，搜索不出来",
+        "Actionable_Suggestion": "修复搜索时网络连接检测问题，确保正常搜索"
+      },
+      {
+        "id": "com.tencent.mtthm_34",
+        "User_Pain_Point": "私密文件存储和下载失败",
+        "Actionable_Suggestion": "修复私密文件存储和下载的异常问题，确保数据可正常存取"
+      },
+      {
+        "id": "com.tencent.mtthm_41",
+        "User_Pain_Point": "应用在后台耗电严重",
+        "Actionable_Suggestion": "优化后台进程管理，减少不必要的电量消耗"
+      },
+      {
+        "id": "com.tencent.mtthm_43",
+        "User_Pain_Point": "升级鸿蒙后所有文件资料丢失",
+        "Actionable_Suggestion": "修复升级过程中的数据迁移问题，确保用户资料不丢失"
+      },
+      {
+        "id": "com.tencent.mtthm_43",
+        "User_Pain_Point": "版本仓促应付，问题多",
+        "Actionable_Suggestion": "加强版本测试和质量控制，提供稳定可靠的更新"
+      },
+      {
+        "id": "com.tencent.mtthm_146",
+        "User_Pain_Point": "书架点击无反应，页面跳转异常",
+        "Actionable_Suggestion": "修复书架点击跳转错误"
+      },
+      {
+        "id": "com.tencent.mtthm_175",
+        "User_Pain_Point": "视频功能无法正常使用",
+        "Actionable_Suggestion": "修复视频播放功能，排查兼容性问题"
+      },
+      {
+        "id": "com.tencent.mtthm_213",
+        "User_Pain_Point": "更新后隐私空间数据丢失。",
+        "Actionable_Suggestion": "修复导致隐私空间数据丢失的Bug，确保数据安全。"
+      },
+      {
+        "id": "com.tencent.mtthm_230",
+        "User_Pain_Point": "升级后数据全部丢失",
+        "Actionable_Suggestion": "修复升级数据迁移问题，确保用户数据安全"
+      },
+      {
+        "id": "com.tencent.mtthm_234",
+        "User_Pain_Point": "听一会儿书就断，不稳定",
+        "Actionable_Suggestion": "修复听书功能断连问题，提升稳定性"
+      },
+      {
+        "id": "com.tencent.mtthm_249",
+        "User_Pain_Point": "应用反应慢，卡顿。",
+        "Actionable_Suggestion": "优化应用性能，减少响应时间。"
+      },
+      {
+        "id": "com.tencent.mtthm_259",
+        "User_Pain_Point": "看小说消耗大量流量（一天4-5G）",
+        "Actionable_Suggestion": "优化小说阅读的流量消耗"
+      },
+      {
+        "id": "com.tencent.mtthm_262",
+        "User_Pain_Point": "系统更新后TXT文件丢失或无法访问，担心数据安全。",
+        "Actionable_Suggestion": "优化更新机制，避免文件丢失；提供数据恢复方案或备份提示。"
+      },
+      {
+        "id": "com.tencent.mtthm_288",
+        "User_Pain_Point": "听小说听一下就断掉，不能连续播放。",
+        "Actionable_Suggestion": "修复连续播放问题，确保听小说不中断。"
+      },
+      {
+        "id": "com.tencent.mtthm_295",
+        "User_Pain_Point": "听书功能锁屏后反复重复播放一段内容",
+        "Actionable_Suggestion": "修复听书锁屏重复播放的bug"
+      },
+      {
+        "id": "com.tencent.mtthm_297",
+        "User_Pain_Point": "调节声音时出现卡顿",
+        "Actionable_Suggestion": "修复声音调节卡顿问题"
+      },
+      {
+        "id": "com.tencent.mtthm_306",
+        "User_Pain_Point": "用户文件丢失",
+        "Actionable_Suggestion": "检查文件管理逻辑，确保文件不丢失"
+      },
+      {
+        "id": "com.tencent.mtthm_308",
+        "User_Pain_Point": "视频缓存显示完成却重复下载，进度异常",
+        "Actionable_Suggestion": "修复视频缓存进度显示和重复下载的Bug"
+      },
+      {
+        "id": "com.tencent.mtthm_311",
+        "User_Pain_Point": "系统更新后文件、小说、文档全部丢失",
+        "Actionable_Suggestion": "修复更新导致的数据丢失问题，提供数据恢复方案"
+      },
+      {
+        "id": "com.tencent.mtthm_320",
+        "User_Pain_Point": "文件在更新后丢失",
+        "Actionable_Suggestion": "查明文件丢失原因，提供找回或恢复功能"
+      },
+      {
+        "id": "com.tencent.mtthm_323",
+        "User_Pain_Point": "文件内容改写后反复重储",
+        "Actionable_Suggestion": "优化文件改写存储机制，避免重复存储"
+      },
+      {
+        "id": "com.tencent.mtthm_338",
+        "User_Pain_Point": "听音乐时打开应用会中断播放",
+        "Actionable_Suggestion": "修复后台音频播放被中断的问题"
+      },
+      {
+        "id": "com.tencent.mtthm_345",
+        "User_Pain_Point": "系统更新导致下载视频丢失",
+        "Actionable_Suggestion": "避免更新导致数据丢失，提供数据恢复或备份功能"
+      },
+      {
+        "id": "com.tencent.mtthm_360",
+        "User_Pain_Point": "打开QQ浏览器时正在播放的音频会中断。",
+        "Actionable_Suggestion": "修复音频播放中断问题。"
+      },
+      {
+        "id": "com.tencent.mtthm_368",
+        "User_Pain_Point": "打开应用导致耳机音频中断",
+        "Actionable_Suggestion": "修复该bug，确保不中断其他应用音频"
+      },
+      {
+        "id": "com.tencent.mtthm_394",
+        "User_Pain_Point": "稳定性未得到改进",
+        "Actionable_Suggestion": "优化系统稳定性"
+      },
+      {
+        "id": "com.tencent.mtthm_432",
+        "User_Pain_Point": "听小说听一会就卡",
+        "Actionable_Suggestion": "优化播放性能和缓冲机制"
+      },
+      {
+        "id": "com.tencent.mtthm_433",
+        "User_Pain_Point": "熄屏后小说中断",
+        "Actionable_Suggestion": "实现后台播放不中断"
+      },
+      {
+        "id": "com.tencent.mtthm_442",
+        "User_Pain_Point": "私密空间中的文件丢失",
+        "Actionable_Suggestion": "修复文件丢失问题，恢复私密空间数据完好性"
+      },
+      {
+        "id": "com.tencent.mtthm_444",
+        "User_Pain_Point": "文件丢失",
+        "Actionable_Suggestion": "修复数据丢失问题，确保数据安全"
+      },
+      {
+        "id": "com.tencent.mtthm_450",
+        "User_Pain_Point": "文件丢失",
+        "Actionable_Suggestion": "修复文件丢失问题，恢复用户数据"
+      },
+      {
+        "id": "com.tencent.mtthm_452",
+        "User_Pain_Point": "更新后资料视频丢失",
+        "Actionable_Suggestion": "确保升级过程中数据不丢失，提供备份恢复方案"
+      },
+      {
+        "id": "com.tencent.mtthm_452",
+        "User_Pain_Point": "文件占用内存但找不到",
+        "Actionable_Suggestion": "修复存储管理bug，清理无效缓存"
+      },
+      {
+        "id": "com.tencent.mtthm_456",
+        "User_Pain_Point": "之前存的文件全部不见了",
+        "Actionable_Suggestion": "修复文件丢失问题，提供数据恢复工具"
+      },
+      {
+        "id": "com.tencent.mtthm_481",
+        "User_Pain_Point": "更新后所有文件都不见了",
+        "Actionable_Suggestion": "修复更新导致数据丢失的bug，加强数据备份机制"
+      },
+      {
+        "id": "com.tencent.mtthm_481",
+        "User_Pain_Point": "浏览速度差得惊人",
+        "Actionable_Suggestion": "优化浏览速度，提升性能"
+      },
+      {
+        "id": "com.tencent.mtthm_482",
+        "User_Pain_Point": "私密空间丢了，文件也没有了",
+        "Actionable_Suggestion": "修复私密空间丢失和数据丢失问题"
+      },
+      {
+        "id": "com.tencent.mtthm_488",
+        "User_Pain_Point": "啥数据都没了",
+        "Actionable_Suggestion": "修复数据丢失问题，确保更新不破坏用户数据"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.tencent.mtthm_362",
+        "User_Pain_Point": "更新后网页打开正常",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.tencent.mtthm_4",
+        "User_Pain_Point": "更新后不喜欢AI升级版，更喜欢旧版",
+        "Actionable_Suggestion": "考虑提供版本切换选项或优化AI升级版的用户体验"
+      },
+      {
+        "id": "com.tencent.mtthm_22",
+        "User_Pain_Point": "小说阅读界面不对称",
+        "Actionable_Suggestion": "优化小说阅读界面布局，使其对称"
+      },
+      {
+        "id": "com.tencent.mtthm_32",
+        "User_Pain_Point": "找不到小云盘入口",
+        "Actionable_Suggestion": "优化界面导航，增加小云盘入口的可见性或引导"
+      },
+      {
+        "id": "com.tencent.mtthm_38",
+        "User_Pain_Point": "找不到建立新文档的入口",
+        "Actionable_Suggestion": "优化文档创建入口的界面设计，增加明确按钮或引导"
+      },
+      {
+        "id": "com.tencent.mtthm_64",
+        "User_Pain_Point": "新建文件加号按钮消失",
+        "Actionable_Suggestion": "恢复新建文件加号按钮"
+      },
+      {
+        "id": "com.tencent.mtthm_87",
+        "User_Pain_Point": "工具栏没有了，很多使用性操作无法进行",
+        "Actionable_Suggestion": "恢复工具栏功能"
+      },
+      {
+        "id": "com.tencent.mtthm_115",
+        "User_Pain_Point": "界面变化后，照片文件难以找到",
+        "Actionable_Suggestion": "优化文件查找功能，或提供界面切换选项"
+      },
+      {
+        "id": "com.tencent.mtthm_119",
+        "User_Pain_Point": "文件找不到",
+        "Actionable_Suggestion": "优化文件管理界面，提供搜索或分类"
+      },
+      {
+        "id": "com.tencent.mtthm_145",
+        "User_Pain_Point": "没有全面屏设置选项",
+        "Actionable_Suggestion": "添加全面屏设置选项"
+      },
+      {
+        "id": "com.tencent.mtthm_161",
+        "User_Pain_Point": "用户找不到新建文件的位置",
+        "Actionable_Suggestion": "优化新建文件入口的可见性"
+      },
+      {
+        "id": "com.tencent.mtthm_182",
+        "User_Pain_Point": "页面改版，用户不喜欢新页面，希望恢复原样",
+        "Actionable_Suggestion": "恢复原来的页面设计"
+      },
+      {
+        "id": "com.tencent.mtthm_188",
+        "User_Pain_Point": "改版后新闻阅读体验差，无法阅读",
+        "Actionable_Suggestion": "优化新闻阅读体验，参考前版设计"
+      },
+      {
+        "id": "com.tencent.mtthm_194",
+        "User_Pain_Point": "更新后字体难看且无法更改",
+        "Actionable_Suggestion": "提供字体更换功能，允许用户选择多种字体样式和大小"
+      },
+      {
+        "id": "com.tencent.mtthm_198",
+        "User_Pain_Point": "字体不能调整，版本比之前难用",
+        "Actionable_Suggestion": "恢复字体调整功能，提供多种字体样式和粗细选项"
+      },
+      {
+        "id": "com.tencent.mtthm_215",
+        "User_Pain_Point": "夜间模式下评论区字体黑色看不清。",
+        "Actionable_Suggestion": "优化夜间模式评论区字体颜色，与正文一致变白。"
+      },
+      {
+        "id": "com.tencent.mtthm_224",
+        "User_Pain_Point": "界面搞得乱七八糟，不如上一版本",
+        "Actionable_Suggestion": "优化UI布局，回归简洁设计"
+      },
+      {
+        "id": "com.tencent.mtthm_232",
+        "User_Pain_Point": "改版导致不适应，想改回旧版",
+        "Actionable_Suggestion": "提供切换回旧版的选项或优化新界面"
+      },
+      {
+        "id": "com.tencent.mtthm_247",
+        "User_Pain_Point": "导航栏缺失，只有主页无法切换。",
+        "Actionable_Suggestion": "优化导航栏设计，提供清晰的导航结构。"
+      },
+      {
+        "id": "com.tencent.mtthm_250",
+        "User_Pain_Point": "主页布局设计差，内容难找，用户讨厌当前主页。",
+        "Actionable_Suggestion": "重新设计主页布局，提高信息查找效率。"
+      },
+      {
+        "id": "com.tencent.mtthm_263",
+        "User_Pain_Point": "首页内容为空，分类不清晰，影响使用。",
+        "Actionable_Suggestion": "恢复首页内容推荐，优化分类展示逻辑，使用户易于浏览。"
+      },
+      {
+        "id": "com.tencent.mtthm_265",
+        "User_Pain_Point": "缺少推荐内容，需要手动搜索新闻资讯，导航页改变。",
+        "Actionable_Suggestion": "恢复推荐内容模块，提供新闻资讯默认展示；允许用户设置传统导航页。"
+      },
+      {
+        "id": "com.tencent.mtthm_269",
+        "User_Pain_Point": "无法设置回以前的传统页面布局。",
+        "Actionable_Suggestion": "增加页面布局设置选项，允许用户切换回传统版本。"
+      },
+      {
+        "id": "com.tencent.mtthm_284",
+        "User_Pain_Point": "首页不见了。",
+        "Actionable_Suggestion": "恢复首页显示。"
+      },
+      {
+        "id": "com.tencent.mtthm_290",
+        "User_Pain_Point": "更新后找不到个人中心。",
+        "Actionable_Suggestion": "恢复个人中心入口，或改善导航。"
+      },
+      {
+        "id": "com.tencent.mtthm_294",
+        "User_Pain_Point": "界面不能放大缩小",
+        "Actionable_Suggestion": "恢复界面放大缩小功能"
+      },
+      {
+        "id": "com.tencent.mtthm_334",
+        "User_Pain_Point": "导航栏消失",
+        "Actionable_Suggestion": "恢复导航栏或提供替代导航方式"
+      },
+      {
+        "id": "com.tencent.mtthm_347",
+        "User_Pain_Point": "App图标不够简洁",
+        "Actionable_Suggestion": "优化App图标设计，使其更简洁"
+      },
+      {
+        "id": "com.tencent.mtthm_366",
+        "User_Pain_Point": "页面过度简化导致常用功能找不到",
+        "Actionable_Suggestion": "优化页面布局，在简洁与功能易用间取得平衡，保留常用功能入口"
+      },
+      {
+        "id": "com.tencent.mtthm_370",
+        "User_Pain_Point": "桌面设计改变，用户希望恢复旧版",
+        "Actionable_Suggestion": "提供旧版桌面选项或收集用户偏好进行调整"
+      },
+      {
+        "id": "com.tencent.mtthm_413",
+        "User_Pain_Point": "界面和字体太简洁",
+        "Actionable_Suggestion": "提供字体大小或样式选择，增加界面定制选项"
+      },
+      {
+        "id": "com.tencent.mtthm_437",
+        "User_Pain_Point": "书架不直观",
+        "Actionable_Suggestion": "优化书架界面设计，提高直观性"
+      },
+      {
+        "id": "com.tencent.mtthm_438",
+        "User_Pain_Point": "底部排版不协调",
+        "Actionable_Suggestion": "优化底部排版，使其更协调"
+      },
+      {
+        "id": "com.tencent.mtthm_441",
+        "User_Pain_Point": "页面很简陋",
+        "Actionable_Suggestion": "优化页面设计，增加视觉元素"
+      },
+      {
+        "id": "com.tencent.mtthm_447",
+        "User_Pain_Point": "搜索框设计不美观，影响使用心情",
+        "Actionable_Suggestion": "改进搜索框外观，或提供更丰富的界面"
+      },
+      {
+        "id": "com.tencent.mtthm_456",
+        "User_Pain_Point": "页面变得奇怪，像AI智能，体验感不好",
+        "Actionable_Suggestion": "优化页面布局，减少AI介入，提供传统界面选项"
+      },
+      {
+        "id": "com.tencent.mtthm_477",
+        "User_Pain_Point": "首页和我的界面都不见了",
+        "Actionable_Suggestion": "恢复首页和我的界面"
+      },
+      {
+        "id": "com.tencent.mtthm_477",
+        "User_Pain_Point": "想换个背景都不知道去哪换",
+        "Actionable_Suggestion": "增加背景设置入口或说明"
+      },
+      {
+        "id": "com.tencent.mtthm_485",
+        "User_Pain_Point": "新闻热点放在首页上，但找不到在哪里",
+        "Actionable_Suggestion": "优化新闻热点入口的UI位置，使其易于发现"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.tencent.mtthm_344",
+        "User_Pain_Point": "文件转换界面设计不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_374",
+        "User_Pain_Point": "页面简洁",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.tencent.mtthm_1",
+        "User_Pain_Point": "反馈多次没解决私密文件问题",
+        "Actionable_Suggestion": "加强反馈处理机制，及时响应用户问题"
+      },
+      {
+        "id": "com.tencent.mtthm_12",
+        "User_Pain_Point": "版本更新速度太慢，用户体验差。",
+        "Actionable_Suggestion": "加快版本迭代频率，及时发布新功能。"
+      },
+      {
+        "id": "com.tencent.mtthm_37",
+        "User_Pain_Point": "更新了看小说定时看广告功能，用户不期望此功能",
+        "Actionable_Suggestion": "减少广告干扰，优化广告展示方式或提供取消选项"
+      },
+      {
+        "id": "com.tencent.mtthm_52",
+        "User_Pain_Point": "更新后广告重新出现",
+        "Actionable_Suggestion": "减少广告展示频率，或允许用户通过设置关闭广告。"
+      },
+      {
+        "id": "com.tencent.mtthm_53",
+        "User_Pain_Point": "升级鸿蒙系统后会员权益丢失",
+        "Actionable_Suggestion": "修复会员数据迁移问题，确保用户在升级后保留原有会员权益。"
+      },
+      {
+        "id": "com.tencent.mtthm_69",
+        "User_Pain_Point": "更新频繁但功能无变化，更新提示不明确",
+        "Actionable_Suggestion": "减少无功能变更的更新频率，并提供详细更新日志"
+      },
+      {
+        "id": "com.tencent.mtthm_94",
+        "User_Pain_Point": "腾讯无法做好无广告、不暴露隐私的APP",
+        "Actionable_Suggestion": "加强隐私保护和减少广告"
+      },
+      {
+        "id": "com.tencent.mtthm_98",
+        "User_Pain_Point": "不允许用户下载安卓版APP，缺乏选择权",
+        "Actionable_Suggestion": "开放安卓版下载渠道或提供其他选择"
+      },
+      {
+        "id": "com.tencent.mtthm_117",
+        "User_Pain_Point": "看小说时出现广告",
+        "Actionable_Suggestion": "减少或优化广告展示"
+      },
+      {
+        "id": "com.tencent.mtthm_144",
+        "User_Pain_Point": "广告越来越多",
+        "Actionable_Suggestion": "减少广告或提供去广告选项"
+      },
+      {
+        "id": "com.tencent.mtthm_176",
+        "User_Pain_Point": "小说页面广告过多",
+        "Actionable_Suggestion": "减少广告数量，优化广告展示频率"
+      },
+      {
+        "id": "com.tencent.mtthm_179",
+        "User_Pain_Point": "小说太多广告",
+        "Actionable_Suggestion": "减少广告数量，优化广告展示频率"
+      },
+      {
+        "id": "com.tencent.mtthm_202",
+        "User_Pain_Point": "广告过多",
+        "Actionable_Suggestion": "减少广告数量"
+      },
+      {
+        "id": "com.tencent.mtthm_240",
+        "User_Pain_Point": "小说中广告过多，影响体验",
+        "Actionable_Suggestion": "减少广告插入或提供去广告选项"
+      },
+      {
+        "id": "com.tencent.mtthm_250",
+        "User_Pain_Point": "无更新提示却要求用户更新到最新版本。",
+        "Actionable_Suggestion": "优化更新提示机制，确保用户能正常接收更新通知。"
+      },
+      {
+        "id": "com.tencent.mtthm_270",
+        "User_Pain_Point": "小说畅读卡年卡权益消失。",
+        "Actionable_Suggestion": "核查会员权益，恢复小说畅读卡年卡功能或提供补偿方案。"
+      },
+      {
+        "id": "com.tencent.mtthm_270",
+        "User_Pain_Point": "广告过多，影响使用体验。",
+        "Actionable_Suggestion": "减少广告投放频率或提供去广告选项，提升用户体验。"
+      },
+      {
+        "id": "com.tencent.mtthm_298",
+        "User_Pain_Point": "改版不伦不类，体验差",
+        "Actionable_Suggestion": "考虑出原版和AI改版两个版本供用户选择"
+      },
+      {
+        "id": "com.tencent.mtthm_305",
+        "User_Pain_Point": "自动更新未通知用户",
+        "Actionable_Suggestion": "增加自动更新提醒或由用户控制更新"
+      },
+      {
+        "id": "com.tencent.mtthm_378",
+        "User_Pain_Point": "希望平台提高更多服务，当前服务不足",
+        "Actionable_Suggestion": "提供更多服务，满足用户需求"
+      },
+      {
+        "id": "com.tencent.mtthm_388",
+        "User_Pain_Point": "先出现广告而非正常内容更新",
+        "Actionable_Suggestion": "优化内容更新与广告展示顺序，优先更新用户所需内容"
+      },
+      {
+        "id": "com.tencent.mtthm_389",
+        "User_Pain_Point": "广告更新快而小说功能更新慢",
+        "Actionable_Suggestion": "平衡广告与功能更新节奏，优先完善核心功能"
+      },
+      {
+        "id": "com.tencent.mtthm_391",
+        "User_Pain_Point": "小说有广告",
+        "Actionable_Suggestion": "减少或去除广告"
+      },
+      {
+        "id": "com.tencent.mtthm_393",
+        "User_Pain_Point": "更新后出现广告",
+        "Actionable_Suggestion": "减少或去除广告"
+      },
+      {
+        "id": "com.tencent.mtthm_394",
+        "User_Pain_Point": "增加过多广告",
+        "Actionable_Suggestion": "减少广告数量"
+      },
+      {
+        "id": "com.tencent.mtthm_395",
+        "User_Pain_Point": "出现广告",
+        "Actionable_Suggestion": "去除广告"
+      },
+      {
+        "id": "com.tencent.mtthm_397",
+        "User_Pain_Point": "更新后增加广告",
+        "Actionable_Suggestion": "减少或去除广告"
+      },
+      {
+        "id": "com.tencent.mtthm_398",
+        "User_Pain_Point": "更新后小说出现广告",
+        "Actionable_Suggestion": "减少或去除广告"
+      },
+      {
+        "id": "com.tencent.mtthm_399",
+        "User_Pain_Point": "更新后出现小说广告",
+        "Actionable_Suggestion": "减少或去除广告"
+      },
+      {
+        "id": "com.tencent.mtthm_400",
+        "User_Pain_Point": "看小说有广告",
+        "Actionable_Suggestion": "去除广告"
+      },
+      {
+        "id": "com.tencent.mtthm_401",
+        "User_Pain_Point": "广告先来了",
+        "Actionable_Suggestion": "暂缓广告投放，优先完善功能"
+      },
+      {
+        "id": "com.tencent.mtthm_402",
+        "User_Pain_Point": "强制推广AI，干扰用户",
+        "Actionable_Suggestion": "取消强制推广，或提供关闭选项"
+      },
+      {
+        "id": "com.tencent.mtthm_403",
+        "User_Pain_Point": "小说广告影响体验",
+        "Actionable_Suggestion": "完善功能后再考虑广告，减少广告打扰"
+      },
+      {
+        "id": "com.tencent.mtthm_404",
+        "User_Pain_Point": "内置广告",
+        "Actionable_Suggestion": "减少或去除广告"
+      },
+      {
+        "id": "com.tencent.mtthm_405",
+        "User_Pain_Point": "看小说出现广告",
+        "Actionable_Suggestion": "优化广告展示，减少打扰"
+      },
+      {
+        "id": "com.tencent.mtthm_406",
+        "User_Pain_Point": "版本更新后出现广告",
+        "Actionable_Suggestion": "减少广告"
+      },
+      {
+        "id": "com.tencent.mtthm_407",
+        "User_Pain_Point": "新版本出现广告，不好用了",
+        "Actionable_Suggestion": "去除或减少广告"
+      },
+      {
+        "id": "com.tencent.mtthm_417",
+        "User_Pain_Point": "app内无法反馈",
+        "Actionable_Suggestion": "完善app内反馈入口"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.tencent.mtthm_178",
+        "User_Pain_Point": "限制广告的功能很好",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.tencent.mtthm_24",
+        "User_Pain_Point": "用户表示不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_65",
+        "User_Pain_Point": "登录更灵敏了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_70",
+        "User_Pain_Point": "比安卓干净",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_84",
+        "User_Pain_Point": "什么都能看，内容全面",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_121",
+        "User_Pain_Point": "很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_163",
+        "User_Pain_Point": "AI非常智能",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_218",
+        "User_Pain_Point": "用户觉得应用挺好用。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_317",
+        "User_Pain_Point": "用户对产品评价不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_353",
+        "User_Pain_Point": "真流畅啊！牛逼。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_381",
+        "User_Pain_Point": "非常棒，简洁好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_383",
+        "User_Pain_Point": "简洁好用智能，无广告",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_412",
+        "User_Pain_Point": "界面设计和安卓平台一致，广告比系统浏览器少",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_437",
+        "User_Pain_Point": "小说畅读是选择浏览器的唯一原因",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mtthm_472",
+        "User_Pain_Point": "挺好的，简洁好用，没有乱七八糟的东西",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.tencent.mtthm_9",
+        "User_Pain_Point": "小说功能不如安卓版，不如开其他会员",
+        "Actionable_Suggestion": "优化小说功能，提升内容生态体验，缩小与安卓版差距"
+      },
+      {
+        "id": "com.tencent.mtthm_72",
+        "User_Pain_Point": "推荐和小说内容不符合需求，希望完全删除，恢复简洁版本。",
+        "Actionable_Suggestion": "提供无推荐和小说内容的简洁版本，或允许用户自定义内容显示。"
+      },
+      {
+        "id": "com.tencent.mtthm_196",
+        "User_Pain_Point": "小说推荐内容长时间不刷新，显示固定几本",
+        "Actionable_Suggestion": "优化推荐算法，增加手动刷新按钮或自动更新机制"
+      },
+      {
+        "id": "com.tencent.mtthm_333",
+        "User_Pain_Point": "新闻内容完全不可见",
+        "Actionable_Suggestion": "恢复新闻内容提供，或说明内容调整原因"
+      },
+      {
+        "id": "com.tencent.mtthm_334",
+        "User_Pain_Point": "大量内容缺失",
+        "Actionable_Suggestion": "恢复缺失的内容服务，如新闻、视频等"
+      },
+      {
+        "id": "com.tencent.mtthm_335",
+        "User_Pain_Point": "新闻视频内容被阉割",
+        "Actionable_Suggestion": "恢复新闻和视频内容"
+      },
+      {
+        "id": "com.tencent.mtthm_350",
+        "User_Pain_Point": "缺少足球和NBA新闻",
+        "Actionable_Suggestion": "增加足球、NBA等新闻内容"
+      },
+      {
+        "id": "com.tencent.mtthm_380",
+        "User_Pain_Point": "缺乏新闻、短视频等内容",
+        "Actionable_Suggestion": "增加新闻、短视频等内容板块"
+      },
+      {
+        "id": "com.tencent.mtthm_422",
+        "User_Pain_Point": "没有看新闻的",
+        "Actionable_Suggestion": "增加新闻资讯板块，提供丰富新闻内容"
+      },
+      {
+        "id": "com.tencent.mtthm_424",
+        "User_Pain_Point": "新闻资讯什么的都看不了",
+        "Actionable_Suggestion": "恢复新闻资讯功能，确保正常访问"
+      },
+      {
+        "id": "com.tencent.mtthm_428",
+        "User_Pain_Point": "原来打开可以看新闻，现在打开新闻跑哪去了？",
+        "Actionable_Suggestion": "恢复新闻功能，保持功能一致性"
+      },
+      {
+        "id": "com.tencent.mtthm_434",
+        "User_Pain_Point": "没有新闻内容",
+        "Actionable_Suggestion": "恢复新闻功能或提供新闻入口"
+      },
+      {
+        "id": "com.tencent.mtthm_439",
+        "User_Pain_Point": "更新后新闻页面没了",
+        "Actionable_Suggestion": "恢复新闻页面"
+      },
+      {
+        "id": "com.tencent.mtthm_446",
+        "User_Pain_Point": "找不到自带的推荐网页推荐的新闻实事",
+        "Actionable_Suggestion": "恢复或优化新闻推荐功能"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.tencent.mtthm_298",
+        "User_Pain_Point": "海量免费小说是浏览器亮点",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  }
+}

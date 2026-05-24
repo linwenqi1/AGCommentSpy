@@ -1,0 +1,3324 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.tencent.wechat_1",
+        "User_Pain_Point": "小程序不能多开，回复微信消息需退出，影响效率。",
+        "Actionable_Suggestion": "恢复小程序多开功能，允许分窗口显示。"
+      },
+      {
+        "id": "com.tencent.wechat_2",
+        "User_Pain_Point": "缺少来电铃声更新功能。",
+        "Actionable_Suggestion": "增加来电铃声更新功能。"
+      },
+      {
+        "id": "com.tencent.wechat_3",
+        "User_Pain_Point": "视频号功能不完善。",
+        "Actionable_Suggestion": "完善视频号功能。"
+      },
+      {
+        "id": "com.tencent.wechat_4",
+        "User_Pain_Point": "小功能不完善，期望改进。",
+        "Actionable_Suggestion": "持续完善小功能。"
+      },
+      {
+        "id": "com.tencent.wechat_5",
+        "User_Pain_Point": "最新版本取消了语音视频通话时发语音和听语音功能。",
+        "Actionable_Suggestion": "恢复语音视频通话时发语音和听语音功能。"
+      },
+      {
+        "id": "com.tencent.wechat_8",
+        "User_Pain_Point": "视频号不支持小窗口显示。",
+        "Actionable_Suggestion": "增加视频号小窗口显示功能。"
+      },
+      {
+        "id": "com.tencent.wechat_10",
+        "User_Pain_Point": "置顶功能无法取消不需要的置顶。",
+        "Actionable_Suggestion": "增加取消置顶功能，或提供管理置顶的选项。"
+      },
+      {
+        "id": "com.tencent.wechat_11",
+        "User_Pain_Point": "微信加好友没有提示",
+        "Actionable_Suggestion": "增加加好友提示功能"
+      },
+      {
+        "id": "com.tencent.wechat_12",
+        "User_Pain_Point": "缺少微信提醒功能",
+        "Actionable_Suggestion": "增加提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_12",
+        "User_Pain_Point": "缺少指纹支付功能",
+        "Actionable_Suggestion": "增加指纹支付功能"
+      },
+      {
+        "id": "com.tencent.wechat_14",
+        "User_Pain_Point": "缺少消息提醒功能",
+        "Actionable_Suggestion": "增加消息提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_14",
+        "User_Pain_Point": "缺少文件预览功能",
+        "Actionable_Suggestion": "增加文件预览功能"
+      },
+      {
+        "id": "com.tencent.wechat_14",
+        "User_Pain_Point": "缺少浮窗功能",
+        "Actionable_Suggestion": "增加浮窗功能"
+      },
+      {
+        "id": "com.tencent.wechat_15",
+        "User_Pain_Point": "转发信息找不到企业微信",
+        "Actionable_Suggestion": "增加转发到企业微信的功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "微信联系人无法添加到桌面",
+        "Actionable_Suggestion": "增加添加到桌面功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "无法设置铃声",
+        "Actionable_Suggestion": "增加设置铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "无法设置状态",
+        "Actionable_Suggestion": "增加设置状态功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "我的小程序无法自定义排序",
+        "Actionable_Suggestion": "增加自定义排序功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "新建对话不能直接保存草稿",
+        "Actionable_Suggestion": "增加保存草稿功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "语音没有直接转文字按钮",
+        "Actionable_Suggestion": "增加语音转文字按钮"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "无最近使用表情，聊天文字不能弹出对应表情",
+        "Actionable_Suggestion": "增加最近使用表情和文字弹出表情功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "群消息无法置顶",
+        "Actionable_Suggestion": "增加群消息置顶功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "朋友圈中无法打开链接",
+        "Actionable_Suggestion": "增加朋友圈打开链接功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "语音通话对方接通无振动提示",
+        "Actionable_Suggestion": "增加振动提示功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "收藏中无法新建笔记",
+        "Actionable_Suggestion": "增加新建笔记功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "群公告图片无法查看",
+        "Actionable_Suggestion": "增加群公告图片查看功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "位置无法发送到车机导航",
+        "Actionable_Suggestion": "增加发送位置到车机导航功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "语音聊天对话框，返回之后不能保留",
+        "Actionable_Suggestion": "增加对话框保留功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "朋友圈点赞无法设置不再通知",
+        "Actionable_Suggestion": "增加不再通知设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "对话框无语音转文字按钮",
+        "Actionable_Suggestion": "增加语音转文字按钮"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "不能直接切换登陆账号",
+        "Actionable_Suggestion": "增加切换账号功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "无法更新实名认证",
+        "Actionable_Suggestion": "增加更新实名认证功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "对话框无法发送收藏内容",
+        "Actionable_Suggestion": "增加发送收藏内容功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "对话框没有语音按钮",
+        "Actionable_Suggestion": "增加语音按钮"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "搜索框不能置顶",
+        "Actionable_Suggestion": "增加搜索框置顶功能"
+      },
+      {
+        "id": "com.tencent.wechat_16",
+        "User_Pain_Point": "收藏的小程序无法直接点击发送，需打开之后才能发送",
+        "Actionable_Suggestion": "增加直接发送收藏小程序功能"
+      },
+      {
+        "id": "com.tencent.wechat_17",
+        "User_Pain_Point": "无法更改提示音",
+        "Actionable_Suggestion": "增加提示音更改功能"
+      },
+      {
+        "id": "com.tencent.wechat_18",
+        "User_Pain_Point": "缺少左上角浮窗功能",
+        "Actionable_Suggestion": "增加浮窗功能"
+      },
+      {
+        "id": "com.tencent.wechat_19",
+        "User_Pain_Point": "视频通话期间不能听语音消息",
+        "Actionable_Suggestion": "恢复视频通话期间听语音消息功能"
+      },
+      {
+        "id": "com.tencent.wechat_20",
+        "User_Pain_Point": "不显示好友男女图标",
+        "Actionable_Suggestion": "增加显示好友性别图标功能"
+      },
+      {
+        "id": "com.tencent.wechat_20",
+        "User_Pain_Point": "不显示好友共同群聊",
+        "Actionable_Suggestion": "增加显示共同群聊功能"
+      },
+      {
+        "id": "com.tencent.wechat_20",
+        "User_Pain_Point": "不显示好友视频号",
+        "Actionable_Suggestion": "增加显示好友视频号功能"
+      },
+      {
+        "id": "com.tencent.wechat_21",
+        "User_Pain_Point": "微信缺少背景铃声功能，用户不习惯没有铃声。",
+        "Actionable_Suggestion": "增加背景铃声设置功能，允许用户自定义铃声。"
+      },
+      {
+        "id": "com.tencent.wechat_22",
+        "User_Pain_Point": "视频号视频评论看不到图片。",
+        "Actionable_Suggestion": "恢复视频评论区图片显示功能。"
+      },
+      {
+        "id": "com.tencent.wechat_23",
+        "User_Pain_Point": "不能直接到消息界面。",
+        "Actionable_Suggestion": "优化通知点击跳转逻辑，确保直接进入消息界面。"
+      },
+      {
+        "id": "com.tencent.wechat_23",
+        "User_Pain_Point": "不能显示视频评论图片。",
+        "Actionable_Suggestion": "恢复视频评论区图片显示功能。"
+      },
+      {
+        "id": "com.tencent.wechat_23",
+        "User_Pain_Point": "看视频不能滑动。",
+        "Actionable_Suggestion": "修复视频播放页面滑动功能。"
+      },
+      {
+        "id": "com.tencent.wechat_24",
+        "User_Pain_Point": "小程序看文章不能弹窗，来消息必须退出文章回复。",
+        "Actionable_Suggestion": "增加小程序内浮窗或小窗功能，允许用户在不退出文章的情况下回复消息。"
+      },
+      {
+        "id": "com.tencent.wechat_25",
+        "User_Pain_Point": "看不了动态图。",
+        "Actionable_Suggestion": "支持动态图（GIF）显示。"
+      },
+      {
+        "id": "com.tencent.wechat_26",
+        "User_Pain_Point": "微信封面不支持视频和图片设置。",
+        "Actionable_Suggestion": "增加微信封面支持视频和图片设置功能。"
+      },
+      {
+        "id": "com.tencent.wechat_27",
+        "User_Pain_Point": "评论区不能看图片，希望恢复。",
+        "Actionable_Suggestion": "恢复评论区图片显示功能。"
+      },
+      {
+        "id": "com.tencent.wechat_28",
+        "User_Pain_Point": "缺少自定义铃声功能。",
+        "Actionable_Suggestion": "增加自定义铃声设置功能。"
+      },
+      {
+        "id": "com.tencent.wechat_29",
+        "User_Pain_Point": "看直播不能领红包。",
+        "Actionable_Suggestion": "增加直播领红包功能。"
+      },
+      {
+        "id": "com.tencent.wechat_30",
+        "User_Pain_Point": "来消息时不显示图片。",
+        "Actionable_Suggestion": "增加通知中显示图片预览或弹窗图片功能。"
+      },
+      {
+        "id": "com.tencent.wechat_31",
+        "User_Pain_Point": "朋友圈封面看不到",
+        "Actionable_Suggestion": "修复朋友圈封面显示问题"
+      },
+      {
+        "id": "com.tencent.wechat_33",
+        "User_Pain_Point": "有的链接显示不了",
+        "Actionable_Suggestion": "修复链接显示问题"
+      },
+      {
+        "id": "com.tencent.wechat_33",
+        "User_Pain_Point": "游戏链接发不了",
+        "Actionable_Suggestion": "支持发送游戏链接"
+      },
+      {
+        "id": "com.tencent.wechat_34",
+        "User_Pain_Point": "没有香港钱包功能",
+        "Actionable_Suggestion": "增加香港钱包功能"
+      },
+      {
+        "id": "com.tencent.wechat_35",
+        "User_Pain_Point": "视频号不能领券",
+        "Actionable_Suggestion": "视频号增加领券功能"
+      },
+      {
+        "id": "com.tencent.wechat_35",
+        "User_Pain_Point": "视频号不能领红包",
+        "Actionable_Suggestion": "视频号增加领红包功能"
+      },
+      {
+        "id": "com.tencent.wechat_35",
+        "User_Pain_Point": "视频号不能收私信",
+        "Actionable_Suggestion": "视频号增加收私信功能"
+      },
+      {
+        "id": "com.tencent.wechat_37",
+        "User_Pain_Point": "视频号看不到通知和信息",
+        "Actionable_Suggestion": "视频号增加通知和信息查看功能"
+      },
+      {
+        "id": "com.tencent.wechat_39",
+        "User_Pain_Point": "微信不能设置来电铃声",
+        "Actionable_Suggestion": "增加设置来电铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_40",
+        "User_Pain_Point": "鸿蒙视频通话无美颜，效果差",
+        "Actionable_Suggestion": "视频通话增加美颜功能"
+      },
+      {
+        "id": "com.tencent.wechat_41",
+        "User_Pain_Point": "视频号功能不完善，希望尽快完善",
+        "Actionable_Suggestion": "完善视频号功能"
+      },
+      {
+        "id": "com.tencent.wechat_42",
+        "User_Pain_Point": "需要聊天内容置顶和一键转发到企业微信",
+        "Actionable_Suggestion": "增加聊天置顶和一键转发功能"
+      },
+      {
+        "id": "com.tencent.wechat_43",
+        "User_Pain_Point": "视频号作品无删除入口",
+        "Actionable_Suggestion": "增加删除视频号作品入口"
+      },
+      {
+        "id": "com.tencent.wechat_44",
+        "User_Pain_Point": "微信提醒功能缺失",
+        "Actionable_Suggestion": "尽快跟进安卓版提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_45",
+        "User_Pain_Point": "无法设置微信铃声",
+        "Actionable_Suggestion": "恢复铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_46",
+        "User_Pain_Point": "无法设置铃声",
+        "Actionable_Suggestion": "尽快增加铃声设置"
+      },
+      {
+        "id": "com.tencent.wechat_47",
+        "User_Pain_Point": "朋友圈无法替换原声带音乐",
+        "Actionable_Suggestion": "增加朋友圈音乐替换功能"
+      },
+      {
+        "id": "com.tencent.wechat_48",
+        "User_Pain_Point": "缺少沉浸光感功能",
+        "Actionable_Suggestion": "尽快支持沉浸光感"
+      },
+      {
+        "id": "com.tencent.wechat_49",
+        "User_Pain_Point": "无法设置来电铃声",
+        "Actionable_Suggestion": "增加铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_50",
+        "User_Pain_Point": "微信版本太低，缺少附近人、朋友圈视频音乐、修图功能",
+        "Actionable_Suggestion": "升级版本，增加相关功能"
+      },
+      {
+        "id": "com.tencent.wechat_51",
+        "User_Pain_Point": "微信铃声不支持鸿蒙系统",
+        "Actionable_Suggestion": "增加鸿蒙系统微信铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_52",
+        "User_Pain_Point": "朋友圈屏蔽人数上限未增加",
+        "Actionable_Suggestion": "增加朋友圈屏蔽人数上限"
+      },
+      {
+        "id": "com.tencent.wechat_52",
+        "User_Pain_Point": "图片编辑功能消失",
+        "Actionable_Suggestion": "恢复图片编辑功能"
+      },
+      {
+        "id": "com.tencent.wechat_53",
+        "User_Pain_Point": "无法顺利注销微信号",
+        "Actionable_Suggestion": "简化注销流程或修复注销功能"
+      },
+      {
+        "id": "com.tencent.wechat_54",
+        "User_Pain_Point": "位置共享没有提示音",
+        "Actionable_Suggestion": "添加位置共享提示音"
+      },
+      {
+        "id": "com.tencent.wechat_54",
+        "User_Pain_Point": "位置共享接通后没有刷新位置的按钮",
+        "Actionable_Suggestion": "添加位置共享刷新按钮"
+      },
+      {
+        "id": "com.tencent.wechat_55",
+        "User_Pain_Point": "不支持发动图",
+        "Actionable_Suggestion": "增加发动图功能"
+      },
+      {
+        "id": "com.tencent.wechat_56",
+        "User_Pain_Point": "评论图片无法查看",
+        "Actionable_Suggestion": "修复评论图片显示功能"
+      },
+      {
+        "id": "com.tencent.wechat_57",
+        "User_Pain_Point": "视频号无法查看别人点赞和私聊",
+        "Actionable_Suggestion": "修复视频号点赞和私聊功能"
+      },
+      {
+        "id": "com.tencent.wechat_58",
+        "User_Pain_Point": "朋友圈视频号无法查看",
+        "Actionable_Suggestion": "修复朋友圈视频号查看功能"
+      },
+      {
+        "id": "com.tencent.wechat_58",
+        "User_Pain_Point": "转发的外部链接文章无法查看",
+        "Actionable_Suggestion": "修复外部链接文章查看功能"
+      },
+      {
+        "id": "com.tencent.wechat_58",
+        "User_Pain_Point": "微信来电铃声无法设置",
+        "Actionable_Suggestion": "添加来电铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_58",
+        "User_Pain_Point": "收到新消息需下拉刷新才能刷出来",
+        "Actionable_Suggestion": "优化消息刷新机制实现自动刷新"
+      },
+      {
+        "id": "com.tencent.wechat_59",
+        "User_Pain_Point": "不支持打开图片动态",
+        "Actionable_Suggestion": "增加图片动态打开功能"
+      },
+      {
+        "id": "com.tencent.wechat_61",
+        "User_Pain_Point": "小程序欢乐斗地主看广告卡得很，画面都没法显示，点几次才有反应",
+        "Actionable_Suggestion": "优化广告加载和渲染性能，确保画面正常显示"
+      },
+      {
+        "id": "com.tencent.wechat_62",
+        "User_Pain_Point": "微信语音消息靠近及离开耳朵时不会自动切换听筒播放和扬声器播放",
+        "Actionable_Suggestion": "修复距离传感器自动切换功能，实现靠近听筒、离开扬声器"
+      },
+      {
+        "id": "com.tencent.wechat_63",
+        "User_Pain_Point": "收藏夹里的搜索功能不能使用",
+        "Actionable_Suggestion": "修复收藏夹搜索功能，使其正常工作"
+      },
+      {
+        "id": "com.tencent.wechat_64",
+        "User_Pain_Point": "手机锁屏接微信视频，还得开锁",
+        "Actionable_Suggestion": "支持锁屏状态下直接接听视频，无需解锁"
+      },
+      {
+        "id": "com.tencent.wechat_65",
+        "User_Pain_Point": "收款码不能设置指纹支付",
+        "Actionable_Suggestion": "增加收款码指纹支付设置选项"
+      },
+      {
+        "id": "com.tencent.wechat_66",
+        "User_Pain_Point": "个人或群消息，搜索图片与视频后，不能批量选择删除图片与视频",
+        "Actionable_Suggestion": "增加批量选择删除图片和视频的功能"
+      },
+      {
+        "id": "com.tencent.wechat_66",
+        "User_Pain_Point": "直播不能切换清晰度",
+        "Actionable_Suggestion": "增加直播清晰度切换选项，以节省流量"
+      },
+      {
+        "id": "com.tencent.wechat_66",
+        "User_Pain_Point": "播放视频内容不能切换横屏播放",
+        "Actionable_Suggestion": "增加视频横屏播放功能，支持自动旋转"
+      },
+      {
+        "id": "com.tencent.wechat_66",
+        "User_Pain_Point": "不能查看别人视频号内容或评论的点赞与爱心历史记录",
+        "Actionable_Suggestion": "增加查看点赞和爱心历史记录的功能"
+      },
+      {
+        "id": "com.tencent.wechat_68",
+        "User_Pain_Point": "微信搜索手机号查不出来",
+        "Actionable_Suggestion": "修复搜索功能，支持手机号直接查找用户"
+      },
+      {
+        "id": "com.tencent.wechat_69",
+        "User_Pain_Point": "浮窗功能还未上线",
+        "Actionable_Suggestion": "尽快开发并上线浮窗功能"
+      },
+      {
+        "id": "com.tencent.wechat_70",
+        "User_Pain_Point": "朋友圈发图片不能发布原图",
+        "Actionable_Suggestion": "增加发朋友圈时发送原图选项"
+      },
+      {
+        "id": "com.tencent.wechat_71",
+        "User_Pain_Point": "微信查看原图功能缺失",
+        "Actionable_Suggestion": "恢复查看原图功能"
+      },
+      {
+        "id": "com.tencent.wechat_72",
+        "User_Pain_Point": "缺少聊天框提醒功能",
+        "Actionable_Suggestion": "增加聊天框提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_73",
+        "User_Pain_Point": "视频号功能不全",
+        "Actionable_Suggestion": "完善视频号功能"
+      },
+      {
+        "id": "com.tencent.wechat_74",
+        "User_Pain_Point": "语音通话没有提醒",
+        "Actionable_Suggestion": "添加语音通话提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_75",
+        "User_Pain_Point": "功能与Android版有差距，缺少实用功能",
+        "Actionable_Suggestion": "对标Android版增加实用功能"
+      },
+      {
+        "id": "com.tencent.wechat_75",
+        "User_Pain_Point": "不能按时间线删除消息记录",
+        "Actionable_Suggestion": "增加按时间线删除消息记录的功能"
+      },
+      {
+        "id": "com.tencent.wechat_76",
+        "User_Pain_Point": "不能删除聊天中接收的文件，只能删照片视频，占用空间大",
+        "Actionable_Suggestion": "增加删除聊天中接收文件的功能"
+      },
+      {
+        "id": "com.tencent.wechat_78",
+        "User_Pain_Point": "缺少语音倍数播放和继续播放功能",
+        "Actionable_Suggestion": "增加语音倍数播放和继续播放功能"
+      },
+      {
+        "id": "com.tencent.wechat_80",
+        "User_Pain_Point": "微信视频号一键拍同款功能缺失",
+        "Actionable_Suggestion": "更新添加一键拍同款功能"
+      },
+      {
+        "id": "com.tencent.wechat_81",
+        "User_Pain_Point": "缺少浮窗功能和微信铃声设置，与通用版功能有差距",
+        "Actionable_Suggestion": "建议增加浮窗功能和微信铃声自定义设置"
+      },
+      {
+        "id": "com.tencent.wechat_82",
+        "User_Pain_Point": "无法在对话框发送动态图片",
+        "Actionable_Suggestion": "建议补全对话框发送动态图片的功能"
+      },
+      {
+        "id": "com.tencent.wechat_83",
+        "User_Pain_Point": "微信聊天时不能发送动态图片",
+        "Actionable_Suggestion": "建议实现聊天中发送动态图片的功能"
+      },
+      {
+        "id": "com.tencent.wechat_83",
+        "User_Pain_Point": "微信铃声无法调节，只能用默认",
+        "Actionable_Suggestion": "建议提供微信铃声自定义调节选项"
+      },
+      {
+        "id": "com.tencent.wechat_83",
+        "User_Pain_Point": "微信小视频中无法看到评论区的表情包",
+        "Actionable_Suggestion": "建议在小视频评论区支持显示表情包"
+      },
+      {
+        "id": "com.tencent.wechat_84",
+        "User_Pain_Point": "视频号无法独立悬浮小窗口，看视频时需退出才能看信息",
+        "Actionable_Suggestion": "建议为视频号增加悬浮小窗口功能"
+      },
+      {
+        "id": "com.tencent.wechat_85",
+        "User_Pain_Point": "小程序某些功能无法链接微信",
+        "Actionable_Suggestion": "建议修复小程序与微信的链接功能"
+      },
+      {
+        "id": "com.tencent.wechat_86",
+        "User_Pain_Point": "微信浮窗找不到",
+        "Actionable_Suggestion": "建议恢复浮窗功能或提供清晰的配置入口"
+      },
+      {
+        "id": "com.tencent.wechat_87",
+        "User_Pain_Point": "视频号无法查看私信和评论",
+        "Actionable_Suggestion": "建议为视频号增加私信和评论查看功能"
+      },
+      {
+        "id": "com.tencent.wechat_88",
+        "User_Pain_Point": "微信铃声功能缺失",
+        "Actionable_Suggestion": "建议尽快开发微信铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_89",
+        "User_Pain_Point": "鸿蒙版本微信来电铃声无法更改",
+        "Actionable_Suggestion": "建议优化来电铃声更改功能，适配鸿蒙系统"
+      },
+      {
+        "id": "com.tencent.wechat_90",
+        "User_Pain_Point": "历史朋友圈无法按时间筛选",
+        "Actionable_Suggestion": "建议增加按时间筛选历史朋友圈的功能"
+      },
+      {
+        "id": "com.tencent.wechat_91",
+        "User_Pain_Point": "斗地主游戏不全面",
+        "Actionable_Suggestion": "完善斗地主游戏功能，增加更多玩法或模式。"
+      },
+      {
+        "id": "com.tencent.wechat_92",
+        "User_Pain_Point": "鸿蒙系统没有选择一个已有的群的功能",
+        "Actionable_Suggestion": "增加选择已有群聊的功能，方便用户快速进入群聊。"
+      },
+      {
+        "id": "com.tencent.wechat_93",
+        "User_Pain_Point": "不能长按输入框置顶聊天",
+        "Actionable_Suggestion": "增加长按输入框置顶聊天的功能。"
+      },
+      {
+        "id": "com.tencent.wechat_93",
+        "User_Pain_Point": "收藏没有标签功能",
+        "Actionable_Suggestion": "为收藏添加标签功能，方便分类管理。"
+      },
+      {
+        "id": "com.tencent.wechat_93",
+        "User_Pain_Point": "没有强提醒功能",
+        "Actionable_Suggestion": "增加强提醒功能，确保重要消息不被遗漏。"
+      },
+      {
+        "id": "com.tencent.wechat_93",
+        "User_Pain_Point": "群消息免打扰时无法指定人提示消息",
+        "Actionable_Suggestion": "增加群免打扰时指定联系人提醒功能。"
+      },
+      {
+        "id": "com.tencent.wechat_94",
+        "User_Pain_Point": "微信打视频时音乐无法设置",
+        "Actionable_Suggestion": "增加视频通话铃声设置功能。"
+      },
+      {
+        "id": "com.tencent.wechat_95",
+        "User_Pain_Point": "视频号中的点赞、关注等互动消息不能显示",
+        "Actionable_Suggestion": "在视频号中增加显示点赞、关注等互动消息的功能。"
+      },
+      {
+        "id": "com.tencent.wechat_96",
+        "User_Pain_Point": "新版本微信缺少视频号的特效跟拍功能",
+        "Actionable_Suggestion": "在新版本微信中恢复或添加视频号特效跟拍功能。"
+      },
+      {
+        "id": "com.tencent.wechat_97",
+        "User_Pain_Point": "微信没有发票功能",
+        "Actionable_Suggestion": "增加发票功能，方便用户管理发票。"
+      },
+      {
+        "id": "com.tencent.wechat_100",
+        "User_Pain_Point": "微信服务每次使用都要输入密码，无法使用指纹解锁",
+        "Actionable_Suggestion": "恢复微信服务使用指纹解锁的功能。"
+      },
+      {
+        "id": "com.tencent.wechat_101",
+        "User_Pain_Point": "视频号看不到别人的表情包",
+        "Actionable_Suggestion": "让视频号支持查看表情包"
+      },
+      {
+        "id": "com.tencent.wechat_102",
+        "User_Pain_Point": "视频号不支持图片状态",
+        "Actionable_Suggestion": "视频号支持图片状态"
+      },
+      {
+        "id": "com.tencent.wechat_103",
+        "User_Pain_Point": "视频评论不显示图片和表情包",
+        "Actionable_Suggestion": "改进视频评论区域，支持显示图片和表情包"
+      },
+      {
+        "id": "com.tencent.wechat_103",
+        "User_Pain_Point": "聊天收发红包提示不能删除",
+        "Actionable_Suggestion": "增加删除聊天红包提示的功能"
+      },
+      {
+        "id": "com.tencent.wechat_104",
+        "User_Pain_Point": "视频号不好用",
+        "Actionable_Suggestion": "升级微信版本，优化视频号体验"
+      },
+      {
+        "id": "com.tencent.wechat_105",
+        "User_Pain_Point": "切换钱包地区功能未恢复",
+        "Actionable_Suggestion": "恢复切换钱包地区功能"
+      },
+      {
+        "id": "com.tencent.wechat_106",
+        "User_Pain_Point": "找不到微信来电铃声",
+        "Actionable_Suggestion": "优化微信来电铃声的设置入口或功能"
+      },
+      {
+        "id": "com.tencent.wechat_107",
+        "User_Pain_Point": "不可以更改微信来电铃声",
+        "Actionable_Suggestion": "允许用户更改微信来电铃声"
+      },
+      {
+        "id": "com.tencent.wechat_108",
+        "User_Pain_Point": "观看群视频无法快进",
+        "Actionable_Suggestion": "增加视频快进功能"
+      },
+      {
+        "id": "com.tencent.wechat_109",
+        "User_Pain_Point": "微信铃声更新不及时",
+        "Actionable_Suggestion": "尽快更新微信铃声"
+      },
+      {
+        "id": "com.tencent.wechat_110",
+        "User_Pain_Point": "别人加好友没有消息提醒",
+        "Actionable_Suggestion": "修复加好友消息提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_111",
+        "User_Pain_Point": "微信提醒功能尚未可用",
+        "Actionable_Suggestion": "尽快开发并上线微信提醒功能。"
+      },
+      {
+        "id": "com.tencent.wechat_112",
+        "User_Pain_Point": "微信附近人功能缺失",
+        "Actionable_Suggestion": "恢复并优化附近人功能。"
+      },
+      {
+        "id": "com.tencent.wechat_113",
+        "User_Pain_Point": "微信无法在其他应用上层显示，缺少浮窗或画中画功能",
+        "Actionable_Suggestion": "实现微信浮窗或画中画功能，允许在其他应用上层显示。"
+      },
+      {
+        "id": "com.tencent.wechat_114",
+        "User_Pain_Point": "视频号缺少锁定2倍速播放功能",
+        "Actionable_Suggestion": "增加视频号锁定2倍速播放选项。"
+      },
+      {
+        "id": "com.tencent.wechat_116",
+        "User_Pain_Point": "群公告图片无法查看",
+        "Actionable_Suggestion": "修复群公告图片加载和显示问题。"
+      },
+      {
+        "id": "com.tencent.wechat_117",
+        "User_Pain_Point": "添加朋友时无法从通讯录添加",
+        "Actionable_Suggestion": "增加通讯录添加好友功能。"
+      },
+      {
+        "id": "com.tencent.wechat_119",
+        "User_Pain_Point": "缺少服务号整合功能，而安卓版已有",
+        "Actionable_Suggestion": "开发并上线服务号整合功能。"
+      },
+      {
+        "id": "com.tencent.wechat_120",
+        "User_Pain_Point": "朋友圈无法选择对群组可见",
+        "Actionable_Suggestion": "增加朋友圈对指定群组可见的设置选项。"
+      },
+      {
+        "id": "com.tencent.wechat_121",
+        "User_Pain_Point": "微信服务号设置了免打扰，还是会有提示数值。",
+        "Actionable_Suggestion": "优化免打扰逻辑，确保设置后不再显示提示数值。"
+      },
+      {
+        "id": "com.tencent.wechat_123",
+        "User_Pain_Point": "微信版本更新慢。",
+        "Actionable_Suggestion": "加快微信版本更新频率，及时修复已知问题并新增功能。"
+      },
+      {
+        "id": "com.tencent.wechat_123",
+        "User_Pain_Point": "看不到企业微信的朋友圈。",
+        "Actionable_Suggestion": "实现微信与企业微信朋友圈互通，允许查看企业微信好友朋友圈。"
+      },
+      {
+        "id": "com.tencent.wechat_125",
+        "User_Pain_Point": "无法将微信消息转发至企业微信，影响办公效率。",
+        "Actionable_Suggestion": "打通微信与企业微信的消息转发接口，支持一键转发。"
+      },
+      {
+        "id": "com.tencent.wechat_126",
+        "User_Pain_Point": "第一人民医院微信服务号预约挂号后没有消息提醒。",
+        "Actionable_Suggestion": "优化服务号消息提醒机制，确保预约挂号等关键事件触发提醒。"
+      },
+      {
+        "id": "com.tencent.wechat_126",
+        "User_Pain_Point": "建设微银行没有到账支出提醒。",
+        "Actionable_Suggestion": "优化微银行消息提醒，确保到账和支出事件有明确提醒。"
+      },
+      {
+        "id": "com.tencent.wechat_127",
+        "User_Pain_Point": "鸿蒙系统上微信不更新'附近的人'功能。",
+        "Actionable_Suggestion": "更新'附近的人'功能，适配鸿蒙系统并恢复使用。"
+      },
+      {
+        "id": "com.tencent.wechat_127",
+        "User_Pain_Point": "看不到手机联系人的好友。",
+        "Actionable_Suggestion": "支持从手机通讯录查找并添加微信好友。"
+      },
+      {
+        "id": "com.tencent.wechat_128",
+        "User_Pain_Point": "提醒功能不足，需要一直盯着手机才能收到重要信息。",
+        "Actionable_Suggestion": "增强重要信息提醒功能，如消息置顶、强调提醒、多种提醒方式。"
+      },
+      {
+        "id": "com.tencent.wechat_129",
+        "User_Pain_Point": "收藏的编辑功能不好用，使用体验差。",
+        "Actionable_Suggestion": "完善收藏编辑功能，支持文字修改、排版、标签管理等。"
+      },
+      {
+        "id": "com.tencent.wechat_130",
+        "User_Pain_Point": "收藏的文字无法复制粘贴。",
+        "Actionable_Suggestion": "支持收藏内容的文字复制与粘贴操作。"
+      },
+      {
+        "id": "com.tencent.wechat_131",
+        "User_Pain_Point": "评论无法查看贴图，显示为图片占位符",
+        "Actionable_Suggestion": "建议修复显示评论中贴图的功能，使其与安卓/iOS版一致"
+      },
+      {
+        "id": "com.tencent.wechat_131",
+        "User_Pain_Point": "短视频无法放大查看",
+        "Actionable_Suggestion": "建议增加短视频的双指缩放或点击放大功能"
+      },
+      {
+        "id": "com.tencent.wechat_131",
+        "User_Pain_Point": "直播中无法点击回复发言人，不能加入粉丝团",
+        "Actionable_Suggestion": "建议适配直播的回复和粉丝团交互功能"
+      },
+      {
+        "id": "com.tencent.wechat_131",
+        "User_Pain_Point": "朋友圈缺少翻译功能",
+        "Actionable_Suggestion": "建议增加朋友圈翻译功能"
+      },
+      {
+        "id": "com.tencent.wechat_132",
+        "User_Pain_Point": "打开小程序小窗后，微信主程序无法正常使用",
+        "Actionable_Suggestion": "建议修复小窗模式与主程序的兼容性问题"
+      },
+      {
+        "id": "com.tencent.wechat_133",
+        "User_Pain_Point": "缺少提醒功能，等待已久",
+        "Actionable_Suggestion": "建议开发并上线消息提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_134",
+        "User_Pain_Point": "视频号功能完全缺失",
+        "Actionable_Suggestion": "建议加快适配视频号全部功能"
+      },
+      {
+        "id": "com.tencent.wechat_135",
+        "User_Pain_Point": "没有小程序浮窗功能",
+        "Actionable_Suggestion": "建议增加小程序浮窗支持"
+      },
+      {
+        "id": "com.tencent.wechat_136",
+        "User_Pain_Point": "收藏内容只能转发，无法复制",
+        "Actionable_Suggestion": "建议增加收藏内容的复制功能"
+      },
+      {
+        "id": "com.tencent.wechat_137",
+        "User_Pain_Point": "更换手机后无法设置微信铃声",
+        "Actionable_Suggestion": "建议适配鸿蒙系统的微信铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_138",
+        "User_Pain_Point": "长按消息的提醒功能不完善，影响工作效率",
+        "Actionable_Suggestion": "建议完善长按消息的提醒功能，确保及时可用"
+      },
+      {
+        "id": "com.tencent.wechat_139",
+        "User_Pain_Point": "鸿蒙版无法设置微信电话铃声",
+        "Actionable_Suggestion": "建议增加微信电话铃声设置选项"
+      },
+      {
+        "id": "com.tencent.wechat_140",
+        "User_Pain_Point": "缺少对话框内的语音输入自动转文字功能",
+        "Actionable_Suggestion": "建议增加类似安卓版的麦克风语音输入按钮，支持语音转文字"
+      },
+      {
+        "id": "com.tencent.wechat_141",
+        "User_Pain_Point": "升级后找不到微信群",
+        "Actionable_Suggestion": "优化群聊入口或提供升级后引导"
+      },
+      {
+        "id": "com.tencent.wechat_142",
+        "User_Pain_Point": "微信升级后没有铃声功能",
+        "Actionable_Suggestion": "恢复铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_143",
+        "User_Pain_Point": "附近的人功能不更新或缺失",
+        "Actionable_Suggestion": "更新或修复附近的人功能"
+      },
+      {
+        "id": "com.tencent.wechat_145",
+        "User_Pain_Point": "视频号互动、音乐等功能不完善",
+        "Actionable_Suggestion": "完善视频号互动、音乐等功能"
+      },
+      {
+        "id": "com.tencent.wechat_146",
+        "User_Pain_Point": "微乐小程序不能开语音",
+        "Actionable_Suggestion": "修复小程序语音功能"
+      },
+      {
+        "id": "com.tencent.wechat_146",
+        "User_Pain_Point": "之前设置的铃声现在不能用",
+        "Actionable_Suggestion": "修复铃声设置兼容性"
+      },
+      {
+        "id": "com.tencent.wechat_147",
+        "User_Pain_Point": "微信聊天不支持收发动态图",
+        "Actionable_Suggestion": "增加动图收发功能"
+      },
+      {
+        "id": "com.tencent.wechat_148",
+        "User_Pain_Point": "缺少群消息置顶功能",
+        "Actionable_Suggestion": "增加群消息置顶功能"
+      },
+      {
+        "id": "com.tencent.wechat_150",
+        "User_Pain_Point": "扫码功能无法使用",
+        "Actionable_Suggestion": "修复扫码功能"
+      },
+      {
+        "id": "com.tencent.wechat_151",
+        "User_Pain_Point": "微信存储空间占用较多，无法清理存储空间",
+        "Actionable_Suggestion": "优化存储管理，提供或改进清理功能"
+      },
+      {
+        "id": "com.tencent.wechat_152",
+        "User_Pain_Point": "微信没有附近的人功能",
+        "Actionable_Suggestion": "在鸿蒙版中增加附近的人功能"
+      },
+      {
+        "id": "com.tencent.wechat_153",
+        "User_Pain_Point": "开发票时无法识别发票抬头",
+        "Actionable_Suggestion": "增加发票抬头识别功能"
+      },
+      {
+        "id": "com.tencent.wechat_154",
+        "User_Pain_Point": "鸿蒙版视频号功能不能发私信、没有私信功能、没有评论功能、没有创作者中心",
+        "Actionable_Suggestion": "完善视频号功能，增加私信、评论和创作者中心"
+      },
+      {
+        "id": "com.tencent.wechat_155",
+        "User_Pain_Point": "希望增加附近的人功能",
+        "Actionable_Suggestion": "在鸿蒙版中增加附近的人功能"
+      },
+      {
+        "id": "com.tencent.wechat_157",
+        "User_Pain_Point": "微信来电铃声更新功能缺失",
+        "Actionable_Suggestion": "增加微信来电铃声更新功能"
+      },
+      {
+        "id": "com.tencent.wechat_158",
+        "User_Pain_Point": "来电铃声更新功能缺失",
+        "Actionable_Suggestion": "尽快更新来电铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_160",
+        "User_Pain_Point": "无法更换微信来电铃声",
+        "Actionable_Suggestion": "增加更换来电铃声的功能"
+      },
+      {
+        "id": "com.tencent.wechat_161",
+        "User_Pain_Point": "听读功能声音不能选择男生女生",
+        "Actionable_Suggestion": "增加声音选项"
+      },
+      {
+        "id": "com.tencent.wechat_161",
+        "User_Pain_Point": "听读功能强制自动播放下一篇",
+        "Actionable_Suggestion": "取消强制自动播放或提供关闭选项"
+      },
+      {
+        "id": "com.tencent.wechat_162",
+        "User_Pain_Point": "缺少公众号功能",
+        "Actionable_Suggestion": "开发并上线公众号功能"
+      },
+      {
+        "id": "com.tencent.wechat_163",
+        "User_Pain_Point": "微信挂号不支持医保支付",
+        "Actionable_Suggestion": "增加医保支付功能"
+      },
+      {
+        "id": "com.tencent.wechat_166",
+        "User_Pain_Point": "不支持刷脸支付",
+        "Actionable_Suggestion": "添加刷脸支付功能"
+      },
+      {
+        "id": "com.tencent.wechat_167",
+        "User_Pain_Point": "缺少直播功能",
+        "Actionable_Suggestion": "尽快开发并完善直播功能"
+      },
+      {
+        "id": "com.tencent.wechat_168",
+        "User_Pain_Point": "缺少搜索附近人功能",
+        "Actionable_Suggestion": "增加搜索附近人功能"
+      },
+      {
+        "id": "com.tencent.wechat_169",
+        "User_Pain_Point": "打开文件不能自动旋转横屏",
+        "Actionable_Suggestion": "增加文件自动旋转横屏功能"
+      },
+      {
+        "id": "com.tencent.wechat_169",
+        "User_Pain_Point": "聊天背景不能取消",
+        "Actionable_Suggestion": "提供取消聊天背景的选项"
+      },
+      {
+        "id": "com.tencent.wechat_170",
+        "User_Pain_Point": "缺少消息提醒功能",
+        "Actionable_Suggestion": "增加消息提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_171",
+        "User_Pain_Point": "缺少附近人功能",
+        "Actionable_Suggestion": "建议恢复附近的人功能"
+      },
+      {
+        "id": "com.tencent.wechat_172",
+        "User_Pain_Point": "缺少附近人功能",
+        "Actionable_Suggestion": "建议恢复附近的人功能"
+      },
+      {
+        "id": "com.tencent.wechat_173",
+        "User_Pain_Point": "朋友圈缺少搜索功能",
+        "Actionable_Suggestion": "建议增加朋友圈搜索功能"
+      },
+      {
+        "id": "com.tencent.wechat_174",
+        "User_Pain_Point": "点击消息不能直接进入聊天界面",
+        "Actionable_Suggestion": "建议优化消息点击行为，直接进入对应聊天界面"
+      },
+      {
+        "id": "com.tencent.wechat_175",
+        "User_Pain_Point": "搜一搜功能需更新",
+        "Actionable_Suggestion": "建议更新搜一搜功能"
+      },
+      {
+        "id": "com.tencent.wechat_176",
+        "User_Pain_Point": "每次出示付款码都需要输入密码",
+        "Actionable_Suggestion": "建议优化付款码支付流程，减少输入密码次数"
+      },
+      {
+        "id": "com.tencent.wechat_177",
+        "User_Pain_Point": "缺少聊天界面信息提醒功能",
+        "Actionable_Suggestion": "建议增加聊天界面信息提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_178",
+        "User_Pain_Point": "缺少小程序后台独立运行",
+        "Actionable_Suggestion": "建议恢复小程序后台独立运行功能"
+      },
+      {
+        "id": "com.tencent.wechat_178",
+        "User_Pain_Point": "缺少输入框边写边译功能",
+        "Actionable_Suggestion": "建议增加边写边译功能"
+      },
+      {
+        "id": "com.tencent.wechat_178",
+        "User_Pain_Point": "搜索功能不完善",
+        "Actionable_Suggestion": "建议完善搜索功能"
+      },
+      {
+        "id": "com.tencent.wechat_179",
+        "User_Pain_Point": "微信来电铃声不能设置",
+        "Actionable_Suggestion": "建议解决来电铃声设置问题"
+      },
+      {
+        "id": "com.tencent.wechat_183",
+        "User_Pain_Point": "附近的人功能未上线",
+        "Actionable_Suggestion": "建议尽快上线'附近的人'功能。"
+      },
+      {
+        "id": "com.tencent.wechat_184",
+        "User_Pain_Point": "视频号评论区和朋友圈背景不显示图片",
+        "Actionable_Suggestion": "建议修复视频号评论区与朋友圈背景图片显示问题。"
+      },
+      {
+        "id": "com.tencent.wechat_186",
+        "User_Pain_Point": "缺少附近的人功能",
+        "Actionable_Suggestion": "建议增加附近的人功能。"
+      },
+      {
+        "id": "com.tencent.wechat_187",
+        "User_Pain_Point": "不能查看附近人，希望更新",
+        "Actionable_Suggestion": "建议尽快更新上线附近的人功能。"
+      },
+      {
+        "id": "com.tencent.wechat_188",
+        "User_Pain_Point": "视频号私信看不到",
+        "Actionable_Suggestion": "建议修复视频号私信显示问题。"
+      },
+      {
+        "id": "com.tencent.wechat_188",
+        "User_Pain_Point": "没有附近的人功能",
+        "Actionable_Suggestion": "建议增加附近的人功能。"
+      },
+      {
+        "id": "com.tencent.wechat_189",
+        "User_Pain_Point": "缺少'消息免打扰-折叠该聊天'功能",
+        "Actionable_Suggestion": "建议尽快上线'消息免打扰-折叠该聊天'功能。"
+      },
+      {
+        "id": "com.tencent.wechat_190",
+        "User_Pain_Point": "缺少公众号文章转发元宝功能",
+        "Actionable_Suggestion": "建议补全公众号文章转发元宝功能。"
+      },
+      {
+        "id": "com.tencent.wechat_191",
+        "User_Pain_Point": "微信支付人脸识别功能不能用",
+        "Actionable_Suggestion": "适配鸿蒙系统的人脸识别接口，修复该功能"
+      },
+      {
+        "id": "com.tencent.wechat_192",
+        "User_Pain_Point": "朋友圈对陌生人可见10条功能缺失",
+        "Actionable_Suggestion": "在朋友圈设置中增加'对陌生人可见最近10条'的开关"
+      },
+      {
+        "id": "com.tencent.wechat_193",
+        "User_Pain_Point": "微信通话铃声不能改",
+        "Actionable_Suggestion": "在微信设置中增加通话铃声自定义选项，允许用户从本地或系统铃声选择"
+      },
+      {
+        "id": "com.tencent.wechat_194",
+        "User_Pain_Point": "评论区看不到图片",
+        "Actionable_Suggestion": "修复评论区图片加载功能，确保图片正常显示"
+      },
+      {
+        "id": "com.tencent.wechat_194",
+        "User_Pain_Point": "微信铃声不能自定义",
+        "Actionable_Suggestion": "在微信设置中增加铃声自定义选项，允许用户选择本地音乐或系统铃声"
+      },
+      {
+        "id": "com.tencent.wechat_195",
+        "User_Pain_Point": "不能从安卓恢复文件转发到企业微信",
+        "Actionable_Suggestion": "恢复文件转发到企业微信的功能，适配鸿蒙系统的文件共享机制"
+      },
+      {
+        "id": "com.tencent.wechat_196",
+        "User_Pain_Point": "附近的人功能缺失",
+        "Actionable_Suggestion": "在发现页或功能管理中增加'附近的人'入口，并适配定位权限"
+      },
+      {
+        "id": "com.tencent.wechat_197",
+        "User_Pain_Point": "缺少来电铃声功能（在微信内设置）",
+        "Actionable_Suggestion": "在微信设置中增加来电铃声设置选项，让用户选择铃声"
+      },
+      {
+        "id": "com.tencent.wechat_198",
+        "User_Pain_Point": "朋友圈动态壁纸看不了",
+        "Actionable_Suggestion": "支持朋友圈动态壁纸的播放和预览，适配鸿蒙系统媒体播放能力"
+      },
+      {
+        "id": "com.tencent.wechat_198",
+        "User_Pain_Point": "私聊动图看不了",
+        "Actionable_Suggestion": "修复动图在私聊中的显示问题，确保GIF等格式正常播放"
+      },
+      {
+        "id": "com.tencent.wechat_198",
+        "User_Pain_Point": "不能设置微信铃声",
+        "Actionable_Suggestion": "在微信设置中增加铃声自定义选项，允许用户从本地或系统铃声选择"
+      },
+      {
+        "id": "com.tencent.wechat_198",
+        "User_Pain_Point": "很多小程序显示微信版本过低",
+        "Actionable_Suggestion": "更新微信内核或适配最新API，确保小程序兼容性"
+      },
+      {
+        "id": "com.tencent.wechat_199",
+        "User_Pain_Point": "微信子帐号功能缺失",
+        "Actionable_Suggestion": "增加微信子帐号功能，允许用户创建和管理多个帐号"
+      },
+      {
+        "id": "com.tencent.wechat_200",
+        "User_Pain_Point": "性别不显示出来",
+        "Actionable_Suggestion": "在个人资料页面恢复显示性别字段，并允许用户编辑"
+      },
+      {
+        "id": "com.tencent.wechat_201",
+        "User_Pain_Point": "视频号功能不完整",
+        "Actionable_Suggestion": "完善视频号功能，如增加更多互动选项"
+      },
+      {
+        "id": "com.tencent.wechat_202",
+        "User_Pain_Point": "缺少来电铃声功能",
+        "Actionable_Suggestion": "添加来电铃声设置"
+      },
+      {
+        "id": "com.tencent.wechat_203",
+        "User_Pain_Point": "无法直接打开位置到高德地图",
+        "Actionable_Suggestion": "支持应用间跳转至高德地图"
+      },
+      {
+        "id": "com.tencent.wechat_204",
+        "User_Pain_Point": "缺少附近的人功能",
+        "Actionable_Suggestion": "开发并上线附近的人功能"
+      },
+      {
+        "id": "com.tencent.wechat_206",
+        "User_Pain_Point": "发布视频号时无法添加位置信息",
+        "Actionable_Suggestion": "增加位置添加选项"
+      },
+      {
+        "id": "com.tencent.wechat_207",
+        "User_Pain_Point": "小程序支付无法跳转云闪付",
+        "Actionable_Suggestion": "集成云闪付支付渠道"
+      },
+      {
+        "id": "com.tencent.wechat_209",
+        "User_Pain_Point": "不能更换来电铃声",
+        "Actionable_Suggestion": "提供来电铃声更换功能"
+      },
+      {
+        "id": "com.tencent.wechat_210",
+        "User_Pain_Point": "视频铃声功能缺失",
+        "Actionable_Suggestion": "恢复视频铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_211",
+        "User_Pain_Point": "微信版本功能不一致，新功能未同步到我的版本",
+        "Actionable_Suggestion": "统一各版本功能更新节奏，确保用户及时获得新功能"
+      },
+      {
+        "id": "com.tencent.wechat_212",
+        "User_Pain_Point": "聊天界面底部公众号无法彻底删除，退出后重新出现",
+        "Actionable_Suggestion": "提供关闭或隐藏公众号的持久化设置，确保用户操作生效"
+      },
+      {
+        "id": "com.tencent.wechat_213",
+        "User_Pain_Point": "缺少“附近的人”功能",
+        "Actionable_Suggestion": "恢复“附近的人”功能或提供替代方案"
+      },
+      {
+        "id": "com.tencent.wechat_214",
+        "User_Pain_Point": "微信铃声设置入口找不到，未适配鸿蒙系统",
+        "Actionable_Suggestion": "针对鸿蒙系统适配微信铃声设置功能，优化设置入口"
+      },
+      {
+        "id": "com.tencent.wechat_215",
+        "User_Pain_Point": "微信搜索无法检索图片内容，影响工作效率",
+        "Actionable_Suggestion": "增强微信搜索功能，支持搜索图片内容"
+      },
+      {
+        "id": "com.tencent.wechat_216",
+        "User_Pain_Point": "无法设置微信铃声",
+        "Actionable_Suggestion": "尽快适配鸿蒙系统微信铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_217",
+        "User_Pain_Point": "面对面建群功能异常无法使用",
+        "Actionable_Suggestion": "修复面对面建群功能，确保正常工作"
+      },
+      {
+        "id": "com.tencent.wechat_217",
+        "User_Pain_Point": "引用视频号视频时长限制15秒",
+        "Actionable_Suggestion": "支持引用完整视频或增加时长限制"
+      },
+      {
+        "id": "com.tencent.wechat_218",
+        "User_Pain_Point": "视频号视频无法最小化",
+        "Actionable_Suggestion": "增加视频最小化功能"
+      },
+      {
+        "id": "com.tencent.wechat_218",
+        "User_Pain_Point": "无法翻看过往视频浏览记录",
+        "Actionable_Suggestion": "增加视频浏览记录功能"
+      },
+      {
+        "id": "com.tencent.wechat_218",
+        "User_Pain_Point": "评论区图片和群聊图片引用无法显现",
+        "Actionable_Suggestion": "支持图片在引用时的显示"
+      },
+      {
+        "id": "com.tencent.wechat_218",
+        "User_Pain_Point": "鸿蒙系统不显示安卓微信的群内备注",
+        "Actionable_Suggestion": "同步群备注信息到鸿蒙系统微信"
+      },
+      {
+        "id": "com.tencent.wechat_219",
+        "User_Pain_Point": "微信视频效果差，与本人差距大",
+        "Actionable_Suggestion": "优化视频通话或拍摄的滤镜和效果"
+      },
+      {
+        "id": "com.tencent.wechat_219",
+        "User_Pain_Point": "发朋友圈无法添加音乐",
+        "Actionable_Suggestion": "增加朋友圈音乐功能"
+      },
+      {
+        "id": "com.tencent.wechat_220",
+        "User_Pain_Point": "熄屏状态下微信语音通话无提示",
+        "Actionable_Suggestion": "修复熄屏状态下的语音提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_220",
+        "User_Pain_Point": "关注的公众号不能私发信息",
+        "Actionable_Suggestion": "允许用户向关注的公众号发送私信"
+      },
+      {
+        "id": "com.tencent.wechat_220",
+        "User_Pain_Point": "微信号不显示定位地址",
+        "Actionable_Suggestion": "支持在微信中显示或发送定位地址"
+      },
+      {
+        "id": "com.tencent.wechat_221",
+        "User_Pain_Point": "鸿蒙系统下闲鱼应用无法使用微信支付",
+        "Actionable_Suggestion": "解决鸿蒙系统下闲鱼与微信支付的兼容性问题"
+      },
+      {
+        "id": "com.tencent.wechat_222",
+        "User_Pain_Point": "微信缺少消息提示音和语音消息铃声",
+        "Actionable_Suggestion": "添加消息提示音和语音消息铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_223",
+        "User_Pain_Point": "鸿蒙系统下微信电话没有声音",
+        "Actionable_Suggestion": "修复微信在鸿蒙系统下电话无声的问题"
+      },
+      {
+        "id": "com.tencent.wechat_224",
+        "User_Pain_Point": "微信没有来电音乐和发视频时的音乐",
+        "Actionable_Suggestion": "添加来电音乐和视频音乐功能"
+      },
+      {
+        "id": "com.tencent.wechat_225",
+        "User_Pain_Point": "鸿蒙系统下视频附带的位置链接消失",
+        "Actionable_Suggestion": "恢复视频附带位置链接功能或排查技术问题"
+      },
+      {
+        "id": "com.tencent.wechat_226",
+        "User_Pain_Point": "不支持自定义铃声，默认铃声难听，需通过安卓版更换",
+        "Actionable_Suggestion": "增加自定义铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_227",
+        "User_Pain_Point": "浮窗功能不见了",
+        "Actionable_Suggestion": "恢复浮窗功能"
+      },
+      {
+        "id": "com.tencent.wechat_228",
+        "User_Pain_Point": "微信缺少定时提醒功能",
+        "Actionable_Suggestion": "增加定时提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_229",
+        "User_Pain_Point": "收藏功能缺少搜索",
+        "Actionable_Suggestion": "增加收藏搜索功能"
+      },
+      {
+        "id": "com.tencent.wechat_229",
+        "User_Pain_Point": "浮窗缺失",
+        "Actionable_Suggestion": "恢复浮窗功能"
+      },
+      {
+        "id": "com.tencent.wechat_229",
+        "User_Pain_Point": "视频号清晰度不如安卓",
+        "Actionable_Suggestion": "提升视频号清晰度至与安卓一致"
+      },
+      {
+        "id": "com.tencent.wechat_230",
+        "User_Pain_Point": "无法建群",
+        "Actionable_Suggestion": "修复建群功能"
+      },
+      {
+        "id": "com.tencent.wechat_232",
+        "User_Pain_Point": "笔记置顶编辑时，输入表情后点击删除，光标乱窜，体验差",
+        "Actionable_Suggestion": "修复笔记置顶编辑时删除表情导致光标异常的bug"
+      },
+      {
+        "id": "com.tencent.wechat_233",
+        "User_Pain_Point": "长篇文字的选择不够精确和方便",
+        "Actionable_Suggestion": "改进文字选择交互，使选择更精确"
+      },
+      {
+        "id": "com.tencent.wechat_233",
+        "User_Pain_Point": "收藏功能不能直接添加标签",
+        "Actionable_Suggestion": "为收藏功能增加添加标签的选项"
+      },
+      {
+        "id": "com.tencent.wechat_235",
+        "User_Pain_Point": "视频号不能私信",
+        "Actionable_Suggestion": "为视频号增加私信功能"
+      },
+      {
+        "id": "com.tencent.wechat_236",
+        "User_Pain_Point": "通知显示内容缺失",
+        "Actionable_Suggestion": "恢复通知显示内容"
+      },
+      {
+        "id": "com.tencent.wechat_238",
+        "User_Pain_Point": "缺少搜索附近人功能",
+        "Actionable_Suggestion": "恢复搜索附近人功能"
+      },
+      {
+        "id": "com.tencent.wechat_240",
+        "User_Pain_Point": "不知道如何更换微信视频来电铃声",
+        "Actionable_Suggestion": "增加更换视频铃声的引导或直接提供设置入口"
+      },
+      {
+        "id": "com.tencent.wechat_241",
+        "User_Pain_Point": "没有群内消息置顶功能",
+        "Actionable_Suggestion": "尽快增加群消息置顶功能"
+      },
+      {
+        "id": "com.tencent.wechat_242",
+        "User_Pain_Point": "朋友圈封面不能设置动画",
+        "Actionable_Suggestion": "增加朋友圈封面动画功能"
+      },
+      {
+        "id": "com.tencent.wechat_242",
+        "User_Pain_Point": "微信来电功能缺失",
+        "Actionable_Suggestion": "恢复微信来电提示功能"
+      },
+      {
+        "id": "com.tencent.wechat_243",
+        "User_Pain_Point": "微信电话铃声不能修改",
+        "Actionable_Suggestion": "增加微信电话铃声修改功能"
+      },
+      {
+        "id": "com.tencent.wechat_244",
+        "User_Pain_Point": "没有附近的人功能",
+        "Actionable_Suggestion": "增加附近的人功能"
+      },
+      {
+        "id": "com.tencent.wechat_245",
+        "User_Pain_Point": "不能横屏",
+        "Actionable_Suggestion": "支持横屏显示"
+      },
+      {
+        "id": "com.tencent.wechat_247",
+        "User_Pain_Point": "不支持沉浸光感",
+        "Actionable_Suggestion": "增加沉浸光感支持"
+      },
+      {
+        "id": "com.tencent.wechat_248",
+        "User_Pain_Point": "微信语音不能设置铃声",
+        "Actionable_Suggestion": "增加微信语音铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_249",
+        "User_Pain_Point": "微信无授权管理，无法解绑企业微信",
+        "Actionable_Suggestion": "增加授权管理功能，支持解绑企业微信"
+      },
+      {
+        "id": "com.tencent.wechat_250",
+        "User_Pain_Point": "消息长按没有提醒选项",
+        "Actionable_Suggestion": "在消息长按菜单中添加提醒选项"
+      },
+      {
+        "id": "com.tencent.wechat_251",
+        "User_Pain_Point": "微信群内加好友或备注操作没有信息提示，影响用户确认操作结果。",
+        "Actionable_Suggestion": "增加群内加好友或备注操作的信息提示，在群聊中显示相关记录。"
+      },
+      {
+        "id": "com.tencent.wechat_252",
+        "User_Pain_Point": "朋友圈视频发布时无法添加音乐或关闭原声，无法满足个性化编辑需求。",
+        "Actionable_Suggestion": "在朋友圈视频发布界面增加添加背景音乐和关闭原声的选项。"
+      },
+      {
+        "id": "com.tencent.wechat_253",
+        "User_Pain_Point": "微信不支持好友间发送实况照片，用户期待该功能。",
+        "Actionable_Suggestion": "尽快开发并上线好友间发送实况照片的功能。"
+      },
+      {
+        "id": "com.tencent.wechat_254",
+        "User_Pain_Point": "缺少好友共同群功能，删除群消息后无法通过好友共同群找到群。",
+        "Actionable_Suggestion": "增加好友共同群功能，并允许通过共同群找回已删除消息的群。"
+      },
+      {
+        "id": "com.tencent.wechat_254",
+        "User_Pain_Point": "发起群聊时没有已加入的群列表，不方便选择。",
+        "Actionable_Suggestion": "在发起群聊界面增加已加入的群列表，方便用户选择。"
+      },
+      {
+        "id": "com.tencent.wechat_255",
+        "User_Pain_Point": "微信缺乏消息提醒功能，且从系统通知进入时无法直接跳转到消息对话框。",
+        "Actionable_Suggestion": "增加消息提醒功能，并优化通知点击行为，直接跳转到对应对话框。"
+      },
+      {
+        "id": "com.tencent.wechat_259",
+        "User_Pain_Point": "微信缺少实况照片功能，用户希望尽快更新。",
+        "Actionable_Suggestion": "尽快开发并上线实况照片功能。"
+      },
+      {
+        "id": "com.tencent.wechat_260",
+        "User_Pain_Point": "微信缺少“附近的人”功能，用户表示缺失。",
+        "Actionable_Suggestion": "考虑恢复或增加“附近的人”功能。"
+      },
+      {
+        "id": "com.tencent.wechat_261",
+        "User_Pain_Point": "微信视频通话缺少美颜功能",
+        "Actionable_Suggestion": "建议在视频通话界面增加美颜开关选项"
+      },
+      {
+        "id": "com.tencent.wechat_264",
+        "User_Pain_Point": "鸿蒙版微信缺少好友来源、共同群聊、添加好友时间等常用功能",
+        "Actionable_Suggestion": "建议尽快跟进安卓8.0.71版本的功能更新，完善好友信息展示"
+      },
+      {
+        "id": "com.tencent.wechat_265",
+        "User_Pain_Point": "权限管理缺失导致游戏体验受影响",
+        "Actionable_Suggestion": "建议增加权限管理功能，允许用户精细控制应用权限"
+      },
+      {
+        "id": "com.tencent.wechat_266",
+        "User_Pain_Point": "朋友圈只能发图片不能发视频",
+        "Actionable_Suggestion": "建议在朋友圈发布界面增加视频上传选项"
+      },
+      {
+        "id": "com.tencent.wechat_267",
+        "User_Pain_Point": "他人拨打视频时无提示且无接通按钮",
+        "Actionable_Suggestion": "建议修复视频来电通知及接听按钮的显示问题"
+      },
+      {
+        "id": "com.tencent.wechat_268",
+        "User_Pain_Point": "无法通过微信支付交学费",
+        "Actionable_Suggestion": "建议排查并修复支付功能故障，确保支付流程顺畅"
+      },
+      {
+        "id": "com.tencent.wechat_269",
+        "User_Pain_Point": "朋友圈无法添加背景音乐",
+        "Actionable_Suggestion": "建议在朋友圈编辑界面增加添加音乐功能"
+      },
+      {
+        "id": "com.tencent.wechat_271",
+        "User_Pain_Point": "缺少一键已读功能，小红点让人难受",
+        "Actionable_Suggestion": "增加一键已读功能，一键清除小红点"
+      },
+      {
+        "id": "com.tencent.wechat_271",
+        "User_Pain_Point": "微信其他功能更新慢，体验不习惯",
+        "Actionable_Suggestion": "加快功能更新，使版本功能与安卓/iOS一致"
+      },
+      {
+        "id": "com.tencent.wechat_272",
+        "User_Pain_Point": "朋友资料功能缺失，版本落后于8.0.71",
+        "Actionable_Suggestion": "更新版本，补齐朋友资料等缺失功能"
+      },
+      {
+        "id": "com.tencent.wechat_273",
+        "User_Pain_Point": "视频号缺少私信功能和消息通知（评论/点赞不提示），影响工作",
+        "Actionable_Suggestion": "尽快更新视频号到同版本，增加私信和消息通知"
+      },
+      {
+        "id": "com.tencent.wechat_274",
+        "User_Pain_Point": "发朋友圈视频缺少选择音乐功能",
+        "Actionable_Suggestion": "增加朋友圈视频选择音乐功能"
+      },
+      {
+        "id": "com.tencent.wechat_275",
+        "User_Pain_Point": "发现页面没有‘附近的人’功能",
+        "Actionable_Suggestion": "恢复‘附近的人’功能"
+      },
+      {
+        "id": "com.tencent.wechat_276",
+        "User_Pain_Point": "直播间看不到抽奖，无法参与",
+        "Actionable_Suggestion": "增加直播间抽奖功能"
+      },
+      {
+        "id": "com.tencent.wechat_277",
+        "User_Pain_Point": "每次进入钱包需输入密码，希望使用指纹",
+        "Actionable_Suggestion": "增加指纹支付功能"
+      },
+      {
+        "id": "com.tencent.wechat_278",
+        "User_Pain_Point": "朋友圈视频制作功能缺失",
+        "Actionable_Suggestion": "恢复朋友圈视频制作功能"
+      },
+      {
+        "id": "com.tencent.wechat_279",
+        "User_Pain_Point": "无法调铃声，功能被阉割",
+        "Actionable_Suggestion": "增加铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_279",
+        "User_Pain_Point": "下载正常微信被引导到应用市场，体验差",
+        "Actionable_Suggestion": "优化下载逻辑，提供直接安装选项"
+      },
+      {
+        "id": "com.tencent.wechat_280",
+        "User_Pain_Point": "鸿蒙系统不能使用小程序搜索",
+        "Actionable_Suggestion": "增加小程序搜索功能"
+      },
+      {
+        "id": "com.tencent.wechat_281",
+        "User_Pain_Point": "王者荣耀战绩无法显示",
+        "Actionable_Suggestion": "修复战绩显示功能"
+      },
+      {
+        "id": "com.tencent.wechat_282",
+        "User_Pain_Point": "群公告图片无法显示",
+        "Actionable_Suggestion": "修复群公告图片加载"
+      },
+      {
+        "id": "com.tencent.wechat_283",
+        "User_Pain_Point": "微信视频不能横屏",
+        "Actionable_Suggestion": "增加横屏支持"
+      },
+      {
+        "id": "com.tencent.wechat_286",
+        "User_Pain_Point": "微信提醒不弹窗",
+        "Actionable_Suggestion": "修复通知提醒"
+      },
+      {
+        "id": "com.tencent.wechat_287",
+        "User_Pain_Point": "没有消息自动翻译功能",
+        "Actionable_Suggestion": "增加自动翻译功能"
+      },
+      {
+        "id": "com.tencent.wechat_288",
+        "User_Pain_Point": "公众号免打扰设置未从苹果迁移",
+        "Actionable_Suggestion": "支持跨平台同步免打扰设置"
+      },
+      {
+        "id": "com.tencent.wechat_288",
+        "User_Pain_Point": "公众号免打扰和推送文章分成两个选项导致需要逐个关闭",
+        "Actionable_Suggestion": "合并免打扰和推送文章选项或提供一键关闭所有通知"
+      },
+      {
+        "id": "com.tencent.wechat_289",
+        "User_Pain_Point": "无法设置微信铃声",
+        "Actionable_Suggestion": "修复铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_290",
+        "User_Pain_Point": "缺少自动翻译功能",
+        "Actionable_Suggestion": "增加自动翻译功能"
+      },
+      {
+        "id": "com.tencent.wechat_291",
+        "User_Pain_Point": "微信没有聊天置顶功能，用户期待增加。",
+        "Actionable_Suggestion": "增加聊天置顶功能。"
+      },
+      {
+        "id": "com.tencent.wechat_292",
+        "User_Pain_Point": "微信缺少“看一看”功能入口，用户希望能开启。",
+        "Actionable_Suggestion": "添加“看一看”功能。"
+      },
+      {
+        "id": "com.tencent.wechat_293",
+        "User_Pain_Point": "直播功能无法使用，搜索账号也进不去。",
+        "Actionable_Suggestion": "修复直播和搜索功能，确保正常使用。"
+      },
+      {
+        "id": "com.tencent.wechat_295",
+        "User_Pain_Point": "朋友圈发送视频时不能选择多个视频一起发。",
+        "Actionable_Suggestion": "支持朋友圈多视频发送功能。"
+      },
+      {
+        "id": "com.tencent.wechat_296",
+        "User_Pain_Point": "无法设置微信铃声，用户期望能自定义。",
+        "Actionable_Suggestion": "开放微信铃声设置功能。"
+      },
+      {
+        "id": "com.tencent.wechat_298",
+        "User_Pain_Point": "视频号很多功能用不了，希望尽快升级以使用完整功能。",
+        "Actionable_Suggestion": "完善视频号功能，加快功能迭代。"
+      },
+      {
+        "id": "com.tencent.wechat_299",
+        "User_Pain_Point": "无法更改微信铃声，且朋友圈不能按时间查找。",
+        "Actionable_Suggestion": "增加铃声更换和朋友圈时间检索功能。"
+      },
+      {
+        "id": "com.tencent.wechat_301",
+        "User_Pain_Point": "收藏的文本信息不能编辑修改",
+        "Actionable_Suggestion": "支持对收藏的文本信息进行编辑修改"
+      },
+      {
+        "id": "com.tencent.wechat_301",
+        "User_Pain_Point": "新消息不能直达聊天",
+        "Actionable_Suggestion": "点击通知直接跳转到对应聊天窗口"
+      },
+      {
+        "id": "com.tencent.wechat_301",
+        "User_Pain_Point": "长按没有消息提醒",
+        "Actionable_Suggestion": "长按消息时显示提醒或快捷操作菜单"
+      },
+      {
+        "id": "com.tencent.wechat_301",
+        "User_Pain_Point": "没有账号切换功能",
+        "Actionable_Suggestion": "增加账号切换功能，无需退出登录"
+      },
+      {
+        "id": "com.tencent.wechat_301",
+        "User_Pain_Point": "群管理，进群审核没有提醒",
+        "Actionable_Suggestion": "添加进群审核通知提醒"
+      },
+      {
+        "id": "com.tencent.wechat_303",
+        "User_Pain_Point": "聊天框双击字体变大功能不完善",
+        "Actionable_Suggestion": "完善双击聊天框字体变大功能，方便老花眼用户"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "点击通知不能直接定位到信息界面",
+        "Actionable_Suggestion": "点击通知直接跳转到对应聊天界面"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "视频号发布不能调整封面",
+        "Actionable_Suggestion": "支持在视频号发布时调整封面图片"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "视频号接收不到别人的评论和私信",
+        "Actionable_Suggestion": "修复视频号评论和私信接收问题"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "微信语音不能倍速播放",
+        "Actionable_Suggestion": "增加语音消息倍速播放功能"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "微信首页双击“微信”回不了最上面",
+        "Actionable_Suggestion": "修复双击“微信”返回顶部的功能"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "微信收藏里的文字笔记不能置顶",
+        "Actionable_Suggestion": "支持收藏文字笔记置顶功能"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "微信“我”-“朋友圈”相册不能搜索年份",
+        "Actionable_Suggestion": "增加朋友圈相册按年份搜索功能"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "微信不能切换账号，只能退出登录",
+        "Actionable_Suggestion": "增加快速切换账号功能"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "微信“服务”只能输密码，人脸和指纹都不行",
+        "Actionable_Suggestion": "支持人脸和指纹支付验证"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "微信群聊-“聊天消息免打扰”中-“没有以下消息仍通知”功能不完善",
+        "Actionable_Suggestion": "完善群聊免打扰下的通知设置，明确可选通知项"
+      },
+      {
+        "id": "com.tencent.wechat_305",
+        "User_Pain_Point": "朋友圈封面不支持视频",
+        "Actionable_Suggestion": "支持设置视频作为朋友圈封面"
+      },
+      {
+        "id": "com.tencent.wechat_306",
+        "User_Pain_Point": "来新信息时，微信不能跳转所点信息页面",
+        "Actionable_Suggestion": "点击通知直接跳转到对应信息页面"
+      },
+      {
+        "id": "com.tencent.wechat_306",
+        "User_Pain_Point": "微信封面不能设置视频",
+        "Actionable_Suggestion": "支持设置视频作为微信封面"
+      },
+      {
+        "id": "com.tencent.wechat_307",
+        "User_Pain_Point": "附近的人功能消失",
+        "Actionable_Suggestion": "恢复“附近的人”功能"
+      },
+      {
+        "id": "com.tencent.wechat_308",
+        "User_Pain_Point": "视频号后台预览二维码扫不出来",
+        "Actionable_Suggestion": "修复视频号后台预览二维码扫描问题"
+      },
+      {
+        "id": "com.tencent.wechat_309",
+        "User_Pain_Point": "附近的人功能未开通",
+        "Actionable_Suggestion": "尽快开通“附近的人”功能"
+      },
+      {
+        "id": "com.tencent.wechat_310",
+        "User_Pain_Point": "语音聊天转文字的内容不能转发",
+        "Actionable_Suggestion": "支持转发语音转文字的内容"
+      },
+      {
+        "id": "com.tencent.wechat_311",
+        "User_Pain_Point": "换鸿蒙后，微信不能折叠聊天",
+        "Actionable_Suggestion": "增加折叠聊天功能"
+      },
+      {
+        "id": "com.tencent.wechat_313",
+        "User_Pain_Point": "微信群公告都查看不了图片",
+        "Actionable_Suggestion": "修复群公告图片查看功能"
+      },
+      {
+        "id": "com.tencent.wechat_315",
+        "User_Pain_Point": "发朋友圈没有配乐功能",
+        "Actionable_Suggestion": "增加朋友圈配乐功能"
+      },
+      {
+        "id": "com.tencent.wechat_316",
+        "User_Pain_Point": "鸿蒙没有文件悬浮功能和单独消息提醒",
+        "Actionable_Suggestion": "增加文件悬浮功能和单独消息提醒"
+      },
+      {
+        "id": "com.tencent.wechat_319",
+        "User_Pain_Point": "长按联系人无反应，没办法置顶/取消置顶",
+        "Actionable_Suggestion": "修复长按联系人无反应问题"
+      },
+      {
+        "id": "com.tencent.wechat_320",
+        "User_Pain_Point": "视频横屏功能缺失",
+        "Actionable_Suggestion": "恢复视频横屏功能"
+      },
+      {
+        "id": "com.tencent.wechat_320",
+        "User_Pain_Point": "视频号带地图地址功能缺失",
+        "Actionable_Suggestion": "恢复视频号地图地址功能"
+      },
+      {
+        "id": "com.tencent.wechat_321",
+        "User_Pain_Point": "发送相片时无法搜索需要的图片",
+        "Actionable_Suggestion": "在相册选择界面增加搜索功能"
+      },
+      {
+        "id": "com.tencent.wechat_322",
+        "User_Pain_Point": "微信小程序的浮窗没有了，点开小程序后想查看微信内容的话必须退出小程序",
+        "Actionable_Suggestion": "恢复小程序浮窗功能"
+      },
+      {
+        "id": "com.tencent.wechat_323",
+        "User_Pain_Point": "微信提醒功能未上线",
+        "Actionable_Suggestion": "上线微信提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_324",
+        "User_Pain_Point": "微信铃声看不到，附近人也看不到，自己的视频号也看不到",
+        "Actionable_Suggestion": "尽快更新，恢复微信铃声设置、附近的人、视频号等功能"
+      },
+      {
+        "id": "com.tencent.wechat_325",
+        "User_Pain_Point": "看视频下面有一排功能键，自动下滑播放，听视频等都没有了",
+        "Actionable_Suggestion": "恢复视频播放相关功能"
+      },
+      {
+        "id": "com.tencent.wechat_328",
+        "User_Pain_Point": "打进来的微信电话除了把手机开勿扰之外没办法忽略，也改不了铃声",
+        "Actionable_Suggestion": "增加微信电话忽略选项，支持铃声自定义"
+      },
+      {
+        "id": "com.tencent.wechat_329",
+        "User_Pain_Point": "公众号浮窗功能缺失，需要反复进入公众号查看报告",
+        "Actionable_Suggestion": "恢复公众号浮窗功能"
+      },
+      {
+        "id": "com.tencent.wechat_330",
+        "User_Pain_Point": "微信不能锁屏提示消息",
+        "Actionable_Suggestion": "增加锁屏消息提示功能"
+      },
+      {
+        "id": "com.tencent.wechat_324",
+        "User_Pain_Point": "很多功能不能用，更新慢",
+        "Actionable_Suggestion": "加快更新频率，完善功能"
+      },
+      {
+        "id": "com.tencent.wechat_331",
+        "User_Pain_Point": "希望增加视频拍同款功能，但尚未提供",
+        "Actionable_Suggestion": "尽快开发并上线视频拍同款功能"
+      },
+      {
+        "id": "com.tencent.wechat_333",
+        "User_Pain_Point": "更新速度慢，且无法连接手表",
+        "Actionable_Suggestion": "加快更新迭代速度，并开发鸿蒙手表连接功能"
+      },
+      {
+        "id": "com.tencent.wechat_334",
+        "User_Pain_Point": "语音通话和视频通话无法设置铃声",
+        "Actionable_Suggestion": "增加语音和视频通话铃声自定义功能"
+      },
+      {
+        "id": "com.tencent.wechat_335",
+        "User_Pain_Point": "群聊中无法加入他人发起的视频或语音通话",
+        "Actionable_Suggestion": "修复群聊中无法加入通话的bug"
+      },
+      {
+        "id": "com.tencent.wechat_336",
+        "User_Pain_Point": "微信提醒铃声和通话铃声一直无法设置，体验差",
+        "Actionable_Suggestion": "尽快支持设置微信提醒铃声和通话铃声"
+      },
+      {
+        "id": "com.tencent.wechat_337",
+        "User_Pain_Point": "全局搜索关键词无法显示相关聊天记录，只能去具体对话框搜索，影响工作效率",
+        "Actionable_Suggestion": "恢复全局搜索功能，支持关键词搜索所有相关聊天记录"
+      },
+      {
+        "id": "com.tencent.wechat_338",
+        "User_Pain_Point": "无法更改铃声",
+        "Actionable_Suggestion": "修复铃声更改功能"
+      },
+      {
+        "id": "com.tencent.wechat_339",
+        "User_Pain_Point": "缺少自动翻译功能",
+        "Actionable_Suggestion": "增加自动翻译功能"
+      },
+      {
+        "id": "com.tencent.wechat_341",
+        "User_Pain_Point": "微信里拍照后要停2秒才能显示发送按钮",
+        "Actionable_Suggestion": "优化拍照后处理逻辑，缩短发送按钮出现延迟"
+      },
+      {
+        "id": "com.tencent.wechat_341",
+        "User_Pain_Point": "转发消息时没有最近常转发的头像，好友太多难找",
+        "Actionable_Suggestion": "在转发界面增加最近联系人快捷入口"
+      },
+      {
+        "id": "com.tencent.wechat_342",
+        "User_Pain_Point": "爱心捐款中的小红花功能未上线",
+        "Actionable_Suggestion": "尽快恢复小红花功能"
+      },
+      {
+        "id": "com.tencent.wechat_343",
+        "User_Pain_Point": "微信好友共同群找不到入口",
+        "Actionable_Suggestion": "在好友个人资料页增加共同群组入口"
+      },
+      {
+        "id": "com.tencent.wechat_344",
+        "User_Pain_Point": "微信来电铃声无法设置",
+        "Actionable_Suggestion": "增加微信来电铃声自定义功能"
+      },
+      {
+        "id": "com.tencent.wechat_346",
+        "User_Pain_Point": "微信铃声不好听，无法更换",
+        "Actionable_Suggestion": "提供更多铃声选择或支持自定义"
+      },
+      {
+        "id": "com.tencent.wechat_346",
+        "User_Pain_Point": "微信消息提醒功能缺失",
+        "Actionable_Suggestion": "开发消息提醒功能（如重要联系人提醒）"
+      },
+      {
+        "id": "com.tencent.wechat_347",
+        "User_Pain_Point": "不知如何设置视频和通话铃声",
+        "Actionable_Suggestion": "在设置中增加铃声引导或提供切换选项"
+      },
+      {
+        "id": "com.tencent.wechat_348",
+        "User_Pain_Point": "视频号发视频无法设置原创作品",
+        "Actionable_Suggestion": "在视频号发布流程中增加原创声明选项"
+      },
+      {
+        "id": "com.tencent.wechat_349",
+        "User_Pain_Point": "对方微信通话中，我这不显示忙线中",
+        "Actionable_Suggestion": "修复通话状态同步问题，正确显示忙线提示"
+      },
+      {
+        "id": "com.tencent.wechat_350",
+        "User_Pain_Point": "微信朋友圈无法相片和视频同时发送",
+        "Actionable_Suggestion": "允许在一条朋友圈中同时选择图片和视频"
+      },
+      {
+        "id": "com.tencent.wechat_351",
+        "User_Pain_Point": "鸿蒙的金额隐私保护希望能更新一下",
+        "Actionable_Suggestion": "建议在鸿蒙系统中增加金额隐私保护功能"
+      },
+      {
+        "id": "com.tencent.wechat_352",
+        "User_Pain_Point": "微信聊天的提醒功能能不能更新上去，不小心更新了鸿蒙，把这功能搞没了，工作很多内容都需要及时提醒，没这个功能很不方便",
+        "Actionable_Suggestion": "建议在鸿蒙版微信中恢复聊天提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_353",
+        "User_Pain_Point": "请增加多账号切换",
+        "Actionable_Suggestion": "建议增加微信多账号切换功能"
+      },
+      {
+        "id": "com.tencent.wechat_355",
+        "User_Pain_Point": "为啥我的微信设置来电铃声没有啊？",
+        "Actionable_Suggestion": "建议在鸿蒙版微信中提供来电铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_358",
+        "User_Pain_Point": "我想要微信视频铃声\n还有更换心情那个铃声",
+        "Actionable_Suggestion": "建议增加微信视频铃声和心情铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_359",
+        "User_Pain_Point": "鸿蒙系统不支持更换来电铃声",
+        "Actionable_Suggestion": "建议鸿蒙系统支持自定义来电铃声"
+      },
+      {
+        "id": "com.tencent.wechat_361",
+        "User_Pain_Point": "功能不够完善，缺失很多功能",
+        "Actionable_Suggestion": "完善微信鸿蒙版功能，补充缺失的功能"
+      },
+      {
+        "id": "com.tencent.wechat_362",
+        "User_Pain_Point": "聊天界面不熄屏",
+        "Actionable_Suggestion": "添加聊天界面自动熄屏功能"
+      },
+      {
+        "id": "com.tencent.wechat_364",
+        "User_Pain_Point": "面容ID功能缺失，误删后无法恢复",
+        "Actionable_Suggestion": "添加面容ID功能或提供恢复机制"
+      },
+      {
+        "id": "com.tencent.wechat_365",
+        "User_Pain_Point": "无法与企业微信转发消息",
+        "Actionable_Suggestion": "增加与企微的消息互通及转发功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "服务信息不显示，容易耽误事",
+        "Actionable_Suggestion": "增加服务信息显示功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "缺少浮窗功能",
+        "Actionable_Suggestion": "增加浮窗功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "缺少星标功能",
+        "Actionable_Suggestion": "增加星标功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "不能设置消息定时提醒",
+        "Actionable_Suggestion": "增加消息定时提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "不能边写边译",
+        "Actionable_Suggestion": "增加边写边译功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "不能朗读文字",
+        "Actionable_Suggestion": "增加文字朗读功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "转发没有最近转发对象显示",
+        "Actionable_Suggestion": "增加最近转发对象列表"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "文本框输入文字后点表情不能直接搜索相应表情，需重新输入",
+        "Actionable_Suggestion": "优化表情搜索，允许保留已输入文字进行搜索"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "不能切换账号",
+        "Actionable_Suggestion": "增加账号切换功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "视频号内容不能转发",
+        "Actionable_Suggestion": "增加视频号内容转发功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "朋友圈封面视频不显示",
+        "Actionable_Suggestion": "修复朋友圈封面视频显示问题"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "自己的朋友圈无法按时间快速定位",
+        "Actionable_Suggestion": "增加朋友圈按时间快速定位功能"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "折叠掉的群不显示，找不到",
+        "Actionable_Suggestion": "优化折叠群显示，确保可找到"
+      },
+      {
+        "id": "com.tencent.wechat_367",
+        "User_Pain_Point": "不能打字自动出表情包",
+        "Actionable_Suggestion": "增加打字自动推荐表情包功能"
+      },
+      {
+        "id": "com.tencent.wechat_367",
+        "User_Pain_Point": "不能设置来电铃声",
+        "Actionable_Suggestion": "增加来电铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_368",
+        "User_Pain_Point": "没有服务号选项",
+        "Actionable_Suggestion": "增加服务号功能入口"
+      },
+      {
+        "id": "com.tencent.wechat_368",
+        "User_Pain_Point": "没有搜一搜功能",
+        "Actionable_Suggestion": "增加搜一搜功能"
+      },
+      {
+        "id": "com.tencent.wechat_369",
+        "User_Pain_Point": "缺少合并发送图集功能",
+        "Actionable_Suggestion": "更新合并发送图集功能"
+      },
+      {
+        "id": "com.tencent.wechat_370",
+        "User_Pain_Point": "微信版本太低，需要更新",
+        "Actionable_Suggestion": "更新微信版本，提供最新功能"
+      },
+      {
+        "id": "com.tencent.wechat_371",
+        "User_Pain_Point": "微信不能医保卡挂号。",
+        "Actionable_Suggestion": "建议增加医保卡挂号功能。"
+      },
+      {
+        "id": "com.tencent.wechat_372",
+        "User_Pain_Point": "微信视频语音通话的铃声要么只听到一小段，要么听到的是传统铃声。",
+        "Actionable_Suggestion": "建议修复铃声播放问题。"
+      },
+      {
+        "id": "com.tencent.wechat_374",
+        "User_Pain_Point": "系统+微信通知设置全部打开，新信息无提醒。",
+        "Actionable_Suggestion": "建议排查通知机制，确保提醒正常。"
+      },
+      {
+        "id": "com.tencent.wechat_375",
+        "User_Pain_Point": "不能设置微信来电铃声。",
+        "Actionable_Suggestion": "建议增加来电铃声设置功能。"
+      },
+      {
+        "id": "com.tencent.wechat_376",
+        "User_Pain_Point": "微信群@功能希望自主选择关闭@所有人通知。",
+        "Actionable_Suggestion": "建议增加关闭@所有人通知的选项。"
+      },
+      {
+        "id": "com.tencent.wechat_377",
+        "User_Pain_Point": "请求微信更新视频来电铃声。",
+        "Actionable_Suggestion": "建议更新视频来电铃声。"
+      },
+      {
+        "id": "com.tencent.wechat_378",
+        "User_Pain_Point": "浮窗功能存在问题。",
+        "Actionable_Suggestion": "建议优化浮窗功能。"
+      },
+      {
+        "id": "com.tencent.wechat_378",
+        "User_Pain_Point": "聊天引用看不到缩略图。",
+        "Actionable_Suggestion": "建议修复聊天引用缩略图显示。"
+      },
+      {
+        "id": "com.tencent.wechat_378",
+        "User_Pain_Point": "朋友圈背景看不到视频。",
+        "Actionable_Suggestion": "建议修复朋友圈背景视频显示。"
+      },
+      {
+        "id": "com.tencent.wechat_379",
+        "User_Pain_Point": "微信铃声发放异常。",
+        "Actionable_Suggestion": "建议修复铃声发放问题。"
+      },
+      {
+        "id": "com.tencent.wechat_380",
+        "User_Pain_Point": "直播蜂免费视频无法观看。",
+        "Actionable_Suggestion": "建议修复直播蜂免费视频播放问题。"
+      },
+      {
+        "id": "com.tencent.wechat_381",
+        "User_Pain_Point": "浮窗功能被移除",
+        "Actionable_Suggestion": "恢复浮窗功能"
+      },
+      {
+        "id": "com.tencent.wechat_381",
+        "User_Pain_Point": "服务通知里的直播实时预览消失",
+        "Actionable_Suggestion": "增加直播实时预览"
+      },
+      {
+        "id": "com.tencent.wechat_382",
+        "User_Pain_Point": "无法修改语音铃声",
+        "Actionable_Suggestion": "允许用户修改语音铃声"
+      },
+      {
+        "id": "com.tencent.wechat_383",
+        "User_Pain_Point": "个人资料不显示性别",
+        "Actionable_Suggestion": "在个人资料中显示性别"
+      },
+      {
+        "id": "com.tencent.wechat_383",
+        "User_Pain_Point": "无法看到表情和图片评论",
+        "Actionable_Suggestion": "支持表情和图片评论的显示"
+      },
+      {
+        "id": "com.tencent.wechat_383",
+        "User_Pain_Point": "微店小程序链接无法显示和打开",
+        "Actionable_Suggestion": "修复小程序链接功能"
+      },
+      {
+        "id": "com.tencent.wechat_384",
+        "User_Pain_Point": "文件无法预览，必须下载才能查看",
+        "Actionable_Suggestion": "支持文件在线预览"
+      },
+      {
+        "id": "com.tencent.wechat_385",
+        "User_Pain_Point": "缺少提醒功能",
+        "Actionable_Suggestion": "增加提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_387",
+        "User_Pain_Point": "没有好友消息免打扰折叠功能，消息太乱",
+        "Actionable_Suggestion": "开发免打扰折叠功能"
+      },
+      {
+        "id": "com.tencent.wechat_388",
+        "User_Pain_Point": "文件不能自动接收，需要手动点击接收",
+        "Actionable_Suggestion": "优化文件接收逻辑，增加自动接收选项"
+      },
+      {
+        "id": "com.tencent.wechat_389",
+        "User_Pain_Point": "更新后后台新消息不再显示对方昵称",
+        "Actionable_Suggestion": "修复后台消息显示昵称的问题"
+      },
+      {
+        "id": "com.tencent.wechat_390",
+        "User_Pain_Point": "微信没有视频历史记录",
+        "Actionable_Suggestion": "恢复视频历史记录功能"
+      },
+      {
+        "id": "com.tencent.wechat_391",
+        "User_Pain_Point": "希望鸿蒙系统尽快加入附近的人的功能",
+        "Actionable_Suggestion": "增加附近的人功能"
+      },
+      {
+        "id": "com.tencent.wechat_392",
+        "User_Pain_Point": "语音来电铃声不能更改",
+        "Actionable_Suggestion": "提供语音来电铃声更改功能"
+      },
+      {
+        "id": "com.tencent.wechat_393",
+        "User_Pain_Point": "视频号功能不完整",
+        "Actionable_Suggestion": "补全视频号功能"
+      },
+      {
+        "id": "com.tencent.wechat_394",
+        "User_Pain_Point": "发文字图片不清楚",
+        "Actionable_Suggestion": "优化图片发送清晰度"
+      },
+      {
+        "id": "com.tencent.wechat_394",
+        "User_Pain_Point": "视频号缺少拍东西进入相册功能",
+        "Actionable_Suggestion": "增加视频号拍摄内容进入相册功能"
+      },
+      {
+        "id": "com.tencent.wechat_394",
+        "User_Pain_Point": "视频号不能拍视频",
+        "Actionable_Suggestion": "增加视频号拍摄视频功能"
+      },
+      {
+        "id": "com.tencent.wechat_395",
+        "User_Pain_Point": "视频号名片显示不了，不能转发",
+        "Actionable_Suggestion": "修复视频号名片显示和转发功能"
+      },
+      {
+        "id": "com.tencent.wechat_396",
+        "User_Pain_Point": "没有附近人功能",
+        "Actionable_Suggestion": "增加附近人功能"
+      },
+      {
+        "id": "com.tencent.wechat_398",
+        "User_Pain_Point": "微信语音来电接不了电话，隐藏了",
+        "Actionable_Suggestion": "修复语音来电接听按钮显示问题"
+      },
+      {
+        "id": "com.tencent.wechat_399",
+        "User_Pain_Point": "鸿蒙6.1系统微信缺少提醒、特别关注等实用功能",
+        "Actionable_Suggestion": "恢复提醒、特别关注等实用功能"
+      },
+      {
+        "id": "com.tencent.wechat_400",
+        "User_Pain_Point": "不能设置微信联系人个性铃声",
+        "Actionable_Suggestion": "增加联系人个性铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_401",
+        "User_Pain_Point": "新消息不能直接进入查看",
+        "Actionable_Suggestion": "优化消息通知，点击可直接进入聊天界面"
+      },
+      {
+        "id": "com.tencent.wechat_402",
+        "User_Pain_Point": "不能切换微信小程序",
+        "Actionable_Suggestion": "增加小程序切换功能"
+      },
+      {
+        "id": "com.tencent.wechat_403",
+        "User_Pain_Point": "不能设置来电铃声",
+        "Actionable_Suggestion": "支持自定义来电铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_405",
+        "User_Pain_Point": "聊天备份记录不支持鸿蒙系统导入导出",
+        "Actionable_Suggestion": "增加数据迁移功能，支持备份记录的导入导出"
+      },
+      {
+        "id": "com.tencent.wechat_406",
+        "User_Pain_Point": "不能查找好友共同的群",
+        "Actionable_Suggestion": "增加共同群聊查询功能"
+      },
+      {
+        "id": "com.tencent.wechat_407",
+        "User_Pain_Point": "雷达加好友功能缺失",
+        "Actionable_Suggestion": "增加雷达加好友功能"
+      },
+      {
+        "id": "com.tencent.wechat_410",
+        "User_Pain_Point": "手表微信不支持",
+        "Actionable_Suggestion": "开发手表版微信或支持手表端消息"
+      },
+      {
+        "id": "com.tencent.wechat_410",
+        "User_Pain_Point": "不能显示运动小尾巴",
+        "Actionable_Suggestion": "增加运动小尾巴显示功能"
+      },
+      {
+        "id": "com.tencent.wechat_411",
+        "User_Pain_Point": "微信朋友圈封面无法设置视频",
+        "Actionable_Suggestion": "建议支持朋友圈封面设置视频"
+      },
+      {
+        "id": "com.tencent.wechat_411",
+        "User_Pain_Point": "来电自定义铃声功能缺失",
+        "Actionable_Suggestion": "建议尽快上线来电自定义铃声"
+      },
+      {
+        "id": "com.tencent.wechat_412",
+        "User_Pain_Point": "聊天内容无法设置提醒",
+        "Actionable_Suggestion": "建议优化聊天内容提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_412",
+        "User_Pain_Point": "联系人手机号不能一键加入通讯录",
+        "Actionable_Suggestion": "建议支持一键添加联系人到通讯录"
+      },
+      {
+        "id": "com.tencent.wechat_413",
+        "User_Pain_Point": "铃声无法修改",
+        "Actionable_Suggestion": "建议恢复铃声修改功能"
+      },
+      {
+        "id": "com.tencent.wechat_415",
+        "User_Pain_Point": "更新后消息通知不显示姓名和内容",
+        "Actionable_Suggestion": "建议修复通知显示问题"
+      },
+      {
+        "id": "com.tencent.wechat_417",
+        "User_Pain_Point": "双击聊天页面顶端无法回到最上方",
+        "Actionable_Suggestion": "建议完善双击回顶功能"
+      },
+      {
+        "id": "com.tencent.wechat_417",
+        "User_Pain_Point": "+号旁边的搜索功能不完善",
+        "Actionable_Suggestion": "建议完善搜索功能"
+      },
+      {
+        "id": "com.tencent.wechat_418",
+        "User_Pain_Point": "视频单击暂停、不可拖动、不可放大",
+        "Actionable_Suggestion": "建议优化视频播放功能"
+      },
+      {
+        "id": "com.tencent.wechat_419",
+        "User_Pain_Point": "朋友圈时间轴功能缺失",
+        "Actionable_Suggestion": "建议添加朋友圈时间轴功能"
+      },
+      {
+        "id": "com.tencent.wechat_419",
+        "User_Pain_Point": "微信群加好友不能一键用群名备注",
+        "Actionable_Suggestion": "建议支持一键用群名作为备注"
+      },
+      {
+        "id": "com.tencent.wechat_420",
+        "User_Pain_Point": "消息单独提醒功能缺失",
+        "Actionable_Suggestion": "建议恢复消息单独提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_421",
+        "User_Pain_Point": "无法在对话框中发送实况照片",
+        "Actionable_Suggestion": "建议支持在对话框中发送实况照片"
+      },
+      {
+        "id": "com.tencent.wechat_422",
+        "User_Pain_Point": "微信注册功能未完成",
+        "Actionable_Suggestion": "尽快完成微信注册功能"
+      },
+      {
+        "id": "com.tencent.wechat_423",
+        "User_Pain_Point": "缺少来电铃声设置",
+        "Actionable_Suggestion": "增加来电铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_423",
+        "User_Pain_Point": "缺少后台接收消息设置",
+        "Actionable_Suggestion": "增加后台接收消息设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_424",
+        "User_Pain_Point": "群聊和建群时无法搜索企业微信用户",
+        "Actionable_Suggestion": "支持在群聊和建群时搜索企业微信用户"
+      },
+      {
+        "id": "com.tencent.wechat_425",
+        "User_Pain_Point": "缺少消息自动翻译功能",
+        "Actionable_Suggestion": "增加消息自动翻译功能"
+      },
+      {
+        "id": "com.tencent.wechat_426",
+        "User_Pain_Point": "多选文件直接上传邮箱发送功能缺失",
+        "Actionable_Suggestion": "适配多选文件直接上传邮箱发送功能"
+      },
+      {
+        "id": "com.tencent.wechat_427",
+        "User_Pain_Point": "聊天发实况图片功能缺失",
+        "Actionable_Suggestion": "更新支持聊天发送实况图片"
+      },
+      {
+        "id": "com.tencent.wechat_428",
+        "User_Pain_Point": "缺少自动翻译功能",
+        "Actionable_Suggestion": "尽快上线自动翻译功能"
+      },
+      {
+        "id": "com.tencent.wechat_429",
+        "User_Pain_Point": "缺少语音倍速功能",
+        "Actionable_Suggestion": "增加语音倍速功能"
+      },
+      {
+        "id": "com.tencent.wechat_429",
+        "User_Pain_Point": "缺少消息提醒功能",
+        "Actionable_Suggestion": "增加消息提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_431",
+        "User_Pain_Point": "无法修改来电铃声",
+        "Actionable_Suggestion": "增加修改来电铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_432",
+        "User_Pain_Point": "视频号缺少评论功能",
+        "Actionable_Suggestion": "开发视频号评论功能"
+      },
+      {
+        "id": "com.tencent.wechat_432",
+        "User_Pain_Point": "视频号缺少关注感谢功能",
+        "Actionable_Suggestion": "开发视频号关注感谢功能"
+      },
+      {
+        "id": "com.tencent.wechat_432",
+        "User_Pain_Point": "视频号发布作品时缺少原创功能",
+        "Actionable_Suggestion": "增加视频号发布作品时原创声明功能"
+      },
+      {
+        "id": "com.tencent.wechat_433",
+        "User_Pain_Point": "无法更改微信铃声",
+        "Actionable_Suggestion": "允许用户修改微信来电铃声"
+      },
+      {
+        "id": "com.tencent.wechat_434",
+        "User_Pain_Point": "语音通话来电铃声无法设置",
+        "Actionable_Suggestion": "增加语音通话来电铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_435",
+        "User_Pain_Point": "没有聊天框提醒功能",
+        "Actionable_Suggestion": "增加聊天框提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_436",
+        "User_Pain_Point": "微信封面不能使用视频号",
+        "Actionable_Suggestion": "支持将视频号设置为微信封面"
+      },
+      {
+        "id": "com.tencent.wechat_436",
+        "User_Pain_Point": "小程序在某些场景下支持不足",
+        "Actionable_Suggestion": "改进小程序的兼容性和功能支持"
+      },
+      {
+        "id": "com.tencent.wechat_437",
+        "User_Pain_Point": "没有系统通知铃声",
+        "Actionable_Suggestion": "新增系统通知铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_437",
+        "User_Pain_Point": "没有自定义来电铃声",
+        "Actionable_Suggestion": "新增自定义来电铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_437",
+        "User_Pain_Point": "缺少服务号功能",
+        "Actionable_Suggestion": "增加服务号功能"
+      },
+      {
+        "id": "com.tencent.wechat_437",
+        "User_Pain_Point": "聊天表情没有自拍表情",
+        "Actionable_Suggestion": "新增自拍表情功能"
+      },
+      {
+        "id": "com.tencent.wechat_437",
+        "User_Pain_Point": "聊天记录不显示完整时间线",
+        "Actionable_Suggestion": "在聊天记录中显示完整具体的時間線"
+      },
+      {
+        "id": "com.tencent.wechat_438",
+        "User_Pain_Point": "通知信息设置后不显示",
+        "Actionable_Suggestion": "修复通知显示问题，确保通知信息正确显示"
+      },
+      {
+        "id": "com.tencent.wechat_439",
+        "User_Pain_Point": "直播回放无法查看",
+        "Actionable_Suggestion": "修复直播回放功能"
+      },
+      {
+        "id": "com.tencent.wechat_440",
+        "User_Pain_Point": "朋友圈视频不能配音乐",
+        "Actionable_Suggestion": "增加朋友圈视频配乐功能"
+      },
+      {
+        "id": "com.tencent.wechat_441",
+        "User_Pain_Point": "输入不能自动关联表情包",
+        "Actionable_Suggestion": "增加输入时自动关联表情包的功能"
+      },
+      {
+        "id": "com.tencent.wechat_441",
+        "User_Pain_Point": "视频号不提示点赞，点赞朋友也不显示",
+        "Actionable_Suggestion": "修复视频号点赞提示和显示问题"
+      },
+      {
+        "id": "com.tencent.wechat_443",
+        "User_Pain_Point": "没有视频号直播回放",
+        "Actionable_Suggestion": "增加视频号直播回放功能"
+      },
+      {
+        "id": "com.tencent.wechat_448",
+        "User_Pain_Point": "微信图片横屏功能不完善",
+        "Actionable_Suggestion": "完善微信图片横屏功能"
+      },
+      {
+        "id": "com.tencent.wechat_450",
+        "User_Pain_Point": "腾讯乐享小程序在学习任务中无法上传照片和视频",
+        "Actionable_Suggestion": "修复腾讯乐享小程序上传照片和视频的问题"
+      },
+      {
+        "id": "com.tencent.wechat_451",
+        "User_Pain_Point": "缺少微信来电铃声更换功能，用户无法自定义铃声。",
+        "Actionable_Suggestion": "增加来电铃声设置功能，允许用户自定义微信来电铃声。"
+      },
+      {
+        "id": "com.tencent.wechat_452",
+        "User_Pain_Point": "微信群公告不能显示图片，也不能发图片，功能不完善。",
+        "Actionable_Suggestion": "完善群公告功能，支持显示和发送图片。"
+      },
+      {
+        "id": "com.tencent.wechat_453",
+        "User_Pain_Point": "收藏内容不能复制，也无法转笔记，使用不便。",
+        "Actionable_Suggestion": "增加收藏内容的复制功能和转笔记功能。"
+      },
+      {
+        "id": "com.tencent.wechat_453",
+        "User_Pain_Point": "找不到好友共同群，缺乏相关功能。",
+        "Actionable_Suggestion": "增加查找好友共同群的功能。"
+      },
+      {
+        "id": "com.tencent.wechat_454",
+        "User_Pain_Point": "缺少微信来电铃声设置功能。",
+        "Actionable_Suggestion": "增加来电铃声设置功能。"
+      },
+      {
+        "id": "com.tencent.wechat_455",
+        "User_Pain_Point": "缺少自动翻译功能，用户有强烈需求。",
+        "Actionable_Suggestion": "增加自动翻译功能，支持文字翻译。"
+      },
+      {
+        "id": "com.tencent.wechat_456",
+        "User_Pain_Point": "缺少“附近的人”功能，很多功能缺失。",
+        "Actionable_Suggestion": "恢复“附近的人”功能并完善其他缺失功能。"
+      },
+      {
+        "id": "com.tencent.wechat_457",
+        "User_Pain_Point": "缺少注销账号功能，用户无法注销。",
+        "Actionable_Suggestion": "增加注销账号功能。"
+      },
+      {
+        "id": "com.tencent.wechat_460",
+        "User_Pain_Point": "微信视频号更新后找不到删除作品的功能。",
+        "Actionable_Suggestion": "明确视频号作品的删除入口，或者增加删除功能。"
+      },
+      {
+        "id": "com.tencent.wechat_462",
+        "User_Pain_Point": "微信视频里没有浏览记录，也没有自己的公众号",
+        "Actionable_Suggestion": "增加微信视频浏览记录和公众号功能"
+      },
+      {
+        "id": "com.tencent.wechat_463",
+        "User_Pain_Point": "无法更换铃声，铃声已用一年多",
+        "Actionable_Suggestion": "增加更换铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_465",
+        "User_Pain_Point": "升级后微信拍照不清晰，希望恢复原相机",
+        "Actionable_Suggestion": "优化微信拍照功能，或允许调用系统相机"
+      },
+      {
+        "id": "com.tencent.wechat_466",
+        "User_Pain_Point": "找不到来电铃声设置",
+        "Actionable_Suggestion": "优化来电铃声设置入口，使其易于查找"
+      },
+      {
+        "id": "com.tencent.wechat_467",
+        "User_Pain_Point": "好友添加来源详情缺失，之前版本有详细来源",
+        "Actionable_Suggestion": "恢复好友添加来源详情显示"
+      },
+      {
+        "id": "com.tencent.wechat_468",
+        "User_Pain_Point": "输入首字母缩写无法显示好友，需要输入完整前缀才能搜索",
+        "Actionable_Suggestion": "恢复首字母缩写快速搜索好友功能"
+      },
+      {
+        "id": "com.tencent.wechat_470",
+        "User_Pain_Point": "缺少视频语音铃声设置",
+        "Actionable_Suggestion": "增加视频语音铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_471",
+        "User_Pain_Point": "打视频或语音时无法将免提切换成听筒，声音太大不方便",
+        "Actionable_Suggestion": "增加通话中听筒/免提切换功能"
+      },
+      {
+        "id": "com.tencent.wechat_472",
+        "User_Pain_Point": "提醒功能落后于安卓和iOS版本",
+        "Actionable_Suggestion": "尽快更新消息提醒功能，追平其他平台"
+      },
+      {
+        "id": "com.tencent.wechat_473",
+        "User_Pain_Point": "消息提醒功能迟迟未上线",
+        "Actionable_Suggestion": "加速开发并上线消息提醒功能"
+      },
+      {
+        "id": "com.tencent.wechat_474",
+        "User_Pain_Point": "找不到群聊，无法接收别人的语音视频通话，功能不完整",
+        "Actionable_Suggestion": "恢复群聊搜索和语音视频接收功能"
+      },
+      {
+        "id": "com.tencent.wechat_475",
+        "User_Pain_Point": "视频号创作者中心未上线，私信不可见",
+        "Actionable_Suggestion": "上线视频号创作者中心，修复私信可见性"
+      },
+      {
+        "id": "com.tencent.wechat_476",
+        "User_Pain_Point": "没有“附近的人”选项",
+        "Actionable_Suggestion": "添加“附近的人”功能"
+      },
+      {
+        "id": "com.tencent.wechat_477",
+        "User_Pain_Point": "别人打微信视频/通话经常收不到提示",
+        "Actionable_Suggestion": "修复通话提示问题"
+      },
+      {
+        "id": "com.tencent.wechat_478",
+        "User_Pain_Point": "缺少实况照片、小程序运行切换、消息提醒、朋友圈背景视频等功能",
+        "Actionable_Suggestion": "适配上述小功能"
+      },
+      {
+        "id": "com.tencent.wechat_479",
+        "User_Pain_Point": "缺少铃声设置，无法看到好友和群好友的性别",
+        "Actionable_Suggestion": "更新铃声设置，修复性别显示"
+      },
+      {
+        "id": "com.tencent.wechat_480",
+        "User_Pain_Point": "微信视频里评论区图片看不到",
+        "Actionable_Suggestion": "修复评论区图片显示"
+      },
+      {
+        "id": "com.tencent.wechat_482",
+        "User_Pain_Point": "每次点开聊天界面默认都是发文字，想发语音都要多点一次，退出后还是默认文字模式，很麻烦",
+        "Actionable_Suggestion": "修复聊天输入模式记忆功能，记住用户上次使用的输入模式"
+      },
+      {
+        "id": "com.tencent.wechat_483",
+        "User_Pain_Point": "自定义铃声功能缺失",
+        "Actionable_Suggestion": "在鸿蒙系统上支持微信自定义铃声"
+      },
+      {
+        "id": "com.tencent.wechat_484",
+        "User_Pain_Point": "视频号功能不完善，对发布视频的用户不友好",
+        "Actionable_Suggestion": "完善视频号功能，包括发布、浏览等"
+      },
+      {
+        "id": "com.tencent.wechat_485",
+        "User_Pain_Point": "缺少附近功能",
+        "Actionable_Suggestion": "增加微信附近功能"
+      },
+      {
+        "id": "com.tencent.wechat_486",
+        "User_Pain_Point": "卡包功能里没有会员卡，支付不支持云闪付",
+        "Actionable_Suggestion": "在卡包中添加会员卡功能，支付支持云闪付"
+      },
+      {
+        "id": "com.tencent.wechat_487",
+        "User_Pain_Point": "来消息不是直接显示聊天界面，需要再点进去",
+        "Actionable_Suggestion": "优化消息通知，点击后直接进入聊天界面"
+      },
+      {
+        "id": "com.tencent.wechat_488",
+        "User_Pain_Point": "视频号点赞消息和私信看不到",
+        "Actionable_Suggestion": "修复视频号点赞消息和私信功能"
+      },
+      {
+        "id": "com.tencent.wechat_489",
+        "User_Pain_Point": "视频号直播、私信等功能未适配，需用非鸿蒙设备作为备用",
+        "Actionable_Suggestion": "尽快适配微信视频号直播、私信等功能"
+      },
+      {
+        "id": "com.tencent.wechat_490",
+        "User_Pain_Point": "微信群缺少屏蔽群但可特殊关注某几个人的功能",
+        "Actionable_Suggestion": "恢复屏蔽群同时特殊关注特定成员的功能"
+      },
+      {
+        "id": "com.tencent.wechat_493",
+        "User_Pain_Point": "微信视频号功能太简单",
+        "Actionable_Suggestion": "完善视频号功能，增加更多互动和创作工具"
+      },
+      {
+        "id": "com.tencent.wechat_494",
+        "User_Pain_Point": "无法使用公众号助手",
+        "Actionable_Suggestion": "支持卓易通公众号助手功能"
+      },
+      {
+        "id": "com.tencent.wechat_496",
+        "User_Pain_Point": "视频铃声功能缺失",
+        "Actionable_Suggestion": "开发视频铃声自定义功能"
+      },
+      {
+        "id": "com.tencent.wechat_496",
+        "User_Pain_Point": "视频号播放不能定位到上次观看位置",
+        "Actionable_Suggestion": "增加视频播放进度记忆功能"
+      },
+      {
+        "id": "com.tencent.wechat_497",
+        "User_Pain_Point": "群消息@所有人也会收到提醒，希望只接收指定@提醒",
+        "Actionable_Suggestion": "恢复或优化群消息提醒设置，允许选择仅接收特定@提醒"
+      },
+      {
+        "id": "com.tencent.wechat_498",
+        "User_Pain_Point": "共享位置不显示对方位置",
+        "Actionable_Suggestion": "修复位置共享功能，确保双方位置正常显示"
+      },
+      {
+        "id": "com.tencent.wechat_499",
+        "User_Pain_Point": "无法更改微信视频铃声",
+        "Actionable_Suggestion": "支持用户自定义视频铃声"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.tencent.wechat_165",
+        "User_Pain_Point": "用户询问如何更改美颜效果",
+        "Actionable_Suggestion": "在视频通话界面增加美颜设置入口或说明"
+      },
+      {
+        "id": "com.tencent.wechat_408",
+        "User_Pain_Point": "期望朋友圈背景能换视频",
+        "Actionable_Suggestion": "支持朋友圈视频背景功能"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.tencent.wechat_6",
+        "User_Pain_Point": "手表版本未更新。",
+        "Actionable_Suggestion": "更新手表版本。"
+      },
+      {
+        "id": "com.tencent.wechat_26",
+        "User_Pain_Point": "微信最新版本不一致（不同设备）。",
+        "Actionable_Suggestion": "统一各机型微信版本更新策略，确保版本一致。"
+      },
+      {
+        "id": "com.tencent.wechat_36",
+        "User_Pain_Point": "鸿蒙系统不能使用切换账号",
+        "Actionable_Suggestion": "支持鸿蒙系统切换账号功能"
+      },
+      {
+        "id": "com.tencent.wechat_67",
+        "User_Pain_Point": "更新能跟上安卓版本就更好了",
+        "Actionable_Suggestion": "加快鸿蒙版本更新节奏，保持与安卓版本同步"
+      },
+      {
+        "id": "com.tencent.wechat_77",
+        "User_Pain_Point": "换铃声功能未完全适配",
+        "Actionable_Suggestion": "完善铃声更换适配"
+      },
+      {
+        "id": "com.tencent.wechat_98",
+        "User_Pain_Point": "无法将微信升级到最新版本",
+        "Actionable_Suggestion": "提供微信版本更新支持，确保用户能升级到最新版。"
+      },
+      {
+        "id": "com.tencent.wechat_99",
+        "User_Pain_Point": "鸿蒙系统没有微信原生版，数据迁移后很多消息显示暂不支持此类消息",
+        "Actionable_Suggestion": "尽快推出鸿蒙原生版微信，并修复数据迁移兼容性问题。"
+      },
+      {
+        "id": "com.tencent.wechat_156",
+        "User_Pain_Point": "鸿蒙版与安卓版不同步更新，缺少很多优化项和小功能",
+        "Actionable_Suggestion": "加快鸿蒙版与安卓版的功能同步更新"
+      },
+      {
+        "id": "com.tencent.wechat_191",
+        "User_Pain_Point": "新机型（nova 14 Ultra）不如旧机型（mate50pro）好用",
+        "Actionable_Suggestion": "针对鸿蒙新机型优化微信性能和功能兼容性，减少与旧机型的体验差距"
+      },
+      {
+        "id": "com.tencent.wechat_208",
+        "User_Pain_Point": "未适配鸿蒙系统2.6",
+        "Actionable_Suggestion": "尽快完成对鸿蒙2.6的适配测试"
+      },
+      {
+        "id": "com.tencent.wechat_231",
+        "User_Pain_Point": "mateX7的微信不支持分栏显示",
+        "Actionable_Suggestion": "适配折叠屏分栏显示功能"
+      },
+      {
+        "id": "com.tencent.wechat_234",
+        "User_Pain_Point": "从Mate40 Pro升级到Mate80 Pro后，微信多个功能缺失（浮窗、搜索、文件收藏、语音搜索）",
+        "Actionable_Suggestion": "加快适配Mate80 Pro，恢复缺失功能"
+      },
+      {
+        "id": "com.tencent.wechat_239",
+        "User_Pain_Point": "华为新手机无法在直播间抢红包",
+        "Actionable_Suggestion": "修复新机型直播间的红包功能"
+      },
+      {
+        "id": "com.tencent.wechat_256",
+        "User_Pain_Point": "鸿蒙系统微信版本太低，不支持发动图功能。",
+        "Actionable_Suggestion": "加快鸿蒙系统微信版本的更新，尽快支持动图发送功能。"
+      },
+      {
+        "id": "com.tencent.wechat_257",
+        "User_Pain_Point": "鸿蒙系统微信版本低，无法发送几分钟的视频。",
+        "Actionable_Suggestion": "优化鸿蒙系统微信版本，提升视频发送时长限制或修复相关bug。"
+      },
+      {
+        "id": "com.tencent.wechat_284",
+        "User_Pain_Point": "华为Pura 80 Pro+无法安装微信8.0.71版本",
+        "Actionable_Suggestion": "适配该机型以支持安装"
+      },
+      {
+        "id": "com.tencent.wechat_294",
+        "User_Pain_Point": "微信版本仍显示8.017，版本过旧，缺少新功能。",
+        "Actionable_Suggestion": "加快版本升级，适配新系统。"
+      },
+      {
+        "id": "com.tencent.wechat_298",
+        "User_Pain_Point": "微信版本升级慢，导致功能受限。",
+        "Actionable_Suggestion": "加快版本迭代，及时推送新版本。"
+      },
+      {
+        "id": "com.tencent.wechat_304",
+        "User_Pain_Point": "鸿蒙系统更新后微信消息不显示微信名和群聊名",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复更新后不显示昵称的问题"
+      },
+      {
+        "id": "com.tencent.wechat_327",
+        "User_Pain_Point": "手表连不上，版本不支持",
+        "Actionable_Suggestion": "适配手表连接功能，更新版本以支持"
+      },
+      {
+        "id": "com.tencent.wechat_332",
+        "User_Pain_Point": "浮窗、消息按时提醒、双击全屏消息等经典功能迟迟未适配鸿蒙版本",
+        "Actionable_Suggestion": "加快适配鸿蒙版本的浮窗、消息提醒、双击全屏等功能"
+      },
+      {
+        "id": "com.tencent.wechat_340",
+        "User_Pain_Point": "版本与安卓不兼容，功能差异大，甚至无法添加元宝微信",
+        "Actionable_Suggestion": "提升与安卓版本的兼容性，确保功能一致并解决添加问题"
+      },
+      {
+        "id": "com.tencent.wechat_345",
+        "User_Pain_Point": "微信无法登录华为手表，鸿蒙系统",
+        "Actionable_Suggestion": "适配鸿蒙系统手表端，解决登录兼容性问题"
+      },
+      {
+        "id": "com.tencent.wechat_354",
+        "User_Pain_Point": "抓紧更新系统",
+        "Actionable_Suggestion": "建议加快系统更新频率"
+      },
+      {
+        "id": "com.tencent.wechat_356",
+        "User_Pain_Point": "请尽快更新，更多功能",
+        "Actionable_Suggestion": "建议加速系统更新，增加更多功能"
+      },
+      {
+        "id": "com.tencent.wechat_357",
+        "User_Pain_Point": "好鸡肋啊，能不能赶快适配安卓微信，好多朋友因为这个就没有买这款手机",
+        "Actionable_Suggestion": "建议加快鸿蒙微信功能适配，缩小与安卓版差距"
+      },
+      {
+        "id": "com.tencent.wechat_390",
+        "User_Pain_Point": "新手机微信版本过低且无法下载最新安卓版本",
+        "Actionable_Suggestion": "适配新手机，提供最新版本更新"
+      },
+      {
+        "id": "com.tencent.wechat_442",
+        "User_Pain_Point": "鸿蒙系统微信铃声修改不了",
+        "Actionable_Suggestion": "完善鸿蒙系统微信铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_444",
+        "User_Pain_Point": "没有铃声设置功能",
+        "Actionable_Suggestion": "恢复或添加铃声设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_445",
+        "User_Pain_Point": "鸿蒙系统无法更换微信铃声和动态背景图",
+        "Actionable_Suggestion": "支持鸿蒙系统更换微信铃声和动态背景图"
+      },
+      {
+        "id": "com.tencent.wechat_447",
+        "User_Pain_Point": "微信设置不了来电铃声和聊天背景",
+        "Actionable_Suggestion": "恢复来电铃声和聊天背景设置功能"
+      },
+      {
+        "id": "com.tencent.wechat_448",
+        "User_Pain_Point": "微信铃声功能不完善",
+        "Actionable_Suggestion": "完善微信铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_449",
+        "User_Pain_Point": "没有修改来电铃声的功能",
+        "Actionable_Suggestion": "增加修改来电铃声功能"
+      },
+      {
+        "id": "com.tencent.wechat_453",
+        "User_Pain_Point": "微信不解锁收不到消息提示，手机不解锁听不到收款到账。",
+        "Actionable_Suggestion": "优化锁屏状态下的消息提示和收款到账语音播报，确保锁屏时也能正常提醒。"
+      },
+      {
+        "id": "com.tencent.wechat_458",
+        "User_Pain_Point": "来电弹窗点不进去，必须点开APP才能接通。",
+        "Actionable_Suggestion": "优化来电弹窗交互，支持直接点击弹窗接通。"
+      },
+      {
+        "id": "com.tencent.wechat_459",
+        "User_Pain_Point": "鸿蒙系统锁屏状态下不能直接接听微信语音和视频通话。",
+        "Actionable_Suggestion": "优化锁屏接听功能，支持在锁屏状态下直接接听语音和视频通话。"
+      },
+      {
+        "id": "com.tencent.wechat_469",
+        "User_Pain_Point": "华为Pura90 Pro微信直播有滋滋杂音，其他机型正常",
+        "Actionable_Suggestion": "修复Pura90 Pro机型的微信直播杂音问题，更新系统适配"
+      },
+      {
+        "id": "com.tencent.wechat_481",
+        "User_Pain_Point": "鸿蒙系统的微信适配太差，显得很low",
+        "Actionable_Suggestion": "加快鸿蒙系统微信的适配进度，提升用户体验"
+      },
+      {
+        "id": "com.tencent.wechat_491",
+        "User_Pain_Point": "微信版本低，导致无法看到体检报告",
+        "Actionable_Suggestion": "确保低版本兼容或提示用户升级至支持版本"
+      },
+      {
+        "id": "com.tencent.wechat_500",
+        "User_Pain_Point": "版本较低导致无法与家人视频通话",
+        "Actionable_Suggestion": "优化版本兼容性，或自动提示用户更新"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.tencent.wechat_7",
+        "User_Pain_Point": "消息刷新速度慢，打开转圈。",
+        "Actionable_Suggestion": "优化消息刷新速度。"
+      },
+      {
+        "id": "com.tencent.wechat_22",
+        "User_Pain_Point": "聊天视频经常转圈、播放中断。",
+        "Actionable_Suggestion": "优化视频播放性能，减少缓冲和中断。"
+      },
+      {
+        "id": "com.tencent.wechat_22",
+        "User_Pain_Point": "订阅号音频播放自动中断。",
+        "Actionable_Suggestion": "修复音频播放中断问题。"
+      },
+      {
+        "id": "com.tencent.wechat_23",
+        "User_Pain_Point": "收到消息提示有时候不显示。",
+        "Actionable_Suggestion": "修复消息通知显示问题，确保提示正常。"
+      },
+      {
+        "id": "com.tencent.wechat_32",
+        "User_Pain_Point": "传视频三分钟还没传完",
+        "Actionable_Suggestion": "优化视频传输速度"
+      },
+      {
+        "id": "com.tencent.wechat_48",
+        "User_Pain_Point": "语音视频通话时听不见对方声音，有回音",
+        "Actionable_Suggestion": "修复通话声音问题"
+      },
+      {
+        "id": "com.tencent.wechat_99",
+        "User_Pain_Point": "从安卓导到鸿蒙系统，好多内容暂不支持此类消息",
+        "Actionable_Suggestion": "修复数据迁移后消息格式兼容性问题，确保所有消息正常显示。"
+      },
+      {
+        "id": "com.tencent.wechat_115",
+        "User_Pain_Point": "语音消息外放播放时断断续续",
+        "Actionable_Suggestion": "优化语音消息外放播放的稳定性和流畅度。"
+      },
+      {
+        "id": "com.tencent.wechat_118",
+        "User_Pain_Point": "微信消息接收存在延迟",
+        "Actionable_Suggestion": "优化消息接收机制，减少延迟。"
+      },
+      {
+        "id": "com.tencent.wechat_141",
+        "User_Pain_Point": "企业微信视频通话打不通，显示对方版本低",
+        "Actionable_Suggestion": "修复企业微信视频通话兼容性问题"
+      },
+      {
+        "id": "com.tencent.wechat_144",
+        "User_Pain_Point": "别人视频打不进来",
+        "Actionable_Suggestion": "修复视频通话接收问题"
+      },
+      {
+        "id": "com.tencent.wechat_159",
+        "User_Pain_Point": "新版本通讯录好友朋友圈背景图放大跳动",
+        "Actionable_Suggestion": "修复朋友圈背景图显示问题，消除放大跳动"
+      },
+      {
+        "id": "com.tencent.wechat_164",
+        "User_Pain_Point": "推送慢",
+        "Actionable_Suggestion": "优化推送机制，提高推送速度"
+      },
+      {
+        "id": "com.tencent.wechat_181",
+        "User_Pain_Point": "突然无法连接网络，无法解决",
+        "Actionable_Suggestion": "建议优化网络连接稳定性，排查鸿蒙系统下的网络兼容性问题。"
+      },
+      {
+        "id": "com.tencent.wechat_185",
+        "User_Pain_Point": "推送速度慢",
+        "Actionable_Suggestion": "建议优化消息推送延迟，提高推送及时性。"
+      },
+      {
+        "id": "com.tencent.wechat_205",
+        "User_Pain_Point": "消息延迟高",
+        "Actionable_Suggestion": "优化消息推送延迟"
+      },
+      {
+        "id": "com.tencent.wechat_262",
+        "User_Pain_Point": "视频通话帧率低，卡顿",
+        "Actionable_Suggestion": "建议优化视频编解码性能，提升帧率"
+      },
+      {
+        "id": "com.tencent.wechat_263",
+        "User_Pain_Point": "新版本系统卡顿",
+        "Actionable_Suggestion": "建议优化系统资源调度，减少卡顿现象"
+      },
+      {
+        "id": "com.tencent.wechat_285",
+        "User_Pain_Point": "微信视频小窗切换到其他应用自动关闭摄像头",
+        "Actionable_Suggestion": "优化小窗视频保持摄像头开启"
+      },
+      {
+        "id": "com.tencent.wechat_300",
+        "User_Pain_Point": "语音消息播放时听筒与扬声器自动切换异常，频繁切换导致无法正常使用。",
+        "Actionable_Suggestion": "修复语音播放时听筒/扬声器切换逻辑，保证稳定性。"
+      },
+      {
+        "id": "com.tencent.wechat_312",
+        "User_Pain_Point": "微信消息只显示‘你收到一条消息’，不显示内容，疑似bug",
+        "Actionable_Suggestion": "修复消息通知不显示内容的问题"
+      },
+      {
+        "id": "com.tencent.wechat_317",
+        "User_Pain_Point": "锁屏后弹窗微信最后一条消息有明显延迟",
+        "Actionable_Suggestion": "修复锁屏后消息弹窗延迟问题"
+      },
+      {
+        "id": "com.tencent.wechat_318",
+        "User_Pain_Point": "17.36版本偷跑流量，后台下载不明内容",
+        "Actionable_Suggestion": "优化版本，减少流量消耗和后台下载"
+      },
+      {
+        "id": "com.tencent.wechat_319",
+        "User_Pain_Point": "微信群打开图片要等五秒",
+        "Actionable_Suggestion": "优化图片加载速度"
+      },
+      {
+        "id": "com.tencent.wechat_326",
+        "User_Pain_Point": "版本太低，文件都打不开，显示版本太低",
+        "Actionable_Suggestion": "推出更新，修复版本兼容性问题"
+      },
+      {
+        "id": "com.tencent.wechat_360",
+        "User_Pain_Point": "后台视频小窗，返回过程中卡顿。",
+        "Actionable_Suggestion": "建议优化后台视频小窗返回动画的流畅性"
+      },
+      {
+        "id": "com.tencent.wechat_373",
+        "User_Pain_Point": "微信视频号分享作品时偶尔死机，切换横竖屏偶尔点不上。",
+        "Actionable_Suggestion": "建议优化稳定性，修复死机和点击无响应问题。"
+      },
+      {
+        "id": "com.tencent.wechat_397",
+        "User_Pain_Point": "更新后视频好卡",
+        "Actionable_Suggestion": "优化视频播放性能"
+      },
+      {
+        "id": "com.tencent.wechat_409",
+        "User_Pain_Point": "屏蔽微信用户的开关总消失",
+        "Actionable_Suggestion": "修复开关消失的bug，确保功能稳定"
+      },
+      {
+        "id": "com.tencent.wechat_416",
+        "User_Pain_Point": "微信视频时灵动岛切换卡顿",
+        "Actionable_Suggestion": "建议优化灵动岛切换流畅度"
+      },
+      {
+        "id": "com.tencent.wechat_446",
+        "User_Pain_Point": "消息不显示人名和内容",
+        "Actionable_Suggestion": "修复消息显示人名和内容的问题"
+      },
+      {
+        "id": "com.tencent.wechat_453",
+        "User_Pain_Point": "群发多群偶尔有遗漏消息，功能不稳定。",
+        "Actionable_Suggestion": "优化群发功能，确保消息不漏发。"
+      },
+      {
+        "id": "com.tencent.wechat_464",
+        "User_Pain_Point": "视频显示不流畅",
+        "Actionable_Suggestion": "优化视频播放性能，减少卡顿"
+      },
+      {
+        "id": "com.tencent.wechat_492",
+        "User_Pain_Point": "更新后只能打视频，不能打电话",
+        "Actionable_Suggestion": "修复更新后的通话功能，确保语音通话正常"
+      },
+      {
+        "id": "com.tencent.wechat_495",
+        "User_Pain_Point": "微信语音通话体验差，无法接受",
+        "Actionable_Suggestion": "优化语音通话质量，减少延迟和杂音"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.tencent.wechat_79",
+        "User_Pain_Point": "找不到群聊入口",
+        "Actionable_Suggestion": "优化群聊入口位置或增加引导"
+      },
+      {
+        "id": "com.tencent.wechat_113",
+        "User_Pain_Point": "搜索界面需要来回翻，建议设计成折叠式",
+        "Actionable_Suggestion": "将搜索界面设计为可折叠样式，提升浏览效率。"
+      },
+      {
+        "id": "com.tencent.wechat_124",
+        "User_Pain_Point": "找不到切换账号的功能入口。",
+        "Actionable_Suggestion": "在设置或个人信息页显眼位置增加切换账号按钮，并优化入口提示。"
+      },
+      {
+        "id": "com.tencent.wechat_149",
+        "User_Pain_Point": "新版本不能点下抬头一键返回顶部，需手动滑动",
+        "Actionable_Suggestion": "恢复或优化一键返回顶部功能"
+      },
+      {
+        "id": "com.tencent.wechat_182",
+        "User_Pain_Point": "找不到消息通知设置铃声的入口",
+        "Actionable_Suggestion": "建议优化消息通知设置入口，增加搜索或引导功能。"
+      },
+      {
+        "id": "com.tencent.wechat_198",
+        "User_Pain_Point": "字体巨大无比，看起来很别扭，像老人机",
+        "Actionable_Suggestion": "在微信设置中增加字体大小调节选项，或跟随系统字体设置"
+      },
+      {
+        "id": "com.tencent.wechat_297",
+        "User_Pain_Point": "点击通知后不能直接进入目标信息，而是跳到操作前的页面，交互逻辑不合理。",
+        "Actionable_Suggestion": "优化通知点击跳转逻辑，直接进入对应信息页面。"
+      },
+      {
+        "id": "com.tencent.wechat_363",
+        "User_Pain_Point": "横屏显示问题未解决",
+        "Actionable_Suggestion": "优化横屏模式下的界面适配"
+      },
+      {
+        "id": "com.tencent.wechat_378",
+        "User_Pain_Point": "界面外消息弹窗点开不能直接进入对话，只能进入微信界面。",
+        "Actionable_Suggestion": "建议优化消息弹窗交互，点击后直接进入对应对话。"
+      },
+      {
+        "id": "com.tencent.wechat_404",
+        "User_Pain_Point": "视频号功能找不到",
+        "Actionable_Suggestion": "优化视频号功能入口布局，提高易用性"
+      },
+      {
+        "id": "com.tencent.wechat_418",
+        "User_Pain_Point": "鸿蒙版缺少中英文间空格排版",
+        "Actionable_Suggestion": "建议增加中英文间空格排版"
+      },
+      {
+        "id": "com.tencent.wechat_454",
+        "User_Pain_Point": "字体调大后，复制和打字时对话框内的字体仍然小，与设置不一致，影响视力不好的人。",
+        "Actionable_Suggestion": "统一字体大小，确保输入框和复制内容跟随系统字体设置，避免出现小字体。"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.tencent.wechat_38",
+        "User_Pain_Point": "鸿蒙系统UI统一有美感",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.tencent.wechat_84",
+        "User_Pain_Point": "微信视频号更新太慢",
+        "Actionable_Suggestion": "建议加快视频号功能的更新速度"
+      },
+      {
+        "id": "com.tencent.wechat_85",
+        "User_Pain_Point": "微信更新拖沓，基础功能不完善",
+        "Actionable_Suggestion": "建议加快更新频率，优先完善基础功能"
+      },
+      {
+        "id": "com.tencent.wechat_116",
+        "User_Pain_Point": "更新速度慢，功能改进不明显",
+        "Actionable_Suggestion": "加快更新频率，优先修复已知问题和提升用户体验。"
+      },
+      {
+        "id": "com.tencent.wechat_270",
+        "User_Pain_Point": "朋友圈、公众号、视频号广告过多",
+        "Actionable_Suggestion": "建议增加广告过滤功能或提供去广告付费选项"
+      },
+      {
+        "id": "com.tencent.wechat_314",
+        "User_Pain_Point": "朋友圈广告关不掉，不需要要点进去",
+        "Actionable_Suggestion": "提供关闭朋友圈广告的选项"
+      },
+      {
+        "id": "com.tencent.wechat_386",
+        "User_Pain_Point": "朋友圈广告太多且无法屏蔽",
+        "Actionable_Suggestion": "提供广告屏蔽选项"
+      },
+      {
+        "id": "com.tencent.wechat_404",
+        "User_Pain_Point": "自动更新频繁且无法控制",
+        "Actionable_Suggestion": "提供手动更新开关或明确更新提示"
+      },
+      {
+        "id": "com.tencent.wechat_487",
+        "User_Pain_Point": "微信版本更新太慢，两年了还这样",
+        "Actionable_Suggestion": "加快微信版本更新频率"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.tencent.wechat_58",
+        "User_Pain_Point": "基础功能够用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.wechat_60",
+        "User_Pain_Point": "有质量的更新，值得信赖",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.wechat_96",
+        "User_Pain_Point": "大部分功能有，使用也很流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.wechat_99",
+        "User_Pain_Point": "鸿蒙系统好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.wechat_180",
+        "User_Pain_Point": "整体赞赏鸿蒙系统和等待微信完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.wechat_258",
+        "User_Pain_Point": "用户赞赏微信流畅且功能越来越好。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.wechat_366",
+        "User_Pain_Point": "用户认可鸿蒙系统本身好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.wechat_426",
+        "User_Pain_Point": "总体都很好很好了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.wechat_430",
+        "User_Pain_Point": "继续加油，我们都很期待满血版微信",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.tencent.wechat_13",
+        "User_Pain_Point": "缺少视频号功能",
+        "Actionable_Suggestion": "完善视频号功能"
+      },
+      {
+        "id": "com.tencent.wechat_175",
+        "User_Pain_Point": "表情包不够用",
+        "Actionable_Suggestion": "建议丰富表情包库"
+      },
+      {
+        "id": "com.tencent.wechat_246",
+        "User_Pain_Point": "微信没有视频号和听一听功能",
+        "Actionable_Suggestion": "尽快上线视频号和听一听功能"
+      }
+    ]
+  }
+}

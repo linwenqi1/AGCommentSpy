@@ -1,0 +1,2834 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.tencent.mqq_1",
+        "User_Pain_Point": "点赞功能缺失",
+        "Actionable_Suggestion": "增加点赞功能"
+      },
+      {
+        "id": "com.tencent.mqq_2",
+        "User_Pain_Point": "无法设置屏幕背景",
+        "Actionable_Suggestion": "增加设置屏幕背景功能"
+      },
+      {
+        "id": "com.tencent.mqq_3",
+        "User_Pain_Point": "缺少小程序功能，无法参与抽签",
+        "Actionable_Suggestion": "上线小程序功能，支持抽签等操作"
+      },
+      {
+        "id": "com.tencent.mqq_4",
+        "User_Pain_Point": "无法@他人",
+        "Actionable_Suggestion": "修复@功能"
+      },
+      {
+        "id": "com.tencent.mqq_5",
+        "User_Pain_Point": "主页背景图功能缺失或未更新",
+        "Actionable_Suggestion": "更新主页背景图功能"
+      },
+      {
+        "id": "com.tencent.mqq_6",
+        "User_Pain_Point": "账号切换功能有问题或未上线",
+        "Actionable_Suggestion": "完善账号切换功能"
+      },
+      {
+        "id": "com.tencent.mqq_7",
+        "User_Pain_Point": "QQ农场功能缺失",
+        "Actionable_Suggestion": "恢复QQ农场功能或提供替代方案"
+      },
+      {
+        "id": "com.tencent.mqq_8",
+        "User_Pain_Point": "小程序缺失",
+        "Actionable_Suggestion": "上线小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_9",
+        "User_Pain_Point": "小程序缺失，用户不满",
+        "Actionable_Suggestion": "尽快上线QQ小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_11",
+        "User_Pain_Point": "小程序功能缺失，无法查看在线表",
+        "Actionable_Suggestion": "尽快更新小程序，支持在线表查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_12",
+        "User_Pain_Point": "QQ群分享的哔哩哔哩视频无法跳转APP打开",
+        "Actionable_Suggestion": "优化链接跳转逻辑，支持调用系统应用或默认浏览器打开"
+      },
+      {
+        "id": "com.tencent.mqq_13",
+        "User_Pain_Point": "缺少QQ农场等互动功能，导致朋友互动减少",
+        "Actionable_Suggestion": "尽快更新QQ农场等社交互动功能"
+      },
+      {
+        "id": "com.tencent.mqq_14",
+        "User_Pain_Point": "需要显示好友在线状态（WiFi/5G）",
+        "Actionable_Suggestion": "恢复好友在线状态显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_15",
+        "User_Pain_Point": "功能不完整，要求补齐",
+        "Actionable_Suggestion": "全面检查并补齐缺失的功能模块"
+      },
+      {
+        "id": "com.tencent.mqq_16",
+        "User_Pain_Point": "购买的特效显示异常，自己看不见但别人看得见",
+        "Actionable_Suggestion": "修复特效显示问题，确保用户本人可见"
+      },
+      {
+        "id": "com.tencent.mqq_17",
+        "User_Pain_Point": "编辑资料入口和查看等级权限入口不可见",
+        "Actionable_Suggestion": "恢复编辑资料入口和等级查看权限"
+      },
+      {
+        "id": "com.tencent.mqq_18",
+        "User_Pain_Point": "鸿蒙系统QQ无法查看等级",
+        "Actionable_Suggestion": "适配鸿蒙系统，实现等级查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_19",
+        "User_Pain_Point": "无法查看个人主页背景图",
+        "Actionable_Suggestion": "实现个人主页背景图查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_20",
+        "User_Pain_Point": "QQ邮箱功能未同步，无法使用",
+        "Actionable_Suggestion": "尽快同步QQ邮箱功能"
+      },
+      {
+        "id": "com.tencent.mqq_21",
+        "User_Pain_Point": "在线状态未更新，鸿蒙版不完善",
+        "Actionable_Suggestion": "完善在线状态功能，加快鸿蒙版适配"
+      },
+      {
+        "id": "com.tencent.mqq_22",
+        "User_Pain_Point": "无法设置隐身状态",
+        "Actionable_Suggestion": "增加隐身状态设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_23",
+        "User_Pain_Point": "群聊缺少群课堂功能",
+        "Actionable_Suggestion": "添加群课堂功能"
+      },
+      {
+        "id": "com.tencent.mqq_24",
+        "User_Pain_Point": "缺少屏幕共享和闪图功能",
+        "Actionable_Suggestion": "添加屏幕共享和闪图功能"
+      },
+      {
+        "id": "com.tencent.mqq_25",
+        "User_Pain_Point": "无法查看QQ等级和好友排名",
+        "Actionable_Suggestion": "恢复QQ等级和好友排名查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_27",
+        "User_Pain_Point": "状态功能消失，无法显示",
+        "Actionable_Suggestion": "恢复状态显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_28",
+        "User_Pain_Point": "缺少频道功能，信息交流不便",
+        "Actionable_Suggestion": "添加频道功能"
+      },
+      {
+        "id": "com.tencent.mqq_30",
+        "User_Pain_Point": "QB无法充值",
+        "Actionable_Suggestion": "修复QB充值功能"
+      },
+      {
+        "id": "com.tencent.mqq_30",
+        "User_Pain_Point": "玩游戏受限制",
+        "Actionable_Suggestion": "优化游戏相关功能限制"
+      },
+      {
+        "id": "com.tencent.mqq_31",
+        "User_Pain_Point": "腾讯游戏qq登录只能登录当前的qq账号,无法保存更多账号",
+        "Actionable_Suggestion": "支持多账号保存和切换"
+      },
+      {
+        "id": "com.tencent.mqq_32",
+        "User_Pain_Point": "小程序什么时候开放，跟老年人一样什么都干不了",
+        "Actionable_Suggestion": "尽快开放小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_33",
+        "User_Pain_Point": "设置不了在线状态",
+        "Actionable_Suggestion": "增加在线状态设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_34",
+        "User_Pain_Point": "看别人都在炫QQ年龄，我的怎么查不了呢？鸿蒙的怎么查询QQ年限",
+        "Actionable_Suggestion": "添加查询QQ年限功能"
+      },
+      {
+        "id": "com.tencent.mqq_35",
+        "User_Pain_Point": "闪照看不了",
+        "Actionable_Suggestion": "支持查看闪照"
+      },
+      {
+        "id": "com.tencent.mqq_36",
+        "User_Pain_Point": "回车键发送消息，回车键发送消息，回车键发送消息。希望尽快改进",
+        "Actionable_Suggestion": "增加回车键发送消息的选项"
+      },
+      {
+        "id": "com.tencent.mqq_37",
+        "User_Pain_Point": "等级看不到，群组删不掉，少了太多功能",
+        "Actionable_Suggestion": "补全等级显示、群组删除等缺失功能"
+      },
+      {
+        "id": "com.tencent.mqq_38",
+        "User_Pain_Point": "我想要个性化个性化，设置背景，有主题有气泡有各种装扮，QQ空间要有黄钻",
+        "Actionable_Suggestion": "增加个性化设置，包括主题、气泡、装扮及QQ空间黄钻功能"
+      },
+      {
+        "id": "com.tencent.mqq_39",
+        "User_Pain_Point": "聊天背景在哪里设置？",
+        "Actionable_Suggestion": "明确聊天背景设置入口或添加该功能"
+      },
+      {
+        "id": "com.tencent.mqq_40",
+        "User_Pain_Point": "弄一下聊天背景😭",
+        "Actionable_Suggestion": "增加聊天背景设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_41",
+        "User_Pain_Point": "没有QQ小程序",
+        "Actionable_Suggestion": "上线QQ小程序"
+      },
+      {
+        "id": "com.tencent.mqq_42",
+        "User_Pain_Point": "无法加分享群",
+        "Actionable_Suggestion": "修复加群功能"
+      },
+      {
+        "id": "com.tencent.mqq_44",
+        "User_Pain_Point": "无法关闭访客功能",
+        "Actionable_Suggestion": "提供关闭访客的选项"
+      },
+      {
+        "id": "com.tencent.mqq_44",
+        "User_Pain_Point": "拍一拍功能缺失",
+        "Actionable_Suggestion": "添加拍一拍功能"
+      },
+      {
+        "id": "com.tencent.mqq_46",
+        "User_Pain_Point": "不能设置主页背景",
+        "Actionable_Suggestion": "恢复主页背景设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_46",
+        "User_Pain_Point": "会员权限无内容",
+        "Actionable_Suggestion": "完善会员特权内容"
+      },
+      {
+        "id": "com.tencent.mqq_47",
+        "User_Pain_Point": "版本更新慢，游戏分享不可见",
+        "Actionable_Suggestion": "加快更新进度，修复游戏分享功能"
+      },
+      {
+        "id": "com.tencent.mqq_48",
+        "User_Pain_Point": "QQ空间无法@人",
+        "Actionable_Suggestion": "添加@人功能"
+      },
+      {
+        "id": "com.tencent.mqq_49",
+        "User_Pain_Point": "国外无法加定位",
+        "Actionable_Suggestion": "支持国外定位"
+      },
+      {
+        "id": "com.tencent.mqq_51",
+        "User_Pain_Point": "QQ小程序没有，QQ邮箱无法查看",
+        "Actionable_Suggestion": "尽快支持QQ小程序和QQ邮箱功能"
+      },
+      {
+        "id": "com.tencent.mqq_52",
+        "User_Pain_Point": "不能升等级",
+        "Actionable_Suggestion": "完善等级系统，明确升级规则"
+      },
+      {
+        "id": "com.tencent.mqq_53",
+        "User_Pain_Point": "没有QQ经典农场",
+        "Actionable_Suggestion": "增加QQ经典农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_55",
+        "User_Pain_Point": "缺少闪照功能和共同好友推荐功能",
+        "Actionable_Suggestion": "尽快添加闪照和共同好友推荐功能"
+      },
+      {
+        "id": "com.tencent.mqq_56",
+        "User_Pain_Point": "不能深度清理聊天记录",
+        "Actionable_Suggestion": "增加深度清理聊天记录功能"
+      },
+      {
+        "id": "com.tencent.mqq_57",
+        "User_Pain_Point": "共享屏幕看不到，黑名单找不到，匿名提问看不到",
+        "Actionable_Suggestion": "修复并补齐共享屏幕、黑名单、匿名提问等功能"
+      },
+      {
+        "id": "com.tencent.mqq_58",
+        "User_Pain_Point": "不知道自己还有多少天升级（等级）",
+        "Actionable_Suggestion": "在等级界面显示剩余天数或进度"
+      },
+      {
+        "id": "com.tencent.mqq_60",
+        "User_Pain_Point": "当前版本功能不完善",
+        "Actionable_Suggestion": "持续迭代完善各项功能"
+      },
+      {
+        "id": "com.tencent.mqq_61",
+        "User_Pain_Point": "缺少好友权限设置功能",
+        "Actionable_Suggestion": "增加好友权限设置功能，如允许/禁止特定好友查看动态、资料等"
+      },
+      {
+        "id": "com.tencent.mqq_61",
+        "User_Pain_Point": "群内发起的私聊无法查看来源群，导致混淆",
+        "Actionable_Suggestion": "在私聊界面增加来源群标识，例如显示群名称或群头像"
+      },
+      {
+        "id": "com.tencent.mqq_61",
+        "User_Pain_Point": "缺少小程序、群文件转发、群功能管理等基本功能",
+        "Actionable_Suggestion": "逐步补齐小程序、群文件转发、群管理等功能，提升基础社交体验"
+      },
+      {
+        "id": "com.tencent.mqq_62",
+        "User_Pain_Point": "无法进行高校认证",
+        "Actionable_Suggestion": "增加高校认证功能，支持学生或教师身份验证"
+      },
+      {
+        "id": "com.tencent.mqq_63",
+        "User_Pain_Point": "缺少单独清理聊天记录功能，QQ存储过大影响手机使用",
+        "Actionable_Suggestion": "增加单独清理聊天记录的功能，允许用户按对话或时间清理"
+      },
+      {
+        "id": "com.tencent.mqq_64",
+        "User_Pain_Point": "无法接听语音通话",
+        "Actionable_Suggestion": "增加接听语音通话功能，支持即时通讯中的语音呼叫"
+      },
+      {
+        "id": "com.tencent.mqq_66",
+        "User_Pain_Point": "缺少群内屏蔽功能",
+        "Actionable_Suggestion": "增加群内屏蔽成员或消息的功能，避免干扰"
+      },
+      {
+        "id": "com.tencent.mqq_68",
+        "User_Pain_Point": "还没有QQ农场",
+        "Actionable_Suggestion": "尽快适配或开发QQ农场功能，满足用户需求"
+      },
+      {
+        "id": "com.tencent.mqq_69",
+        "User_Pain_Point": "彩签悬浮窗功能需要更新",
+        "Actionable_Suggestion": "优化彩签悬浮窗功能，提升使用流畅度和交互体验"
+      },
+      {
+        "id": "com.tencent.mqq_70",
+        "User_Pain_Point": "还没有QQ农场",
+        "Actionable_Suggestion": "尽快适配或开发QQ农场功能，满足用户需求"
+      },
+      {
+        "id": "com.tencent.mqq_81",
+        "User_Pain_Point": "qq红包领不了，实名认证扫不了二维码",
+        "Actionable_Suggestion": "修复红包领取和实名认证扫码功能"
+      },
+      {
+        "id": "com.tencent.mqq_83",
+        "User_Pain_Point": "什么时候能有图片闪照功能？特别刚需",
+        "Actionable_Suggestion": "增加图片闪照功能"
+      },
+      {
+        "id": "com.tencent.mqq_84",
+        "User_Pain_Point": "视频通话无美颜功能。",
+        "Actionable_Suggestion": "增加视频通话美颜功能"
+      },
+      {
+        "id": "com.tencent.mqq_87",
+        "User_Pain_Point": "QQ经典农场小程序不能用",
+        "Actionable_Suggestion": "修复农场小程序"
+      },
+      {
+        "id": "com.tencent.mqq_88",
+        "User_Pain_Point": "把看图还有小程序搞一下呀",
+        "Actionable_Suggestion": "优化看图功能和小程序"
+      },
+      {
+        "id": "com.tencent.mqq_89",
+        "User_Pain_Point": "我从来没见过一个app，新手机登陆账号先密码在电话号码在身份证在人脸也登不上去的，QQ防盗号连我也要防吗？",
+        "Actionable_Suggestion": "简化登录流程，减少不必要的验证"
+      },
+      {
+        "id": "com.tencent.mqq_90",
+        "User_Pain_Point": "农场没有了，也没有黑名单了，抓紧更新吧。",
+        "Actionable_Suggestion": "恢复农场功能和黑名单功能"
+      },
+      {
+        "id": "com.tencent.mqq_91",
+        "User_Pain_Point": "QQ农场不可用，别人能玩我不能玩",
+        "Actionable_Suggestion": "尽快适配QQ农场功能，确保所有用户均可使用"
+      },
+      {
+        "id": "com.tencent.mqq_92",
+        "User_Pain_Point": "一年了还接收不到群聊私信",
+        "Actionable_Suggestion": "修复群聊私信接收问题，确保消息及时送达"
+      },
+      {
+        "id": "com.tencent.mqq_94",
+        "User_Pain_Point": "无法查看历史头像，且群相册功能缺失",
+        "Actionable_Suggestion": "增加历史头像查看功能及群相册功能"
+      },
+      {
+        "id": "com.tencent.mqq_95",
+        "User_Pain_Point": "更新到20版本后QQ农场仍无法使用",
+        "Actionable_Suggestion": "彻底解决QQ农场兼容性问题，确保版本更新后可用"
+      },
+      {
+        "id": "com.tencent.mqq_97",
+        "User_Pain_Point": "换手机后空间相册内照片无法移动和编辑",
+        "Actionable_Suggestion": "恢复空间相册的照片移动和编辑功能"
+      },
+      {
+        "id": "com.tencent.mqq_98",
+        "User_Pain_Point": "无法发表QQ说说",
+        "Actionable_Suggestion": "修复鸿蒙系统下发表说说的功能"
+      },
+      {
+        "id": "com.tencent.mqq_98",
+        "User_Pain_Point": "无法玩QQ农场",
+        "Actionable_Suggestion": "尽快适配QQ农场，解决鸿蒙系统兼容问题"
+      },
+      {
+        "id": "com.tencent.mqq_99",
+        "User_Pain_Point": "视频美颜功能缺失，聊天背景无法设置",
+        "Actionable_Suggestion": "增加视频美颜和聊天背景自定义功能"
+      },
+      {
+        "id": "com.tencent.mqq_100",
+        "User_Pain_Point": "QQ农场仍然无法玩",
+        "Actionable_Suggestion": "尽快解决QQ农场兼容性问题"
+      },
+      {
+        "id": "com.tencent.mqq_111",
+        "User_Pain_Point": "QQ功能缺失，群链接无法查看、点赞功能没有、主页基本空白",
+        "Actionable_Suggestion": "尽快补齐群链接查看、点赞功能及主页内容显示"
+      },
+      {
+        "id": "com.tencent.mqq_112",
+        "User_Pain_Point": "无法玩QQ农场",
+        "Actionable_Suggestion": "开发鸿蒙版QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_113",
+        "User_Pain_Point": "QQ登录第三方应用时只能选择一个账号，无法切换其他账号",
+        "Actionable_Suggestion": "支持多账号选择功能，在登录时提供账号切换选项"
+      },
+      {
+        "id": "com.tencent.mqq_114",
+        "User_Pain_Point": "不支持键盘回车发送消息",
+        "Actionable_Suggestion": "增加键盘回车发送消息的选项"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "缺少个性装扮更新，如主题、气泡、好友动态、空间等",
+        "Actionable_Suggestion": "更新个性装扮功能，支持主题、气泡、好友动态和空间装扮"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "没有QQ农场功能",
+        "Actionable_Suggestion": "开发鸿蒙版QQ农场"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "气泡无法双击放大消息查看装扮信息",
+        "Actionable_Suggestion": "优化气泡交互，支持双击放大消息查看详情"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "不支持消息左滑引用和聊天窗口左滑浏览对方空间",
+        "Actionable_Suggestion": "增加左滑引用消息和左滑浏览空间功能"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "缺少字符聊天挂件和半屏相册选择功能",
+        "Actionable_Suggestion": "添加字符挂件和聊天窗口半屏相册选择"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "空间原创说说和转发无法艾特别人，说说不能收藏",
+        "Actionable_Suggestion": "完善空间功能，支持艾特和收藏说说"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "群聊中相同消息没有+1按钮，需要好友在线状态",
+        "Actionable_Suggestion": "增加群聊消息+1按钮和好友在线状态显示"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "小程序尚未上线",
+        "Actionable_Suggestion": "尽快上线小程序功能，支持接龙投票等常用场景"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "聊天不支持闪照",
+        "Actionable_Suggestion": "增加闪照功能"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "无法查看及选择历史头像",
+        "Actionable_Suggestion": "支持历史头像查看和选择"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "需要群助手统一收纳群消息且不提醒",
+        "Actionable_Suggestion": "增加群助手功能，支持收纳群消息并静音"
+      },
+      {
+        "id": "com.tencent.mqq_116",
+        "User_Pain_Point": "无法查看黑名单和设置背景",
+        "Actionable_Suggestion": "增加黑名单查看和背景设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_117",
+        "User_Pain_Point": "缺少等级和出生证明功能",
+        "Actionable_Suggestion": "尽快补齐等级和出生证明等基础功能"
+      },
+      {
+        "id": "com.tencent.mqq_118",
+        "User_Pain_Point": "QQ相册不能直接查看年份照片",
+        "Actionable_Suggestion": "优化相册按年份查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_119",
+        "User_Pain_Point": "缺少天气功能",
+        "Actionable_Suggestion": "增加天气功能"
+      },
+      {
+        "id": "com.tencent.mqq_120",
+        "User_Pain_Point": "缺少群课堂功能",
+        "Actionable_Suggestion": "尽快开发群课堂功能"
+      },
+      {
+        "id": "com.tencent.mqq_121",
+        "User_Pain_Point": "无法清理存储空间",
+        "Actionable_Suggestion": "增加清理存储空间的功能"
+      },
+      {
+        "id": "com.tencent.mqq_122",
+        "User_Pain_Point": "小程序功能缺失",
+        "Actionable_Suggestion": "尽快上线小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_123",
+        "User_Pain_Point": "QQ邮箱无法查看",
+        "Actionable_Suggestion": "修复QQ邮箱显示问题"
+      },
+      {
+        "id": "com.tencent.mqq_124",
+        "User_Pain_Point": "缺少邮箱通知功能",
+        "Actionable_Suggestion": "增加邮箱通知功能"
+      },
+      {
+        "id": "com.tencent.mqq_125",
+        "User_Pain_Point": "缺少关联QQ功能",
+        "Actionable_Suggestion": "尽快上线关联QQ功能"
+      },
+      {
+        "id": "com.tencent.mqq_126",
+        "User_Pain_Point": "QQ功能过于基础，缺少更多功能，适配进度慢",
+        "Actionable_Suggestion": "加快QQ适配，增加更多功能"
+      },
+      {
+        "id": "com.tencent.mqq_128",
+        "User_Pain_Point": "缺少农场模式功能",
+        "Actionable_Suggestion": "尽快上线农场模式"
+      },
+      {
+        "id": "com.tencent.mqq_129",
+        "User_Pain_Point": "缺少签到功能",
+        "Actionable_Suggestion": "增加签到功能"
+      },
+      {
+        "id": "com.tencent.mqq_131",
+        "User_Pain_Point": "缺少禁言功能",
+        "Actionable_Suggestion": "开发禁言功能"
+      },
+      {
+        "id": "com.tencent.mqq_132",
+        "User_Pain_Point": "QQ红包功能缺失",
+        "Actionable_Suggestion": "恢复或开发QQ红包功能"
+      },
+      {
+        "id": "com.tencent.mqq_133",
+        "User_Pain_Point": "转发消息搜索转发对象功能需优化",
+        "Actionable_Suggestion": "优化转发对象搜索功能"
+      },
+      {
+        "id": "com.tencent.mqq_133",
+        "User_Pain_Point": "微信QQ文件互转功能缺失",
+        "Actionable_Suggestion": "开发微信QQ文件互转功能"
+      },
+      {
+        "id": "com.tencent.mqq_134",
+        "User_Pain_Point": "版本不是新版，缺少变声功能",
+        "Actionable_Suggestion": "更新至新版并添加变声功能"
+      },
+      {
+        "id": "com.tencent.mqq_135",
+        "User_Pain_Point": "QQ关联功能缺失",
+        "Actionable_Suggestion": "开发QQ关联账号功能"
+      },
+      {
+        "id": "com.tencent.mqq_136",
+        "User_Pain_Point": "等级天数、个性介绍等显示缺失",
+        "Actionable_Suggestion": "显示等级天数和个性介绍"
+      },
+      {
+        "id": "com.tencent.mqq_137",
+        "User_Pain_Point": "结伴功能无法使用",
+        "Actionable_Suggestion": "修复或开发结伴功能"
+      },
+      {
+        "id": "com.tencent.mqq_138",
+        "User_Pain_Point": "缺少连续在线天数显示",
+        "Actionable_Suggestion": "添加连续在线天数显示"
+      },
+      {
+        "id": "com.tencent.mqq_139",
+        "User_Pain_Point": "无法设置在线状态（隐身/在线）",
+        "Actionable_Suggestion": "增加在线状态设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_139",
+        "User_Pain_Point": "不能关联账号",
+        "Actionable_Suggestion": "开发关联账号功能"
+      },
+      {
+        "id": "com.tencent.mqq_140",
+        "User_Pain_Point": "勋章功能无法打开",
+        "Actionable_Suggestion": "修复勋章功能"
+      },
+      {
+        "id": "com.tencent.mqq_141",
+        "User_Pain_Point": "无法进行充值操作，用户希望尽快开放充值功能。",
+        "Actionable_Suggestion": "尽快开发并开放充值功能，确保用户能够正常进行付费操作。"
+      },
+      {
+        "id": "com.tencent.mqq_142",
+        "User_Pain_Point": "会员标签显示不全、无法点击、无法查看Q龄，存在多项显示问题。",
+        "Actionable_Suggestion": "修复会员标签显示和点击功能，确保用户能够正常查看和操作。"
+      },
+      {
+        "id": "com.tencent.mqq_143",
+        "User_Pain_Point": "在QQ空间评论时无法添加图片或表情包，功能缺失。",
+        "Actionable_Suggestion": "在QQ空间评论功能中增加图片和表情包的插入支持。"
+      },
+      {
+        "id": "com.tencent.mqq_144",
+        "User_Pain_Point": "群聊邀请好友功能无法正常显示和邀请，一直失败。",
+        "Actionable_Suggestion": "修复群聊邀请好友功能，确保邀请流程正常。"
+      },
+      {
+        "id": "com.tencent.mqq_145",
+        "User_Pain_Point": "游戏类功能和VIP装扮功能尚未完善，用户认为无装扮开VIP无意义。",
+        "Actionable_Suggestion": "加快游戏类功能和VIP装扮的开发进度，完善VIP权益。"
+      },
+      {
+        "id": "com.tencent.mqq_146",
+        "User_Pain_Point": "QQ农场功能（种菜）尚未上线，用户期待该功能。",
+        "Actionable_Suggestion": "尽快开发并上线QQ农场功能。"
+      },
+      {
+        "id": "com.tencent.mqq_147",
+        "User_Pain_Point": "QQ运动功能尚未上线，用户期待该功能。",
+        "Actionable_Suggestion": "尽快开发并上线QQ运动功能。"
+      },
+      {
+        "id": "com.tencent.mqq_148",
+        "User_Pain_Point": "QQ农场功能未适配开发，用户希望尽快适配。",
+        "Actionable_Suggestion": "尽快适配并开发QQ农场功能。"
+      },
+      {
+        "id": "com.tencent.mqq_149",
+        "User_Pain_Point": "QQ农场功能尚未上线，用户询问上线时间。",
+        "Actionable_Suggestion": "尽快开发并上线QQ农场功能，明确上线时间。"
+      },
+      {
+        "id": "com.tencent.mqq_150",
+        "User_Pain_Point": "结伴功能尚未上线，用户希望尽快添加。",
+        "Actionable_Suggestion": "尽快开发并上线结伴功能。"
+      },
+      {
+        "id": "com.tencent.mqq_151",
+        "User_Pain_Point": "缺少听歌状态栏",
+        "Actionable_Suggestion": "增加听歌状态栏功能"
+      },
+      {
+        "id": "com.tencent.mqq_152",
+        "User_Pain_Point": "缺少情侣空间和背景设置功能",
+        "Actionable_Suggestion": "添加情侣空间和背景设置选项"
+      },
+      {
+        "id": "com.tencent.mqq_153",
+        "User_Pain_Point": "不能种菜",
+        "Actionable_Suggestion": "更新支持种菜功能"
+      },
+      {
+        "id": "com.tencent.mqq_155",
+        "User_Pain_Point": "站外链接无法跳转",
+        "Actionable_Suggestion": "优化站外链接跳转功能"
+      },
+      {
+        "id": "com.tencent.mqq_156",
+        "User_Pain_Point": "QQ小程序功能缺失",
+        "Actionable_Suggestion": "尽快上线QQ小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_157",
+        "User_Pain_Point": "缺少QQ明信片功能",
+        "Actionable_Suggestion": "更新增加QQ明信片功能"
+      },
+      {
+        "id": "com.tencent.mqq_158",
+        "User_Pain_Point": "无法显示QQ装扮",
+        "Actionable_Suggestion": "支持显示QQ装扮"
+      },
+      {
+        "id": "com.tencent.mqq_159",
+        "User_Pain_Point": "接龙工具无法使用",
+        "Actionable_Suggestion": "修复接龙工具功能"
+      },
+      {
+        "id": "com.tencent.mqq_160",
+        "User_Pain_Point": "无法发送和接收闪图，没有好友推介",
+        "Actionable_Suggestion": "增加闪图收发功能及好友推介"
+      },
+      {
+        "id": "com.tencent.mqq_161",
+        "User_Pain_Point": "缺少闪图功能，体验感差",
+        "Actionable_Suggestion": "建议恢复闪图功能"
+      },
+      {
+        "id": "com.tencent.mqq_163",
+        "User_Pain_Point": "缺少火花和标识功能，功能太少",
+        "Actionable_Suggestion": "建议增加火花和标识等功能"
+      },
+      {
+        "id": "com.tencent.mqq_164",
+        "User_Pain_Point": "缺少小程序，无法玩农场游戏",
+        "Actionable_Suggestion": "建议开发小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_166",
+        "User_Pain_Point": "闪照功能被移除",
+        "Actionable_Suggestion": "建议恢复闪照功能"
+      },
+      {
+        "id": "com.tencent.mqq_167",
+        "User_Pain_Point": "情侣空间模块迟迟未优化推出",
+        "Actionable_Suggestion": "建议优化并推出情侣空间模块"
+      },
+      {
+        "id": "com.tencent.mqq_168",
+        "User_Pain_Point": "缺少抽签功能",
+        "Actionable_Suggestion": "建议增加抽签功能"
+      },
+      {
+        "id": "com.tencent.mqq_169",
+        "User_Pain_Point": "很多功能无法使用",
+        "Actionable_Suggestion": "建议加快更新，修复缺失功能"
+      },
+      {
+        "id": "com.tencent.mqq_170",
+        "User_Pain_Point": "QQ农场打不开，迭代更新慢",
+        "Actionable_Suggestion": "建议修复QQ农场并加快迭代"
+      },
+      {
+        "id": "com.tencent.mqq_171",
+        "User_Pain_Point": "QQ农场功能缺失，无法使用",
+        "Actionable_Suggestion": "尽快适配并上线QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_172",
+        "User_Pain_Point": "小程序功能不完善，无法使用火影签到领取逆转卡",
+        "Actionable_Suggestion": "加快小程序功能开发和适配"
+      },
+      {
+        "id": "com.tencent.mqq_173",
+        "User_Pain_Point": "QQ空间相册无法选定日期时间",
+        "Actionable_Suggestion": "优化相册功能，添加选定日期时间的选项"
+      },
+      {
+        "id": "com.tencent.mqq_173",
+        "User_Pain_Point": "QQ整体功能非常不完善",
+        "Actionable_Suggestion": "持续完善QQ的各项功能，提升用户体验"
+      },
+      {
+        "id": "com.tencent.mqq_174",
+        "User_Pain_Point": "QQ空间个性化设置（背景、点赞）功能缺失",
+        "Actionable_Suggestion": "恢复QQ空间的个性化设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_175",
+        "User_Pain_Point": "QQ农场功能缺失，无法使用",
+        "Actionable_Suggestion": "尽快适配并上线QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_176",
+        "User_Pain_Point": "隐身设置功能无法使用",
+        "Actionable_Suggestion": "修复隐身设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_177",
+        "User_Pain_Point": "已购买的个性装扮丢失",
+        "Actionable_Suggestion": "修复数据，恢复用户已购买的装扮"
+      },
+      {
+        "id": "com.tencent.mqq_177",
+        "User_Pain_Point": "无法给别人主页点赞",
+        "Actionable_Suggestion": "修复点赞功能"
+      },
+      {
+        "id": "com.tencent.mqq_178",
+        "User_Pain_Point": "缺少查看历史头像的功能",
+        "Actionable_Suggestion": "增加查看历史头像的功能"
+      },
+      {
+        "id": "com.tencent.mqq_179",
+        "User_Pain_Point": "SVIP付费装扮无法使用",
+        "Actionable_Suggestion": "尽快适配并支持SVIP装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_180",
+        "User_Pain_Point": "视频通话时无法同时进行文字聊天（鸿蒙升级后功能消失）",
+        "Actionable_Suggestion": "恢复视频通话中的文字聊天功能"
+      },
+      {
+        "id": "com.tencent.mqq_181",
+        "User_Pain_Point": "QQ装扮界面更新后无法体验购买的气泡",
+        "Actionable_Suggestion": "修复装扮界面中气泡的购买体验，确保用户能正常预览和购买"
+      },
+      {
+        "id": "com.tencent.mqq_182",
+        "User_Pain_Point": "每日签到功能缺失",
+        "Actionable_Suggestion": "增加每日签到功能，并修复相关bug"
+      },
+      {
+        "id": "com.tencent.mqq_183",
+        "User_Pain_Point": "QQ经典农场功能未开发",
+        "Actionable_Suggestion": "考虑开发或恢复QQ经典农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_184",
+        "User_Pain_Point": "无法查看QQ等级",
+        "Actionable_Suggestion": "修复等级显示问题，确保用户能正常查看等级"
+      },
+      {
+        "id": "com.tencent.mqq_185",
+        "User_Pain_Point": "购买的个性装扮和气泡丢失，功能缺失",
+        "Actionable_Suggestion": "恢复用户已购买的个性装扮和气泡，并排查数据丢失原因"
+      },
+      {
+        "id": "com.tencent.mqq_187",
+        "User_Pain_Point": "情侣空间功能缺失",
+        "Actionable_Suggestion": "增加情侣空间功能"
+      },
+      {
+        "id": "com.tencent.mqq_188",
+        "User_Pain_Point": "QQ等级无法升级",
+        "Actionable_Suggestion": "修复等级升级机制，确保等级正常增长"
+      },
+      {
+        "id": "com.tencent.mqq_189",
+        "User_Pain_Point": "缺少小程序功能，导致无法使用金山文档",
+        "Actionable_Suggestion": "增加小程序功能，或优化与金山文档的兼容性"
+      },
+      {
+        "id": "com.tencent.mqq_190",
+        "User_Pain_Point": "相册中找不到时间轴功能",
+        "Actionable_Suggestion": "恢复相册的时间轴功能"
+      },
+      {
+        "id": "com.tencent.mqq_193",
+        "User_Pain_Point": "QQ的个性化功能在鸿蒙系统上缺失，安卓版本有而鸿蒙版本没有。",
+        "Actionable_Suggestion": "建议在鸿蒙版本中同步添加个性化功能设置。"
+      },
+      {
+        "id": "com.tencent.mqq_197",
+        "User_Pain_Point": "小程序打不开，影响使用体验。",
+        "Actionable_Suggestion": "建议修复小程序兼容性问题，确保所有小程序能正常加载。"
+      },
+      {
+        "id": "com.tencent.mqq_198",
+        "User_Pain_Point": "小程序都用不了，急需更新。",
+        "Actionable_Suggestion": "建议尽快更新版本，修复小程序无法使用的问题。"
+      },
+      {
+        "id": "com.tencent.mqq_200",
+        "User_Pain_Point": "缺少扩列和可能认识的好友功能。",
+        "Actionable_Suggestion": "建议增加扩列和可能认识的好友推荐功能。"
+      },
+      {
+        "id": "com.tencent.mqq_201",
+        "User_Pain_Point": "缺少闪传功能",
+        "Actionable_Suggestion": "建议增加闪传功能"
+      },
+      {
+        "id": "com.tencent.mqq_203",
+        "User_Pain_Point": "版本检测错误导致无法填写在线表格",
+        "Actionable_Suggestion": "优化版本检测逻辑，确保正确识别版本并允许填写在线表格"
+      },
+      {
+        "id": "com.tencent.mqq_204",
+        "User_Pain_Point": "群公告里的链接打不开",
+        "Actionable_Suggestion": "修复群公告中链接无法打开的问题"
+      },
+      {
+        "id": "com.tencent.mqq_205",
+        "User_Pain_Point": "缺少每日打卡功能",
+        "Actionable_Suggestion": "考虑增加每日打卡功能"
+      },
+      {
+        "id": "com.tencent.mqq_206",
+        "User_Pain_Point": "自己发的QQ动态里照片或视频下浏览人看不到",
+        "Actionable_Suggestion": "修复动态浏览人显示问题"
+      },
+      {
+        "id": "com.tencent.mqq_207",
+        "User_Pain_Point": "不能玩农场小程序",
+        "Actionable_Suggestion": "修复小程序的兼容性问题，确保农场等小程序可正常使用"
+      },
+      {
+        "id": "com.tencent.mqq_208",
+        "User_Pain_Point": "群待办表格无法填写",
+        "Actionable_Suggestion": "升级群待办功能，修复表格填写问题"
+      },
+      {
+        "id": "com.tencent.mqq_209",
+        "User_Pain_Point": "小程序打不开",
+        "Actionable_Suggestion": "修复小程序打开问题"
+      },
+      {
+        "id": "com.tencent.mqq_210",
+        "User_Pain_Point": "无法填写腾讯文档等在线文档",
+        "Actionable_Suggestion": "支持在线文档的填写功能"
+      },
+      {
+        "id": "com.tencent.mqq_211",
+        "User_Pain_Point": "缺少王者荣耀内快捷换号功能",
+        "Actionable_Suggestion": "尽快开发并上线王者荣耀内快捷换号功能"
+      },
+      {
+        "id": "com.tencent.mqq_212",
+        "User_Pain_Point": "群消息不能转发到其他群",
+        "Actionable_Suggestion": "增加群消息转发到群的功能"
+      },
+      {
+        "id": "com.tencent.mqq_213",
+        "User_Pain_Point": "小程序无法使用",
+        "Actionable_Suggestion": "修复小程序兼容性问题，确保所有小程序可用"
+      },
+      {
+        "id": "com.tencent.mqq_214",
+        "User_Pain_Point": "频道无法发帖子和私信",
+        "Actionable_Suggestion": "开放频道发帖和私信功能"
+      },
+      {
+        "id": "com.tencent.mqq_215",
+        "User_Pain_Point": "缺少结伴功能",
+        "Actionable_Suggestion": "上线结伴功能"
+      },
+      {
+        "id": "com.tencent.mqq_216",
+        "User_Pain_Point": "图片处理功能（剪切、文字识别、翻译）缺失",
+        "Actionable_Suggestion": "恢复图片剪切、文字识别与翻译功能"
+      },
+      {
+        "id": "com.tencent.mqq_217",
+        "User_Pain_Point": "缺少个性装扮功能",
+        "Actionable_Suggestion": "增加个性装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_217",
+        "User_Pain_Point": "朋友分享的网易云音乐网页无法查看内容",
+        "Actionable_Suggestion": "修复网页分享内容显示问题，支持音乐链接预览"
+      },
+      {
+        "id": "com.tencent.mqq_218",
+        "User_Pain_Point": "游戏需要扫码登录，体验不便",
+        "Actionable_Suggestion": "优化游戏登录方式，减少扫码步骤"
+      },
+      {
+        "id": "com.tencent.mqq_219",
+        "User_Pain_Point": "无法设置隐身状态",
+        "Actionable_Suggestion": "增加隐身状态设置选项"
+      },
+      {
+        "id": "com.tencent.mqq_220",
+        "User_Pain_Point": "找不到修改支付密码的入口",
+        "Actionable_Suggestion": "优化支付密码修改入口，使其更易发现"
+      },
+      {
+        "id": "com.tencent.mqq_221",
+        "User_Pain_Point": "闪图功能缺失，版本太低",
+        "Actionable_Suggestion": "更新应用版本，增加闪图功能"
+      },
+      {
+        "id": "com.tencent.mqq_223",
+        "User_Pain_Point": "无法设置状态",
+        "Actionable_Suggestion": "增加状态设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_223",
+        "User_Pain_Point": "看不到过滤的好友申请",
+        "Actionable_Suggestion": "显示过滤的好友申请列表"
+      },
+      {
+        "id": "com.tencent.mqq_223",
+        "User_Pain_Point": "腾讯文档等小程序无法通过上滑打开，只能点链接",
+        "Actionable_Suggestion": "支持上滑手势打开小程序"
+      },
+      {
+        "id": "com.tencent.mqq_224",
+        "User_Pain_Point": "缺少自动回复和小火花功能，换鸿蒙后看不到火花",
+        "Actionable_Suggestion": "增加自动回复功能和小火花显示"
+      },
+      {
+        "id": "com.tencent.mqq_225",
+        "User_Pain_Point": "个性和群内频道消息查看功能被移除",
+        "Actionable_Suggestion": "恢复个性和群内频道消息查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_226",
+        "User_Pain_Point": "缺少在线文档功能和群里查看所有照片的功能",
+        "Actionable_Suggestion": "增加在线文档功能和群相册查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_227",
+        "User_Pain_Point": "频道无法发帖",
+        "Actionable_Suggestion": "增加频道发帖功能"
+      },
+      {
+        "id": "com.tencent.mqq_228",
+        "User_Pain_Point": "小程序功能更新缓慢",
+        "Actionable_Suggestion": "加快小程序功能的更新和上线"
+      },
+      {
+        "id": "com.tencent.mqq_229",
+        "User_Pain_Point": "点赞功能无法使用",
+        "Actionable_Suggestion": "修复点赞功能"
+      },
+      {
+        "id": "com.tencent.mqq_230",
+        "User_Pain_Point": "缺少简洁模式",
+        "Actionable_Suggestion": "增加简洁模式选项"
+      },
+      {
+        "id": "com.tencent.mqq_230",
+        "User_Pain_Point": "视频上传限制在100MB以内",
+        "Actionable_Suggestion": "提高视频上传大小限制"
+      },
+      {
+        "id": "com.tencent.mqq_231",
+        "User_Pain_Point": "无法接收到非置顶的一切信息，角标有数量提醒，到消息界面没显示，也不显示非置顶的一切",
+        "Actionable_Suggestion": "修复非置顶消息的接收与显示"
+      },
+      {
+        "id": "com.tencent.mqq_232",
+        "User_Pain_Point": "更新太慢，不能展示在线/离线状态",
+        "Actionable_Suggestion": "加快更新，增加在线/离线状态显示"
+      },
+      {
+        "id": "com.tencent.mqq_234",
+        "User_Pain_Point": "不能使用小程序",
+        "Actionable_Suggestion": "支持使用小程序"
+      },
+      {
+        "id": "com.tencent.mqq_235",
+        "User_Pain_Point": "群小程序、群投票、在线文档这些刚需功能缺失，更新缓慢",
+        "Actionable_Suggestion": "尽快更新，添加群小程序、群投票、在线文档"
+      },
+      {
+        "id": "com.tencent.mqq_236",
+        "User_Pain_Point": "位置权限问题，无法鉴到",
+        "Actionable_Suggestion": "修复位置权限，确保位置服务正常"
+      },
+      {
+        "id": "com.tencent.mqq_237",
+        "User_Pain_Point": "无法搜索添加好友",
+        "Actionable_Suggestion": "修复搜索添加好友功能"
+      },
+      {
+        "id": "com.tencent.mqq_238",
+        "User_Pain_Point": "没有QQ小窝页面，版本不明",
+        "Actionable_Suggestion": "增加QQ小窝功能，明确版本说明"
+      },
+      {
+        "id": "com.tencent.mqq_239",
+        "User_Pain_Point": "群直播功能缺失",
+        "Actionable_Suggestion": "尽快更新群直播功能"
+      },
+      {
+        "id": "com.tencent.mqq_240",
+        "User_Pain_Point": "无法长按头像切换账号",
+        "Actionable_Suggestion": "恢复长按头像切换账号功能"
+      },
+      {
+        "id": "com.tencent.mqq_241",
+        "User_Pain_Point": "情侣空间无法使用",
+        "Actionable_Suggestion": "修复情侣空间功能，确保在最新版本中正常运行"
+      },
+      {
+        "id": "com.tencent.mqq_242",
+        "User_Pain_Point": "游戏登录失败，最新版本无法登录",
+        "Actionable_Suggestion": "优化游戏登录兼容性，确保最新版本支持登录"
+      },
+      {
+        "id": "com.tencent.mqq_243",
+        "User_Pain_Point": "小程序无法使用",
+        "Actionable_Suggestion": "修复小程序功能，确保在鸿蒙系统上正常运行"
+      },
+      {
+        "id": "com.tencent.mqq_244",
+        "User_Pain_Point": "QQ背景图无法显示",
+        "Actionable_Suggestion": "修复背景图显示问题，确保图片正常加载"
+      },
+      {
+        "id": "com.tencent.mqq_245",
+        "User_Pain_Point": "分享图片时找不到‘我的电脑’聊天框",
+        "Actionable_Suggestion": "修复分享列表，将‘我的电脑’选项加入分享目标"
+      },
+      {
+        "id": "com.tencent.mqq_246",
+        "User_Pain_Point": "无法分享在线表格",
+        "Actionable_Suggestion": "添加分享在线表格的功能支持"
+      },
+      {
+        "id": "com.tencent.mqq_247",
+        "User_Pain_Point": "部分游戏QQ版本过旧，游戏授权失败无法登录",
+        "Actionable_Suggestion": "及时更新游戏授权模块，确保与游戏最新版本兼容"
+      },
+      {
+        "id": "com.tencent.mqq_248",
+        "User_Pain_Point": "无法查看游戏消息，收到通知但内容为空",
+        "Actionable_Suggestion": "修复游戏消息显示功能，确保消息内容正确加载"
+      },
+      {
+        "id": "com.tencent.mqq_249",
+        "User_Pain_Point": "缺少安卓平台已有的游戏小程序",
+        "Actionable_Suggestion": "优先补齐热门游戏小程序的鸿蒙适配"
+      },
+      {
+        "id": "com.tencent.mqq_250",
+        "User_Pain_Point": "无法查看QQ在线状态",
+        "Actionable_Suggestion": "修复在线状态显示，确保用户可正常查看"
+      },
+      {
+        "id": "com.tencent.mqq_250",
+        "User_Pain_Point": "顺丰扫码寄件时拍照识别图片超大无法识别",
+        "Actionable_Suggestion": "优化图片上传处理逻辑，支持大图压缩后识别"
+      },
+      {
+        "id": "com.tencent.mqq_251",
+        "User_Pain_Point": "QQ等级加速功能缺失",
+        "Actionable_Suggestion": "尽快恢复QQ等级加速功能"
+      },
+      {
+        "id": "com.tencent.mqq_252",
+        "User_Pain_Point": "通用设置功能不完善",
+        "Actionable_Suggestion": "完善通用设置中的功能"
+      },
+      {
+        "id": "com.tencent.mqq_254",
+        "User_Pain_Point": "大量功能缺失（QQ运动、图片裁剪、文字识别、文字插入、密友实验室、好友亲密度等）",
+        "Actionable_Suggestion": "尽快补充缺失功能，如QQ运动、图片裁剪等"
+      },
+      {
+        "id": "com.tencent.mqq_255",
+        "User_Pain_Point": "闪照功能不完善",
+        "Actionable_Suggestion": "完善闪照功能"
+      },
+      {
+        "id": "com.tencent.mqq_258",
+        "User_Pain_Point": "功能太少，像几年前的QQ",
+        "Actionable_Suggestion": "逐步完善功能，提升丰富度"
+      },
+      {
+        "id": "com.tencent.mqq_259",
+        "User_Pain_Point": "日志不能编辑",
+        "Actionable_Suggestion": "增加日志编辑功能"
+      },
+      {
+        "id": "com.tencent.mqq_260",
+        "User_Pain_Point": "不支持回车键发送消息",
+        "Actionable_Suggestion": "增加回车键发送消息功能"
+      },
+      {
+        "id": "com.tencent.mqq_261",
+        "User_Pain_Point": "文件助手功能缺失，用户需要此功能但尚未更新。",
+        "Actionable_Suggestion": "尽快开发并上线文件助手功能。"
+      },
+      {
+        "id": "com.tencent.mqq_262",
+        "User_Pain_Point": "缺少基础功能：转发到群、QQ空间完整功能，整体功能远落后于旧版本安卓QQ。",
+        "Actionable_Suggestion": "补齐转发到群、QQ空间等基础功能，提升功能完整性。"
+      },
+      {
+        "id": "com.tencent.mqq_264",
+        "User_Pain_Point": "QQ农场种菜功能缺失，用户期待该功能。",
+        "Actionable_Suggestion": "增加QQ农场种菜功能。"
+      },
+      {
+        "id": "com.tencent.mqq_265",
+        "User_Pain_Point": "文件无法直接预览，必须下载后才能查看。",
+        "Actionable_Suggestion": "添加文件预览功能，支持常见格式在线预览。"
+      },
+      {
+        "id": "com.tencent.mqq_266",
+        "User_Pain_Point": "闪照功能缺失，无法查看闪照。",
+        "Actionable_Suggestion": "添加闪照查看功能。"
+      },
+      {
+        "id": "com.tencent.mqq_267",
+        "User_Pain_Point": "缺少装扮和戳一戳功能。",
+        "Actionable_Suggestion": "增加QQ装扮和戳一戳功能。"
+      },
+      {
+        "id": "com.tencent.mqq_268",
+        "User_Pain_Point": "空友爱看功能消失，转发不能一键转发，发说说图片不能编辑。",
+        "Actionable_Suggestion": "恢复空友爱看功能，实现一键转发，增加说说图片编辑功能。"
+      },
+      {
+        "id": "com.tencent.mqq_269",
+        "User_Pain_Point": "隐身设置功能缺失，无法设置在线状态为隐身。",
+        "Actionable_Suggestion": "添加隐身设置选项。"
+      },
+      {
+        "id": "com.tencent.mqq_270",
+        "User_Pain_Point": "左滑快捷回复缺失，个性气泡缺失，资料卡显示不全，QQ背景无法使用。",
+        "Actionable_Suggestion": "增加左滑快捷回复、个性气泡、完整资料卡及QQ背景功能。"
+      },
+      {
+        "id": "com.tencent.mqq_271",
+        "User_Pain_Point": "功能比老款少，动态里只有空间和游戏中心",
+        "Actionable_Suggestion": "增加动态内的功能，如更多社交互动选项"
+      },
+      {
+        "id": "com.tencent.mqq_272",
+        "User_Pain_Point": "缺少点击头像@和拍一拍功能",
+        "Actionable_Suggestion": "尽快添加点击头像@和拍一拍功能"
+      },
+      {
+        "id": "com.tencent.mqq_273",
+        "User_Pain_Point": "缺少小程序功能",
+        "Actionable_Suggestion": "尽快增加小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_274",
+        "User_Pain_Point": "缺少闪照功能",
+        "Actionable_Suggestion": "增加闪照功能"
+      },
+      {
+        "id": "com.tencent.mqq_275",
+        "User_Pain_Point": "存储空间快爆了，缺少清理功能",
+        "Actionable_Suggestion": "尽快上线存储空间清理功能"
+      },
+      {
+        "id": "com.tencent.mqq_276",
+        "User_Pain_Point": "群文件剪辑预设无法导入，缺少其他应用打开选项",
+        "Actionable_Suggestion": "完善群文件功能，支持剪辑预设导入，增加其他应用打开选项"
+      },
+      {
+        "id": "com.tencent.mqq_277",
+        "User_Pain_Point": "缺少情侣关系功能",
+        "Actionable_Suggestion": "尽快增加情侣关系功能"
+      },
+      {
+        "id": "com.tencent.mqq_279",
+        "User_Pain_Point": "视频时无法打字沟通",
+        "Actionable_Suggestion": "在视频通话界面增加文字输入功能"
+      },
+      {
+        "id": "com.tencent.mqq_280",
+        "User_Pain_Point": "与B站联动功能未做好",
+        "Actionable_Suggestion": "加快与B站联动功能的开发和优化"
+      },
+      {
+        "id": "com.tencent.mqq_281",
+        "User_Pain_Point": "管理群的头衔和等级功能缺失",
+        "Actionable_Suggestion": "尽快开发并上线群管理头衔和等级功能"
+      },
+      {
+        "id": "com.tencent.mqq_282",
+        "User_Pain_Point": "QQ登录切换账号界面不便，需退出重新登录",
+        "Actionable_Suggestion": "优化切换账号界面，支持直接内切换"
+      },
+      {
+        "id": "com.tencent.mqq_283",
+        "User_Pain_Point": "缺少消息转发到群的功能",
+        "Actionable_Suggestion": "增加消息转发到群的功能"
+      },
+      {
+        "id": "com.tencent.mqq_284",
+        "User_Pain_Point": "QQ装扮和表情包缺失",
+        "Actionable_Suggestion": "恢复QQ装扮和表情包功能"
+      },
+      {
+        "id": "com.tencent.mqq_285",
+        "User_Pain_Point": "以前下载的表情包丢失",
+        "Actionable_Suggestion": "恢复用户已购买或下载的表情包"
+      },
+      {
+        "id": "com.tencent.mqq_285",
+        "User_Pain_Point": "群文件中apk类型下载后无法打开或保存到手机",
+        "Actionable_Suggestion": "修复群文件apk类型下载后的打开和保存功能"
+      },
+      {
+        "id": "com.tencent.mqq_286",
+        "User_Pain_Point": "邮箱功能缺失",
+        "Actionable_Suggestion": "恢复邮箱功能"
+      },
+      {
+        "id": "com.tencent.mqq_287",
+        "User_Pain_Point": "无法收菜（可能指QQ农场等小游戏）",
+        "Actionable_Suggestion": "同步更新小游戏功能，修复收菜"
+      },
+      {
+        "id": "com.tencent.mqq_288",
+        "User_Pain_Point": "缺少QQ关联功能和主页背景图",
+        "Actionable_Suggestion": "尽快更新QQ关联和主页背景图功能"
+      },
+      {
+        "id": "com.tencent.mqq_289",
+        "User_Pain_Point": "缺少收付款码功能",
+        "Actionable_Suggestion": "增加收付款码功能"
+      },
+      {
+        "id": "com.tencent.mqq_289",
+        "User_Pain_Point": "拍照后不能涂鸦",
+        "Actionable_Suggestion": "增加拍照涂鸦功能"
+      },
+      {
+        "id": "com.tencent.mqq_291",
+        "User_Pain_Point": "需要QQ农场功能",
+        "Actionable_Suggestion": "增加QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_292",
+        "User_Pain_Point": "鸿蒙系统下缺少亲密空间功能",
+        "Actionable_Suggestion": "增加亲密空间功能"
+      },
+      {
+        "id": "com.tencent.mqq_293",
+        "User_Pain_Point": "美萌气泡和头像挂件功能被移除，需要恢复",
+        "Actionable_Suggestion": "恢复美萌气泡和头像挂件功能"
+      },
+      {
+        "id": "com.tencent.mqq_294",
+        "User_Pain_Point": "个人资料卡背景图功能需要更新",
+        "Actionable_Suggestion": "尽快更新个人资料卡背景图功能"
+      },
+      {
+        "id": "com.tencent.mqq_294",
+        "User_Pain_Point": "点赞功能缺失",
+        "Actionable_Suggestion": "增加点赞功能"
+      },
+      {
+        "id": "com.tencent.mqq_294",
+        "User_Pain_Point": "密友空间功能缺失",
+        "Actionable_Suggestion": "增加密友空间功能"
+      },
+      {
+        "id": "com.tencent.mqq_294",
+        "User_Pain_Point": "会员无法查看气泡功能",
+        "Actionable_Suggestion": "完善会员气泡功能"
+      },
+      {
+        "id": "com.tencent.mqq_295",
+        "User_Pain_Point": "在线状态突然不显示",
+        "Actionable_Suggestion": "修复在线状态显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_296",
+        "User_Pain_Point": "Q币无法使用",
+        "Actionable_Suggestion": "恢复Q币使用功能"
+      },
+      {
+        "id": "com.tencent.mqq_297",
+        "User_Pain_Point": "VIP挂件无法使用",
+        "Actionable_Suggestion": "恢复VIP挂件功能"
+      },
+      {
+        "id": "com.tencent.mqq_298",
+        "User_Pain_Point": "个性装扮功能不完善",
+        "Actionable_Suggestion": "尽快完善个性装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_299",
+        "User_Pain_Point": "缺少屏幕共享功能",
+        "Actionable_Suggestion": "增加屏幕共享功能"
+      },
+      {
+        "id": "com.tencent.mqq_300",
+        "User_Pain_Point": "等级功能无法查看",
+        "Actionable_Suggestion": "修复等级显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_301",
+        "User_Pain_Point": "购买了SVIP和黄钻但无法使用",
+        "Actionable_Suggestion": "建议尽快支持SVIP和黄钻等会员功能"
+      },
+      {
+        "id": "com.tencent.mqq_302",
+        "User_Pain_Point": "无法充值会员",
+        "Actionable_Suggestion": "建议尽快开放会员充值入口"
+      },
+      {
+        "id": "com.tencent.mqq_303",
+        "User_Pain_Point": "QQ小程序无法使用",
+        "Actionable_Suggestion": "建议尽快修复QQ小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_304",
+        "User_Pain_Point": "版本低提示但应用商店无更新",
+        "Actionable_Suggestion": "建议统一版本管理，提供更新渠道"
+      },
+      {
+        "id": "com.tencent.mqq_305",
+        "User_Pain_Point": "鸿蒙系统下无法查看闪照",
+        "Actionable_Suggestion": "建议适配鸿蒙系统，支持闪照查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_306",
+        "User_Pain_Point": "QQ装扮被移除或失效",
+        "Actionable_Suggestion": "建议恢复QQ装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_307",
+        "User_Pain_Point": "会员系统不完善",
+        "Actionable_Suggestion": "建议完善会员系统"
+      },
+      {
+        "id": "com.tencent.mqq_308",
+        "User_Pain_Point": "鸿蒙系统下看不到相册访客记录",
+        "Actionable_Suggestion": "建议适配鸿蒙系统，支持相册访客记录功能"
+      },
+      {
+        "id": "com.tencent.mqq_310",
+        "User_Pain_Point": "群文件打不开",
+        "Actionable_Suggestion": "建议修复群文件打开功能"
+      },
+      {
+        "id": "com.tencent.mqq_311",
+        "User_Pain_Point": "小程序金山文档分享内容导出文件困难，引导用户使用Safari打开，体验差",
+        "Actionable_Suggestion": "优化文件导出功能，支持直接保存到本地或分享到其他应用，避免跳转浏览器"
+      },
+      {
+        "id": "com.tencent.mqq_312",
+        "User_Pain_Point": "缺少隐身功能",
+        "Actionable_Suggestion": "增加隐身状态选项，允许用户设置在线状态为隐身"
+      },
+      {
+        "id": "com.tencent.mqq_313",
+        "User_Pain_Point": "群文件无法使用其他应用打开，只能提示无法预览",
+        "Actionable_Suggestion": "在群文件预览界面增加“其他应用打开”选项，支持调用第三方应用"
+      },
+      {
+        "id": "com.tencent.mqq_314",
+        "User_Pain_Point": "鸿蒙版缺失个性装扮和匿名提问功能",
+        "Actionable_Suggestion": "尽快补全个性装扮和匿名提问功能，与正式版对齐"
+      },
+      {
+        "id": "com.tencent.mqq_315",
+        "User_Pain_Point": "禁言功能、状态、引用消息自动@等功能缺失",
+        "Actionable_Suggestion": "恢复禁言、状态、引用消息自动@等缺失功能，确保功能完整性"
+      },
+      {
+        "id": "com.tencent.mqq_316",
+        "User_Pain_Point": "QQ空间评论不能发表情包",
+        "Actionable_Suggestion": "修复QQ空间评论功能，支持表情包发送"
+      },
+      {
+        "id": "com.tencent.mqq_317",
+        "User_Pain_Point": "缺少QQ农场功能",
+        "Actionable_Suggestion": "加快QQ农场功能开发并上线"
+      },
+      {
+        "id": "com.tencent.mqq_318",
+        "User_Pain_Point": "群文件和在线文档功能缺失",
+        "Actionable_Suggestion": "尽快添加群文件和在线文档功能"
+      },
+      {
+        "id": "com.tencent.mqq_319",
+        "User_Pain_Point": "QQ农场需要更新",
+        "Actionable_Suggestion": "更新QQ农场内容，增加新玩法和作物"
+      },
+      {
+        "id": "com.tencent.mqq_321",
+        "User_Pain_Point": "QQ备注选项只有一项，太少了，无法修改更多备注",
+        "Actionable_Suggestion": "增加备注选项数量，允许用户自定义多个备注"
+      },
+      {
+        "id": "com.tencent.mqq_322",
+        "User_Pain_Point": "缺少黄钻功能",
+        "Actionable_Suggestion": "恢复黄钻功能"
+      },
+      {
+        "id": "com.tencent.mqq_322",
+        "User_Pain_Point": "缺少个性标签功能",
+        "Actionable_Suggestion": "恢复个性标签功能"
+      },
+      {
+        "id": "com.tencent.mqq_322",
+        "User_Pain_Point": "缺少主页点赞功能",
+        "Actionable_Suggestion": "恢复主页点赞功能"
+      },
+      {
+        "id": "com.tencent.mqq_323",
+        "User_Pain_Point": "无法偷菜",
+        "Actionable_Suggestion": "恢复偷菜功能"
+      },
+      {
+        "id": "com.tencent.mqq_324",
+        "User_Pain_Point": "无法点赞主页",
+        "Actionable_Suggestion": "恢复主页点赞功能"
+      },
+      {
+        "id": "com.tencent.mqq_324",
+        "User_Pain_Point": "无法使用+1回复功能",
+        "Actionable_Suggestion": "恢复+1回复功能"
+      },
+      {
+        "id": "com.tencent.mqq_324",
+        "User_Pain_Point": "无法查看闪照",
+        "Actionable_Suggestion": "恢复闪照查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_325",
+        "User_Pain_Point": "无法进行每日打卡",
+        "Actionable_Suggestion": "恢复每日打卡功能"
+      },
+      {
+        "id": "com.tencent.mqq_326",
+        "User_Pain_Point": "无法做任务",
+        "Actionable_Suggestion": "恢复QQ任务功能"
+      },
+      {
+        "id": "com.tencent.mqq_327",
+        "User_Pain_Point": "无法查看QQ等级",
+        "Actionable_Suggestion": "恢复QQ等级显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_329",
+        "User_Pain_Point": "缺少屏幕共享功能",
+        "Actionable_Suggestion": "增加屏幕共享功能"
+      },
+      {
+        "id": "com.tencent.mqq_330",
+        "User_Pain_Point": "无法显示互动标识",
+        "Actionable_Suggestion": "恢复互动标识显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_331",
+        "User_Pain_Point": "无法浏览器打开文件",
+        "Actionable_Suggestion": "支持浏览器打开文件"
+      },
+      {
+        "id": "com.tencent.mqq_332",
+        "User_Pain_Point": "我的气泡呢主题内头像框呢聊天框呢 不给就退钱 归还vipsvip权益",
+        "Actionable_Suggestion": "恢复气泡、主题、头像框、聊天框等VIP/SVIP权益"
+      },
+      {
+        "id": "com.tencent.mqq_333",
+        "User_Pain_Point": "我的农场呢",
+        "Actionable_Suggestion": "恢复农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_334",
+        "User_Pain_Point": "希望把QQ小程序上了",
+        "Actionable_Suggestion": "上线QQ小程序"
+      },
+      {
+        "id": "com.tencent.mqq_336",
+        "User_Pain_Point": "QQ空间是废了吗？我到现在还登陆不了",
+        "Actionable_Suggestion": "修复QQ空间登录问题"
+      },
+      {
+        "id": "com.tencent.mqq_337",
+        "User_Pain_Point": "别人语音都听不到",
+        "Actionable_Suggestion": "修复语音播放功能"
+      },
+      {
+        "id": "com.tencent.mqq_338",
+        "User_Pain_Point": "上传图片不能点开查看大图 不能拖拽移动顺序",
+        "Actionable_Suggestion": "增加图片查看大图和拖拽排序功能"
+      },
+      {
+        "id": "com.tencent.mqq_339",
+        "User_Pain_Point": "频道为啥不能发消息？",
+        "Actionable_Suggestion": "允许频道内发消息"
+      },
+      {
+        "id": "com.tencent.mqq_340",
+        "User_Pain_Point": "什么时候可以能把QQ个性化设置搬上来啊，不能花里胡哨简直要了我的命",
+        "Actionable_Suggestion": "增加个性化设置选项"
+      },
+      {
+        "id": "com.tencent.mqq_341",
+        "User_Pain_Point": "缺少屏幕共享功能",
+        "Actionable_Suggestion": "尽快开发并上线屏幕共享功能"
+      },
+      {
+        "id": "com.tencent.mqq_343",
+        "User_Pain_Point": "缺少QQ农场功能，导致用户主要使用旧手机",
+        "Actionable_Suggestion": "尽快适配并上线QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_344",
+        "User_Pain_Point": "无法更换壁纸",
+        "Actionable_Suggestion": "增加壁纸更换功能"
+      },
+      {
+        "id": "com.tencent.mqq_345",
+        "User_Pain_Point": "SVIP黄砖功能未恢复",
+        "Actionable_Suggestion": "尽快恢复SVIP黄砖功能"
+      },
+      {
+        "id": "com.tencent.mqq_346",
+        "User_Pain_Point": "缺少QQ农场功能",
+        "Actionable_Suggestion": "尽快适配并上线QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_347",
+        "User_Pain_Point": "不支持QQ变声功能",
+        "Actionable_Suggestion": "增加语音变声功能"
+      },
+      {
+        "id": "com.tencent.mqq_349",
+        "User_Pain_Point": "缺少屏幕共享功能",
+        "Actionable_Suggestion": "尽快开发并上线屏幕共享功能"
+      },
+      {
+        "id": "com.tencent.mqq_350",
+        "User_Pain_Point": "QQ农场能加载但不能玩",
+        "Actionable_Suggestion": "修复QQ农场的可玩性问题"
+      },
+      {
+        "id": "com.tencent.mqq_351",
+        "User_Pain_Point": "无法查看对方发布的公告",
+        "Actionable_Suggestion": "增加查看公告功能"
+      },
+      {
+        "id": "com.tencent.mqq_352",
+        "User_Pain_Point": "缺少动态浏览记录",
+        "Actionable_Suggestion": "增加动态浏览记录功能"
+      },
+      {
+        "id": "com.tencent.mqq_353",
+        "User_Pain_Point": "缺少QQ农场功能",
+        "Actionable_Suggestion": "上线QQ农场"
+      },
+      {
+        "id": "com.tencent.mqq_354",
+        "User_Pain_Point": "缺少QQ农场功能",
+        "Actionable_Suggestion": "上线QQ农场"
+      },
+      {
+        "id": "com.tencent.mqq_355",
+        "User_Pain_Point": "缺少QQ农场功能",
+        "Actionable_Suggestion": "上线QQ农场"
+      },
+      {
+        "id": "com.tencent.mqq_356",
+        "User_Pain_Point": "缺少QQ秀功能",
+        "Actionable_Suggestion": "增加QQ秀功能"
+      },
+      {
+        "id": "com.tencent.mqq_357",
+        "User_Pain_Point": "鸿蒙版本缺少拍一拍功能",
+        "Actionable_Suggestion": "鸿蒙版本上线拍一拍"
+      },
+      {
+        "id": "com.tencent.mqq_357",
+        "User_Pain_Point": "B站分享无法跳转，缺少QQ小程序导致分享的是链接",
+        "Actionable_Suggestion": "支持B站分享跳转，上线QQ小程序"
+      },
+      {
+        "id": "com.tencent.mqq_358",
+        "User_Pain_Point": "金山文档无法打开",
+        "Actionable_Suggestion": "修复金山文档打开问题"
+      },
+      {
+        "id": "com.tencent.mqq_359",
+        "User_Pain_Point": "动态中不再显示手机型号",
+        "Actionable_Suggestion": "恢复显示手机型号"
+      },
+      {
+        "id": "com.tencent.mqq_360",
+        "User_Pain_Point": "亲子相册不能选择日期，只能顺序翻看",
+        "Actionable_Suggestion": "恢复亲子相册日期选择功能"
+      },
+      {
+        "id": "com.tencent.mqq_361",
+        "User_Pain_Point": "无法修改铃声，用户不理解为什么这么难实现。",
+        "Actionable_Suggestion": "建议支持个性化铃声设置功能。"
+      },
+      {
+        "id": "com.tencent.mqq_362",
+        "User_Pain_Point": "QQ装扮功能迟迟不更新。",
+        "Actionable_Suggestion": "建议尽快更新QQ装扮功能。"
+      },
+      {
+        "id": "com.tencent.mqq_363",
+        "User_Pain_Point": "QQ空间缺少浏览记录功能。",
+        "Actionable_Suggestion": "建议增加QQ空间浏览记录功能。"
+      },
+      {
+        "id": "com.tencent.mqq_364",
+        "User_Pain_Point": "QQ小程序无法使用。",
+        "Actionable_Suggestion": "建议修复QQ小程序兼容性，确保正常使用。"
+      },
+      {
+        "id": "com.tencent.mqq_365",
+        "User_Pain_Point": "不能发送闪照。",
+        "Actionable_Suggestion": "建议支持闪照功能。"
+      },
+      {
+        "id": "com.tencent.mqq_368",
+        "User_Pain_Point": "无法查看历史头像。",
+        "Actionable_Suggestion": "建议支持查看历史头像功能。"
+      },
+      {
+        "id": "com.tencent.mqq_368",
+        "User_Pain_Point": "QQ小程序缺失。",
+        "Actionable_Suggestion": "建议补充QQ小程序功能。"
+      },
+      {
+        "id": "com.tencent.mqq_370",
+        "User_Pain_Point": "QQ空间相册没有时间轴功能，图片难以查找。",
+        "Actionable_Suggestion": "建议尽快完善相册时间轴功能。"
+      },
+      {
+        "id": "com.tencent.mqq_371",
+        "User_Pain_Point": "无法玩农场小程序",
+        "Actionable_Suggestion": "尽快上线农场小程序"
+      },
+      {
+        "id": "com.tencent.mqq_372",
+        "User_Pain_Point": "邮箱功能不显示",
+        "Actionable_Suggestion": "修复邮箱显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_373",
+        "User_Pain_Point": "大量功能缺失",
+        "Actionable_Suggestion": "尽快补齐缺失功能"
+      },
+      {
+        "id": "com.tencent.mqq_373",
+        "User_Pain_Point": "登录跳转功能不可用",
+        "Actionable_Suggestion": "修复登录跳转功能"
+      },
+      {
+        "id": "com.tencent.mqq_374",
+        "User_Pain_Point": "无法玩QQ秀",
+        "Actionable_Suggestion": "添加QQ秀功能"
+      },
+      {
+        "id": "com.tencent.mqq_375",
+        "User_Pain_Point": "QQ游戏功能缺失",
+        "Actionable_Suggestion": "上线QQ游戏功能"
+      },
+      {
+        "id": "com.tencent.mqq_376",
+        "User_Pain_Point": "无法查看好友空间相册",
+        "Actionable_Suggestion": "修复空间相册查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_377",
+        "User_Pain_Point": "搜索游戏中心无结果",
+        "Actionable_Suggestion": "修复游戏中心搜索功能"
+      },
+      {
+        "id": "com.tencent.mqq_378",
+        "User_Pain_Point": "装扮功能及群功能缺失严重",
+        "Actionable_Suggestion": "尽快补齐装扮和群功能"
+      },
+      {
+        "id": "com.tencent.mqq_379",
+        "User_Pain_Point": "情侣空间功能缺失",
+        "Actionable_Suggestion": "恢复情侣空间功能"
+      },
+      {
+        "id": "com.tencent.mqq_380",
+        "User_Pain_Point": "无法设置和查看在线状态",
+        "Actionable_Suggestion": "添加在线状态显示与设置功能"
+      },
+      {
+        "id": "com.tencent.mqq_381",
+        "User_Pain_Point": "资料卡、主页、QQ空间功能不全",
+        "Actionable_Suggestion": "完善资料卡、主页、QQ空间功能"
+      },
+      {
+        "id": "com.tencent.mqq_381",
+        "User_Pain_Point": "缺少其他主题",
+        "Actionable_Suggestion": "增加多样化的主题"
+      },
+      {
+        "id": "com.tencent.mqq_381",
+        "User_Pain_Point": "无法设置不让陌生人看空间",
+        "Actionable_Suggestion": "增加隐私设置允许用户限制陌生人访问空间"
+      },
+      {
+        "id": "com.tencent.mqq_383",
+        "User_Pain_Point": "QQ农场缺失",
+        "Actionable_Suggestion": "增加QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_386",
+        "User_Pain_Point": "没有隐身功能",
+        "Actionable_Suggestion": "增加隐身登录功能"
+      },
+      {
+        "id": "com.tencent.mqq_389",
+        "User_Pain_Point": "频道无法发表帖子",
+        "Actionable_Suggestion": "增加频道发帖功能"
+      },
+      {
+        "id": "com.tencent.mqq_390",
+        "User_Pain_Point": "SVIP皮肤未提供",
+        "Actionable_Suggestion": "提供SVIP皮肤"
+      },
+      {
+        "id": "com.tencent.mqq_391",
+        "User_Pain_Point": "充了SVIP但装扮用不了，付费功能未实现",
+        "Actionable_Suggestion": "尽快完善SVIP装扮功能，确保付费用户权益"
+      },
+      {
+        "id": "com.tencent.mqq_392",
+        "User_Pain_Point": "不能更换主题气泡头像挂件，会员中心只有续费无其他功能",
+        "Actionable_Suggestion": "增加主题、气泡、头像挂件更换功能，并丰富会员中心内容"
+      },
+      {
+        "id": "com.tencent.mqq_393",
+        "User_Pain_Point": "缺少回车键发送消息功能，鸿蒙版本交互不适应",
+        "Actionable_Suggestion": "提供回车键发送消息的开关选项，适应不同用户习惯"
+      },
+      {
+        "id": "com.tencent.mqq_394",
+        "User_Pain_Point": "QQ空间旅行相册定位功能缺失",
+        "Actionable_Suggestion": "恢复旅行相册定位功能"
+      },
+      {
+        "id": "com.tencent.mqq_396",
+        "User_Pain_Point": "下载的文件无法清理，占用大量存储空间",
+        "Actionable_Suggestion": "增加文件清理功能，支持按类型和大小清理"
+      },
+      {
+        "id": "com.tencent.mqq_397",
+        "User_Pain_Point": "缺少清理存储功能，QQ占用空间越来越大",
+        "Actionable_Suggestion": "开发存储清理工具，定期提醒清理缓存"
+      },
+      {
+        "id": "com.tencent.mqq_398",
+        "User_Pain_Point": "文档类任务不支持在线编辑",
+        "Actionable_Suggestion": "增加文档在线编辑功能，支持主流格式"
+      },
+      {
+        "id": "com.tencent.mqq_400",
+        "User_Pain_Point": "不支持QQ经典农场功能",
+        "Actionable_Suggestion": "评估用户需求，考虑增加QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_401",
+        "User_Pain_Point": "版本更新太慢，导致游戏第三方登录需要最新版QQ却无法使用",
+        "Actionable_Suggestion": "加快版本迭代速度，尽快更新到最新版本以兼容第三方登录要求"
+      },
+      {
+        "id": "com.tencent.mqq_402",
+        "User_Pain_Point": "链接点击无响应",
+        "Actionable_Suggestion": "修复链接点击功能，确保链接正常跳转"
+      },
+      {
+        "id": "com.tencent.mqq_403",
+        "User_Pain_Point": "无法更换壁纸和聊天气泡",
+        "Actionable_Suggestion": "增加壁纸和气泡更换功能"
+      },
+      {
+        "id": "com.tencent.mqq_404",
+        "User_Pain_Point": "缺少QQ等级升级小任务功能",
+        "Actionable_Suggestion": "添加QQ等级升级小任务功能"
+      },
+      {
+        "id": "com.tencent.mqq_406",
+        "User_Pain_Point": "好友列表中没有某位好友，导致无法联系或查看",
+        "Actionable_Suggestion": "优化好友列表同步功能，确保所有好友正常显示"
+      },
+      {
+        "id": "com.tencent.mqq_407",
+        "User_Pain_Point": "共享屏幕功能无法使用",
+        "Actionable_Suggestion": "尽快开发并上线共享屏幕功能"
+      },
+      {
+        "id": "com.tencent.mqq_408",
+        "User_Pain_Point": "缺少QQ装扮功能",
+        "Actionable_Suggestion": "增加QQ装扮（主题、装饰等）功能"
+      },
+      {
+        "id": "com.tencent.mqq_409",
+        "User_Pain_Point": "缺少闪照功能",
+        "Actionable_Suggestion": "添加闪照功能"
+      },
+      {
+        "id": "com.tencent.mqq_410",
+        "User_Pain_Point": "群内查文件时点不开文件",
+        "Actionable_Suggestion": "修复群文件查看功能，确保点击后能正常打开文件"
+      },
+      {
+        "id": "com.tencent.mqq_412",
+        "User_Pain_Point": "鸿蒙版本开视频没画面",
+        "Actionable_Suggestion": "建议修复视频通话无画面问题"
+      },
+      {
+        "id": "com.tencent.mqq_412",
+        "User_Pain_Point": "不能在视频区打字聊天",
+        "Actionable_Suggestion": "建议增加视频区打字聊天功能"
+      },
+      {
+        "id": "com.tencent.mqq_413",
+        "User_Pain_Point": "希望快点更新可以QQ视频会议",
+        "Actionable_Suggestion": "建议增加QQ视频会议功能"
+      },
+      {
+        "id": "com.tencent.mqq_414",
+        "User_Pain_Point": "QQ明明全部都打开允许通知了，但就是没有消息框提醒",
+        "Actionable_Suggestion": "建议修复通知提醒不弹出的问题"
+      },
+      {
+        "id": "com.tencent.mqq_416",
+        "User_Pain_Point": "没有左滑消息回复功能",
+        "Actionable_Suggestion": "建议增加左滑回复消息功能"
+      },
+      {
+        "id": "com.tencent.mqq_418",
+        "User_Pain_Point": "登陆游戏不能快捷切换账号",
+        "Actionable_Suggestion": "建议增加游戏账号快捷切换功能"
+      },
+      {
+        "id": "com.tencent.mqq_419",
+        "User_Pain_Point": "什么更新能显示状态",
+        "Actionable_Suggestion": "建议增加在线状态显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_421",
+        "User_Pain_Point": "缺少情侣空间功能",
+        "Actionable_Suggestion": "建议优先开发情侣空间功能"
+      },
+      {
+        "id": "com.tencent.mqq_422",
+        "User_Pain_Point": "缺少左滑引用功能",
+        "Actionable_Suggestion": "建议增加左滑引用功能"
+      },
+      {
+        "id": "com.tencent.mqq_422",
+        "User_Pain_Point": "缺少情侣空间功能",
+        "Actionable_Suggestion": "建议开发情侣空间功能"
+      },
+      {
+        "id": "com.tencent.mqq_423",
+        "User_Pain_Point": "附近的人功能未恢复",
+        "Actionable_Suggestion": "建议恢复附近的人功能"
+      },
+      {
+        "id": "com.tencent.mqq_427",
+        "User_Pain_Point": "QQ装扮功能缺失（nova14）",
+        "Actionable_Suggestion": "建议尽快推出nova14的QQ装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_427",
+        "User_Pain_Point": "王者荣耀无法更换头像",
+        "Actionable_Suggestion": "建议修复王者荣耀换头像功能"
+      },
+      {
+        "id": "com.tencent.mqq_428",
+        "User_Pain_Point": "缺少群投票、群接龙等小程序功能，影响工作生活体验",
+        "Actionable_Suggestion": "建议优先开发群投票、群接龙等小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_430",
+        "User_Pain_Point": "缺少偷菜功能（QQ空间游戏）",
+        "Actionable_Suggestion": "建议开发偷菜功能"
+      },
+      {
+        "id": "com.tencent.mqq_431",
+        "User_Pain_Point": "群收集表无法填写",
+        "Actionable_Suggestion": "修复群收集表填写功能"
+      },
+      {
+        "id": "com.tencent.mqq_431",
+        "User_Pain_Point": "QQ小程序二维码无法识别",
+        "Actionable_Suggestion": "修复二维码识别功能"
+      },
+      {
+        "id": "com.tencent.mqq_431",
+        "User_Pain_Point": "群投票功能需要改进",
+        "Actionable_Suggestion": "优化群投票功能体验"
+      },
+      {
+        "id": "com.tencent.mqq_432",
+        "User_Pain_Point": "QQ空间评论缺少表情包和照片功能",
+        "Actionable_Suggestion": "增加QQ空间评论发表情包和照片的功能"
+      },
+      {
+        "id": "com.tencent.mqq_433",
+        "User_Pain_Point": "文件在线预览后仍需下载",
+        "Actionable_Suggestion": "优化文件预览功能，实现直接预览无需下载"
+      },
+      {
+        "id": "com.tencent.mqq_434",
+        "User_Pain_Point": "装扮功能缺失",
+        "Actionable_Suggestion": "尽快上线装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_435",
+        "User_Pain_Point": "闪图功能缺失",
+        "Actionable_Suggestion": "尽快上线闪图功能"
+      },
+      {
+        "id": "com.tencent.mqq_436",
+        "User_Pain_Point": "装扮功能缺失",
+        "Actionable_Suggestion": "尽快上线装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_437",
+        "User_Pain_Point": "无法从安卓系统迁移聊天记录",
+        "Actionable_Suggestion": "开发聊天记录迁移功能"
+      },
+      {
+        "id": "com.tencent.mqq_438",
+        "User_Pain_Point": "群视频缺少入口",
+        "Actionable_Suggestion": "增加群视频进入入口"
+      },
+      {
+        "id": "com.tencent.mqq_439",
+        "User_Pain_Point": "缺少回车键发送消息功能",
+        "Actionable_Suggestion": "增加回车键发送消息的选项"
+      },
+      {
+        "id": "com.tencent.mqq_440",
+        "User_Pain_Point": "主题功能缺失",
+        "Actionable_Suggestion": "尽快增加主题功能"
+      },
+      {
+        "id": "com.tencent.mqq_440",
+        "User_Pain_Point": "视频通话缺少美颜功能",
+        "Actionable_Suggestion": "增加视频美颜功能"
+      },
+      {
+        "id": "com.tencent.mqq_441",
+        "User_Pain_Point": "邀请功能打不开",
+        "Actionable_Suggestion": "修复邀请功能，确保其正常打开和使用"
+      },
+      {
+        "id": "com.tencent.mqq_441",
+        "User_Pain_Point": "群接龙功能不可用",
+        "Actionable_Suggestion": "增加群接龙功能，支持基本日常使用"
+      },
+      {
+        "id": "com.tencent.mqq_442",
+        "User_Pain_Point": "缺少QQ经典农场",
+        "Actionable_Suggestion": "开发并上线QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_443",
+        "User_Pain_Point": "无法使用在线文档",
+        "Actionable_Suggestion": "支持在线文档功能，如腾讯文档集成"
+      },
+      {
+        "id": "com.tencent.mqq_444",
+        "User_Pain_Point": "闪图功能未上线",
+        "Actionable_Suggestion": "抓紧研发并上线闪照/闪图功能"
+      },
+      {
+        "id": "com.tencent.mqq_445",
+        "User_Pain_Point": "QQ装扮功能缺失",
+        "Actionable_Suggestion": "恢复QQ装扮功能，让用户能使用已购买的装扮"
+      },
+      {
+        "id": "com.tencent.mqq_446",
+        "User_Pain_Point": "闪照功能无法使用",
+        "Actionable_Suggestion": "加快研发，使闪照功能在鸿蒙系统上可用"
+      },
+      {
+        "id": "com.tencent.mqq_447",
+        "User_Pain_Point": "缺少小程序功能",
+        "Actionable_Suggestion": "增加小程序平台，支持第三方小程序"
+      },
+      {
+        "id": "com.tencent.mqq_448",
+        "User_Pain_Point": "已购买的装扮无法使用",
+        "Actionable_Suggestion": "修复装扮兼容性问题，让已购装扮可用"
+      },
+      {
+        "id": "com.tencent.mqq_449",
+        "User_Pain_Point": "缺少QQ邮箱订阅号或内置提醒小程序",
+        "Actionable_Suggestion": "增加QQ邮箱订阅号功能或集成邮箱提醒小程序"
+      },
+      {
+        "id": "com.tencent.mqq_449",
+        "User_Pain_Point": "聊天记录无法引用回复",
+        "Actionable_Suggestion": "添加引用回复功能，支持在聊天中引用他人消息"
+      },
+      {
+        "id": "com.tencent.mqq_449",
+        "User_Pain_Point": "QQ无法跳转哔哩哔哩视频链接",
+        "Actionable_Suggestion": "优化链接跳转，支持B站视频链接直接打开"
+      },
+      {
+        "id": "com.tencent.mqq_449",
+        "User_Pain_Point": "无法长按群聊添加小表情",
+        "Actionable_Suggestion": "增加长按群聊消息添加小表情的功能"
+      },
+      {
+        "id": "com.tencent.mqq_449",
+        "User_Pain_Point": "图片编辑功能单一，缺少裁剪、马赛克等",
+        "Actionable_Suggestion": "丰富图片编辑工具，增加裁剪、马赛克、贴纸等"
+      },
+      {
+        "id": "com.tencent.mqq_449",
+        "User_Pain_Point": "缺少聊天记录清理和图片视频清理功能",
+        "Actionable_Suggestion": "添加聊天记录和媒体文件清理功能，释放存储空间"
+      },
+      {
+        "id": "com.tencent.mqq_450",
+        "User_Pain_Point": "缺少QQ农场",
+        "Actionable_Suggestion": "开发并上线QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_451",
+        "User_Pain_Point": "无法点赞，功能缺失",
+        "Actionable_Suggestion": "尽快恢复点赞功能"
+      },
+      {
+        "id": "com.tencent.mqq_452",
+        "User_Pain_Point": "无法预览显示文件",
+        "Actionable_Suggestion": "增加文件预览显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_453",
+        "User_Pain_Point": "个人装扮功能缺失",
+        "Actionable_Suggestion": "尽快上线个人装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_454",
+        "User_Pain_Point": "隐身功能缺失",
+        "Actionable_Suggestion": "增加隐身功能"
+      },
+      {
+        "id": "com.tencent.mqq_455",
+        "User_Pain_Point": "个性装扮消失",
+        "Actionable_Suggestion": "恢复个性装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_456",
+        "User_Pain_Point": "没有互相点赞功能",
+        "Actionable_Suggestion": "增加互相点赞功能"
+      },
+      {
+        "id": "com.tencent.mqq_457",
+        "User_Pain_Point": "更新慢，适配差",
+        "Actionable_Suggestion": "加快更新频率，优化适配"
+      },
+      {
+        "id": "com.tencent.mqq_458",
+        "User_Pain_Point": "主题系统未推出",
+        "Actionable_Suggestion": "尽快推出主题系统"
+      },
+      {
+        "id": "com.tencent.mqq_459",
+        "User_Pain_Point": "更新慢，对话框等未适配",
+        "Actionable_Suggestion": "加快更新，适配对话框等"
+      },
+      {
+        "id": "com.tencent.mqq_460",
+        "User_Pain_Point": "隐身功能消失",
+        "Actionable_Suggestion": "解决隐身功能问题"
+      },
+      {
+        "id": "com.tencent.mqq_461",
+        "User_Pain_Point": "群里的抽奖助手打不开",
+        "Actionable_Suggestion": "修复抽奖助手功能，确保在鸿蒙系统上正常运行"
+      },
+      {
+        "id": "com.tencent.mqq_462",
+        "User_Pain_Point": "不能进行位置签到",
+        "Actionable_Suggestion": "添加位置签到功能"
+      },
+      {
+        "id": "com.tencent.mqq_463",
+        "User_Pain_Point": "空间说说搜索和装扮功能不兼容",
+        "Actionable_Suggestion": "兼容空间说说搜索和装扮功能"
+      },
+      {
+        "id": "com.tencent.mqq_464",
+        "User_Pain_Point": "QQ农场未上线，无法偷菜",
+        "Actionable_Suggestion": "上线QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_465",
+        "User_Pain_Point": "情侣空间功能缺失",
+        "Actionable_Suggestion": "上线情侣空间功能"
+      },
+      {
+        "id": "com.tencent.mqq_466",
+        "User_Pain_Point": "QQ农场未上线",
+        "Actionable_Suggestion": "上线QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_467",
+        "User_Pain_Point": "小程序功能未开通",
+        "Actionable_Suggestion": "开通小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_468",
+        "User_Pain_Point": "鸿蒙版没有装扮系统，原设备SVIP无法使用",
+        "Actionable_Suggestion": "添加装扮系统"
+      },
+      {
+        "id": "com.tencent.mqq_469",
+        "User_Pain_Point": "安卓上的QQ农场未更新至鸿蒙版",
+        "Actionable_Suggestion": "更新鸿蒙版QQ农场"
+      },
+      {
+        "id": "com.tencent.mqq_470",
+        "User_Pain_Point": "无法玩QQ农场，无法种菜",
+        "Actionable_Suggestion": "上线QQ农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_471",
+        "User_Pain_Point": "无法在QQ中填写金山文档",
+        "Actionable_Suggestion": "支持在QQ中直接编辑或填写金山文档"
+      },
+      {
+        "id": "com.tencent.mqq_472",
+        "User_Pain_Point": "QQ农场和小游戏功能未开通",
+        "Actionable_Suggestion": "尽快上线QQ农场及小游戏功能"
+      },
+      {
+        "id": "com.tencent.mqq_473",
+        "User_Pain_Point": "VIP特权系统未上线，购买了VIP但无特权",
+        "Actionable_Suggestion": "完善VIP特权系统，确保购买后功能可用"
+      },
+      {
+        "id": "com.tencent.mqq_475",
+        "User_Pain_Point": "无法查看别人的空间",
+        "Actionable_Suggestion": "修复查看他人空间的功能"
+      },
+      {
+        "id": "com.tencent.mqq_476",
+        "User_Pain_Point": "QQ大会员功能不能使用",
+        "Actionable_Suggestion": "修复QQ大会员功能"
+      },
+      {
+        "id": "com.tencent.mqq_477",
+        "User_Pain_Point": "缺少QQ小程序功能",
+        "Actionable_Suggestion": "增加QQ小程序功能"
+      },
+      {
+        "id": "com.tencent.mqq_478",
+        "User_Pain_Point": "QQ空间缺少农场等小游戏",
+        "Actionable_Suggestion": "在QQ空间中加入农场等小游戏"
+      },
+      {
+        "id": "com.tencent.mqq_479",
+        "User_Pain_Point": "无法操作群成员头衔和气泡",
+        "Actionable_Suggestion": "增加群成员头衔和气泡功能"
+      },
+      {
+        "id": "com.tencent.mqq_480",
+        "User_Pain_Point": "王者荣耀切换账号麻烦",
+        "Actionable_Suggestion": "优化王者荣耀账号切换流程"
+      },
+      {
+        "id": "com.tencent.mqq_481",
+        "User_Pain_Point": "小程序功能尚未上线，用户无法使用。",
+        "Actionable_Suggestion": "加快小程序开发与上线进度，尽快提供该功能。"
+      },
+      {
+        "id": "com.tencent.mqq_482",
+        "User_Pain_Point": "隐身功能缺失，用户无法隐藏在线状态。",
+        "Actionable_Suggestion": "恢复隐身功能，允许用户选择是否在线可见。"
+      },
+      {
+        "id": "com.tencent.mqq_483",
+        "User_Pain_Point": "缺少情侣空间功能，用户无法使用亲密互动功能。",
+        "Actionable_Suggestion": "开发并上线情侣空间功能。"
+      },
+      {
+        "id": "com.tencent.mqq_484",
+        "User_Pain_Point": "Q群管理功能不完善，连基本的禁言都没有。",
+        "Actionable_Suggestion": "优先补全群管理核心功能，如禁言、群公告等。"
+      },
+      {
+        "id": "com.tencent.mqq_486",
+        "User_Pain_Point": "缺少主题功能，导致SVIP权益无法体现。",
+        "Actionable_Suggestion": "尽快推出主题商店，支持用户自定义主题。"
+      },
+      {
+        "id": "com.tencent.mqq_487",
+        "User_Pain_Point": "无法查看好友状态、修改个性签名，缺少个性标签、精选照片和装扮功能。",
+        "Actionable_Suggestion": "恢复状态查看、个性签名修改、个性标签、精选照片和装扮等功能。"
+      },
+      {
+        "id": "com.tencent.mqq_488",
+        "User_Pain_Point": "无法玩QQ农场游戏。",
+        "Actionable_Suggestion": "考虑引入或恢复QQ农场等经典小游戏。"
+      },
+      {
+        "id": "com.tencent.mqq_489",
+        "User_Pain_Point": "接龙功能不可用，影响日常使用。",
+        "Actionable_Suggestion": "修复并上线接龙功能。"
+      },
+      {
+        "id": "com.tencent.mqq_490",
+        "User_Pain_Point": "缺乏亲密空间功能。",
+        "Actionable_Suggestion": "开发亲密空间功能，类似情侣空间或亲密关系展示。"
+      },
+      {
+        "id": "com.tencent.mqq_491",
+        "User_Pain_Point": "农场功能无法使用，入口找不到",
+        "Actionable_Suggestion": "修复农场功能入口，确保用户能正常访问和玩游戏"
+      },
+      {
+        "id": "com.tencent.mqq_493",
+        "User_Pain_Point": "不显示网络状态和在线隐身状态",
+        "Actionable_Suggestion": "恢复网络状态和在线隐身状态的显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_494",
+        "User_Pain_Point": "会员装扮无法显示，会员价值大打折扣",
+        "Actionable_Suggestion": "尽快适配并显示所有会员装扮"
+      },
+      {
+        "id": "com.tencent.mqq_495",
+        "User_Pain_Point": "QQ在线、离线、隐身状态设置和显示功能缺失",
+        "Actionable_Suggestion": "恢复状态设置和聊天界面状态显示功能"
+      },
+      {
+        "id": "com.tencent.mqq_497",
+        "User_Pain_Point": "会员任务链接无法进入",
+        "Actionable_Suggestion": "修复会员任务链接，确保可正常访问"
+      },
+      {
+        "id": "com.tencent.mqq_498",
+        "User_Pain_Point": "QQ等级功能无法使用，等级排名下滑",
+        "Actionable_Suggestion": "修复QQ等级功能，使用户能正常升级和查看排名"
+      },
+      {
+        "id": "com.tencent.mqq_500",
+        "User_Pain_Point": "小程序功能缺失，学生用户急需",
+        "Actionable_Suggestion": "尽快上架小程序功能，满足用户需求"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.tencent.mqq_385",
+        "User_Pain_Point": "文件里面终于有微云网盘了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_411",
+        "User_Pain_Point": "这次更新，分享文件可以选择我的电脑了",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.tencent.mqq_348",
+        "User_Pain_Point": "希望有自定义铃声功能，包括文字、语音、通话铃声",
+        "Actionable_Suggestion": "开发并支持自定义铃声功能"
+      },
+      {
+        "id": "com.tencent.mqq_485",
+        "User_Pain_Point": "希望更多小游戏回归，目前小游戏数量不足。",
+        "Actionable_Suggestion": "逐步恢复并增加小游戏内容，丰富游戏生态。"
+      },
+      {
+        "id": "com.tencent.mqq_492",
+        "User_Pain_Point": "期待气泡功能上架",
+        "Actionable_Suggestion": "加速气泡功能的开发与上架"
+      },
+      {
+        "id": "com.tencent.mqq_496",
+        "User_Pain_Point": "群外音视频通知功能缺失或询问何时有",
+        "Actionable_Suggestion": "增加群外音视频通知功能"
+      },
+      {
+        "id": "com.tencent.mqq_499",
+        "User_Pain_Point": "无法单独复制文字消息",
+        "Actionable_Suggestion": "增加长按消息可单独复制文字的功能"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.tencent.mqq_26",
+        "User_Pain_Point": "华为手机上的QQ版本更新慢",
+        "Actionable_Suggestion": "加快华为手机上的版本更新和适配"
+      },
+      {
+        "id": "com.tencent.mqq_37",
+        "User_Pain_Point": "关键还不让装安卓版的",
+        "Actionable_Suggestion": "允许用户安装安卓版作为过渡或提供功能完整的鸿蒙版"
+      },
+      {
+        "id": "com.tencent.mqq_54",
+        "User_Pain_Point": "没有适配平板模式界面",
+        "Actionable_Suggestion": "进行平板模式界面适配"
+      },
+      {
+        "id": "com.tencent.mqq_86",
+        "User_Pain_Point": "为啥鸿蒙系统和其他手机系统的QQ不一样呢，QQ能不能抓点紧更新",
+        "Actionable_Suggestion": "加速鸿蒙系统版本更新，与安卓版本对齐功能"
+      },
+      {
+        "id": "com.tencent.mqq_124",
+        "User_Pain_Point": "使用Steam应用困难",
+        "Actionable_Suggestion": "优化Steam应用在鸿蒙系统上的兼容性和体验"
+      },
+      {
+        "id": "com.tencent.mqq_162",
+        "User_Pain_Point": "鸿蒙系统上无法查看等级和会员状况",
+        "Actionable_Suggestion": "建议适配鸿蒙系统，支持查看等级和会员状况"
+      },
+      {
+        "id": "com.tencent.mqq_165",
+        "User_Pain_Point": "手机升级后QQ无法使用，加群失败",
+        "Actionable_Suggestion": "建议修复升级后QQ兼容性问题"
+      },
+      {
+        "id": "com.tencent.mqq_182",
+        "User_Pain_Point": "游戏登录无法适配所有游戏，影响体验",
+        "Actionable_Suggestion": "优化QQ登录适配，确保支持所有游戏的登录"
+      },
+      {
+        "id": "com.tencent.mqq_186",
+        "User_Pain_Point": "很多应用绑定QQ登录后无法直接登录",
+        "Actionable_Suggestion": "改进登录适配，修复第三方应用QQ登录兼容性问题"
+      },
+      {
+        "id": "com.tencent.mqq_202",
+        "User_Pain_Point": "华为手机登录游戏时无法换头像",
+        "Actionable_Suggestion": "修复华为设备上游戏登录时头像更换问题"
+      },
+      {
+        "id": "com.tencent.mqq_222",
+        "User_Pain_Point": "游戏登录不兼容鸿蒙系统，与安卓系统差异导致麻烦",
+        "Actionable_Suggestion": "优化鸿蒙系统下的游戏登录适配，确保兼容性"
+      },
+      {
+        "id": "com.tencent.mqq_278",
+        "User_Pain_Point": "鸿蒙系统QQ微云下载功能缺失",
+        "Actionable_Suggestion": "适配鸿蒙系统，恢复微云下载功能"
+      },
+      {
+        "id": "com.tencent.mqq_290",
+        "User_Pain_Point": "鸿蒙系统录屏功能被阉割",
+        "Actionable_Suggestion": "适配鸿蒙系统，恢复录屏功能"
+      },
+      {
+        "id": "com.tencent.mqq_378",
+        "User_Pain_Point": "安卓端基础功能适配缓慢",
+        "Actionable_Suggestion": "加快适配进度，使功能与安卓端一致"
+      },
+      {
+        "id": "com.tencent.mqq_395",
+        "User_Pain_Point": "许多游戏无法正常登录，兼容性差",
+        "Actionable_Suggestion": "优化游戏登录兼容性，与游戏厂商协同修复"
+      },
+      {
+        "id": "com.tencent.mqq_399",
+        "User_Pain_Point": "小程序无法打开",
+        "Actionable_Suggestion": "修复小程序加载机制，确保在鸿蒙系统正常运行"
+      },
+      {
+        "id": "com.tencent.mqq_440",
+        "User_Pain_Point": "鸿蒙系统适配进度慢",
+        "Actionable_Suggestion": "加快鸿蒙系统适配工作"
+      },
+      {
+        "id": "com.tencent.mqq_474",
+        "User_Pain_Point": "PuraX机型无法进入情侣空间",
+        "Actionable_Suggestion": "适配PuraX机型，支持进入情侣空间"
+      },
+      {
+        "id": "com.tencent.mqq_476",
+        "User_Pain_Point": "本版本无法登录游戏，提示版本太低",
+        "Actionable_Suggestion": "适配或提示用户升级版本以支持游戏登录"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.tencent.mqq_10",
+        "User_Pain_Point": "指定图片查找聊天记录功能出现预览与实际显示不一致的bug",
+        "Actionable_Suggestion": "修复图片查找聊天记录中预览与实际显示图片不一致的bug"
+      },
+      {
+        "id": "com.tencent.mqq_45",
+        "User_Pain_Point": "点击等级无反应",
+        "Actionable_Suggestion": "修复等级显示点击问题"
+      },
+      {
+        "id": "com.tencent.mqq_115",
+        "User_Pain_Point": "发消息偶尔卡顿，加载图标有时不消失",
+        "Actionable_Suggestion": "优化消息发送性能，修复加载图标异常残留问题"
+      },
+      {
+        "id": "com.tencent.mqq_130",
+        "User_Pain_Point": "应用占用内存空间过大",
+        "Actionable_Suggestion": "优化应用内存占用"
+      },
+      {
+        "id": "com.tencent.mqq_135",
+        "User_Pain_Point": "消息接收不到",
+        "Actionable_Suggestion": "修复消息接收问题"
+      },
+      {
+        "id": "com.tencent.mqq_209",
+        "User_Pain_Point": "应用优化差，在所有应用中表现最差",
+        "Actionable_Suggestion": "全面优化应用性能"
+      },
+      {
+        "id": "com.tencent.mqq_252",
+        "User_Pain_Point": "消息发送流畅度差",
+        "Actionable_Suggestion": "优化消息发送流畅度"
+      },
+      {
+        "id": "com.tencent.mqq_257",
+        "User_Pain_Point": "语音电话功能有BUG，点进去无显示",
+        "Actionable_Suggestion": "修复语音电话接收显示的BUG"
+      },
+      {
+        "id": "com.tencent.mqq_263",
+        "User_Pain_Point": "语音功能异常，无法发送语音。",
+        "Actionable_Suggestion": "修复语音发送功能，确保稳定。"
+      },
+      {
+        "id": "com.tencent.mqq_309",
+        "User_Pain_Point": "无法登录账号",
+        "Actionable_Suggestion": "建议修复登录问题"
+      },
+      {
+        "id": "com.tencent.mqq_320",
+        "User_Pain_Point": "群抽签小程序无法使用",
+        "Actionable_Suggestion": "修复群抽签小程序，确保功能正常可用"
+      },
+      {
+        "id": "com.tencent.mqq_328",
+        "User_Pain_Point": "视频通话画面模糊",
+        "Actionable_Suggestion": "优化视频通话质量，提高清晰度"
+      },
+      {
+        "id": "com.tencent.mqq_368",
+        "User_Pain_Point": "视频通话不稳定。",
+        "Actionable_Suggestion": "建议优化视频通话稳定性。"
+      },
+      {
+        "id": "com.tencent.mqq_384",
+        "User_Pain_Point": "QQ打卡小程序无法打开",
+        "Actionable_Suggestion": "修复打卡小程序打开问题"
+      },
+      {
+        "id": "com.tencent.mqq_387",
+        "User_Pain_Point": "无法查看等级和朋友等级（点不开）",
+        "Actionable_Suggestion": "修复等级查看功能"
+      },
+      {
+        "id": "com.tencent.mqq_388",
+        "User_Pain_Point": "QQ空间评论不了图片",
+        "Actionable_Suggestion": "修复QQ空间评论图片功能"
+      },
+      {
+        "id": "com.tencent.mqq_420",
+        "User_Pain_Point": "种菜都打不开，很多功能也用不了",
+        "Actionable_Suggestion": "建议修复种菜及其他功能无法打开的问题"
+      },
+      {
+        "id": "com.tencent.mqq_448",
+        "User_Pain_Point": "消息记录中图片点进去显示不一致",
+        "Actionable_Suggestion": "修复图片预览Bug，确保点击后的图片与列表显示一致"
+      },
+      {
+        "id": "com.tencent.mqq_449",
+        "User_Pain_Point": "Tim应用通知收不到消息",
+        "Actionable_Suggestion": "优化Tim应用的通知机制，确保与华为手表联动正常"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.tencent.mqq_30",
+        "User_Pain_Point": "个性化功能缺失，界面显示空白，体验不好",
+        "Actionable_Suggestion": "尽快上线个性化功能，确保界面正常显示"
+      },
+      {
+        "id": "com.tencent.mqq_43",
+        "User_Pain_Point": "黑名单找不到",
+        "Actionable_Suggestion": "增加黑名单入口或优化引导"
+      },
+      {
+        "id": "com.tencent.mqq_274",
+        "User_Pain_Point": "好友在线离线状态显示不清晰，彩色头像难以区分",
+        "Actionable_Suggestion": "优化在线离线状态显示，使用更明显的图标或文字区分"
+      },
+      {
+        "id": "com.tencent.mqq_357",
+        "User_Pain_Point": "小白条区域沉浸问题，iOS和鸿蒙版本都存在",
+        "Actionable_Suggestion": "修复小白条区域沉浸问题"
+      },
+      {
+        "id": "com.tencent.mqq_382",
+        "User_Pain_Point": "不清楚如何设置状态",
+        "Actionable_Suggestion": "优化状态设置入口和引导"
+      },
+      {
+        "id": "com.tencent.mqq_390",
+        "User_Pain_Point": "回车发消息功能不可用",
+        "Actionable_Suggestion": "修复回车发送消息功能"
+      },
+      {
+        "id": "com.tencent.mqq_429",
+        "User_Pain_Point": "更新后界面图标对PuraX不友好，图标过大",
+        "Actionable_Suggestion": "建议优化PuraX机型的图标大小和界面布局"
+      },
+      {
+        "id": "com.tencent.mqq_449",
+        "User_Pain_Point": "回复操作未优化，不能滑动回复",
+        "Actionable_Suggestion": "优化回复交互，支持在消息上滑动快速回复"
+      },
+      {
+        "id": "com.tencent.mqq_473",
+        "User_Pain_Point": "之前设置的特大号字体无法关闭",
+        "Actionable_Suggestion": "提供字体大小调节选项并修复无法关闭的问题"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.tencent.mqq_30",
+        "User_Pain_Point": "完善速度慢，反馈三个月未上线个性化",
+        "Actionable_Suggestion": "加快迭代速度，及时响应用户反馈"
+      },
+      {
+        "id": "com.tencent.mqq_30",
+        "User_Pain_Point": "SVIP超会时间浪费，未及时获得权益",
+        "Actionable_Suggestion": "合理补偿用户损失，确保权益及时兑现"
+      },
+      {
+        "id": "com.tencent.mqq_30",
+        "User_Pain_Point": "协商补偿方案不可行，态度抠搜",
+        "Actionable_Suggestion": "提供可行的补偿方案，改善服务态度"
+      },
+      {
+        "id": "com.tencent.mqq_50",
+        "User_Pain_Point": "小程序不更新而会员先更新，优先级不合理",
+        "Actionable_Suggestion": "平衡更新优先级"
+      },
+      {
+        "id": "com.tencent.mqq_57",
+        "User_Pain_Point": "更新太慢，好多内容看不到",
+        "Actionable_Suggestion": "加快更新频率，补齐缺失内容"
+      },
+      {
+        "id": "com.tencent.mqq_59",
+        "User_Pain_Point": "更新太慢，很多功能一直拖着",
+        "Actionable_Suggestion": "加快更新速度，尽快上线缺失功能"
+      },
+      {
+        "id": "com.tencent.mqq_85",
+        "User_Pain_Point": "想要玩QQ农场，但是一直在灰度测试 🥹🥹",
+        "Actionable_Suggestion": "加快灰度测试进度，尽快全量开放农场功能"
+      },
+      {
+        "id": "com.tencent.mqq_191",
+        "User_Pain_Point": "访客记录删除功能需要开通会员，但开通会员后依然无法删除，功能无效。",
+        "Actionable_Suggestion": "建议修复访客记录删除功能，确保会员用户能够正常使用，或调整功能规则。"
+      },
+      {
+        "id": "com.tencent.mqq_217",
+        "User_Pain_Point": "VIP特权未体现，充值无感",
+        "Actionable_Suggestion": "增强VIP权益，确保充值后有明显功能提升"
+      },
+      {
+        "id": "com.tencent.mqq_247",
+        "User_Pain_Point": "版本更新太慢，导致游戏授权问题",
+        "Actionable_Suggestion": "加快更新频率，及时跟进最新版本"
+      },
+      {
+        "id": "com.tencent.mqq_249",
+        "User_Pain_Point": "更新缓慢，游戏小程序缺失",
+        "Actionable_Suggestion": "制定更快的更新计划，缩小与安卓版本的差异"
+      },
+      {
+        "id": "com.tencent.mqq_253",
+        "User_Pain_Point": "问题反馈未得到回复和解决",
+        "Actionable_Suggestion": "及时回复用户反馈并解决问题"
+      },
+      {
+        "id": "com.tencent.mqq_256",
+        "User_Pain_Point": "需要恢复QQ账号或数据",
+        "Actionable_Suggestion": "提供账号恢复支持服务"
+      },
+      {
+        "id": "com.tencent.mqq_332",
+        "User_Pain_Point": "还不让下载新版本 不会更新吗？？？",
+        "Actionable_Suggestion": "允许用户下载新版本"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.tencent.mqq_49",
+        "User_Pain_Point": "有进步",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_65",
+        "User_Pain_Point": "经典农场总算是适配好了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_82",
+        "User_Pain_Point": "QQ农场已经适配了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_93",
+        "User_Pain_Point": "功能很全，界面简洁",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_127",
+        "User_Pain_Point": "鸿蒙系统因未适配微信而避免了诈骗风险，用户对此表示赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_129",
+        "User_Pain_Point": "用户对整体体验表示满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_151",
+        "User_Pain_Point": "支持鸿蒙系统",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_154",
+        "User_Pain_Point": "适配加速，体验好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_197",
+        "User_Pain_Point": "已经完善得不错了，整体体验较好。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_255",
+        "User_Pain_Point": "更新速度一个月一更，可以接受",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_298",
+        "User_Pain_Point": "整体满意，给予五星好评",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_299",
+        "User_Pain_Point": "更新速度快，体验良好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_335",
+        "User_Pain_Point": "agent支持markdown渲染了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_342",
+        "User_Pain_Point": "群语音通话显示功能上线了，用户表示赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_405",
+        "User_Pain_Point": "富文本格式渲染更新，机器人回答文字不再拥挤",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_424",
+        "User_Pain_Point": "用户赞赏鸿蒙版QQ简洁流畅，对低端处理器友好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.tencent.mqq_453",
+        "User_Pain_Point": "整体适应很好，体验不错",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.tencent.mqq_192",
+        "User_Pain_Point": "QQ农场功能缺失，无法在手机上使用。",
+        "Actionable_Suggestion": "建议尽快将QQ农场加入到移动端QQ中，提供与电脑端一致的功能。"
+      },
+      {
+        "id": "com.tencent.mqq_194",
+        "User_Pain_Point": "QQ经典农场灰度测试时间过长，用户无法正式使用。",
+        "Actionable_Suggestion": "建议加快QQ经典农场的正式上线进度，减少灰度测试时间。"
+      },
+      {
+        "id": "com.tencent.mqq_195",
+        "User_Pain_Point": "想要玩QQ经典农场，但目前无法升级获得。",
+        "Actionable_Suggestion": "建议提供升级或直接开放QQ经典农场的途径。"
+      },
+      {
+        "id": "com.tencent.mqq_196",
+        "User_Pain_Point": "需要农场功能，用电脑偷菜不方便。",
+        "Actionable_Suggestion": "建议在手机端QQ中加入农场功能，方便移动操作。"
+      },
+      {
+        "id": "com.tencent.mqq_199",
+        "User_Pain_Point": "华为手机下载的QQ没有QQ农场。",
+        "Actionable_Suggestion": "建议确保所有手机型号的QQ都包含QQ农场功能。"
+      },
+      {
+        "id": "com.tencent.mqq_366",
+        "User_Pain_Point": "QQ经典农场未上线。",
+        "Actionable_Suggestion": "建议引入QQ经典农场玩法。"
+      },
+      {
+        "id": "com.tencent.mqq_367",
+        "User_Pain_Point": "QQ经典农场未上线，用户担心菜被偷。",
+        "Actionable_Suggestion": "建议引入QQ经典农场玩法。"
+      },
+      {
+        "id": "com.tencent.mqq_369",
+        "User_Pain_Point": "没有QQ经典农场。",
+        "Actionable_Suggestion": "建议引入QQ经典农场玩法。"
+      },
+      {
+        "id": "com.tencent.mqq_415",
+        "User_Pain_Point": "我要偷菜",
+        "Actionable_Suggestion": "建议加入QQ农场偷菜功能"
+      },
+      {
+        "id": "com.tencent.mqq_417",
+        "User_Pain_Point": "QQ农场搞快点",
+        "Actionable_Suggestion": "建议尽快上线QQ农场"
+      }
+    ]
+  }
+}

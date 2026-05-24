@@ -1,0 +1,2747 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_1",
+        "User_Pain_Point": "缺少送货上门选项",
+        "Actionable_Suggestion": "增加送货上门选项，类似安卓版"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_3",
+        "User_Pain_Point": "不能和好友聊天",
+        "Actionable_Suggestion": "增加好友聊天功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_4",
+        "User_Pain_Point": "多多钱包无法使用",
+        "Actionable_Suggestion": "修复多多钱包功能，尽快更新"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_5",
+        "User_Pain_Point": "不能分享商品给好友",
+        "Actionable_Suggestion": "增加分享商品给好友的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_7",
+        "User_Pain_Point": "匹配度不如安卓版",
+        "Actionable_Suggestion": "优化匹配算法，达到安卓版水平"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_8",
+        "User_Pain_Point": "已读信息重复显示",
+        "Actionable_Suggestion": "优化已读信息显示逻辑，消除冗余"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_8",
+        "User_Pain_Point": "订单状态显示不详细（缺少已签收、派送中、已完成等分类）",
+        "Actionable_Suggestion": "增加详细的订单状态分类显示，类似安卓版"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_9",
+        "User_Pain_Point": "缺少送货入村选项",
+        "Actionable_Suggestion": "恢复送货入村选项或说明原因"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_10",
+        "User_Pain_Point": "待收货页面缺少下级分类（已签收、待取件、派件中、运输中等）及数量",
+        "Actionable_Suggestion": "增加待收货页面的下级分类和数量显示，类似安卓版"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_11",
+        "User_Pain_Point": "一单多款功能缺失",
+        "Actionable_Suggestion": "建议增加一单多款功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_15",
+        "User_Pain_Point": "没有长辈模式",
+        "Actionable_Suggestion": "建议增加长辈模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_16",
+        "User_Pain_Point": "鸿蒙版本不支持发货到香港",
+        "Actionable_Suggestion": "建议增加鸿蒙版本的发货到香港功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_17",
+        "User_Pain_Point": "没有先用后付功能",
+        "Actionable_Suggestion": "建议增加先用后付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_21",
+        "User_Pain_Point": "无法使用指纹支付功能",
+        "Actionable_Suggestion": "适配鸿蒙系统指纹支付接口，加快支付功能完善"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_21",
+        "User_Pain_Point": "一元夺宝无法自动跳转",
+        "Actionable_Suggestion": "修复一元夺宝页面的跳转逻辑"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_25",
+        "User_Pain_Point": "缺少以旧换新功能入口",
+        "Actionable_Suggestion": "增加以旧换新功能模块，并优化用户引导"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_31",
+        "User_Pain_Point": "鸿蒙版拼多多在旧机回收页面无法修改地址，只能修改时间，提示请在APP内修改，但iOS版可以",
+        "Actionable_Suggestion": "修复旧机回收页面的地址修改功能，确保与iOS版一致"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_33",
+        "User_Pain_Point": "缺少指纹或人脸识别功能",
+        "Actionable_Suggestion": "增加指纹或人脸识别登录支持"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_34",
+        "User_Pain_Point": "客服聊天界面右上角缺失进入店铺的入口，安卓版本有此功能",
+        "Actionable_Suggestion": "在客服聊天界面右上角添加进入店铺的入口"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_41",
+        "User_Pain_Point": "分享功能只能分享微信，缺少App内好友分享渠道",
+        "Actionable_Suggestion": "增加App内好友分享渠道"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_43",
+        "User_Pain_Point": "鸿蒙版无法查看官方售后方案",
+        "Actionable_Suggestion": "在鸿蒙版增加查看官方售后方案功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_46",
+        "User_Pain_Point": "不支持种树助力好友功能",
+        "Actionable_Suggestion": "增加种树助力好友功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_50",
+        "User_Pain_Point": "缺少指纹支付功能",
+        "Actionable_Suggestion": "增加指纹支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_53",
+        "User_Pain_Point": "无法转发商品链接给拼多多内好友",
+        "Actionable_Suggestion": "增加商品链接转发功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_55",
+        "User_Pain_Point": "评价功能缺少语音输入和AI写评价功能",
+        "Actionable_Suggestion": "增加语音输入和AI写评价功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_57",
+        "User_Pain_Point": "查不到包裹信息",
+        "Actionable_Suggestion": "优化包裹查询功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_58",
+        "User_Pain_Point": "待收货页面缺少已签收、待取件的细分选项",
+        "Actionable_Suggestion": "增加待收货页面的细分筛选选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_61",
+        "User_Pain_Point": "一次买多件按钮无法选择具体数量，导致不能享受折扣",
+        "Actionable_Suggestion": "优化一次买多件的按钮，支持选择具体数量并正确应用折扣"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_62",
+        "User_Pain_Point": "鸿蒙6.1版本缺少微信先用后付支付方式",
+        "Actionable_Suggestion": "增加对微信先用后付支付方式的支持"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_64",
+        "User_Pain_Point": "视频赚金币功能缺少'睡觉'等任务类型",
+        "Actionable_Suggestion": "增加更多赚金币的任务类型"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_65",
+        "User_Pain_Point": "鸿蒙版缺少开发票功能，订单页面没有开发票入口",
+        "Actionable_Suggestion": "在订单页面右上角增加开发票功能入口"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_70",
+        "User_Pain_Point": "缺少一次选多款功能",
+        "Actionable_Suggestion": "增加一次选择多款商品的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_73",
+        "User_Pain_Point": "鸿蒙版没有一次选多款功能",
+        "Actionable_Suggestion": "增加一次选择多款商品的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_75",
+        "User_Pain_Point": "商家发的服务卡片用户不支持查看",
+        "Actionable_Suggestion": "优化支持查看商家服务卡片的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_76",
+        "User_Pain_Point": "更新后找不到多多视频点赞的视频入口",
+        "Actionable_Suggestion": "优化多多视频点赞视频的入口或提供明确的导航"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_79",
+        "User_Pain_Point": "还缺少一次选多款的功能",
+        "Actionable_Suggestion": "增加一次选择多款商品的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_80",
+        "User_Pain_Point": "鸿蒙系统不支持专员客服消息",
+        "Actionable_Suggestion": "适配鸿蒙系统，支持专员客服消息功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_82",
+        "User_Pain_Point": "缺少指纹支付功能",
+        "Actionable_Suggestion": "建议增加指纹支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_83",
+        "User_Pain_Point": "缺少长按弹出扫一扫功能",
+        "Actionable_Suggestion": "建议添加长按图标快速启动扫一扫功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_90",
+        "User_Pain_Point": "支付没有指纹更没有面容解锁",
+        "Actionable_Suggestion": "建议添加指纹和面容支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_91",
+        "User_Pain_Point": "缺少搜同款功能",
+        "Actionable_Suggestion": "增加搜同款功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_92",
+        "User_Pain_Point": "缺少以旧换新功能",
+        "Actionable_Suggestion": "补足以旧换新功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_93",
+        "User_Pain_Point": "商品收藏夹无法左滑删除",
+        "Actionable_Suggestion": "支持左滑删除操作"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_94",
+        "User_Pain_Point": "缺少免密支付设置",
+        "Actionable_Suggestion": "增加免密支付设置"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_95",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "增加夜间模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_97",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "增加夜间模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_97",
+        "User_Pain_Point": "缺少指纹或人脸支付功能",
+        "Actionable_Suggestion": "适配指纹或人脸支付"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_99",
+        "User_Pain_Point": "鸿蒙版缺少月卡专享退换货包运费险",
+        "Actionable_Suggestion": "恢复月卡专享退换货包运费险功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_100",
+        "User_Pain_Point": "强制取快递功能",
+        "Actionable_Suggestion": "允许用户选择是否取快递"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_103",
+        "User_Pain_Point": "无法生成拼团口令，只有图片和链接",
+        "Actionable_Suggestion": "添加生成拼团口令功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_106",
+        "User_Pain_Point": "收藏夹没有批量处理功能，删除只能一条条操作",
+        "Actionable_Suggestion": "添加收藏夹批量删除功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_107",
+        "User_Pain_Point": "没有一次多选功能",
+        "Actionable_Suggestion": "添加多选功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_108",
+        "User_Pain_Point": "收藏夹无法批量删除，只能手动一个一个取消收藏",
+        "Actionable_Suggestion": "添加收藏夹批量删除功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_109",
+        "User_Pain_Point": "抽中的奖找不到，入口不明显或无法查看",
+        "Actionable_Suggestion": "优化中奖查询入口或提示"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_110",
+        "User_Pain_Point": "无法查看商家发送的图片消息，显示暂无法查看",
+        "Actionable_Suggestion": "支持查看商家图片消息"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_112",
+        "User_Pain_Point": "不支持多多支付",
+        "Actionable_Suggestion": "增加多多支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_116",
+        "User_Pain_Point": "不能使用政府补贴",
+        "Actionable_Suggestion": "增加政府补贴功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_117",
+        "User_Pain_Point": "字体不能设置",
+        "Actionable_Suggestion": "增加字体设置功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_120",
+        "User_Pain_Point": "不支持先用后付",
+        "Actionable_Suggestion": "增加先用后付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_121",
+        "User_Pain_Point": "快递慢，物流不听人结束，免费入村体验差",
+        "Actionable_Suggestion": "优化物流服务，改进免费入村活动规则，提升购物体验"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_122",
+        "User_Pain_Point": "无法给商家拍视频，缺少相机功能",
+        "Actionable_Suggestion": "增加相机功能支持"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_124",
+        "User_Pain_Point": "金币功能未完全做好，睡觉领金币功能不完善",
+        "Actionable_Suggestion": "完善金币功能及睡觉领金币逻辑"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_126",
+        "User_Pain_Point": "缺少聊天信息转发和多多钱包面容支付",
+        "Actionable_Suggestion": "增加聊天信息转发和多多钱包面容支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_127",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "增加夜间模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_130",
+        "User_Pain_Point": "评论区无法查看全部图片",
+        "Actionable_Suggestion": "优化评论区图片查看功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_131",
+        "User_Pain_Point": "不支持双设备登录，登录互相掉线",
+        "Actionable_Suggestion": "建议支持多设备同时登录，保持会话同步"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_134",
+        "User_Pain_Point": "设置中没有缓存清理选项",
+        "Actionable_Suggestion": "添加缓存清理功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_134",
+        "User_Pain_Point": "不能查看自己点赞的视频",
+        "Actionable_Suggestion": "添加查看点赞视频功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_135",
+        "User_Pain_Point": "无法删除收藏和订单",
+        "Actionable_Suggestion": "提供删除收藏和订单的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_139",
+        "User_Pain_Point": "鸿蒙6系统下找不到国补入口",
+        "Actionable_Suggestion": "适配鸿蒙6系统，确保国补入口可见"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_140",
+        "User_Pain_Point": "没有指纹支付功能",
+        "Actionable_Suggestion": "添加指纹支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_142",
+        "User_Pain_Point": "没有不参与砍一刀活动的设置，导致用户被骚扰",
+        "Actionable_Suggestion": "在设置中增加关闭活动入口的选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_144",
+        "User_Pain_Point": "安装app后助力功能只能助力一次，限制过严",
+        "Actionable_Suggestion": "调整助力规则，允许更多助力次数"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_148",
+        "User_Pain_Point": "聊天对话框显示当前版本不支持接收新消息",
+        "Actionable_Suggestion": "修复聊天功能，确保版本兼容新消息接收"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_150",
+        "User_Pain_Point": "待收货列表中没有待取件分类，查找困难",
+        "Actionable_Suggestion": "恢复待取件分类或增加筛选选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_151",
+        "User_Pain_Point": "不支持包邮到港，不支持香港用户使用",
+        "Actionable_Suggestion": "增加对香港地区的支持，包括包邮服务和用户使用权限"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_152",
+        "User_Pain_Point": "系统自动下单并扣费，用户未授权操作",
+        "Actionable_Suggestion": "修复自动下单bug，增加购买确认步骤，防止误操作"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_154",
+        "User_Pain_Point": "签收件与其他包裹混在一起，难以查找",
+        "Actionable_Suggestion": "增加签收件分类或标记功能，方便用户快速定位"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_155",
+        "User_Pain_Point": "物流信息没有通知订阅功能",
+        "Actionable_Suggestion": "增加物流通知订阅功能，提供实时推送"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_156",
+        "User_Pain_Point": "版本无法支持跨境配送",
+        "Actionable_Suggestion": "增加跨境配送功能，支持海外用户使用"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_159",
+        "User_Pain_Point": "驿站取件功能缺失，无法使用PDA取件",
+        "Actionable_Suggestion": "添加驿站取件功能，支持PDA扫码取件"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_162",
+        "User_Pain_Point": "聊天对话框整页显示无法查看消息，功能缺失",
+        "Actionable_Suggestion": "修复聊天消息查看功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_164",
+        "User_Pain_Point": "先用后付功能异常，商品未收到",
+        "Actionable_Suggestion": "修复先用后付的逻辑，确保正常使用"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_167",
+        "User_Pain_Point": "多多钱包无法修改支付密码",
+        "Actionable_Suggestion": "修复支付密码修改功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_170",
+        "User_Pain_Point": "多多视频无法关闭，强制占用页面",
+        "Actionable_Suggestion": "提供关闭多多视频的选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_171",
+        "User_Pain_Point": "设置中没有清除缓存功能，导致软件缓存体积臃肿。",
+        "Actionable_Suggestion": "在设置中添加清晰的缓存清理入口，并提供一键清理缓存的功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_174",
+        "User_Pain_Point": "网购不支持银行卡和QQ支付，支付方式受限。",
+        "Actionable_Suggestion": "增加对银行卡和QQ支付的支持，丰富支付渠道。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_176",
+        "User_Pain_Point": "多多支付没有指纹支付功能，每次付款需输入数字密码，体验繁琐。",
+        "Actionable_Suggestion": "在多多支付中集成指纹支付功能，提升支付便捷性。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_179",
+        "User_Pain_Point": "我的拼多多没有多多视频入口，缺少该功能。",
+        "Actionable_Suggestion": "检查并修复多多视频的显示逻辑，确保所有用户都能正常看到该功能入口。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_181",
+        "User_Pain_Point": "缺少指纹支付功能",
+        "Actionable_Suggestion": "增加指纹支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_183",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "增加夜间模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_185",
+        "User_Pain_Point": "缺少指纹支付功能",
+        "Actionable_Suggestion": "增加指纹支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_186",
+        "User_Pain_Point": "聊天功能中无法进行视频聊天",
+        "Actionable_Suggestion": "增加视频聊天功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_186",
+        "User_Pain_Point": "聊天记录无法多选删除，只能逐个删除",
+        "Actionable_Suggestion": "支持聊天记录多选删除"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_187",
+        "User_Pain_Point": "直播中无法清屏，商品被字遮挡",
+        "Actionable_Suggestion": "增加清屏功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_190",
+        "User_Pain_Point": "无法选择多样商品一起支付",
+        "Actionable_Suggestion": "支持合并支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_191",
+        "User_Pain_Point": "不能免密支付",
+        "Actionable_Suggestion": "建议增加免密支付选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_196",
+        "User_Pain_Point": "鸿蒙系统拼多多好友之间无法发红包",
+        "Actionable_Suggestion": "建议适配鸿蒙系统，增加好友发红包功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_197",
+        "User_Pain_Point": "鸿蒙的改不了忘记密码改不了",
+        "Actionable_Suggestion": "建议修复忘记密码功能在鸿蒙系统上的兼容性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_201",
+        "User_Pain_Point": "买家无法查看官方客服发送的解决方案",
+        "Actionable_Suggestion": "优化客服消息展示，确保买家能查看官方客服发送的解决方案"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_202",
+        "User_Pain_Point": "收藏商品没有全选按钮，删除操作繁琐",
+        "Actionable_Suggestion": "在收藏列表中加入全选按钮，支持批量删除"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_202",
+        "User_Pain_Point": "鸿蒙版缺少菜鸟驿站取快递所需的pdd身份码功能",
+        "Actionable_Suggestion": "增加菜鸟驿站身份码功能，与安卓版同步"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_203",
+        "User_Pain_Point": "搜索点击品牌后左侧没有品牌选项",
+        "Actionable_Suggestion": "在搜索结果页左侧增加品牌筛选选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_203",
+        "User_Pain_Point": "没有一次选多款功能",
+        "Actionable_Suggestion": "增加多选功能，方便用户一次性操作多个商品"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_205",
+        "User_Pain_Point": "退款无法收到",
+        "Actionable_Suggestion": "优化退款流程，确保退款及时到账，增加退款状态通知"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_211",
+        "User_Pain_Point": "多多视频缺少赚钱插件",
+        "Actionable_Suggestion": "在多多视频中增加赚钱插件"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_216",
+        "User_Pain_Point": "很多优惠无法领取",
+        "Actionable_Suggestion": "修复优惠领取功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_218",
+        "User_Pain_Point": "不支持指纹支付和人脸支付，每次需要输密码",
+        "Actionable_Suggestion": "增加指纹支付和人脸支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_219",
+        "User_Pain_Point": "没有一次买多款的选项，购物不便",
+        "Actionable_Suggestion": "增加一次买多款功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_221",
+        "User_Pain_Point": "同一个订单不能选择多款不同的商品，希望增加此功能",
+        "Actionable_Suggestion": "增加同一订单选择多款不同商品的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_222",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "增加深色模式功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_227",
+        "User_Pain_Point": "找不到关闭免密支付的选项",
+        "Actionable_Suggestion": "在设置中增加免密支付的关闭开关"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_229",
+        "User_Pain_Point": "收藏管理无法删除商品，只能结帐付款",
+        "Actionable_Suggestion": "增加收藏管理中的删除功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_230",
+        "User_Pain_Point": "邀请机制中需要一直扫码，体验不佳",
+        "Actionable_Suggestion": "优化邀请流程，减少不必要的扫码步骤"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_231",
+        "User_Pain_Point": "好友发送消息功能被移除或未上线",
+        "Actionable_Suggestion": "恢复好友消息功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_232",
+        "User_Pain_Point": "后台消息通知不及时，只有打开软件才有提示",
+        "Actionable_Suggestion": "优化后台消息通知机制，确保及时推送"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_233",
+        "User_Pain_Point": "自动识别功能准确率差",
+        "Actionable_Suggestion": "优化自动识别算法，提高准确率"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_236",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "增加深色模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_236",
+        "User_Pain_Point": "快件派送或放入快递柜时缺少实况窗提醒",
+        "Actionable_Suggestion": "接入实况窗提醒功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_241",
+        "User_Pain_Point": "商品评论区的图片滑动几十张后需要不停加载，影响体验",
+        "Actionable_Suggestion": "优化图片预加载机制，提升滑动流畅度，对齐iOS体验"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_243",
+        "User_Pain_Point": "没有整理收藏的功能，无法删除或左滑操作",
+        "Actionable_Suggestion": "增加收藏夹的整理功能，支持删除和左滑操作"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_244",
+        "User_Pain_Point": "开药功能不完善",
+        "Actionable_Suggestion": "完善开药功能，确保流程顺畅"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_245",
+        "User_Pain_Point": "多多果园内麻将小游戏没有声音",
+        "Actionable_Suggestion": "为麻将小游戏添加音效"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_251",
+        "User_Pain_Point": "不支持指纹支付，需要输入密码，操作繁琐。",
+        "Actionable_Suggestion": "增加指纹支付功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_253",
+        "User_Pain_Point": "从收藏页点击物品进入详情后返回，页面自动刷新并跳转到前面位置，需要重新下滑。",
+        "Actionable_Suggestion": "优化返回收藏页时的位置记忆功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_255",
+        "User_Pain_Point": "没有调节字体大小的功能。",
+        "Actionable_Suggestion": "增加字体大小调节功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_257",
+        "User_Pain_Point": "打麻将出牌没有声音。",
+        "Actionable_Suggestion": "增加出牌音效。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_258",
+        "User_Pain_Point": "没有多多钱包支付密码找回功能，也不支持指纹支付。",
+        "Actionable_Suggestion": "增加支付密码找回和指纹支付功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_261",
+        "User_Pain_Point": "鸿蒙版本缺少待签收功能",
+        "Actionable_Suggestion": "增加待签收功能入口"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_265",
+        "User_Pain_Point": "缺少长辈版模式",
+        "Actionable_Suggestion": "增加长辈版切换选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_265",
+        "User_Pain_Point": "玩游戏没有声音",
+        "Actionable_Suggestion": "修复游戏音频输出问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_266",
+        "User_Pain_Point": "没有一次选多款功能",
+        "Actionable_Suggestion": "增加批量选择商品功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_267",
+        "User_Pain_Point": "更新后无法发送到海外",
+        "Actionable_Suggestion": "修复海外发送功能兼容性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_270",
+        "User_Pain_Point": "没有一次选多款功能",
+        "Actionable_Suggestion": "增加批量选择商品功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_272",
+        "User_Pain_Point": "扫码功能无法正常使用",
+        "Actionable_Suggestion": "修复扫码功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_273",
+        "User_Pain_Point": "在推荐页不能长按选择",
+        "Actionable_Suggestion": "增加推荐页长按选择功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_273",
+        "User_Pain_Point": "在收藏页不能左滑取消收藏",
+        "Actionable_Suggestion": "增加收藏页左滑取消收藏功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_273",
+        "User_Pain_Point": "不能指纹支付",
+        "Actionable_Suggestion": "适配指纹支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_275",
+        "User_Pain_Point": "拼多多官方客服介入的消息框总是显示不支持此消息",
+        "Actionable_Suggestion": "修复客服消息框，支持显示所有消息类型"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_278",
+        "User_Pain_Point": "鸿蒙版拼多多打开三人团的购物链接，出不来视频",
+        "Actionable_Suggestion": "修复三人团购物链接视频播放问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_279",
+        "User_Pain_Point": "总是吞我收藏",
+        "Actionable_Suggestion": "修复收藏数据异常，防止收藏丢失"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_280",
+        "User_Pain_Point": "没有拼多多驿站的扫码取快递功能",
+        "Actionable_Suggestion": "增加拼多多驿站扫码取快递功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_283",
+        "User_Pain_Point": "缺少多多视频功能",
+        "Actionable_Suggestion": "尽快上线多多视频功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_284",
+        "User_Pain_Point": "个人中心长按图片不能搜索同类产品",
+        "Actionable_Suggestion": "增加长按图片搜索同类产品功能，与安卓版保持一致"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_290",
+        "User_Pain_Point": "微信跳转拼多多助力功能缺失",
+        "Actionable_Suggestion": "开发微信跳转助力功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_291",
+        "User_Pain_Point": "官方信息无法查看",
+        "Actionable_Suggestion": "修复查看官方信息的显示问题，确保兼容新机型"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_292",
+        "User_Pain_Point": "缺少通知功能",
+        "Actionable_Suggestion": "集成鸿蒙通知服务，实现推送功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_293",
+        "User_Pain_Point": "大部分页面是Web，对未来发展有影响",
+        "Actionable_Suggestion": "逐步将核心页面原生化，提升性能和体验"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_294",
+        "User_Pain_Point": "缺少物流信息推送功能",
+        "Actionable_Suggestion": "实现物流状态变更的实时通知推送"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_295",
+        "User_Pain_Point": "没有送货上门功能",
+        "Actionable_Suggestion": "增加送货上门选项，提供更多配送方式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_300",
+        "User_Pain_Point": "联系不到官方客服",
+        "Actionable_Suggestion": "优化客服通道，增加在线客服入口和响应速度"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_301",
+        "User_Pain_Point": "缺少老年人模式，影响使用",
+        "Actionable_Suggestion": "尽快开发并上线老年人模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_303",
+        "User_Pain_Point": "缺少指纹支付和人脸支付功能，更新版本号无实际意义",
+        "Actionable_Suggestion": "尽快支持指纹支付和人脸支付"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_304",
+        "User_Pain_Point": "客服售后弹窗无法显示，影响中老年人使用",
+        "Actionable_Suggestion": "修复客服售后弹窗显示问题，优化中老年用户体验"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_305",
+        "User_Pain_Point": "隐私号导致用户自己看不到取件码，但他人可见",
+        "Actionable_Suggestion": "优化隐私号逻辑，确保用户自己能查看取件码"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_306",
+        "User_Pain_Point": "官方客服机械回复，问题不解决，人工客服随意挂断",
+        "Actionable_Suggestion": "提升客服质量，培训客服有效解决问题，避免随意切线"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_307",
+        "User_Pain_Point": "多多视频无法关闭且默认自动播放，强制使用，影响体验",
+        "Actionable_Suggestion": "增加多多视频开关，允许用户关闭自动播放"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_309",
+        "User_Pain_Point": "多多卖菜下单后无法退出，提示需买三单",
+        "Actionable_Suggestion": "修复买菜单退出逻辑bug，允许用户正常退出"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_311",
+        "User_Pain_Point": "缺少手机Pay支付功能",
+        "Actionable_Suggestion": "增加手机Pay支付方式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_311",
+        "User_Pain_Point": "缺少云闪付支付功能",
+        "Actionable_Suggestion": "增加云闪付支付方式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_311",
+        "User_Pain_Point": "缺少多多视频签到功能",
+        "Actionable_Suggestion": "增加多多视频签到功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_312",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "增加深色模式支持"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_313",
+        "User_Pain_Point": "商品图片不能放大",
+        "Actionable_Suggestion": "修复图片放大功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_316",
+        "User_Pain_Point": "货物与图片不符",
+        "Actionable_Suggestion": "加强商家商品描述审核，确保货图一致"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_317",
+        "User_Pain_Point": "缺少海外直邮",
+        "Actionable_Suggestion": "增加海外直邮服务"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_319",
+        "User_Pain_Point": "不支持面容或指纹支付",
+        "Actionable_Suggestion": "增加面容和指纹支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_323",
+        "User_Pain_Point": "鸿蒙6版本还不支持机器人自动退款",
+        "Actionable_Suggestion": "尽快上线机器人自动退款功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_326",
+        "User_Pain_Point": "聊天界面的表情全部显示不了",
+        "Actionable_Suggestion": "修复聊天界面表情显示问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_328",
+        "User_Pain_Point": "缺少暗黑模式",
+        "Actionable_Suggestion": "尽快添加暗黑模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_333",
+        "User_Pain_Point": "缺少以旧换新功能，且购买电器需切换手机登录，使用不便。",
+        "Actionable_Suggestion": "增加以旧换新功能，优化跨设备登录体验。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_334",
+        "User_Pain_Point": "收藏夹缺少筛选功能，无法筛选失效商品，不便管理。",
+        "Actionable_Suggestion": "在收藏夹中增加筛选功能，支持按有效/失效状态筛选并批量删除。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_336",
+        "User_Pain_Point": "用户不知道如何给商家发送文件，功能入口缺失或不清晰。",
+        "Actionable_Suggestion": "增加与商家发送文件的功能，或提供清晰的操作指引。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_337",
+        "User_Pain_Point": "无法正常领券，导致用户错失优惠（反讽“省钱了”）。",
+        "Actionable_Suggestion": "修复领券功能问题，确保用户能够顺利领取优惠券。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_339",
+        "User_Pain_Point": "在应用内打开自由小程序玩游戏时没有声音。",
+        "Actionable_Suggestion": "排查并修复小程序游戏无声问题，确保多媒体功能正常。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_341",
+        "User_Pain_Point": "无法使用扫码功能取快递",
+        "Actionable_Suggestion": "修复扫码功能或提供替代方法"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_342",
+        "User_Pain_Point": "缺少指纹支付功能或设置不明显",
+        "Actionable_Suggestion": "添加指纹支付功能并优化设置入口"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_343",
+        "User_Pain_Point": "无法点击客服按钮进行咨询",
+        "Actionable_Suggestion": "修复客服按钮点击功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_347",
+        "User_Pain_Point": "当前版本无法使用实况窗",
+        "Actionable_Suggestion": "适配并支持实况窗功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_348",
+        "User_Pain_Point": "选中商品后照片无法放大",
+        "Actionable_Suggestion": "修复图片放大功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_349",
+        "User_Pain_Point": "无法保存评论区图片",
+        "Actionable_Suggestion": "增加保存评论区图片功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_349",
+        "User_Pain_Point": "无法打开朋友分享的拼多多口令",
+        "Actionable_Suggestion": "修复拼多多口令打开功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_350",
+        "User_Pain_Point": "缺少指纹支付功能",
+        "Actionable_Suggestion": "添加指纹支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_358",
+        "User_Pain_Point": "缺少指纹支付功能，体验不便。",
+        "Actionable_Suggestion": "集成指纹支付API，支持指纹验证支付。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_359",
+        "User_Pain_Point": "列表没有显示安卓版那些折扣或优惠，不好直接看出实价。",
+        "Actionable_Suggestion": "在列表中显示商品折扣和实价信息。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_366",
+        "User_Pain_Point": "人工客服等待时间长，接入后不回应且强制重新排队",
+        "Actionable_Suggestion": "优化客服系统，提高响应速度，避免强制重新排队"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_367",
+        "User_Pain_Point": "视频界面优惠券功能缺失",
+        "Actionable_Suggestion": "尽快更新视频界面优惠券功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_368",
+        "User_Pain_Point": "部分功能为网页嵌套，体验不佳",
+        "Actionable_Suggestion": "将网页嵌套功能改为原生页面"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_369",
+        "User_Pain_Point": "无法保存商品评论区图片",
+        "Actionable_Suggestion": "增加保存评论区图片的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_370",
+        "User_Pain_Point": "缺少长辈版/大字版，字体太小看不清",
+        "Actionable_Suggestion": "增加长辈版或大字版模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_370",
+        "User_Pain_Point": "相比前一个版本缺少很多内容",
+        "Actionable_Suggestion": "完善内容，恢复缺失功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_371",
+        "User_Pain_Point": "设置连调整字号都不能调整，字体真大，比手机系统字体大多少倍。",
+        "Actionable_Suggestion": "提供字号调整功能，让用户可以根据需要调整字体大小。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_372",
+        "User_Pain_Point": "华为80扫图片找东西连拍照键都没有",
+        "Actionable_Suggestion": "增加拍照键，方便用户扫描图片。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_373",
+        "User_Pain_Point": "每天看视频多多钱包都没有，华为鸿蒙系统赶快改进",
+        "Actionable_Suggestion": "优化多多钱包在鸿蒙系统的适配，确保功能正常显示和使用。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_374",
+        "User_Pain_Point": "人脸和指纹支付呢？多久了？所有购物软件，就你家不上",
+        "Actionable_Suggestion": "增加人脸和指纹支付功能，提升支付便捷性和安全性。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_375",
+        "User_Pain_Point": "能不能添加个平板手机同时登陆的功能？每次换平板要重新登陆一次，换手机又是，烦死了",
+        "Actionable_Suggestion": "支持多设备同时登录，避免重复登录的麻烦。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_378",
+        "User_Pain_Point": "不能一次买多款",
+        "Actionable_Suggestion": "支持一次购买多款商品，提高购物效率。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_379",
+        "User_Pain_Point": "深色模式尽快上线啊",
+        "Actionable_Suggestion": "尽快上线深色模式，满足用户夜间使用需求。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_380",
+        "User_Pain_Point": "HarmonyOS 6 + 畅享70X + 拼多多果园无声音，多多菜园和多多牧场的入口也不见了。",
+        "Actionable_Suggestion": "修复果园无声音问题，恢复多多菜园和多多牧场的入口。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_381",
+        "User_Pain_Point": "商家的补发链接没完善，确认同意后看不到链接",
+        "Actionable_Suggestion": "完善商家补发链接功能，确保用户能看到并访问链接"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_386",
+        "User_Pain_Point": "不能保存sku图片",
+        "Actionable_Suggestion": "增加保存sku图片的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_392",
+        "User_Pain_Point": "鸿蒙版不支持大马包邮功能，用户无法使用拼多多购买商品到马来西亚。",
+        "Actionable_Suggestion": "尽快上线马来西亚包邮功能，追齐其他平台版本。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_394",
+        "User_Pain_Point": "无法搜索商品，功能缺失。",
+        "Actionable_Suggestion": "尽快增加商品搜索功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_396",
+        "User_Pain_Point": "百亿补贴手机专项功能缺失。",
+        "Actionable_Suggestion": "恢复百亿补贴手机专项功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_397",
+        "User_Pain_Point": "聊天界面缺少设置按键，功能不全。",
+        "Actionable_Suggestion": "增加聊天界面设置按键。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_398",
+        "User_Pain_Point": "多多视频不能领金币。",
+        "Actionable_Suggestion": "修复多多视频领金币功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_400",
+        "User_Pain_Point": "缺少包邮到港功能。",
+        "Actionable_Suggestion": "尽快实现包邮到港功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_401",
+        "User_Pain_Point": "新版本图片显示模糊，影响查看",
+        "Actionable_Suggestion": "优化图片加载算法，确保图片清晰度"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_405",
+        "User_Pain_Point": "百亿补贴页面图片模糊，无法清晰查看",
+        "Actionable_Suggestion": "修复图片清晰度问题，确保高分辨率显示"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_409",
+        "User_Pain_Point": "更新后百亿补贴和多多买菜栏目图片模糊",
+        "Actionable_Suggestion": "回滚或修复更新中的显示问题，确保图片正确渲染"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_411",
+        "User_Pain_Point": "鸿蒙拼多多无法扫码取件",
+        "Actionable_Suggestion": "尽快适配鸿蒙系统的扫码功能，实现快递取件扫码"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_413",
+        "User_Pain_Point": "缺少指纹支付和人脸支付功能",
+        "Actionable_Suggestion": "集成鸿蒙生物识别接口，增加指纹和人脸支付"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_416",
+        "User_Pain_Point": "缺少多设备流转功能，无法跨设备同步搜索内容，且不能同时登录",
+        "Actionable_Suggestion": "加入鸿蒙流转能力，支持多设备无缝切换和同时登录"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_417",
+        "User_Pain_Point": "没有扫码功能，快递站取件不便",
+        "Actionable_Suggestion": "增加通用扫码支付和取件扫码功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_420",
+        "User_Pain_Point": "商品功能缺失，如购买的灯没有安装选项服务",
+        "Actionable_Suggestion": "完善商品服务选项，增加安装等附加服务入口"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_421",
+        "User_Pain_Point": "不能指纹支付",
+        "Actionable_Suggestion": "增加指纹支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_423",
+        "User_Pain_Point": "指纹和人脸支付啥时候给加上？设置里连个支付设置都没有。",
+        "Actionable_Suggestion": "增加指纹和人脸支付功能，并在设置中添加支付设置选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_424",
+        "User_Pain_Point": "深色模式什么时候上？",
+        "Actionable_Suggestion": "增加深色模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_425",
+        "User_Pain_Point": "主图点开都没法放大",
+        "Actionable_Suggestion": "增加主图放大功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_426",
+        "User_Pain_Point": "申请发票的链接，很多没有。显示当前版本暂无法查看此消息。",
+        "Actionable_Suggestion": "完善发票申请功能，修复消息查看问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_427",
+        "User_Pain_Point": "请把取快递的身份码给我(T＿T)",
+        "Actionable_Suggestion": "增加取快递身份码功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_428",
+        "User_Pain_Point": "设置里没有字体大小功能",
+        "Actionable_Suggestion": "增加字体大小调整功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_433",
+        "User_Pain_Point": "无法一次选择多款商品，急需该功能",
+        "Actionable_Suggestion": "增加一次选择多款商品的功能，方便用户批量操作"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_434",
+        "User_Pain_Point": "人工客服入口难找，难以联系",
+        "Actionable_Suggestion": "优化人工客服入口，使其更易于发现和访问"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_435",
+        "User_Pain_Point": "缺少以旧换新功能，希望尽快适配",
+        "Actionable_Suggestion": "增加以旧换新功能，适配更多设备"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_439",
+        "User_Pain_Point": "三人团拼团不能生成口令，只能生成二维码和链接",
+        "Actionable_Suggestion": "增加拼团口令生成功能，方便用户分享"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_442",
+        "User_Pain_Point": "新机上没有多多视频，只有直播，用户想要视频功能。",
+        "Actionable_Suggestion": "在新机上恢复或增加多多视频功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_443",
+        "User_Pain_Point": "鸿蒙系统上许多以前的功能和优惠券没有了，购物体验差。",
+        "Actionable_Suggestion": "适配鸿蒙系统，恢复原有的功能和优惠券。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_444",
+        "User_Pain_Point": "无法退款。",
+        "Actionable_Suggestion": "增加退款功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_445",
+        "User_Pain_Point": "新版本无法开发票，之前版本可以。",
+        "Actionable_Suggestion": "恢复开发票功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_446",
+        "User_Pain_Point": "链接点击后内容消失，被认为是骗人的。",
+        "Actionable_Suggestion": "修复链接跳转问题，确保内容正常显示。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_448",
+        "User_Pain_Point": "以前有更换支付选项，现在没有了。",
+        "Actionable_Suggestion": "恢复更换支付功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_451",
+        "User_Pain_Point": "聊天窗口赠品信息不能显示",
+        "Actionable_Suggestion": "修复聊天窗口赠品信息显示功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_457",
+        "User_Pain_Point": "没有一次多选功能，用不了2件多少折",
+        "Actionable_Suggestion": "添加多选功能以支持多件折扣"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_458",
+        "User_Pain_Point": "付款不可以跳转支付宝支付",
+        "Actionable_Suggestion": "集成支付宝支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_461",
+        "User_Pain_Point": "“先用后付”功能不可用",
+        "Actionable_Suggestion": "开发并上线先用后付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_462",
+        "User_Pain_Point": "更新后每日神券消失",
+        "Actionable_Suggestion": "修复更新导致优惠券丢失的问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_464",
+        "User_Pain_Point": "申请发票入口在最新版本中仍然缺失，客服提示当前版本暂无法查看此消息",
+        "Actionable_Suggestion": "恢复发票申请功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_465",
+        "User_Pain_Point": "无法一次选择多款商品",
+        "Actionable_Suggestion": "增加多选商品功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_466",
+        "User_Pain_Point": "没有弹窗优惠券",
+        "Actionable_Suggestion": "增加弹窗优惠券功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_468",
+        "User_Pain_Point": "港澳用户包邮到港功能不完善，直邮运费贵",
+        "Actionable_Suggestion": "完善包邮到港功能，降低直邮运费"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_470",
+        "User_Pain_Point": "没有多多视频看视频给钱的功能",
+        "Actionable_Suggestion": "添加多多视频看视频得现金功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_473",
+        "User_Pain_Point": "鸿蒙6.0版本无法设置生物支付",
+        "Actionable_Suggestion": "增加生物支付功能设置选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_475",
+        "User_Pain_Point": "当前功能仅能用，催促加快上线新功能",
+        "Actionable_Suggestion": "加快功能开发与更新频率"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_479",
+        "User_Pain_Point": "聊天窗口无法看到商家是否在线",
+        "Actionable_Suggestion": "增加商家在线状态显示"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_481",
+        "User_Pain_Point": "不支持一个订单里面多选不同的累积同步购买",
+        "Actionable_Suggestion": "增加一个订单内多选不同商品累积同步购买的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_482",
+        "User_Pain_Point": "收藏商品里面的管理键没有了，不能一键删除所有收藏的商品",
+        "Actionable_Suggestion": "恢复收藏商品的管理键，提供一键删除所有收藏商品的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_483",
+        "User_Pain_Point": "缺少黑夜模式",
+        "Actionable_Suggestion": "增加黑夜模式（深色模式）"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_485",
+        "User_Pain_Point": "鸿蒙版缺少一次买多款功能，错过了优惠",
+        "Actionable_Suggestion": "增加一次买多款的功能，避免用户错过优惠"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_489",
+        "User_Pain_Point": "缺少扫码功能",
+        "Actionable_Suggestion": "增加扫码功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_491",
+        "User_Pain_Point": "无法查看售后弹出的卡片消息",
+        "Actionable_Suggestion": "增加查看售后卡片消息的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_493",
+        "User_Pain_Point": "不能分享商品给拼多多好友，别人发的三人团看不到",
+        "Actionable_Suggestion": "增加分享功能及查看三人团功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_495",
+        "User_Pain_Point": "看直播无法清屏",
+        "Actionable_Suggestion": "增加直播清屏功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_498",
+        "User_Pain_Point": "没有找到找回多多钱包支付密码的选项",
+        "Actionable_Suggestion": "增加找回多多钱包支付密码的功能入口"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_499",
+        "User_Pain_Point": "无法复制链接",
+        "Actionable_Suggestion": "增加复制链接功能"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_101",
+        "User_Pain_Point": "鸿蒙版终于支持先用后付功能",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_344",
+        "User_Pain_Point": "更新后及时增加了优惠入口，用户表示满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_346",
+        "User_Pain_Point": "用户肯定消息显示问题的逐步解决",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_368",
+        "User_Pain_Point": "功能适配度高",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_494",
+        "User_Pain_Point": "买东西非常方便",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_145",
+        "User_Pain_Point": "查看买家秀图片时不能方便地浏览多张图片",
+        "Actionable_Suggestion": "在买家秀页面增加多张图片预览功能，右上角可切换"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_166",
+        "User_Pain_Point": "缺少华为支付支持",
+        "Actionable_Suggestion": "增加华为支付方式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_169",
+        "User_Pain_Point": "同一家购物无一次买多款的选项，不便",
+        "Actionable_Suggestion": "增加一次购买多款功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_200",
+        "User_Pain_Point": "只购物用完全够用了，只是别的附加功能少多了",
+        "Actionable_Suggestion": "建议逐步丰富附加功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_354",
+        "User_Pain_Point": "缺少先用后付功能，用户希望增加。",
+        "Actionable_Suggestion": "尽快开发先用后付功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_356",
+        "User_Pain_Point": "不能批量删除收藏，操作繁琐。",
+        "Actionable_Suggestion": "增加批量删除收藏功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_365",
+        "User_Pain_Point": "用户询问何时有金蛋砸功能",
+        "Actionable_Suggestion": "考虑增加金蛋砸活动或功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_387",
+        "User_Pain_Point": "现金大转盘活动中无法发送图片，希望增加此功能",
+        "Actionable_Suggestion": "考虑在现金大转盘活动中增加图片发送功能，方便用户反馈问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_407",
+        "User_Pain_Point": "缺少类似淘宝购物车的功能",
+        "Actionable_Suggestion": "增加购物车功能，方便用户集中管理待购商品"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_450",
+        "User_Pain_Point": "希望有老年人版本。",
+        "Actionable_Suggestion": "开发适合老年人的版本。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_459",
+        "User_Pain_Point": "希望使用刷脸支付但当前不支持",
+        "Actionable_Suggestion": "开发刷脸支付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_478",
+        "User_Pain_Point": "一元抽奖奖品领取方式不明确",
+        "Actionable_Suggestion": "优化抽奖结果展示和领取指引"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_24",
+        "User_Pain_Point": "折叠屏设备适配极差，排版未优化",
+        "Actionable_Suggestion": "针对折叠屏设备进行UI自适应布局优化"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_44",
+        "User_Pain_Point": "在Pura 90 Pro Max上评价时无法直接拍照/拍视频和编辑照片，需退出App操作",
+        "Actionable_Suggestion": "适配该机型，允许在评价界面直接调用相机及编辑功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_54",
+        "User_Pain_Point": "畅享90机型无法打开个人中心",
+        "Actionable_Suggestion": "修复畅享90机型个人中心页面适配问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_55",
+        "User_Pain_Point": "应用不适用鸿蒙6系统",
+        "Actionable_Suggestion": "优化鸿蒙6系统兼容性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_56",
+        "User_Pain_Point": "PuraXMAX机型活动页面显示不全，个人中心字体过大与UI不协调",
+        "Actionable_Suggestion": "适配PuraXMAX机型，调整UI字体和布局"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_88",
+        "User_Pain_Point": "鸿蒙6.0不支持零首付功能",
+        "Actionable_Suggestion": "建议适配鸿蒙6.0，支持零首付功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_102",
+        "User_Pain_Point": "PuraXMAX手机上的拼多多未适配横屏",
+        "Actionable_Suggestion": "适配横屏模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_111",
+        "User_Pain_Point": "不兼容鸿蒙系统5，领不了优惠券",
+        "Actionable_Suggestion": "修复鸿蒙5兼容性问题，确保优惠券功能正常"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_125",
+        "User_Pain_Point": "拼多多驿站扫码亮灯功能未适配",
+        "Actionable_Suggestion": "适配扫码亮灯功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_132",
+        "User_Pain_Point": "鸿蒙系统无法修改字体大小",
+        "Actionable_Suggestion": "提供字体大小调节功能，适配系统设置"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_173",
+        "User_Pain_Point": "鸿蒙版推送消息显示“当前版本无法查看此消息”，功能异常。",
+        "Actionable_Suggestion": "修复鸿蒙版的消息推送兼容性问题，确保用户能正常查看消息内容。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_177",
+        "User_Pain_Point": "鸿蒙系统不支持查看售后消息，体验感差。",
+        "Actionable_Suggestion": "适配鸿蒙系统，增加查看售后消息的功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_199",
+        "User_Pain_Point": "买的灯没有上门安装服务选项，只能换非鸿蒙系统的手机下单",
+        "Actionable_Suggestion": "建议鸿蒙系统版增加上门安装服务选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_206",
+        "User_Pain_Point": "因版本过低无法查看消息",
+        "Actionable_Suggestion": "降低版本兼容性要求或提供更新提示，确保低版本用户也能查看消息"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_209",
+        "User_Pain_Point": "鸿蒙系统不支持邮寄到澳门，而安卓支持",
+        "Actionable_Suggestion": "适配鸿蒙系统，增加支持邮寄到澳门的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_214",
+        "User_Pain_Point": "鸿蒙版本买东西没有安卓便宜，优惠活动也没有安卓多",
+        "Actionable_Suggestion": "确保鸿蒙版本与安卓版本的价格和活动一致"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_215",
+        "User_Pain_Point": "华为手机更新后无法查看拼多多APP内平台发的信息",
+        "Actionable_Suggestion": "更新拼多多版本以适配新系统"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_288",
+        "User_Pain_Point": "鸿蒙系统适配不好，滑动不灵敏，容易误触",
+        "Actionable_Suggestion": "优化鸿蒙系统下的滑动响应和防误触机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_291",
+        "User_Pain_Point": "更换手机后部分功能无法使用",
+        "Actionable_Suggestion": "加强新机型适配测试，确保功能完整"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_367",
+        "User_Pain_Point": "为了使用拼多多需保留另一台手机（鸿蒙版本不完善）",
+        "Actionable_Suggestion": "完善鸿蒙版本功能，减少对旧手机的依赖"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_377",
+        "User_Pain_Point": "华为鸿蒙系统拼多多还要优化一下，看不见官方客服介入的解决方案提示信息",
+        "Actionable_Suggestion": "优化鸿蒙系统上客服提示信息的显示，确保用户能正常看到解决方案提示。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_399",
+        "User_Pain_Point": "鸿蒙系统收不到系统信息，可能指通知推送问题。",
+        "Actionable_Suggestion": "适配鸿蒙系统的通知推送功能。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_431",
+        "User_Pain_Point": "华为Pura 80 Pro上助力功能不适配，无法使用",
+        "Actionable_Suggestion": "优化华为Pura 80 Pro的助力功能适配，确保点击链接可以正常助力"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_436",
+        "User_Pain_Point": "与华为系统兼容性有问题，显示版本太低但实际已是最新，无法查看消息",
+        "Actionable_Suggestion": "修复与华为系统的版本检测兼容性，确保正确识别版本并正常查看消息"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_454",
+        "User_Pain_Point": "连个券都领不了",
+        "Actionable_Suggestion": "适配该机型领券功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_456",
+        "User_Pain_Point": "和安卓版本比很多优惠券不发了",
+        "Actionable_Suggestion": "同步安卓版优惠券功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_463",
+        "User_Pain_Point": "华为Mate 70 Air上缺少助力领水入口",
+        "Actionable_Suggestion": "适配机型，增加助力领水入口"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_474",
+        "User_Pain_Point": "同一商品在不同系统版本手机上价格不一致（鸿蒙4与鸿蒙6）",
+        "Actionable_Suggestion": "检查并修复不同系统版本间的价格显示逻辑"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_18",
+        "User_Pain_Point": "版本更新导致订单丢失bug",
+        "Actionable_Suggestion": "修复丢订单的bug，提高版本稳定性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_19",
+        "User_Pain_Point": "客服头像和商品图片加载不出来",
+        "Actionable_Suggestion": "优化图片加载功能，确保正常显示"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_38",
+        "User_Pain_Point": "视频声音在后台持续播放的bug",
+        "Actionable_Suggestion": "修复后台音频播放问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_55",
+        "User_Pain_Point": "直播间播放速度慢",
+        "Actionable_Suggestion": "优化直播间性能，提升播放流畅度"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_129",
+        "User_Pain_Point": "搜索商品显示没有网络",
+        "Actionable_Suggestion": "修复搜索网络连接问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_168",
+        "User_Pain_Point": "新版本卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_210",
+        "User_Pain_Point": "浏览商品上下滑动时出现断触",
+        "Actionable_Suggestion": "优化滑动触控响应，修复断触问题，提升浏览流畅度"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_217",
+        "User_Pain_Point": "最新版本扫码取件有问题，无法显示取件码",
+        "Actionable_Suggestion": "修复扫码取件功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_262",
+        "User_Pain_Point": "和商家聊天过程中调用摄像头会卡住",
+        "Actionable_Suggestion": "优化聊天界面摄像头调用的流畅度"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_274",
+        "User_Pain_Point": "搜索完东西后滑动浏览特别卡不跟手",
+        "Actionable_Suggestion": "优化滑动性能，提升流畅度"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_302",
+        "User_Pain_Point": "商品收藏功能异常，内容跳来跳去",
+        "Actionable_Suggestion": "修复商品收藏功能bug"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_318",
+        "User_Pain_Point": "使用后手机发烫严重",
+        "Actionable_Suggestion": "优化应用性能，减少发热"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_318",
+        "User_Pain_Point": "打开应用时随机跳转、微信分享循环",
+        "Actionable_Suggestion": "修复异常跳转和循环问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_338",
+        "User_Pain_Point": "当前版本运行卡顿，且发热严重，相比其他应用（如B站）体验更差。",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿和发热问题，提高流畅度。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_355",
+        "User_Pain_Point": "切屏后视频声音bug长期未修复（从一月份至今）。",
+        "Actionable_Suggestion": "修复切屏时视频声音异常播放的bug。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_361",
+        "User_Pain_Point": "上下滑动时不时没反应",
+        "Actionable_Suggestion": "修复滑动无响应bug"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_384",
+        "User_Pain_Point": "与商家聊天时出现“当前版本无法查看此消息”",
+        "Actionable_Suggestion": "修复聊天兼容性问题，确保所有版本消息可正常显示"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_389",
+        "User_Pain_Point": "多多买菜付款后页面卡死，无法退出，需大退重新进入",
+        "Actionable_Suggestion": "优化付款后页面逻辑，确保用户可正常退出或返回"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_429",
+        "User_Pain_Point": "更新把我的申请发票功能弄没了",
+        "Actionable_Suggestion": "修复更新后功能缺失问题，确保版本兼容"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_474",
+        "User_Pain_Point": "鸿蒙6.0.0手机上午无法正常使用，功能丢失",
+        "Actionable_Suggestion": "排查并修复功能异常问题，保证稳定性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_487",
+        "User_Pain_Point": "打开快递链接直接跳转，缺乏控制",
+        "Actionable_Suggestion": "优化链接跳转机制，增加确认或选择提示"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_106",
+        "User_Pain_Point": "升级鸿蒙5后比之前丝滑",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_114",
+        "User_Pain_Point": "Bug修复后体验还行",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_165",
+        "User_Pain_Point": "拼多多比其他应用流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_326",
+        "User_Pain_Point": "比京东强一点，至少不卡顿",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_493",
+        "User_Pain_Point": "速度不错",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_33",
+        "User_Pain_Point": "百亿补贴搜索框容易误触成返回",
+        "Actionable_Suggestion": "调整搜索框交互区域或增加防误触机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_35",
+        "User_Pain_Point": "缺少左滑删除功能",
+        "Actionable_Suggestion": "增加左滑删除功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_40",
+        "User_Pain_Point": "直播购物界面无法清屏，界面元素过多影响观看",
+        "Actionable_Suggestion": "增加清屏模式或优化直播界面布局"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_47",
+        "User_Pain_Point": "下单后找不到已付款订单，流程复杂",
+        "Actionable_Suggestion": "简化订单查找流程，提供清晰的订单管理入口"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_63",
+        "User_Pain_Point": "应用内字体太小，难以阅读，影响购买体验",
+        "Actionable_Suggestion": "增加字体大小调整功能或增大默认字体"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_66",
+        "User_Pain_Point": "App缺少深色模式适配",
+        "Actionable_Suggestion": "增加深色模式适配"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_90",
+        "User_Pain_Point": "每次输密码的键盘还超级不好用",
+        "Actionable_Suggestion": "优化密码键盘设计，提升使用体验"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_93",
+        "User_Pain_Point": "删除弹窗停留时间过长，影响连续操作",
+        "Actionable_Suggestion": "缩短弹窗显示时间或改为异步操作"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_96",
+        "User_Pain_Point": "下单流程需要返回才能继续操作",
+        "Actionable_Suggestion": "优化下单流程，减少页面跳转"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_113",
+        "User_Pain_Point": "收藏商品无法左滑或长按删除",
+        "Actionable_Suggestion": "增加左滑或长按删除收藏商品的功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_119",
+        "User_Pain_Point": "拼单页面小图无法捏合放大和缩小",
+        "Actionable_Suggestion": "增加图片捏合放大缩小功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_119",
+        "User_Pain_Point": "拼单页面字体太小，看不清楚",
+        "Actionable_Suggestion": "优化字体大小或增加调整功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_133",
+        "User_Pain_Point": "字体超大且不同界面字体大小不一",
+        "Actionable_Suggestion": "统一字体大小风格，适配不同屏幕尺寸"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_138",
+        "User_Pain_Point": "顶部虚拟键体验差",
+        "Actionable_Suggestion": "优化或提供隐藏虚拟键的选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_139",
+        "User_Pain_Point": "评价视频窗口简陋且需手动打开",
+        "Actionable_Suggestion": "优化视频评价的播放窗口，支持自动播放或更好的交互"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_157",
+        "User_Pain_Point": "没有字体大小调节功能",
+        "Actionable_Suggestion": "增加字体大小调节选项，提升可读性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_184",
+        "User_Pain_Point": "视图显示过大，未适配matepad mini，影响视觉体验",
+        "Actionable_Suggestion": "优化视图显示，适配matepad mini等平板设备"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_198",
+        "User_Pain_Point": "没有深色模式，赶紧更新一下吧",
+        "Actionable_Suggestion": "建议尽快增加深色模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_220",
+        "User_Pain_Point": "字体适配不一致，设置里一个页面字体大，另一个页面小",
+        "Actionable_Suggestion": "统一字体大小适配"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_248",
+        "User_Pain_Point": "缺少深色模式，晚上使用刺眼",
+        "Actionable_Suggestion": "推出深色模式，保护用户夜间视力"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_296",
+        "User_Pain_Point": "平板适配差，商品显示比例难受",
+        "Actionable_Suggestion": "针对平板优化布局，合理利用屏幕空间"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_330",
+        "User_Pain_Point": "个人中心页面字体不够粗，不方便阅读",
+        "Actionable_Suggestion": "在个人中心页面加粗字体"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_368",
+        "User_Pain_Point": "缺少深色模式适配",
+        "Actionable_Suggestion": "适配深色模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_385",
+        "User_Pain_Point": "搜索物品列表刚开始适配全屏，后来突然不适配，视觉体验差",
+        "Actionable_Suggestion": "修复搜索列表的屏幕适配问题，保持全屏适配一致性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_396",
+        "User_Pain_Point": "百亿补贴和多多买菜界面模糊。",
+        "Actionable_Suggestion": "优化界面清晰度。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_419",
+        "User_Pain_Point": "输入文字时不会自动定位到聊天输入框",
+        "Actionable_Suggestion": "优化聊天输入框的自动聚焦逻辑，提升输入效率"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_425",
+        "User_Pain_Point": "多多买菜买完返回不了，只能关后台",
+        "Actionable_Suggestion": "优化返回功能，确保能正常返回"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_438",
+        "User_Pain_Point": "应用内广告过多，影响体验",
+        "Actionable_Suggestion": "减少广告数量，优化广告展示方式，避免影响用户体验"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_452",
+        "User_Pain_Point": "评论区点开后无法完全缩回去，残留白线和头像",
+        "Actionable_Suggestion": "修复评论区关闭动画或布局，确保完全关闭"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_492",
+        "User_Pain_Point": "字体大小不一致，影响体验",
+        "Actionable_Suggestion": "统一字体设置，保持各页面字体一致"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_497",
+        "User_Pain_Point": "查看全部订单时老是误触",
+        "Actionable_Suggestion": "优化按钮布局或增大触控区域，减少误触"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_6",
+        "User_Pain_Point": "虚假营销（抢购活动与描述不符）",
+        "Actionable_Suggestion": "规范营销活动，确保活动真实有效"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_20",
+        "User_Pain_Point": "推广弹窗过多，像狗皮膏药",
+        "Actionable_Suggestion": "减少不必要的推广弹窗或优化推广策略"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_22",
+        "User_Pain_Point": "平台偏袒商家，不重视消费者权益",
+        "Actionable_Suggestion": "优化商家与消费者的纠纷处理机制，增加消费者申诉渠道"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_26",
+        "User_Pain_Point": "活动规则存在套路，成功操作后显示活动结束或找不到入口，客服推诿",
+        "Actionable_Suggestion": "简化活动规则，确保活动公平透明；加强客服培训，解决用户问题"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_27",
+        "User_Pain_Point": "鸿蒙版商品价格高于安卓版",
+        "Actionable_Suggestion": "统一不同平台的定价策略，或提供鸿蒙版专属优惠"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_30",
+        "User_Pain_Point": "免费领礼物活动总是差一点，疑似存在欺诈",
+        "Actionable_Suggestion": "核查活动真实性，调整活动机制，确保用户完成条件后能获得奖励"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_32",
+        "User_Pain_Point": "母亲节免费领活动要求邀好友且碎片极少，实际难以完成",
+        "Actionable_Suggestion": "优化活动规则，降低拉新要求或增加碎片获取途径"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_42",
+        "User_Pain_Point": "客服敷衍，学校地址被系统自动退款",
+        "Actionable_Suggestion": "优化自动退款机制，避免误判正常地址"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_52",
+        "User_Pain_Point": "现金红包活动诱导下载",
+        "Actionable_Suggestion": "取消诱导下载机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_59",
+        "User_Pain_Point": "存在强行跳转且无法关闭的广告",
+        "Actionable_Suggestion": "允许用户关闭广告跳转"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_60",
+        "User_Pain_Point": "免费送货入村服务不兑现，使用体验差",
+        "Actionable_Suggestion": "确保免费送货入村服务履行承诺"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_69",
+        "User_Pain_Point": "很多活动无法参加",
+        "Actionable_Suggestion": "排查活动参与限制原因，扩大活动参与范围或优化规则"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_72",
+        "User_Pain_Point": "广告与实际不符",
+        "Actionable_Suggestion": "核实广告内容，确保与实际商品一致，避免夸大宣传"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_87",
+        "User_Pain_Point": "套路深",
+        "Actionable_Suggestion": "建议简化规则，减少套路"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_93",
+        "User_Pain_Point": "通过APP内反馈渠道反映问题后石沉大海",
+        "Actionable_Suggestion": "建立反馈处理机制，及时回应用户"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_104",
+        "User_Pain_Point": "广告过多",
+        "Actionable_Suggestion": "减少广告数量或优化广告展示"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_118",
+        "User_Pain_Point": "缺少第一单奖30万金币和睡觉领金币功能，奖励比其他版本少",
+        "Actionable_Suggestion": "增加这些活动或平衡不同版本的奖励"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_136",
+        "User_Pain_Point": "退货退款商家不同意，平台处理不及时",
+        "Actionable_Suggestion": "加强平台对商家拒绝退货的处理机制，保障消费者权益"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_137",
+        "User_Pain_Point": "提现活动难以成功，导致卸载",
+        "Actionable_Suggestion": "优化提现活动规则，提高用户成功概率"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_141",
+        "User_Pain_Point": "平台存在暴力抗法和幽灵外卖问题",
+        "Actionable_Suggestion": "加强商家资质审核，清理违规商家"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_141",
+        "User_Pain_Point": "平台不提供商家营业执照信息",
+        "Actionable_Suggestion": "强制要求商家公开营业执照信息"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_141",
+        "User_Pain_Point": "平台协助商家逃税漏税",
+        "Actionable_Suggestion": "合规经营，配合税务监管"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_143",
+        "User_Pain_Point": "红包游戏规则不透明，用户拉人很多却得不到红包",
+        "Actionable_Suggestion": "公开红包领取规则，确保公平性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_146",
+        "User_Pain_Point": "红包游戏套路深，不值得相信",
+        "Actionable_Suggestion": "简化活动规则，减少套路"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_147",
+        "User_Pain_Point": "提现流程繁琐啰嗦",
+        "Actionable_Suggestion": "简化提现步骤，提高用户体验"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_149",
+        "User_Pain_Point": "官方客服不支持此功能，且越更新越退步",
+        "Actionable_Suggestion": "恢复并优化客服介入功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_153",
+        "User_Pain_Point": "没有好评返现，活动比安卓和iPhone版少",
+        "Actionable_Suggestion": "统一各平台活动政策，增加鸿蒙版专属优惠"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_160",
+        "User_Pain_Point": "收到广告推送，无法关闭",
+        "Actionable_Suggestion": "提供关闭广告或减少广告推送的选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_163",
+        "User_Pain_Point": "助力套路导致好友被拉黑，社交困扰",
+        "Actionable_Suggestion": "改进助力机制或提供关闭选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_172",
+        "User_Pain_Point": "助力裂变活动过于强制，用户体验差。",
+        "Actionable_Suggestion": "优化助力机制，减少强制裂变要求，或提供非裂变获取优惠的替代途径。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_175",
+        "User_Pain_Point": "存在杀熟行为，老用户无法获得优惠推送。",
+        "Actionable_Suggestion": "摒弃杀熟策略，确保所有用户公平获取优惠信息。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_182",
+        "User_Pain_Point": "砍一刀活动要求拉太多人头，体验较差",
+        "Actionable_Suggestion": "降低拉人头要求或优化活动机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_193",
+        "User_Pain_Point": "多多视频里面之前有小额现金提现，但是现在里面什么也没有",
+        "Actionable_Suggestion": "建议恢复小额现金提现活动或明确说明"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_194",
+        "User_Pain_Point": "都是骗人的，搞活动存在欺诈行为",
+        "Actionable_Suggestion": "建议核查活动规则，确保透明公正"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_204",
+        "User_Pain_Point": "商品质量差，感觉被平台坑骗",
+        "Actionable_Suggestion": "加强商品质量审核，严惩劣质商家，建立更完善的退换货机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_207",
+        "User_Pain_Point": "拼多多金币活动缩水，仅剩邀请码给金币",
+        "Actionable_Suggestion": "优化金币活动规则，增加更多金币获取途径，保持活动奖励的丰富性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_208",
+        "User_Pain_Point": "活动奖励不兑现，感觉被欺骗",
+        "Actionable_Suggestion": "确保活动奖励真实兑现，提升活动透明度，建立用户信任"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_212",
+        "User_Pain_Point": "提现活动浪费时间，提不了就直说，玩不起就别玩",
+        "Actionable_Suggestion": "优化提现活动规则，提高透明度，避免浪费用户时间"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_223",
+        "User_Pain_Point": "平台存在诱导消费行为，感觉被骗",
+        "Actionable_Suggestion": "规范营销行为，避免诱导消费"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_224",
+        "User_Pain_Point": "邀请好友提现活动无法成功提现，感觉被欺骗",
+        "Actionable_Suggestion": "优化提现规则，确保活动真实可信"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_225",
+        "User_Pain_Point": "提现活动涉嫌诈骗",
+        "Actionable_Suggestion": "审查提现活动机制，避免欺诈"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_226",
+        "User_Pain_Point": "平台涉嫌虚假宣传和诈骗",
+        "Actionable_Suggestion": "调查并纠正虚假宣传内容，诚信经营"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_240",
+        "User_Pain_Point": "优惠券不再发放",
+        "Actionable_Suggestion": "优化优惠券发放机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_247",
+        "User_Pain_Point": "地方补贴取消",
+        "Actionable_Suggestion": "恢复或优化地方补贴策略"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_250",
+        "User_Pain_Point": "应用内所有内容都需要付费",
+        "Actionable_Suggestion": "考虑提供免费内容或合理调整收费模式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_254",
+        "User_Pain_Point": "商品质量太差，运货时间太长。",
+        "Actionable_Suggestion": "加强商家商品质量管理，优化物流配送效率。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_256",
+        "User_Pain_Point": "不能以旧换新。",
+        "Actionable_Suggestion": "提供以旧换新服务。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_259",
+        "User_Pain_Point": "抽奖助力活动虚假，存在欺诈。",
+        "Actionable_Suggestion": "确保活动真实有效，加强监管。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_263",
+        "User_Pain_Point": "提现金活动需要不断拉人，体验烦人",
+        "Actionable_Suggestion": "优化提现活动规则，减少拉人要求"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_264",
+        "User_Pain_Point": "虚假宣传免单活动，实际是骗局",
+        "Actionable_Suggestion": "确保宣传真实，避免虚假承诺"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_269",
+        "User_Pain_Point": "现金大转盘活动频繁诱导用户",
+        "Actionable_Suggestion": "调整现金大转盘推送频率和交互方式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_271",
+        "User_Pain_Point": "只能投诉商家，不能投诉平台，平台有问题就不解决，我说投诉平台，就自动给我投诉商家去了，和商家都没有关系",
+        "Actionable_Suggestion": "优化投诉流程，允许用户直接投诉平台，不要自动转移为投诉商家"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_276",
+        "User_Pain_Point": "就会骗人拉砍一刀也不给钱，纯骗子",
+        "Actionable_Suggestion": "规范砍一刀活动，确保诚信运营，避免误导用户"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_281",
+        "User_Pain_Point": "提现困难，永远差0.01，感觉被欺骗",
+        "Actionable_Suggestion": "改善提现规则，明确提现条件，避免虚假承诺"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_285",
+        "User_Pain_Point": "平台存在杀熟行为",
+        "Actionable_Suggestion": "优化定价策略，保证用户公平性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_287",
+        "User_Pain_Point": "虚假中奖活动，安装APP后无法兑现",
+        "Actionable_Suggestion": "规范活动规则，确保描述与体验一致"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_297",
+        "User_Pain_Point": "拉人提现机制不合理，难以完成",
+        "Actionable_Suggestion": "简化提现规则，降低用户参与门槛"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_298",
+        "User_Pain_Point": "提现套路深，用户体验差",
+        "Actionable_Suggestion": "透明化提现规则，减少隐藏套路"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_299",
+        "User_Pain_Point": "助力提现需要很多人且难以成功",
+        "Actionable_Suggestion": "优化助力机制，设置合理的成功门槛"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_306",
+        "User_Pain_Point": "虚假宣传活动，承诺不兑现",
+        "Actionable_Suggestion": "停止虚假宣传，加强活动审核"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_310",
+        "User_Pain_Point": "9.9中奖活动欺骗用户下载APP，实际不兑现",
+        "Actionable_Suggestion": "停止虚假中奖活动，诚信运营"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_314",
+        "User_Pain_Point": "新年津贴未到账，疑似欺骗",
+        "Actionable_Suggestion": "核实并发放津贴，保证活动真实性"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_316",
+        "User_Pain_Point": "物流慢",
+        "Actionable_Suggestion": "优化物流配送效率"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_324",
+        "User_Pain_Point": "领不到津贴，一毛都领不到",
+        "Actionable_Suggestion": "优化津贴发放机制或规则说明"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_329",
+        "User_Pain_Point": "鸿蒙版没有优惠了",
+        "Actionable_Suggestion": "恢复或增加鸿蒙版优惠"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_331",
+        "User_Pain_Point": "应用从发布至今持续以欺骗手段诱导用户拉新，缺乏诚信。",
+        "Actionable_Suggestion": "停止诱导拉新行为，提供真实、透明的奖励机制。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_332",
+        "User_Pain_Point": "应用内广告过多，且存在虚假宣传（如“砍一刀”无法成功），用户体验差。",
+        "Actionable_Suggestion": "减少广告数量，优化“砍一刀”等活动机制，确保宣传真实可信。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_335",
+        "User_Pain_Point": "提现活动长期无法成功，感觉被愚弄，导致用户卸载意愿。",
+        "Actionable_Suggestion": "核实提现活动规则，确保用户可真实提现，避免虚假承诺。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_340",
+        "User_Pain_Point": "低价商品（如9.90元外星人电脑）宣传不实，属于虚假广告。",
+        "Actionable_Suggestion": "停止虚假促销宣传，确保商品价格与描述一致。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_351",
+        "User_Pain_Point": "助力活动成功率低，一板旺仔牛奶助力将近三十个人都不行。",
+        "Actionable_Suggestion": "优化助力算法或提高助力成功率。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_353",
+        "User_Pain_Point": "过度拉新用户，对老用户不友好，感觉像骗子。",
+        "Actionable_Suggestion": "增加老用户福利，平衡新老用户权益。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_376",
+        "User_Pain_Point": "拼多多提现活动虚假宣传、恶意套路，耗费大量时间拉人助力后始终无法提现，平台篡改规则、无限套娃，客服推诿不解决。",
+        "Actionable_Suggestion": "整改提现活动，兑现宣传承诺，遵守《广告法》和《消费者权益保护法》，提供真实透明的活动规则。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_383",
+        "User_Pain_Point": "砍一刀活动每次总差一刀，难以成功",
+        "Actionable_Suggestion": "优化砍一刀活动规则，提高透明度或调整难度机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_387",
+        "User_Pain_Point": "现金大转盘活动要求审核值和确认值，强迫三次消费，坑新用户",
+        "Actionable_Suggestion": "重新评估现金大转盘活动的公平性，减少不合理要求，明确福利规则"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_390",
+        "User_Pain_Point": "拉人活动过多，频繁要求拉人",
+        "Actionable_Suggestion": "适当减少拉人活动的频率，或提供其他获取奖励的替代方式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_391",
+        "User_Pain_Point": "砍一刀活动存在欺骗行为，浪费用户时间。",
+        "Actionable_Suggestion": "优化砍一刀活动规则，增加透明度，减少用户反感。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_393",
+        "User_Pain_Point": "应用内拉人套路过多，用户体验差。",
+        "Actionable_Suggestion": "减少拉人套路，优化活动设计。"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_403",
+        "User_Pain_Point": "鸿蒙版本缺少安卓版本已有的以旧换新和补贴功能",
+        "Actionable_Suggestion": "同步安卓版功能，增加以旧换新及补贴入口"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_404",
+        "User_Pain_Point": "现金大转盘活动存在欺骗性，用户无法获得奖励",
+        "Actionable_Suggestion": "调整活动规则，确保用户能公平参与并获得相应奖励"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_406",
+        "User_Pain_Point": "现金转盘领红包活动虚假，用户认为被欺骗",
+        "Actionable_Suggestion": "重新设计活动机制，提高透明度和可信度"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_408",
+        "User_Pain_Point": "助力活动难度过高，邀请多人后仍无法完成",
+        "Actionable_Suggestion": "优化助力算法，降低难度或明确规则，提升用户体验"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_410",
+        "User_Pain_Point": "广告数量过多，影响使用体验",
+        "Actionable_Suggestion": "减少广告投放频率或提供广告关闭选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_410",
+        "User_Pain_Point": "服务态度差，用户感受不佳",
+        "Actionable_Suggestion": "加强客服培训，提升服务质量"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_410",
+        "User_Pain_Point": "活动如砍一刀诚意不足，用户从未成功过，充满套路",
+        "Actionable_Suggestion": "重新评估活动诚意，简化规则，使奖励可达成"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_412",
+        "User_Pain_Point": "部分商家服务态度差",
+        "Actionable_Suggestion": "加强商家服务培训与考核，优化投诉处理机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_414",
+        "User_Pain_Point": "客服排队时间长，且中途不活跃自动退出队列",
+        "Actionable_Suggestion": "优化客服排队策略，增加排队进度提示，延长自动退出时间"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_415",
+        "User_Pain_Point": "现金大转盘活动难以拿到奖励，怀疑有托",
+        "Actionable_Suggestion": "提高活动透明度，公示中奖概率，打击虚假账号"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_418",
+        "User_Pain_Point": "活动（如拼单）要求人数过多，难以完成",
+        "Actionable_Suggestion": "降低活动参与门槛或提供更多辅助完成方式"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_422",
+        "User_Pain_Point": "没办法维权",
+        "Actionable_Suggestion": "完善维权渠道"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_430",
+        "User_Pain_Point": "商家卖假货评价居然清一色的好评，拼多多的评价系统是害怕展示差评吗",
+        "Actionable_Suggestion": "改进评价系统，确保真实评价展示"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_437",
+        "User_Pain_Point": "平台套路多，假货多",
+        "Actionable_Suggestion": "加强平台监管，打击假货，减少套路营销"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_440",
+        "User_Pain_Point": "活动套路多，助力活动虚假承诺提现成功，诱导老年人",
+        "Actionable_Suggestion": "规范活动规则，确保真实性，减少诱导性设计"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_453",
+        "User_Pain_Point": "提现活动套路多，拉人任务难以完成，诱导消费",
+        "Actionable_Suggestion": "提高活动透明度，减少套路，改进奖励机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_460",
+        "User_Pain_Point": "视频功能改为直播，导致签到领钱功能消失",
+        "Actionable_Suggestion": "恢复签到领钱或提供替代奖励"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_467",
+        "User_Pain_Point": "平台对新用户诱骗下单，承诺返现却不兑现，层层加码",
+        "Actionable_Suggestion": "规范运营活动，确保优惠返现真实兑现，杜绝虚假宣传"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_469",
+        "User_Pain_Point": "软件天天砍价拉人，体验不佳",
+        "Actionable_Suggestion": "减少或优化砍价拉人机制，提升用户体验"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_476",
+        "User_Pain_Point": "商家销售当月过期的临期药品",
+        "Actionable_Suggestion": "禁止销售有效期在一个月内的药品，加强监管"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_477",
+        "User_Pain_Point": "平台存在诈骗广告",
+        "Actionable_Suggestion": "加强广告审核，杜绝诈骗广告"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_480",
+        "User_Pain_Point": "取件强制要求安装APP",
+        "Actionable_Suggestion": "提供网页端或轻量级取件方式，不强制安装APP"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_486",
+        "User_Pain_Point": "百亿补贴、百亿消费券与其他版本不一致，没有地方补贴",
+        "Actionable_Suggestion": "统一百亿补贴和消费券活动规则，确保鸿蒙版与其他版本一致"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_494",
+        "User_Pain_Point": "小广告太多",
+        "Actionable_Suggestion": "减少广告数量或提供关闭选项"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_500",
+        "User_Pain_Point": "买东西奖金币没了，签到领奖励也没有",
+        "Actionable_Suggestion": "恢复买东西奖金币和签到领奖励功能"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_115",
+        "User_Pain_Point": "客服态度好，优惠力度大",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_2",
+        "User_Pain_Point": "无",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_12",
+        "User_Pain_Point": "用户整体体验非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_13",
+        "User_Pain_Point": "价格便宜且能买到需要的商品",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_23",
+        "User_Pain_Point": "应用很好用，商品丰富",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_37",
+        "User_Pain_Point": "很好的APP，真正保护消费者权益，人民的APP",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_39",
+        "User_Pain_Point": "喜欢拼多多",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_45",
+        "User_Pain_Point": "平台是普通百姓的舞台",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_48",
+        "User_Pain_Point": "牛福活动真的能领钱，令人愉悦",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_49",
+        "User_Pain_Point": "整体体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_51",
+        "User_Pain_Point": "整体使用感觉不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_66",
+        "User_Pain_Point": "用户对买家体验和客服服务表示赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_67",
+        "User_Pain_Point": "用户对应用整体表示满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_68",
+        "User_Pain_Point": "用户对服务非常满意，认为服务百分之两百分",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_71",
+        "User_Pain_Point": "特别好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_74",
+        "User_Pain_Point": "非常好的购物平台，能买到大多数你想要的东西",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_77",
+        "User_Pain_Point": "基本可用了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_78",
+        "User_Pain_Point": "挺好的，拼多多手机便宜，省了不少钱",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_81",
+        "User_Pain_Point": "注重买家售后权益",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_84",
+        "User_Pain_Point": "整体体验不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_85",
+        "User_Pain_Point": "平台处理问题给力",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_86",
+        "User_Pain_Point": "可以指纹付款了完美",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_89",
+        "User_Pain_Point": "平台为人民服务，排忧解难",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_96",
+        "User_Pain_Point": "其他功能不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_98",
+        "User_Pain_Point": "很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_105",
+        "User_Pain_Point": "整体体验非常给力",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_123",
+        "User_Pain_Point": "拼多多还是厉害呀",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_126",
+        "User_Pain_Point": "更新很猛，整体不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_128",
+        "User_Pain_Point": "挺好用，价格便宜",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_161",
+        "User_Pain_Point": "平台是穷苦百姓活下去的唯一网购平台",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_178",
+        "User_Pain_Point": "用户认为软件挺好用。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_180",
+        "User_Pain_Point": "在拼多多购买的商品实用。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_188",
+        "User_Pain_Point": "整体使用体验非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_192",
+        "User_Pain_Point": "很好。还可以助力。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_195",
+        "User_Pain_Point": "非常不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_213",
+        "User_Pain_Point": "非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_228",
+        "User_Pain_Point": "用户认为平台好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_235",
+        "User_Pain_Point": "购物方便、收货快、质量好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_236",
+        "User_Pain_Point": "广告少、弹窗基本没有，体验好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_237",
+        "User_Pain_Point": "对拼多多非常满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_246",
+        "User_Pain_Point": "整体体验非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_260",
+        "User_Pain_Point": "拼多多上面的东西很好。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_263",
+        "User_Pain_Point": "整体使用体验好，认为拼多多良心",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_277",
+        "User_Pain_Point": "不错，鸿蒙版👌",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_280",
+        "User_Pain_Point": "拼多多鸿蒙版做的很不错，功能与安卓无异，反应快、内容多",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_282",
+        "User_Pain_Point": "整体使用体验良好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_286",
+        "User_Pain_Point": "商品价格便宜实惠",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_289",
+        "User_Pain_Point": "购买实用商品，喜欢平台",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_293",
+        "User_Pain_Point": "功能完善度高，流畅度好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_308",
+        "User_Pain_Point": "用户整体非常满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_315",
+        "User_Pain_Point": "总体好评",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_316",
+        "User_Pain_Point": "价格比其它平台便宜一点",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_320",
+        "User_Pain_Point": "非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_322",
+        "User_Pain_Point": "多多买菜，好评",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_327",
+        "User_Pain_Point": "只要商家不骗人，平台还是很好的",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_345",
+        "User_Pain_Point": "用户对拼多多整体体验非常满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_352",
+        "User_Pain_Point": "一直在用，好用省钱。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_357",
+        "User_Pain_Point": "真棒。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_362",
+        "User_Pain_Point": "整体体验不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_363",
+        "User_Pain_Point": "购物方便，售后服务好，整体推荐",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_364",
+        "User_Pain_Point": "方便好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_382",
+        "User_Pain_Point": "好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_395",
+        "User_Pain_Point": "用户对商品品质满意。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_402",
+        "User_Pain_Point": "用户整体体验非常好，值得购买",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_432",
+        "User_Pain_Point": "商家服务好，向着客户",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_441",
+        "User_Pain_Point": "使用方便。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_447",
+        "User_Pain_Point": "对国家产品和科技进步表示赞赏，方便老百姓。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_449",
+        "User_Pain_Point": "表示认可。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_455",
+        "User_Pain_Point": "整体体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_471",
+        "User_Pain_Point": "朋友都说好用，非常好使",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_472",
+        "User_Pain_Point": "拼多多确实不错，经常使用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_484",
+        "User_Pain_Point": "用户表示满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_488",
+        "User_Pain_Point": "用户觉得很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_490",
+        "User_Pain_Point": "用户认为非常棒",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_14",
+        "User_Pain_Point": "商品品质差且假货多",
+        "Actionable_Suggestion": "加强商品质量监管，打击假货"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_29",
+        "User_Pain_Point": "平台存在大量假货",
+        "Actionable_Suggestion": "加强商品审核和打假力度，建立用户举报机制"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_36",
+        "User_Pain_Point": "短剧简介完整版未在鸿蒙next版适配",
+        "Actionable_Suggestion": "适配鸿蒙next版，完善短剧简介显示"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_234",
+        "User_Pain_Point": "果园游戏缺少种菜模块",
+        "Actionable_Suggestion": "在果园中增加种菜功能"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_239",
+        "User_Pain_Point": "需要更多视频节目内容",
+        "Actionable_Suggestion": "增加视频节目内容"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_496",
+        "User_Pain_Point": "东西好差",
+        "Actionable_Suggestion": "加强商品质量审核"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_279",
+        "User_Pain_Point": "商品都挺便宜的",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xunmeng.pinduoduo.hos_388",
+        "User_Pain_Point": "里面东西特实惠",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.xunmeng.pinduoduo.hos_189",
+        "User_Pain_Point": "砍一刀活动砍到了苹果4手机",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  }
+}

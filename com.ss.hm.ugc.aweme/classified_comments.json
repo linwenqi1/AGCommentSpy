@@ -1,0 +1,2788 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.ss.hm.ugc.aweme_1",
+        "User_Pain_Point": "App需要大幅改善和更新，功能不够完善",
+        "Actionable_Suggestion": "持续收集用户反馈，制定迭代计划，提升整体体验"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_2",
+        "User_Pain_Point": "缺少‘一起刷视频’功能，未适配",
+        "Actionable_Suggestion": "尽快开发并上线‘一起刷视频’功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_3",
+        "User_Pain_Point": "平板版关注列表缺少更新、直播、批量管理、分组等功能",
+        "Actionable_Suggestion": "补齐平板版关注列表的缺失功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_6",
+        "User_Pain_Point": "App内找不到产品反馈入口",
+        "Actionable_Suggestion": "在设置或帮助菜单中添加产品反馈渠道"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_7",
+        "User_Pain_Point": "直播回放功能无法正常观看",
+        "Actionable_Suggestion": "修复直播回放功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_8",
+        "User_Pain_Point": "用户不清楚如何更新应用",
+        "Actionable_Suggestion": "优化更新提示和操作流程，引导用户更新"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_16",
+        "User_Pain_Point": "主播中心缺少回放功能",
+        "Actionable_Suggestion": "在主播中心添加回放功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_23",
+        "User_Pain_Point": "短剧看不了",
+        "Actionable_Suggestion": "修复短剧无法播放的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_24",
+        "User_Pain_Point": "不能发布动图作品",
+        "Actionable_Suggestion": "支持动图作品发布功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_25",
+        "User_Pain_Point": "缺少辅助账号创建功能",
+        "Actionable_Suggestion": "完善辅助账号功能，支持同一手机号注册辅助账号"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_27",
+        "User_Pain_Point": "实况作品只能选30秒BGM，限制过于死板",
+        "Actionable_Suggestion": "放宽实况作品BGM时长选择，允许自定义时长"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_31",
+        "User_Pain_Point": "缓存视频消失但占用空间不释放",
+        "Actionable_Suggestion": "修复缓存清理逻辑，确保缓存视频丢失时自动释放空间"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_33",
+        "User_Pain_Point": "应用没有声音",
+        "Actionable_Suggestion": "排查并修复音频播放功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_35",
+        "User_Pain_Point": "接收不到电话（可能指应用内通话功能）",
+        "Actionable_Suggestion": "修复应用内通话接收功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_36",
+        "User_Pain_Point": "视频通话缺少特效",
+        "Actionable_Suggestion": "添加视频通话特效功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_37",
+        "User_Pain_Point": "部分直播无法观看",
+        "Actionable_Suggestion": "修复部分直播无法观看的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_39",
+        "User_Pain_Point": "缺少直播积分玩法",
+        "Actionable_Suggestion": "尽快上线直播积分玩法"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_40",
+        "User_Pain_Point": "上传视频模糊不清",
+        "Actionable_Suggestion": "优化视频上传清晰度处理"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_41",
+        "User_Pain_Point": "有些播间会员好礼入口消失了，但是没有V字会员入口",
+        "Actionable_Suggestion": "建议恢复会员好礼入口，并添加V字会员入口。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_43",
+        "User_Pain_Point": "缺少聊天背景自定义",
+        "Actionable_Suggestion": "建议增加聊天背景自定义功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_44",
+        "User_Pain_Point": "不能注册辅助号",
+        "Actionable_Suggestion": "建议增加辅助号注册功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_45",
+        "User_Pain_Point": "看不了别人发的日常",
+        "Actionable_Suggestion": "建议修复日常内容显示问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_45",
+        "User_Pain_Point": "拍视频音乐节点卡不上",
+        "Actionable_Suggestion": "建议优化拍视频时音乐节点对齐功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_47",
+        "User_Pain_Point": "无障碍光标问题，屏幕朗读抓不到光标，盲人无法用",
+        "Actionable_Suggestion": "建议修复无障碍光标，确保屏幕朗读能正常捕捉光标。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_53",
+        "User_Pain_Point": "抖音小程序游戏不能全部玩",
+        "Actionable_Suggestion": "升级支持所有小程序游戏"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_54",
+        "User_Pain_Point": "听评论区语音时划到下一个视频语音依旧还在",
+        "Actionable_Suggestion": "修复语音播放切换逻辑"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_58",
+        "User_Pain_Point": "私信提醒看不到具体内容",
+        "Actionable_Suggestion": "修复私信内容显示"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_60",
+        "User_Pain_Point": "抖音没有声音，来回刷才有声音",
+        "Actionable_Suggestion": "修复声音播放问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_62",
+        "User_Pain_Point": "不能发消息，一直说青少年模式，但并没有该设置功能。",
+        "Actionable_Suggestion": "在设置中提供青少年模式开关，或修复青少年模式误报问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_64",
+        "User_Pain_Point": "无法选取封面。",
+        "Actionable_Suggestion": "完善封面选取功能，支持本地图片或视频帧选择。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_66",
+        "User_Pain_Point": "在Pura X Max机型上，小程序购买机票时支付二级页面显示不全且无法下滑，导致支付按钮无法点击。",
+        "Actionable_Suggestion": "适配该机型，修复支付页面的显示和滚动问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_68",
+        "User_Pain_Point": "不能辅助注册小号。",
+        "Actionable_Suggestion": "增加辅助注册小号功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_68",
+        "User_Pain_Point": "通知消息无法打开查看详情。",
+        "Actionable_Suggestion": "修复通知消息的跳转和详情展示功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_70",
+        "User_Pain_Point": "网页版登录必须用手机扫码，无法直接输入账号密码。",
+        "Actionable_Suggestion": "提供账号密码直接登录方式，满足无手机场景需求。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_72",
+        "User_Pain_Point": "音画不同步",
+        "Actionable_Suggestion": "修复音画同步问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_72",
+        "User_Pain_Point": "评论点不开",
+        "Actionable_Suggestion": "修复评论无法点开的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_73",
+        "User_Pain_Point": "直播间商品看不到直播讲解回放了",
+        "Actionable_Suggestion": "恢复直播间讲解回放功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_78",
+        "User_Pain_Point": "开直播 打台球功能 进入房间不能连麦打台球",
+        "Actionable_Suggestion": "修复直播打台球连麦功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_80",
+        "User_Pain_Point": "怎么突然不让我截屏了我就更新",
+        "Actionable_Suggestion": "修复更新后截屏被禁止的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_82",
+        "User_Pain_Point": "拍同款功能效果不一致",
+        "Actionable_Suggestion": "修复拍同款功能，确保效果与样本一致"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_84",
+        "User_Pain_Point": "拍视频延迟且音画不同步",
+        "Actionable_Suggestion": "优化视频录制延迟和音画同步问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_85",
+        "User_Pain_Point": "鸿蒙端作品删除后无法恢复，而安卓端可以",
+        "Actionable_Suggestion": "鸿蒙端增加作品恢复功能，与安卓端保持一致"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_89",
+        "User_Pain_Point": "无法修改好友备注名",
+        "Actionable_Suggestion": "添加好友备注编辑功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_90",
+        "User_Pain_Point": "种草计划入口缺失",
+        "Actionable_Suggestion": "在发布入口增加种草计划入口"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_90",
+        "User_Pain_Point": "发表视频文字时添加话题无自动联想",
+        "Actionable_Suggestion": "在话题输入时提供自动联想功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_91",
+        "User_Pain_Point": "看视频没有声音",
+        "Actionable_Suggestion": "修复无声音的问题，确保音频正常播放"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_93",
+        "User_Pain_Point": "不能扫抖店二维码",
+        "Actionable_Suggestion": "增加扫一扫功能，支持抖店二维码扫描"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_95",
+        "User_Pain_Point": "发布的视频不支持编辑，无编辑按钮",
+        "Actionable_Suggestion": "添加视频编辑功能，在发布后提供编辑入口"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_97",
+        "User_Pain_Point": "滑动下一个视频后，上一个视频无限播放，与当前视频音频重叠",
+        "Actionable_Suggestion": "修复视频播放Bug，确保切换视频时停止上一个视频的播放"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_97",
+        "User_Pain_Point": "刷视频有时无声音",
+        "Actionable_Suggestion": "修复无声音的Bug，确保音频正常输出"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_100",
+        "User_Pain_Point": "直播不能播放音乐",
+        "Actionable_Suggestion": "增加直播播放音乐的功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_102",
+        "User_Pain_Point": "评论区的图片无法查看",
+        "Actionable_Suggestion": "修复评论区的图片加载功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_105",
+        "User_Pain_Point": "抖音视频聊天功能需要优化",
+        "Actionable_Suggestion": "优化视频聊天功能，提升用户体验"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_106",
+        "User_Pain_Point": "视频左下角小游戏链接功能消失",
+        "Actionable_Suggestion": "恢复或修复视频左下角小游戏链接功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_108",
+        "User_Pain_Point": "评论区播放语音后，滑动评论仍然播放语音",
+        "Actionable_Suggestion": "优化评论区语音播放逻辑，滑动时停止播放"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_108",
+        "User_Pain_Point": "滑动视频时仍播放语音",
+        "Actionable_Suggestion": "优化视频滑动时语音播放逻辑"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_110",
+        "User_Pain_Point": "消息里被@的视频不能上下滑动，查看不便",
+        "Actionable_Suggestion": "优化消息中被@视频列表的滑动功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_114",
+        "User_Pain_Point": "直播间滑动评论区时误跳转到其他直播间",
+        "Actionable_Suggestion": "优化直播评论区的滑动逻辑，防止误跳转"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_117",
+        "User_Pain_Point": "AI续灯牌功能在鸿蒙6上不支持",
+        "Actionable_Suggestion": "适配鸿蒙6系统，恢复AI续灯牌功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_119",
+        "User_Pain_Point": "语音识别口音不匹配",
+        "Actionable_Suggestion": "优化语音识别对口音的适应能力"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_120",
+        "User_Pain_Point": "缺失弹幕功能",
+        "Actionable_Suggestion": "恢复或增加弹幕功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_121",
+        "User_Pain_Point": "进入游戏直播间横屏后自动转竖屏，从直播间外点击横屏进入后无法切回竖屏",
+        "Actionable_Suggestion": "修复横竖屏切换逻辑，允许用户自由控制屏幕方向"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_122",
+        "User_Pain_Point": "视频不能编辑封面",
+        "Actionable_Suggestion": "恢复或添加视频封面编辑功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_123",
+        "User_Pain_Point": "视频通话时无法缩小画面或使用特效，缺少小火人功能",
+        "Actionable_Suggestion": "增加视频通话画中画功能、特效及小火人特效"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_127",
+        "User_Pain_Point": "无法编辑已发布的抖音作品（如修改封面）",
+        "Actionable_Suggestion": "提供编辑已发布作品的功能，包括修改封面等"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_127",
+        "User_Pain_Point": "添加歌词时每次都识别失败",
+        "Actionable_Suggestion": "优化歌词识别算法，提高识别成功率"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_130",
+        "User_Pain_Point": "不支持云闪付支付",
+        "Actionable_Suggestion": "接入云闪付支付方式"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_131",
+        "User_Pain_Point": "缺少日常功能",
+        "Actionable_Suggestion": "建议尽快上线并完善日常相关功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_134",
+        "User_Pain_Point": "聊天功能不完善，不支持某些消息类型",
+        "Actionable_Suggestion": "完善聊天功能，支持更多消息类型。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_135",
+        "User_Pain_Point": "缺少火花状态展示",
+        "Actionable_Suggestion": "在分享页面增加好友火花状态展示功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_138",
+        "User_Pain_Point": "商城不能筛选",
+        "Actionable_Suggestion": "恢复或增加商城筛选功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_139",
+        "User_Pain_Point": "更新后视频画面模糊",
+        "Actionable_Suggestion": "优化视频画质，修复更新导致的模糊问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_141",
+        "User_Pain_Point": "团购页面自动跳出支付且字号过大遮挡信息",
+        "Actionable_Suggestion": "优化团购页面交互，避免自动弹出支付页面，调整字号大小"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_142",
+        "User_Pain_Point": "朋友栏目显示昵称而非备注名",
+        "Actionable_Suggestion": "在朋友栏目中优先显示备注名称或提供选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_143",
+        "User_Pain_Point": "缺少AI功能",
+        "Actionable_Suggestion": "增加AI功能（如AI剪辑、推荐等）"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_144",
+        "User_Pain_Point": "视频推荐给功能易误触且无法关闭",
+        "Actionable_Suggestion": "提供关闭“视频推荐给”功能的选项或优化交互位置"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_146",
+        "User_Pain_Point": "视频播放不支持超清/蓝光，模糊",
+        "Actionable_Suggestion": "增加视频播放的超清/蓝光选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_147",
+        "User_Pain_Point": "商城订单无法查看物流",
+        "Actionable_Suggestion": "修复商城订单物流入口，确保可查看物流信息"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_148",
+        "User_Pain_Point": "直播缺少美颜功能",
+        "Actionable_Suggestion": "增加直播美颜功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_150",
+        "User_Pain_Point": "直播群优惠券消息不支持，领不到优惠券",
+        "Actionable_Suggestion": "修复支持直播群优惠券消息功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_153",
+        "User_Pain_Point": "发语音没有转文字的选项",
+        "Actionable_Suggestion": "增加语音转文字功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_154",
+        "User_Pain_Point": "缺少更换壁纸功能",
+        "Actionable_Suggestion": "增加更换壁纸功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_155",
+        "User_Pain_Point": "连线不显示",
+        "Actionable_Suggestion": "修复连线显示问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_157",
+        "User_Pain_Point": "刷视频不能发弹幕了",
+        "Actionable_Suggestion": "恢复发弹幕功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_158",
+        "User_Pain_Point": "没有同城关闭功能",
+        "Actionable_Suggestion": "增加关闭同城功能选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_159",
+        "User_Pain_Point": "拍同款没有自动字幕",
+        "Actionable_Suggestion": "增加拍同款自动字幕功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_165",
+        "User_Pain_Point": "无法观看'日常'内容",
+        "Actionable_Suggestion": "增加'日常'功能支持"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_169",
+        "User_Pain_Point": "语音聊天无法自动连续播放第二条语音，且设置中无循环自动播放选项",
+        "Actionable_Suggestion": "增加语音自动连续播放功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_170",
+        "User_Pain_Point": "视频画质太差",
+        "Actionable_Suggestion": "提升视频画质"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_171",
+        "User_Pain_Point": "点推荐进去两个视频声音叠加",
+        "Actionable_Suggestion": "修复声音叠加bug，确保只有一个视频播放声音"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_172",
+        "User_Pain_Point": "为什么同城没了！真差劲",
+        "Actionable_Suggestion": "恢复同城功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_173",
+        "User_Pain_Point": "日常无法转发，等弄好了更新",
+        "Actionable_Suggestion": "修复转发功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_174",
+        "User_Pain_Point": "能不能调弹幕大小",
+        "Actionable_Suggestion": "增加弹幕大小调节功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_175",
+        "User_Pain_Point": "视频通话时不能使用特效 干巴巴聊天感觉失去短视频平台的趣味性 望更新",
+        "Actionable_Suggestion": "增加视频通话特效功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_176",
+        "User_Pain_Point": "电机直播间头像弹出的卡片不显示橱窗？",
+        "Actionable_Suggestion": "修复直播间头像弹出卡片不显示橱窗的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_177",
+        "User_Pain_Point": "更新一下回车发送呗",
+        "Actionable_Suggestion": "增加回车发送消息功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_181",
+        "User_Pain_Point": "视频聊天时对方看不到自己，但自己能看到对方？描述不清晰，疑似视频聊天功能异常。",
+        "Actionable_Suggestion": "检查视频聊天权限和摄像头功能，优化视频聊天体验。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_183",
+        "User_Pain_Point": "直播时无法听歌，希望增加该功能。",
+        "Actionable_Suggestion": "增加直播时听歌功能（如背景音乐或同时播放音乐）。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_184",
+        "User_Pain_Point": "进入抖音第一条视频没有声音，设置里也未找到相关设置。",
+        "Actionable_Suggestion": "修复进入应用时首条视频无声的bug。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_185",
+        "User_Pain_Point": "聊天列表未读消息没有红点标记。",
+        "Actionable_Suggestion": "增加未读消息红点提示功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_186",
+        "User_Pain_Point": "后台继续播放直播音频功能不可用。",
+        "Actionable_Suggestion": "修复后台播放直播音频功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_190",
+        "User_Pain_Point": "怀旧找茬功能玩两天后消失。",
+        "Actionable_Suggestion": "检查该功能为何消失，确保稳定存在。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_193",
+        "User_Pain_Point": "200条视频的缓存功能无法生效。",
+        "Actionable_Suggestion": "修复缓存功能，确保用户设置的缓存数量正常生效。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_194",
+        "User_Pain_Point": "视频通话中无法使用特效。",
+        "Actionable_Suggestion": "增加视频通话中的特效功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_195",
+        "User_Pain_Point": "拍摄抖音视频时口型对不上。",
+        "Actionable_Suggestion": "优化音视频同步算法，修复口型不同步问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_199",
+        "User_Pain_Point": "视频发送速度慢。",
+        "Actionable_Suggestion": "优化视频上传速度，提高发送效率。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_201",
+        "User_Pain_Point": "鸿蒙抖音缺少合拍功能",
+        "Actionable_Suggestion": "增加合拍功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_203",
+        "User_Pain_Point": "刷视频时经常没声音",
+        "Actionable_Suggestion": "修复声音播放问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_204",
+        "User_Pain_Point": "没有删除作品的按钮",
+        "Actionable_Suggestion": "添加删除作品功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_206",
+        "User_Pain_Point": "刷视频嘴动没声音，下一个就有",
+        "Actionable_Suggestion": "修复部分视频无声的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_207",
+        "User_Pain_Point": "缺少提词器功能",
+        "Actionable_Suggestion": "增加提词器功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_208",
+        "User_Pain_Point": "竖屏转横屏观看时会切回到之前浏览过的横屏视频",
+        "Actionable_Suggestion": "修复横竖屏切换时视频回退的Bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_210",
+        "User_Pain_Point": "更新后音画不同步",
+        "Actionable_Suggestion": "修复音画不同步问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_211",
+        "User_Pain_Point": "没有清理缓存功能",
+        "Actionable_Suggestion": "增加清理缓存的功能入口"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_215",
+        "User_Pain_Point": "版本缺少清理缓存功能",
+        "Actionable_Suggestion": "恢复清理缓存功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_216",
+        "User_Pain_Point": "视频界面无法显示备注名，只能显示昵称",
+        "Actionable_Suggestion": "在视频界面上添加显示备注名的功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_218",
+        "User_Pain_Point": "拍视频没有提词器",
+        "Actionable_Suggestion": "添加拍视频提词器功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_224",
+        "User_Pain_Point": "定时关闭功能故障",
+        "Actionable_Suggestion": "修复定时关闭功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_227",
+        "User_Pain_Point": "点开首页自动刷新",
+        "Actionable_Suggestion": "优化首页加载逻辑，避免不必要的刷新"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_227",
+        "User_Pain_Point": "回复后页面刷新",
+        "Actionable_Suggestion": "优化回复操作后的页面状态保持"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_227",
+        "User_Pain_Point": "视频打开无声音",
+        "Actionable_Suggestion": "修复视频播放无声问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_228",
+        "User_Pain_Point": "私信不提醒",
+        "Actionable_Suggestion": "修复私信推送通知功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_228",
+        "User_Pain_Point": "通知消息无法点开查看详情",
+        "Actionable_Suggestion": "修复通知点击跳转详情功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_229",
+        "User_Pain_Point": "录唱视频不能同时录制原声和配乐",
+        "Actionable_Suggestion": "优化录唱功能，支持同时录制原声和配乐"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_231",
+        "User_Pain_Point": "看不到朋友的日常",
+        "Actionable_Suggestion": "优化朋友动态展示逻辑，确保用户能看到朋友的日常内容"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_233",
+        "User_Pain_Point": "没有外语翻译功能",
+        "Actionable_Suggestion": "增加外语翻译功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_234",
+        "User_Pain_Point": "发的视频不能编辑（添加封面），发视频过程中一键成片所选模板不能编辑",
+        "Actionable_Suggestion": "恢复发视频时的封面添加和模板内编辑功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_234",
+        "User_Pain_Point": "发布的视频不能编辑修改（之前可修5次）",
+        "Actionable_Suggestion": "恢复发布后视频的编辑修改功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_234",
+        "User_Pain_Point": "“更多”中没有编辑或修改选项",
+        "Actionable_Suggestion": "在“更多”菜单中添加编辑/修改选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_236",
+        "User_Pain_Point": "进别人直播间不显示聊天室风格",
+        "Actionable_Suggestion": "修复直播间聊天室风格显示问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_238",
+        "User_Pain_Point": "直播间不能参与预言功能",
+        "Actionable_Suggestion": "在直播间增加预言功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_241",
+        "User_Pain_Point": "群聊没有助手",
+        "Actionable_Suggestion": "建议增加群聊助手功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_243",
+        "User_Pain_Point": "还是不能改更聊天背景",
+        "Actionable_Suggestion": "建议支持自定义聊天背景"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_245",
+        "User_Pain_Point": "开直播怎么没有连麦功能",
+        "Actionable_Suggestion": "建议增加直播连麦功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_254",
+        "User_Pain_Point": "发作品不能设置封面",
+        "Actionable_Suggestion": "添加设置封面的功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_256",
+        "User_Pain_Point": "视频清晰度选择功能无效，且流量消耗大",
+        "Actionable_Suggestion": "修复清晰度选项并优化流量控制"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_257",
+        "User_Pain_Point": "听抖音功能缺少倒序播放，定时关闭功能失效",
+        "Actionable_Suggestion": "增加倒序播放并修复定时关闭"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_258",
+        "User_Pain_Point": "收藏的小程序找不到",
+        "Actionable_Suggestion": "优化小程序收藏功能，提高查找便利性"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_259",
+        "User_Pain_Point": "发抖音时字幕识别不了",
+        "Actionable_Suggestion": "优化字幕识别功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_261",
+        "User_Pain_Point": "不能看日常",
+        "Actionable_Suggestion": "尽快上线日常功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_263",
+        "User_Pain_Point": "发的评论别人看不见",
+        "Actionable_Suggestion": "修复评论可见性问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_265",
+        "User_Pain_Point": "好友的日常还看不了",
+        "Actionable_Suggestion": "尽快上线日常功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_266",
+        "User_Pain_Point": "没有消息提示",
+        "Actionable_Suggestion": "修复消息通知功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_267",
+        "User_Pain_Point": "希望添加纯血鸿蒙的抖音聊天背景",
+        "Actionable_Suggestion": "增加聊天背景选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_270",
+        "User_Pain_Point": "一起看视频不能打字聊天",
+        "Actionable_Suggestion": "增加一起看视频时的打字聊天功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_271",
+        "User_Pain_Point": "刷视频时点搜索或切换到其他界面，原视频声音继续播放不停止",
+        "Actionable_Suggestion": "优化声音播放逻辑，切换界面时暂停原视频声音"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_273",
+        "User_Pain_Point": "编辑文字时没有可用的文字模板",
+        "Actionable_Suggestion": "增加文字模板功能，提供多种样式供用户选择"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_274",
+        "User_Pain_Point": "直播间无法通过右滑清屏",
+        "Actionable_Suggestion": "增加直播间右滑清屏功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_275",
+        "User_Pain_Point": "购物车商品无法查看讲解回放",
+        "Actionable_Suggestion": "为购物车商品添加讲解回放查看功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_280",
+        "User_Pain_Point": "无法查看他人的日常动态",
+        "Actionable_Suggestion": "添加查看他人日常动态的功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_281",
+        "User_Pain_Point": "完全清屏功能被移除，无法使用",
+        "Actionable_Suggestion": "恢复点评论后状态栏完全清屏功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_282",
+        "User_Pain_Point": "无法查看日常内容",
+        "Actionable_Suggestion": "建议恢复日常功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_284",
+        "User_Pain_Point": "分段拍摄存草稿后无法继续拍摄",
+        "Actionable_Suggestion": "修复分段拍摄草稿续拍功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_287",
+        "User_Pain_Point": "日常功能不可用",
+        "Actionable_Suggestion": "恢复日常功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_291",
+        "User_Pain_Point": "听抖音时只有顺序播放和循环播放，没有逆序播放功能",
+        "Actionable_Suggestion": "增加逆序播放功能，提供更多播放模式选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_292",
+        "User_Pain_Point": "没有连麦功能，用户期待增加此功能",
+        "Actionable_Suggestion": "开发并上线连麦功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_293",
+        "User_Pain_Point": "好友视频功能不能使用特效",
+        "Actionable_Suggestion": "修复好友视频功能，支持正常使用特效"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_296",
+        "User_Pain_Point": "无法修复回看自己被点赞的弹幕功能",
+        "Actionable_Suggestion": "排查并修复回看弹幕的bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_297",
+        "User_Pain_Point": "直播滑动评论时会滑到其他直播，弹幕互动信息无法查看",
+        "Actionable_Suggestion": "优化直播评论滑动交互，避免误触切换到其他直播"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_299",
+        "User_Pain_Point": "购物消息删不掉",
+        "Actionable_Suggestion": "修复购物消息无法删除的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_301",
+        "User_Pain_Point": "对口型功能无法识别歌词",
+        "Actionable_Suggestion": "优化歌词识别功能，提高对口型准确性"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_303",
+        "User_Pain_Point": "重复刷到相同视频，用户体验差",
+        "Actionable_Suggestion": "优化推荐算法，避免短时间内重复推荐已看视频"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_305",
+        "User_Pain_Point": "打开APP后无声音，延迟几秒才有",
+        "Actionable_Suggestion": "修复声音初始化延迟问题，确保打开APP即发声"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_312",
+        "User_Pain_Point": "火花功能不完善",
+        "Actionable_Suggestion": "完善火花功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_315",
+        "User_Pain_Point": "合集视频无法关闭广告",
+        "Actionable_Suggestion": "提供合集视频广告关闭选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_316",
+        "User_Pain_Point": "缺少华为一键登录、今日头条、微信、QQ等多种登录方式",
+        "Actionable_Suggestion": "增加多种登录方式"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_318",
+        "User_Pain_Point": "抖音没有“主播中心”功能，且优惠活动找不到优惠券",
+        "Actionable_Suggestion": "增加主播中心功能，优化优惠券展示"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_320",
+        "User_Pain_Point": "缺少作品重新编辑功能",
+        "Actionable_Suggestion": "增加作品重新编辑功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_321",
+        "User_Pain_Point": "无法更改聊天背景",
+        "Actionable_Suggestion": "添加聊天背景更改功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_324",
+        "User_Pain_Point": "抖音课堂功能缺失，多次更新仍未上线",
+        "Actionable_Suggestion": "尽快上线抖音课堂功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_325",
+        "User_Pain_Point": "部分游戏小程序不好用",
+        "Actionable_Suggestion": "优化游戏小程序的兼容性和体验"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_326",
+        "User_Pain_Point": "无法查看别人日常",
+        "Actionable_Suggestion": "修复查看日常的功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_328",
+        "User_Pain_Point": "草稿箱消失，怀疑被删除",
+        "Actionable_Suggestion": "恢复草稿箱功能并确保数据不丢失"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_331",
+        "User_Pain_Point": "点赞好友分享的视频后，消息栏没有点赞提示，缺少通知功能。",
+        "Actionable_Suggestion": "增加点赞好友视频的消息通知功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_335",
+        "User_Pain_Point": "对口型功能在开启特效时无法同步，不美颜不开特效则正常，功能存在缺陷。",
+        "Actionable_Suggestion": "修复对口型功能在特效模式下的同步问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_336",
+        "User_Pain_Point": "缺少抖音创作者中心功能，创作者无法使用相关工具。",
+        "Actionable_Suggestion": "增加抖音创作者中心功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_339",
+        "User_Pain_Point": "聊天时回车键无法发送消息，只能手动点击发送按钮，操作不便。",
+        "Actionable_Suggestion": "增加回车键发送消息功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_340",
+        "User_Pain_Point": "平板版本缺少自动连播功能，用户需要手动操作。",
+        "Actionable_Suggestion": "为平板版本增加自动连播功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_344",
+        "User_Pain_Point": "发视频色调变得很怪，死白死白的",
+        "Actionable_Suggestion": "修复色调异常问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_346",
+        "User_Pain_Point": "选择18秒音乐但视频选60秒时，音乐放完视频不会自动停，需要手动点停",
+        "Actionable_Suggestion": "增加音乐播放完后自动停止视频录制的功能，参考iOS版本"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_347",
+        "User_Pain_Point": "鸿蒙端仅阅读一次的信息不能显示",
+        "Actionable_Suggestion": "修复仅阅读一次信息不显示的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_348",
+        "User_Pain_Point": "抖音团购功能未上线",
+        "Actionable_Suggestion": "建议尽快上线抖音团购功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_348",
+        "User_Pain_Point": "直播功能缺失",
+        "Actionable_Suggestion": "建议尽快上线直播功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_348",
+        "User_Pain_Point": "商城订单评论功能未上线",
+        "Actionable_Suggestion": "建议尽快上线商城订单评论功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_349",
+        "User_Pain_Point": "直播回放功能迟迟未开放",
+        "Actionable_Suggestion": "建议尽快开放直播回放功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_350",
+        "User_Pain_Point": "流量状态下直播退到后台没声音，但wifi下正常",
+        "Actionable_Suggestion": "修复移动网络下直播后台无声问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_351",
+        "User_Pain_Point": "缺少“剪同款”功能",
+        "Actionable_Suggestion": "建议尽快上线“剪同款”功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_352",
+        "User_Pain_Point": "日常功能未更新，无法查看朋友日常",
+        "Actionable_Suggestion": "建议更新日常功能，允许用户查看朋友发的日常内容"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_353",
+        "User_Pain_Point": "缺少闪照和气泡功能",
+        "Actionable_Suggestion": "建议尽快上线闪照和聊天气泡功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_354",
+        "User_Pain_Point": "聊天背景、聊天气泡、日常功能未更新",
+        "Actionable_Suggestion": "建议更新聊天背景、聊天气泡和日常功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_355",
+        "User_Pain_Point": "用户名备注功能消失",
+        "Actionable_Suggestion": "建议恢复用户名备注功能并优化更新流程"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_357",
+        "User_Pain_Point": "好友备注功能未上线",
+        "Actionable_Suggestion": "建议尽快上线好友备注功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_358",
+        "User_Pain_Point": "弹幕功能消失",
+        "Actionable_Suggestion": "建议恢复弹幕功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_360",
+        "User_Pain_Point": "商城和听抖音功能体验差",
+        "Actionable_Suggestion": "建议完善商城和听抖音功能，提升用户体验"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_361",
+        "User_Pain_Point": "扫小程序码功能一直无法使用",
+        "Actionable_Suggestion": "修复扫小程序码功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_362",
+        "User_Pain_Point": "弹幕屏蔽词设置不跨视频生效，每个视频都需要重新设置",
+        "Actionable_Suggestion": "优化弹幕屏蔽词功能，使其设置后全局生效"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_364",
+        "User_Pain_Point": "发抖音时编辑主页页面功能缺失",
+        "Actionable_Suggestion": "补齐发抖音时编辑主页页面的功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_366",
+        "User_Pain_Point": "缺少乘车码快捷通道",
+        "Actionable_Suggestion": "开通乘车码快捷通道"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_367",
+        "User_Pain_Point": "特定用户的直播间无法进入",
+        "Actionable_Suggestion": "修复特定直播间无法进入的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_368",
+        "User_Pain_Point": "乘车码无法设置桌面插件，需要先打开APP才能使用",
+        "Actionable_Suggestion": "支持乘车码插件到桌面"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_370",
+        "User_Pain_Point": "缺少直播小手柄功能",
+        "Actionable_Suggestion": "增加直播小手柄功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_373",
+        "User_Pain_Point": "不能编辑封面",
+        "Actionable_Suggestion": "增加编辑封面功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_376",
+        "User_Pain_Point": "弹幕功能消失",
+        "Actionable_Suggestion": "恢复弹幕功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_378",
+        "User_Pain_Point": "无法查看朋友日常",
+        "Actionable_Suggestion": "增加查看日常功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_379",
+        "User_Pain_Point": "商品评论展示不足",
+        "Actionable_Suggestion": "增加商品评论的展示量"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_380",
+        "User_Pain_Point": "弹幕功能未开通",
+        "Actionable_Suggestion": "开通弹幕功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_383",
+        "User_Pain_Point": "没有推荐功能了。",
+        "Actionable_Suggestion": "恢复并优化推荐算法，确保推荐内容准确且丰富。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_384",
+        "User_Pain_Point": "刷不出评论来",
+        "Actionable_Suggestion": "修复评论加载接口，提升网络请求稳定性，增加缓存机制。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_385",
+        "User_Pain_Point": "抖音通话时无法退出通话界面",
+        "Actionable_Suggestion": "优化通话界面的退出逻辑，增加返回按钮或手势操作。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_386",
+        "User_Pain_Point": "听抖音播放合集时不会自动连播下一个视频，只在合集内重复",
+        "Actionable_Suggestion": "增加合集播放完毕自动跳转下一视频的功能，或提供播放模式切换选项。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_387",
+        "User_Pain_Point": "缺少AI做图和小程序等重要功能",
+        "Actionable_Suggestion": "加快AI做图、小程序等功能开发进度，优先满足用户高频需求。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_389",
+        "User_Pain_Point": "聊天页面无法更换和聊天气泡不完善",
+        "Actionable_Suggestion": "开放聊天页面自定义主题和聊天气泡样式选择功能。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_392",
+        "User_Pain_Point": "搜索时缺乏AI回答功能",
+        "Actionable_Suggestion": "增加搜索时的AI回答功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_393",
+        "User_Pain_Point": "升级后仍无提词功能",
+        "Actionable_Suggestion": "增加提词功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_394",
+        "User_Pain_Point": "无法识别文字",
+        "Actionable_Suggestion": "修复文字识别功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_395",
+        "User_Pain_Point": "发抖音时无法选择封面",
+        "Actionable_Suggestion": "增加选封面功能或提供引导"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_398",
+        "User_Pain_Point": "抖音表情大部分无法查看",
+        "Actionable_Suggestion": "修复表情无法查看的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_399",
+        "User_Pain_Point": "连线申请无法加价连麦",
+        "Actionable_Suggestion": "修复连麦加价功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_400",
+        "User_Pain_Point": "无法玩抖音小游戏",
+        "Actionable_Suggestion": "增加小游戏支持"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_401",
+        "User_Pain_Point": "无法与小火人对话",
+        "Actionable_Suggestion": "增加与小火人的对话功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_402",
+        "User_Pain_Point": "小窗看直播不能横屏",
+        "Actionable_Suggestion": "优化小窗模式，支持横屏播放"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_403",
+        "User_Pain_Point": "小游戏功能未上线",
+        "Actionable_Suggestion": "尽快上线小游戏功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_404",
+        "User_Pain_Point": "无法查看日常内容，只能看作品",
+        "Actionable_Suggestion": "增加查看日常的功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_406",
+        "User_Pain_Point": "鸿蒙系统缺少小火人AI聊天功能",
+        "Actionable_Suggestion": "开发并上线小火人AI聊天功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_407",
+        "User_Pain_Point": "手机直播无法投屏",
+        "Actionable_Suggestion": "增加直播投屏功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_409",
+        "User_Pain_Point": "无法观看直播回放讲解",
+        "Actionable_Suggestion": "增加直播回放讲解功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_411",
+        "User_Pain_Point": "多个视频发布整合一条视频时，不能单独编辑单个视频的时长",
+        "Actionable_Suggestion": "允许在多视频编辑界面单独调整每个视频的时长"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_411",
+        "User_Pain_Point": "没有日常视频分类，且日常视频看不到浏览人",
+        "Actionable_Suggestion": "增加日常视频分类功能，并显示浏览人数"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_414",
+        "User_Pain_Point": "视频通话时不能开特效",
+        "Actionable_Suggestion": "增加视频通话特效功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_415",
+        "User_Pain_Point": "刷抖音时不显示备注名称",
+        "Actionable_Suggestion": "在浏览视频时显示好友备注名称"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_416",
+        "User_Pain_Point": "切换账号后仍能收到私信，卸载重装无效",
+        "Actionable_Suggestion": "修复账号切换后私信接收逻辑，确保只接收当前账号私信"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_417",
+        "User_Pain_Point": "主页评论和点赞未适配智感握姿，左手操作不便",
+        "Actionable_Suggestion": "适配智感握姿，增加左手模式"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_418",
+        "User_Pain_Point": "缺少聊天气泡功能",
+        "Actionable_Suggestion": "增加聊天气泡功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_420",
+        "User_Pain_Point": "拍照不能选择比例，全屏显示",
+        "Actionable_Suggestion": "增加拍照比例选择功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_422",
+        "User_Pain_Point": "@功能不能保留上次@的记录",
+        "Actionable_Suggestion": "增加保留最近@记录的功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_424",
+        "User_Pain_Point": "打视频时没有缩小窗口功能，无法同时操作其他应用",
+        "Actionable_Suggestion": "添加视频通话小窗模式或悬浮窗功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_425",
+        "User_Pain_Point": "抖音小游戏功能不完善",
+        "Actionable_Suggestion": "加快完善小游戏功能，提升体验"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_426",
+        "User_Pain_Point": "小程序功能迟迟未上线",
+        "Actionable_Suggestion": "尽快上线小程序功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_427",
+        "User_Pain_Point": "分享功能仅限抖音好友，无法分享到其他平台",
+        "Actionable_Suggestion": "增加分享到微信、QQ等第三方平台的选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_428",
+        "User_Pain_Point": "缺少直播回放功能",
+        "Actionable_Suggestion": "增加直播回放功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_429",
+        "User_Pain_Point": "功能补齐速度太慢，如拍同款功能缺失",
+        "Actionable_Suggestion": "加快功能迭代速度，优先补齐呼声高的功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_430",
+        "User_Pain_Point": "直播间投票和积分功能下架后未恢复",
+        "Actionable_Suggestion": "恢复直播间投票和积分功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_432",
+        "User_Pain_Point": "无法设置聊天背景",
+        "Actionable_Suggestion": "增加聊天背景设置功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_433",
+        "User_Pain_Point": "缺少直接拉广告的功能",
+        "Actionable_Suggestion": "增加广告直接操作功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_434",
+        "User_Pain_Point": "缺少防烧屏模式",
+        "Actionable_Suggestion": "增加防烧屏模式"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_436",
+        "User_Pain_Point": "通知详情链接打不开，提示暂不支持",
+        "Actionable_Suggestion": "修复通知详情链接功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_437",
+        "User_Pain_Point": "无法编辑视频封面",
+        "Actionable_Suggestion": "增加视频封面编辑功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_437",
+        "User_Pain_Point": "缺少小火人世界功能",
+        "Actionable_Suggestion": "尽快上线小火人世界等功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_439",
+        "User_Pain_Point": "缺少日常动态和聊天气泡功能",
+        "Actionable_Suggestion": "增加日常动态和聊天气泡功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_440",
+        "User_Pain_Point": "横屏看直播无法选择画面比例",
+        "Actionable_Suggestion": "增加横屏直播画面比例选择功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_441",
+        "User_Pain_Point": "抖音查看历史订单不能查询具体账单",
+        "Actionable_Suggestion": "增加历史订单查询具体账单功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_442",
+        "User_Pain_Point": "不能复制群公告",
+        "Actionable_Suggestion": "增加复制群公告功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_443",
+        "User_Pain_Point": "鸿蒙版发作品画质非常模糊，1080p视频和2k图片被压成马赛克全损画质",
+        "Actionable_Suggestion": "优化鸿蒙版画质，避免过度压缩"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_444",
+        "User_Pain_Point": "发抖音设置不了定位",
+        "Actionable_Suggestion": "增加发作品时设置定位功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_445",
+        "User_Pain_Point": "QQ、微信登陆未开通",
+        "Actionable_Suggestion": "尽快支持QQ/微信登录"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_447",
+        "User_Pain_Point": "视频通话时美颜功能不完善",
+        "Actionable_Suggestion": "完善视频通话美颜功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_448",
+        "User_Pain_Point": "高清画质设置后仍很差",
+        "Actionable_Suggestion": "优化画质显示效果"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_449",
+        "User_Pain_Point": "打视频过程中无法退出继续刷抖音",
+        "Actionable_Suggestion": "允许视频通话时后台刷抖音"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_453",
+        "User_Pain_Point": "抖音算法有时非常恶毒",
+        "Actionable_Suggestion": "优化推荐算法，减少不良内容推荐"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_454",
+        "User_Pain_Point": "订单信息还是看不了",
+        "Actionable_Suggestion": "修复订单信息显示功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_454",
+        "User_Pain_Point": "登陆还没有切换账号",
+        "Actionable_Suggestion": "增加切换账号功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_455",
+        "User_Pain_Point": "为什么还没有即聊即撤回",
+        "Actionable_Suggestion": "添加消息撤回功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_457",
+        "User_Pain_Point": "同城还是没有啊",
+        "Actionable_Suggestion": "增加同城功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_458",
+        "User_Pain_Point": "为什么还没有同城啊？？？",
+        "Actionable_Suggestion": "增加同城功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_461",
+        "User_Pain_Point": "语音转文字功能缺失",
+        "Actionable_Suggestion": "建议增加语音转文字功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_462",
+        "User_Pain_Point": "无法查看消息",
+        "Actionable_Suggestion": "检查消息显示功能，修复看不到消息的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_463",
+        "User_Pain_Point": "无法查看日常内容",
+        "Actionable_Suggestion": "建议增加日常内容或功能入口"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_464",
+        "User_Pain_Point": "一起看功能不能发消息",
+        "Actionable_Suggestion": "建议支持一起看时发送消息"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_465",
+        "User_Pain_Point": "直播间管理功能缺失",
+        "Actionable_Suggestion": "建议尽快上线直播间管理功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_466",
+        "User_Pain_Point": "缺少视频节点功能",
+        "Actionable_Suggestion": "建议增加视频节点功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_467",
+        "User_Pain_Point": "缺少弹幕和投屏功能",
+        "Actionable_Suggestion": "建议增加弹幕和投屏功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_470",
+        "User_Pain_Point": "不支持修改好友备注名和不显示备注名",
+        "Actionable_Suggestion": "增加好友备注名修改和显示功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_472",
+        "User_Pain_Point": "用户希望有日常功能但缺失",
+        "Actionable_Suggestion": "增加日常模式或日常功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_474",
+        "User_Pain_Point": "弹幕功能未适配",
+        "Actionable_Suggestion": "适配并上线弹幕功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_475",
+        "User_Pain_Point": "抖音电话无法打开小窗",
+        "Actionable_Suggestion": "支持抖音电话小窗模式"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_477",
+        "User_Pain_Point": "直播聊天记录不可见",
+        "Actionable_Suggestion": "增加直播聊天记录查看功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_479",
+        "User_Pain_Point": "无法观看直播回放",
+        "Actionable_Suggestion": "增加直播回放功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_481",
+        "User_Pain_Point": "无法调节清晰度",
+        "Actionable_Suggestion": "增加清晰度调节选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_482",
+        "User_Pain_Point": "无法观看实时内容",
+        "Actionable_Suggestion": "增加实时观看功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_484",
+        "User_Pain_Point": "无法从评论弹幕消息列表跳转到原视频",
+        "Actionable_Suggestion": "完善跳转功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_485",
+        "User_Pain_Point": "和好友视频聊天功能太少",
+        "Actionable_Suggestion": "增加视频聊天功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_485",
+        "User_Pain_Point": "不能后台聊天",
+        "Actionable_Suggestion": "支持后台聊天"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_488",
+        "User_Pain_Point": "发视频不能编辑封面",
+        "Actionable_Suggestion": "增加编辑封面功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_489",
+        "User_Pain_Point": "对口型跟不上",
+        "Actionable_Suggestion": "优化对口型功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_490",
+        "User_Pain_Point": "不能更换作品封面",
+        "Actionable_Suggestion": "增加更换封面功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_491",
+        "User_Pain_Point": "抖音无障碍做的太差了，跟他反映过多少遍，一直不更新",
+        "Actionable_Suggestion": "优化无障碍功能，积极响应并更新反馈"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_493",
+        "User_Pain_Point": "抖音商城的物流信息看不到，点不开",
+        "Actionable_Suggestion": "完善商城物流信息显示功能，确保可查看和点击"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_494",
+        "User_Pain_Point": "热点功能还不行",
+        "Actionable_Suggestion": "优化热点功能，提升用户体验"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_495",
+        "User_Pain_Point": "直播60帧未开启",
+        "Actionable_Suggestion": "尽快支持直播60帧功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_496",
+        "User_Pain_Point": "发布视频不可以自定义封面",
+        "Actionable_Suggestion": "增加发布视频时自定义封面功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_497",
+        "User_Pain_Point": "清晰度不可以调节",
+        "Actionable_Suggestion": "增加视频清晰度调节选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_498",
+        "User_Pain_Point": "私聊分享视频和对话状态已读未读状态缺失",
+        "Actionable_Suggestion": "增加私聊分享视频功能和已读未读状态显示"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_499",
+        "User_Pain_Point": "找不到我的练歌房",
+        "Actionable_Suggestion": "明确练歌房入口或优化查找功能"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.ss.hm.ugc.aweme_192",
+        "User_Pain_Point": "期望日常发送功能得到更新。",
+        "Actionable_Suggestion": "评估并优化日常发送功能，提升便捷性或速度。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_338",
+        "User_Pain_Point": "用户不知道如何获取PK宝箱，缺少相关指引。",
+        "Actionable_Suggestion": "增加PK宝箱获取方法说明或引导。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_397",
+        "User_Pain_Point": "期待AI生成入口",
+        "Actionable_Suggestion": "增加AI生成入口"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.ss.hm.ugc.aweme_5",
+        "User_Pain_Point": "鸿蒙系统频繁更换API版本导致应用不稳定",
+        "Actionable_Suggestion": "加强鸿蒙系统版本兼容性测试，适配API变化"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_38",
+        "User_Pain_Point": "鸿蒙系统无法观看限时日常内容",
+        "Actionable_Suggestion": "适配鸿蒙系统，解决限时日常无法观看问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_52",
+        "User_Pain_Point": "6.1版本不适配，缺少拍同款功能",
+        "Actionable_Suggestion": "优化适配，增加拍同款功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_88",
+        "User_Pain_Point": "外屏未适配",
+        "Actionable_Suggestion": "适配外屏显示，确保正常使用"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_126",
+        "User_Pain_Point": "三折叠竖屏评论区只能显示一半",
+        "Actionable_Suggestion": "适配折叠屏竖屏显示，确保评论区域完整展示"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_154",
+        "User_Pain_Point": "小火人更多玩法系统不支持",
+        "Actionable_Suggestion": "适配更多系统版本以支持小火人更多玩法"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_160",
+        "User_Pain_Point": "游戏适配未兑现",
+        "Actionable_Suggestion": "完善游戏适配，确保宣传与实际一致"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_194",
+        "User_Pain_Point": "鸿蒙系统未适配视频通话小窗功能。",
+        "Actionable_Suggestion": "加快适配，支持视频通话小窗。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_232",
+        "User_Pain_Point": "华为手机不能修改视频的文字编辑",
+        "Actionable_Suggestion": "适配华为手机的视频文字编辑功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_235",
+        "User_Pain_Point": "抖音特效拍照模糊，像马赛克一样",
+        "Actionable_Suggestion": "优化华为手机上的特效拍照清晰度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_244",
+        "User_Pain_Point": "鸿蒙版的抖音对鸿蒙系统太不友好",
+        "Actionable_Suggestion": "优化鸿蒙版的适配性"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_258",
+        "User_Pain_Point": "鸿蒙系统更新慢",
+        "Actionable_Suggestion": "加快鸿蒙系统更新节奏"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_269",
+        "User_Pain_Point": "更新鸿蒙系统后聊天背景和气泡换不了",
+        "Actionable_Suggestion": "适配鸿蒙系统，恢复聊天背景和气泡更换功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_286",
+        "User_Pain_Point": "直播界面不能跟随屏幕旋转",
+        "Actionable_Suggestion": "适配鸿蒙系统，支持直播屏幕旋转"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_311",
+        "User_Pain_Point": "折叠屏抖音不支持作者主页分栏",
+        "Actionable_Suggestion": "适配折叠屏，支持作者主页分栏"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_314",
+        "User_Pain_Point": "鸿蒙系统CBA观看切换不了场次",
+        "Actionable_Suggestion": "解决鸿蒙系统上CBA场次切换问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_316",
+        "User_Pain_Point": "鸿蒙版抖音极速版等软件研发上架更新慢",
+        "Actionable_Suggestion": "加快鸿蒙版抖音极速版等软件的研发和上架"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_359",
+        "User_Pain_Point": "鸿蒙系统下部分小游戏无法运行",
+        "Actionable_Suggestion": "建议优化鸿蒙系统对小游戏的兼容性"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.ss.hm.ugc.aweme_446",
+        "User_Pain_Point": "用户希望抓紧适配鸿蒙并持续更新",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.ss.hm.ugc.aweme_4",
+        "User_Pain_Point": "后台切换时出现卡顿",
+        "Actionable_Suggestion": "优化应用后台切换的性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_5",
+        "User_Pain_Point": "刷视频卡顿严重，更新后无声",
+        "Actionable_Suggestion": "修复卡顿和音频丢失问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_9",
+        "User_Pain_Point": "同一视频重复播放时卡顿",
+        "Actionable_Suggestion": "修复重复播放卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_10",
+        "User_Pain_Point": "刷视频时卡顿，感觉在缓冲",
+        "Actionable_Suggestion": "优化视频缓冲机制，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_12",
+        "User_Pain_Point": "更新后流畅度差，感觉像40帧",
+        "Actionable_Suggestion": "优化性能，提升帧率"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_14",
+        "User_Pain_Point": "更新后刷视频偶尔音画不同步",
+        "Actionable_Suggestion": "修复音画同步问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_17",
+        "User_Pain_Point": "更新后出现卡顿，不是网速问题",
+        "Actionable_Suggestion": "优化更新后的性能表现"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_18",
+        "User_Pain_Point": "刷抖音经常卡着",
+        "Actionable_Suggestion": "修复卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_19",
+        "User_Pain_Point": "每次使用都一卡一卡",
+        "Actionable_Suggestion": "排查并修复卡顿原因"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_21",
+        "User_Pain_Point": "划到视频没声音，需重新滑动才有声音",
+        "Actionable_Suggestion": "修复滑动时视频声音丢失的bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_22",
+        "User_Pain_Point": "长按快进后画面卡住，声音仍在播放",
+        "Actionable_Suggestion": "修复长按快进后画面卡住的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_24",
+        "User_Pain_Point": "刷抖音时应用卡住",
+        "Actionable_Suggestion": "修复滑动时应用卡顿或卡死的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_26",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿现象"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_28",
+        "User_Pain_Point": "视频播放时无声",
+        "Actionable_Suggestion": "修复视频无声问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_28",
+        "User_Pain_Point": "视频播放时掉帧",
+        "Actionable_Suggestion": "优化性能，减少掉帧现象"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_32",
+        "User_Pain_Point": "直播间查看链接时卡死无响应",
+        "Actionable_Suggestion": "优化直播间链接加载性能，修复卡死问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_48",
+        "User_Pain_Point": "视频卡顿，看一半卡半天",
+        "Actionable_Suggestion": "建议优化性能，减少卡顿现象。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_49",
+        "User_Pain_Point": "刷着刷着音频会有一段时间没声音",
+        "Actionable_Suggestion": "建议修复音频丢失问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_50",
+        "User_Pain_Point": "手机横屏以后，会突然跳转到很久之前的视频去",
+        "Actionable_Suggestion": "建议修复横屏跳转Bug。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_55",
+        "User_Pain_Point": "刷视频卡顿，需上下翻动才有，其他安卓手机正常",
+        "Actionable_Suggestion": "优化性能，解决卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_56",
+        "User_Pain_Point": "视频播放不连续，很卡，排除网络原因",
+        "Actionable_Suggestion": "优化视频播放连续性"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_57",
+        "User_Pain_Point": "更新后刷视频卡顿严重",
+        "Actionable_Suggestion": "修复更新后卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_59",
+        "User_Pain_Point": "卡顿且与鸿蒙不匹配",
+        "Actionable_Suggestion": "优化鸿蒙系统适配"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_60",
+        "User_Pain_Point": "抖音卡顿，声音问题也导致卡顿感知",
+        "Actionable_Suggestion": "优化性能减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_63",
+        "User_Pain_Point": "版本38.7.0有bug：视频切换到桌面后重新播放，但第二次不会出现。",
+        "Actionable_Suggestion": "修复该版本中视频状态保存的bug，确保切换桌面后恢复播放进度。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_65",
+        "User_Pain_Point": "刷视频卡顿。",
+        "Actionable_Suggestion": "优化视频播放性能，减少卡顿。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_67",
+        "User_Pain_Point": "更新后无法打开，一直显示数据恢复中，且无法预估等待时间。",
+        "Actionable_Suggestion": "优化更新后数据恢复机制，显示进度条或预估时间，或允许跳过恢复直接使用。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_69",
+        "User_Pain_Point": "新版本太卡。",
+        "Actionable_Suggestion": "优化新版本性能，降低资源占用。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_71",
+        "User_Pain_Point": "刷几个视频就巨卡无比，不是网的问题，反应迟钝",
+        "Actionable_Suggestion": "优化视频播放卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_75",
+        "User_Pain_Point": "经常卡住和卡顿，同样的网络mate40pro没这种同题",
+        "Actionable_Suggestion": "优化特定设备（如Mate 80 Pro Max）上的卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_76",
+        "User_Pain_Point": "设置界面卡的要死",
+        "Actionable_Suggestion": "优化设置界面流畅度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_81",
+        "User_Pain_Point": "抖音商城卡顿，订单点击刷新缓慢",
+        "Actionable_Suggestion": "优化商城页面加载速度和订单刷新响应"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_83",
+        "User_Pain_Point": "滑动刷视频有卡顿问题",
+        "Actionable_Suggestion": "优化滑动流畅性，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_87",
+        "User_Pain_Point": "更新版本后进直播间和商城卡顿",
+        "Actionable_Suggestion": "优化更新后的性能，特别是直播间和商城模块"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_91",
+        "User_Pain_Point": "看视频卡爆了，卡的不动",
+        "Actionable_Suggestion": "优化视频播放性能，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_92",
+        "User_Pain_Point": "打开商城或直播买东西时卡成PPT",
+        "Actionable_Suggestion": "优化商城和直播页面的流畅度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_94",
+        "User_Pain_Point": "个别视频卡顿，音画不同步",
+        "Actionable_Suggestion": "优化视频播放性能，解决音画不同步问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_97",
+        "User_Pain_Point": "刷视频有时候会很卡",
+        "Actionable_Suggestion": "优化视频播放性能，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_98",
+        "User_Pain_Point": "抖音商城很卡",
+        "Actionable_Suggestion": "优化商城页面加载和响应速度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_99",
+        "User_Pain_Point": "更新之后音画不同步",
+        "Actionable_Suggestion": "修复音画不同步的Bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_101",
+        "User_Pain_Point": "刷视频一直卡顿，排除网络问题",
+        "Actionable_Suggestion": "优化视频播放性能，检查内存或渲染问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_104",
+        "User_Pain_Point": "声音偶尔忽大忽小",
+        "Actionable_Suggestion": "修复音频输出稳定性，确保音量一致"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_107",
+        "User_Pain_Point": "更新后音画不同步",
+        "Actionable_Suggestion": "修复音画同步问题，检查更新兼容性"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_108",
+        "User_Pain_Point": "最新版本加鸿蒙6.1后刷视频卡顿",
+        "Actionable_Suggestion": "优化视频播放性能，适配鸿蒙6.1"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_108",
+        "User_Pain_Point": "只有视频没声音或者只有声音没视频",
+        "Actionable_Suggestion": "修复音视频不同步或缺失问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_109",
+        "User_Pain_Point": "直播横屏观看按返回退出竖屏又回到横屏，无限循环退不出直播间",
+        "Actionable_Suggestion": "修复横竖屏切换逻辑，确保退出直播功能正常"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_111",
+        "User_Pain_Point": "应用不够流畅，有卡顿现象",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_112",
+        "User_Pain_Point": "横屏下侧边评论区点击不感兴趣后屏幕无响应",
+        "Actionable_Suggestion": "修复横屏下评论区交互bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_113",
+        "User_Pain_Point": "最近应用卡顿",
+        "Actionable_Suggestion": "排查卡顿原因并优化"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_118",
+        "User_Pain_Point": "刷视频时网络卡顿",
+        "Actionable_Suggestion": "优化网络加载策略，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_124",
+        "User_Pain_Point": "部分视频没有声音，需要反复刷新才能播放",
+        "Actionable_Suggestion": "排查音频播放问题，确保视频声音正常"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_125",
+        "User_Pain_Point": "抖音卡顿如幻灯片，频繁缓冲，无论WiFi还是流量",
+        "Actionable_Suggestion": "优化性能，减少卡顿和缓冲现象"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_128",
+        "User_Pain_Point": "偶尔断流，声音和画面不同步",
+        "Actionable_Suggestion": "优化网络连接稳定性，修复音画同步问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_129",
+        "User_Pain_Point": "什么都卡",
+        "Actionable_Suggestion": "全面优化性能，解决卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_132",
+        "User_Pain_Point": "网络正常但视频卡顿",
+        "Actionable_Suggestion": "优化视频播放卡顿问题，排查非网络因素导致的卡顿。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_133",
+        "User_Pain_Point": "刷抖音发热严重",
+        "Actionable_Suggestion": "优化应用功耗，减少设备发热。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_136",
+        "User_Pain_Point": "卡顿无法操作",
+        "Actionable_Suggestion": "修复卡顿问题，提升流畅度。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_137",
+        "User_Pain_Point": "视频卡住不动，网络正常，其他视频软件正常",
+        "Actionable_Suggestion": "排查并修复视频播放卡住问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_139",
+        "User_Pain_Point": "更新后视频卡顿",
+        "Actionable_Suggestion": "修复卡顿问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_139",
+        "User_Pain_Point": "更新后视频没声音",
+        "Actionable_Suggestion": "解决播放无声问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_140",
+        "User_Pain_Point": "上下滑动卡顿，播放卡顿",
+        "Actionable_Suggestion": "优化滑动和播放性能，减少卡顿。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_145",
+        "User_Pain_Point": "直播卡顿",
+        "Actionable_Suggestion": "优化直播播放性能，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_152",
+        "User_Pain_Point": "升级后视频卡顿严重",
+        "Actionable_Suggestion": "优化视频播放性能，修复卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_156",
+        "User_Pain_Point": "声音和图像不同步，图像卡顿",
+        "Actionable_Suggestion": "修复音画不同步和卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_162",
+        "User_Pain_Point": "画面卡住、断断续续，视频突然没有声音或音画不匹配",
+        "Actionable_Suggestion": "优化视频播放流畅性，修复音画同步问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_163",
+        "User_Pain_Point": "自动重播视频卡着不动，打开视频卡顿严重，与网络无关",
+        "Actionable_Suggestion": "修复自动重播卡住问题，优化视频加载流畅性"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_164",
+        "User_Pain_Point": "视频卡住不会自动缓冲，一直卡",
+        "Actionable_Suggestion": "优化缓冲机制，避免卡死"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_166",
+        "User_Pain_Point": "刷视频时无端卡顿，无论WiFi还是流量",
+        "Actionable_Suggestion": "优化整体流畅性，解决随机卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_168",
+        "User_Pain_Point": "更新后进入9宫格直播间黑屏显示不全",
+        "Actionable_Suggestion": "修复直播间显示问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_178",
+        "User_Pain_Point": "退出后播放打开时，再次进入，刷一个新的视频，上一个视频的声音和新视频的声音同时播放，高发！",
+        "Actionable_Suggestion": "修复声音叠加bug，确保退出后重新进入时音频正确停止"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_180",
+        "User_Pain_Point": "直播间添加购物车点几次没反应，几秒钟之后连续弹出几个添选SKU的界面，无法返回，只能杀死重来",
+        "Actionable_Suggestion": "优化直播间购物车响应，防止多次弹出，增加返回功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_182",
+        "User_Pain_Point": "应用卡顿严重。",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_187",
+        "User_Pain_Point": "更新后越来越卡，看几秒就卡死，有时完全看不见。",
+        "Actionable_Suggestion": "优化更新后的性能，减少卡顿。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_188",
+        "User_Pain_Point": "网络正常但刷视频时卡住不动。",
+        "Actionable_Suggestion": "修复视频播放卡死问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_189",
+        "User_Pain_Point": "观看直播bug严重（38.8测试版）。",
+        "Actionable_Suggestion": "修复测试版直播bug。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_193",
+        "User_Pain_Point": "经常断网，体验不好。",
+        "Actionable_Suggestion": "优化网络连接稳定性，减少断网情况。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_196",
+        "User_Pain_Point": "更新后应用卡顿。",
+        "Actionable_Suggestion": "优化更新后的性能，减少卡顿现象。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_198",
+        "User_Pain_Point": "刷视频经常卡顿。",
+        "Actionable_Suggestion": "优化视频流播放性能，减少卡顿。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_203",
+        "User_Pain_Point": "断流问题",
+        "Actionable_Suggestion": "优化网络连接稳定性"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_205",
+        "User_Pain_Point": "太卡了",
+        "Actionable_Suggestion": "优化应用流畅度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_209",
+        "User_Pain_Point": "刷着刷着就会卡着不动",
+        "Actionable_Suggestion": "修复卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_212",
+        "User_Pain_Point": "有时候没有声音",
+        "Actionable_Suggestion": "排查并修复音频播放异常问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_213",
+        "User_Pain_Point": "播放一半卡住，多次更新未修复",
+        "Actionable_Suggestion": "优化播放稳定性，解决卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_217",
+        "User_Pain_Point": "发热掉帧",
+        "Actionable_Suggestion": "优化性能，减少发热和掉帧"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_219",
+        "User_Pain_Point": "部分视频进去后没有声音，返回再进正常",
+        "Actionable_Suggestion": "修复首次进入视频无声的bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_220",
+        "User_Pain_Point": "刷视频时卡顿",
+        "Actionable_Suggestion": "优化滑动加载流畅度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_223",
+        "User_Pain_Point": "鸿蒙系统下刷抖音卡顿，更新后更严重",
+        "Actionable_Suggestion": "优化鸿蒙系统下抖音性能，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_226",
+        "User_Pain_Point": "6.1版本卡顿",
+        "Actionable_Suggestion": "优化6.1版本性能，解决卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_237",
+        "User_Pain_Point": "每次更新后流量消耗离谱，一小时用11G",
+        "Actionable_Suggestion": "优化网络请求，减少不必要的流量消耗"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_239",
+        "User_Pain_Point": "断网",
+        "Actionable_Suggestion": "修复网络连接稳定性问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_242",
+        "User_Pain_Point": "耗电异常，建议排查",
+        "Actionable_Suggestion": "排查耗电异常原因并进行优化"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_244",
+        "User_Pain_Point": "卡的要死，点都点不动",
+        "Actionable_Suggestion": "修复卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_248",
+        "User_Pain_Point": "卡顿死机",
+        "Actionable_Suggestion": "修复卡顿和死机问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_249",
+        "User_Pain_Point": "发布作品卡顿",
+        "Actionable_Suggestion": "优化发布作品流程的性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_250",
+        "User_Pain_Point": "越更新导致手机发热",
+        "Actionable_Suggestion": "优化更新版本，减少发热问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_251",
+        "User_Pain_Point": "抖音卡顿",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_255",
+        "User_Pain_Point": "更新后刷视频上翻反应迟钝",
+        "Actionable_Suggestion": "优化更新后的滑动响应性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_264",
+        "User_Pain_Point": "滑动不跟手",
+        "Actionable_Suggestion": "优化滑动流畅度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_268",
+        "User_Pain_Point": "刷新视频没声音几秒后又恢复",
+        "Actionable_Suggestion": "修复刷新视频声音丢失的bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_271",
+        "User_Pain_Point": "朋友分享的视频尺寸突然变大，小火人底下的文字也异常显示",
+        "Actionable_Suggestion": "修复视频和文字显示尺寸异常的bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_277",
+        "User_Pain_Point": "草稿箱里的视频丢失",
+        "Actionable_Suggestion": "修复草稿箱数据丢失问题，确保用户草稿安全存储"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_278",
+        "User_Pain_Point": "视频播放时偶尔上下波动",
+        "Actionable_Suggestion": "修复视频播放时画面波动的bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_283",
+        "User_Pain_Point": "视频播放结束后声音仍循环播放",
+        "Actionable_Suggestion": "修复音视频不同步问题，确保视频循环播放时声音同步"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_290",
+        "User_Pain_Point": "私信语音消息点击后响应延迟十几秒",
+        "Actionable_Suggestion": "优化私信语音播放性能，减少响应延迟"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_294",
+        "User_Pain_Point": "视频经常播着播着就不动了，更新后更卡",
+        "Actionable_Suggestion": "优化视频播放性能，减少卡顿和停止播放的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_295",
+        "User_Pain_Point": "应用非常卡顿，影响使用",
+        "Actionable_Suggestion": "全面优化应用性能，解决卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_298",
+        "User_Pain_Point": "点击内容反应慢，比卓易通的抖音极速版慢",
+        "Actionable_Suggestion": "提升响应速度，优化性能以对标竞品"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_300",
+        "User_Pain_Point": "更新后画面与声音出现延迟",
+        "Actionable_Suggestion": "修复音画不同步问题，确保更新后功能正常"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_302",
+        "User_Pain_Point": "更新后刷视频卡顿，视频加载慢",
+        "Actionable_Suggestion": "优化应用性能，减少更新后卡顿和加载时间"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_304",
+        "User_Pain_Point": "WiFi和流量环境均卡顿严重",
+        "Actionable_Suggestion": "优化网络加载策略，提升弱网环境流畅度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_307",
+        "User_Pain_Point": "卡顿时间太长，影响使用",
+        "Actionable_Suggestion": "优化应用流畅度，缩短卡顿持续时间"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_308",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "全面优化性能，提升响应速度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_313",
+        "User_Pain_Point": "推荐页音画不同步",
+        "Actionable_Suggestion": "修复推荐页音画不同步问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_322",
+        "User_Pain_Point": "经常卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿现象"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_327",
+        "User_Pain_Point": "更新后出现严重卡顿",
+        "Actionable_Suggestion": "修复更新导致的性能问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_332",
+        "User_Pain_Point": "更新后Pura X Max设备上视频画面抖动，评论区图片无法打开，影响使用。",
+        "Actionable_Suggestion": "修复视频画面抖动和评论区图片加载问题。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_343",
+        "User_Pain_Point": "看视频断断续续，不是网络问题，可能是bug",
+        "Actionable_Suggestion": "排查并修复视频播放卡顿bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_344",
+        "User_Pain_Point": "私聊界面超级卡，点小火人卡三秒才能出来",
+        "Actionable_Suggestion": "优化私聊界面性能，解决卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_356",
+        "User_Pain_Point": "多选图片后素材处理失败",
+        "Actionable_Suggestion": "建议修复素材处理失败的Bug，确保图片多选功能正常"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_363",
+        "User_Pain_Point": "动图播放第二遍时卡死",
+        "Actionable_Suggestion": "修复动图播放卡死问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_365",
+        "User_Pain_Point": "更新后无法进入抖音小程序的我的花园世界",
+        "Actionable_Suggestion": "修复更新后无法进入小程序的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_369",
+        "User_Pain_Point": "特定时间段内视频持续缓冲，用户网络正常",
+        "Actionable_Suggestion": "优化缓冲问题，排查服务器或客户端原因"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_372",
+        "User_Pain_Point": "自拍视频加特效卡顿",
+        "Actionable_Suggestion": "优化特效渲染性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_373",
+        "User_Pain_Point": "卡顿退不出来不流畅",
+        "Actionable_Suggestion": "优化卡顿和退不出的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_374",
+        "User_Pain_Point": "商品图片切换卡顿",
+        "Actionable_Suggestion": "优化切换性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_377",
+        "User_Pain_Point": "应用闪退",
+        "Actionable_Suggestion": "修复闪退问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_382",
+        "User_Pain_Point": "鸿蒙6.1系统抖音闪屏问题",
+        "Actionable_Suggestion": "针对鸿蒙6.1系统进行专项优化，修复闪屏bug，与华为团队协同测试。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_398",
+        "User_Pain_Point": "抖音特效卡顿",
+        "Actionable_Suggestion": "优化特效性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_413",
+        "User_Pain_Point": "应用特别卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_423",
+        "User_Pain_Point": "更新后应用变得超级卡顿",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_438",
+        "User_Pain_Point": "直播滑屏卡顿",
+        "Actionable_Suggestion": "优化直播滑屏性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_450",
+        "User_Pain_Point": "视频完播后重播只有声音画面定住",
+        "Actionable_Suggestion": "修复重播画面卡住的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_456",
+        "User_Pain_Point": "自己发布了视频，卡的要死，看不了",
+        "Actionable_Suggestion": "优化视频播放性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_460",
+        "User_Pain_Point": "来通知和调节音量等操作会让视频界面变糊",
+        "Actionable_Suggestion": "修复因通知和音量调节导致的渲染问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_469",
+        "User_Pain_Point": "发布文字后自定义贴纸点不了下一步",
+        "Actionable_Suggestion": "修复自定义贴纸时点不了下一步的bug"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_471",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_473",
+        "User_Pain_Point": "抖音比其他应用更容易卡顿",
+        "Actionable_Suggestion": "针对性优化抖音性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_478",
+        "User_Pain_Point": "多次拍摄视频导致应用死机，无法操作",
+        "Actionable_Suggestion": "修复拍摄卡死问题，优化录制性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_483",
+        "User_Pain_Point": "卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_485",
+        "User_Pain_Point": "刷视频时没声音",
+        "Actionable_Suggestion": "修复声音丢失问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_487",
+        "User_Pain_Point": "直播横屏卡顿、掉帧严重",
+        "Actionable_Suggestion": "优化直播横屏性能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_492",
+        "User_Pain_Point": "刷几个视频就会出现一个卡顿的视频，第一遍看完缓冲完看第二遍还是继续卡，要重新缓冲，WiFi和移动数据下都会卡，和网络没关系，从鸿蒙5开始就出现，现在越来越严重",
+        "Actionable_Suggestion": "优化视频播放性能，解决卡顿问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_500",
+        "User_Pain_Point": "刷抖音过程中，点开评论时抖屏幕，关掉评论时抖得更厉害",
+        "Actionable_Suggestion": "修复评论打开/关闭时屏幕抖动问题"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.ss.hm.ugc.aweme_6",
+        "User_Pain_Point": "横屏全屏观看时中间区域容易误触",
+        "Actionable_Suggestion": "优化横屏全屏触控区域，增加防误触机制"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_30",
+        "User_Pain_Point": "投稿活动页面需要更新",
+        "Actionable_Suggestion": "优化投稿活动页面的设计或交互流程"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_46",
+        "User_Pain_Point": "刚打开时静音",
+        "Actionable_Suggestion": "建议提供选项让用户选择是否开启初始静音。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_54",
+        "User_Pain_Point": "无法退出横屏直播，反复进入横屏",
+        "Actionable_Suggestion": "修复横屏直播退出逻辑"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_61",
+        "User_Pain_Point": "屏幕烧屏，加号图标无法隐藏或降低亮度。",
+        "Actionable_Suggestion": "提供加号图标的隐藏选项或降低亮度功能，防止烧屏。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_77",
+        "User_Pain_Point": "更新了，怎么评论回复，显示的乱七八糟的",
+        "Actionable_Suggestion": "修复评论回复显示布局问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_96",
+        "User_Pain_Point": "按键不灵敏，体验很差",
+        "Actionable_Suggestion": "优化按键响应灵敏度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_115",
+        "User_Pain_Point": "缺少对话框左滑功能，横屏锁屏旋转方向限制",
+        "Actionable_Suggestion": "增加对话框左滑功能，优化横屏锁屏旋转控制"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_149",
+        "User_Pain_Point": "购物页面字体适配不一致，大小不均难以阅读",
+        "Actionable_Suggestion": "优化购物页面字体大小适配不同机型"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_151",
+        "User_Pain_Point": "关闭评论区后不能立马划下一个视频，需要等待",
+        "Actionable_Suggestion": "优化滑动响应，减少关闭评论区后的延迟"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_167",
+        "User_Pain_Point": "快进播放时，不加速但下方依然显示加速条",
+        "Actionable_Suggestion": "修复加速条显示错误"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_179",
+        "User_Pain_Point": "评论键横屏状态经常点不开，太影响体验了",
+        "Actionable_Suggestion": "修复横屏状态下评论键点击无响应的问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_200",
+        "User_Pain_Point": "Pura X上文字位置过于靠上，与视频内容重叠。",
+        "Actionable_Suggestion": "调整文字位置，避免与视频内容重叠。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_272",
+        "User_Pain_Point": "聊天气泡不显示",
+        "Actionable_Suggestion": "修复聊天气泡显示问题"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_279",
+        "User_Pain_Point": "界面底部不够透明，希望像mate70air一样透明",
+        "Actionable_Suggestion": "增加界面底部透明度自定义选项，或参考mate70air设计进行优化"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_310",
+        "User_Pain_Point": "分屏时评论区从右侧出现且显示不全",
+        "Actionable_Suggestion": "优化分屏布局，确保评论区完整显示"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_330",
+        "User_Pain_Point": "底部未采用沉浸式设计",
+        "Actionable_Suggestion": "将底部改为沉浸式设计"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_333",
+        "User_Pain_Point": "升级系统后搜索栏字体太小，难以辨认。",
+        "Actionable_Suggestion": "调整搜索栏字体大小，提供可调节选项。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_371",
+        "User_Pain_Point": "加号那一排没有防烧屏暗化",
+        "Actionable_Suggestion": "优化UI亮度或增加防烧屏模式"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_375",
+        "User_Pain_Point": "订单界面不是全屏，体验差",
+        "Actionable_Suggestion": "适配全屏显示"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_431",
+        "User_Pain_Point": "屏幕黑边严重",
+        "Actionable_Suggestion": "优化屏幕黑边设计"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_433",
+        "User_Pain_Point": "缺少左滑删除对话框功能",
+        "Actionable_Suggestion": "增加左滑删除对话框功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_452",
+        "User_Pain_Point": "搜索页小横条还没完全沉浸适配",
+        "Actionable_Suggestion": "完成搜索页小横条沉浸适配"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_454",
+        "User_Pain_Point": "下巴还是那么大",
+        "Actionable_Suggestion": "优化界面布局，减小底部下巴区域"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_464",
+        "User_Pain_Point": "一起看功能不能最小化到聊天页面",
+        "Actionable_Suggestion": "建议增加最小化功能或悬浮窗"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_480",
+        "User_Pain_Point": "横屏侧边评论无法关闭，影响体验",
+        "Actionable_Suggestion": "提供关闭横屏侧边评论的选项"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.ss.hm.ugc.aweme_9",
+        "User_Pain_Point": "团购和活动广告过多，影响体验",
+        "Actionable_Suggestion": "控制广告展示频率，减少团购活动推送"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_11",
+        "User_Pain_Point": "举报机制被滥用，随意举报他人和家人",
+        "Actionable_Suggestion": "完善举报审核机制，防止恶意举报"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_13",
+        "User_Pain_Point": "应用市场不提示更新，但抖音内频繁提示升级",
+        "Actionable_Suggestion": "统一更新提示逻辑，避免不一致"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_20",
+        "User_Pain_Point": "更新后广告增多，之前没有广告",
+        "Actionable_Suggestion": "控制广告数量，避免过度增加"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_42",
+        "User_Pain_Point": "更新之后广告特别多，每刷两个视频就有一个广告",
+        "Actionable_Suggestion": "建议优化广告频率，减少广告数量。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_74",
+        "User_Pain_Point": "用手机号登都不行了？都有验证码了还要我身份信息呢？",
+        "Actionable_Suggestion": "简化登录流程，减少不必要的信息收集"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_79",
+        "User_Pain_Point": "为什么推荐不了我想推荐的视频，说刷视频刷太久了，应该禁止播放而不是禁止推荐",
+        "Actionable_Suggestion": "调整推荐限制策略，改为限制播放而非推荐"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_86",
+        "User_Pain_Point": "广告视频过多",
+        "Actionable_Suggestion": "减少广告频率或提供广告过滤选项"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_94",
+        "User_Pain_Point": "同一批视频反复推送，找客服至今未解决",
+        "Actionable_Suggestion": "优化推荐算法避免重复推送，提升客服处理效率"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_116",
+        "User_Pain_Point": "应用过度收集用户权限，获取手机型号信息",
+        "Actionable_Suggestion": "减少不必要权限收集，增强隐私透明度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_127",
+        "User_Pain_Point": "升级时每次都提示名额已满，无法批量升级",
+        "Actionable_Suggestion": "放宽升级名额限制，或支持分批升级"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_130",
+        "User_Pain_Point": "没有省钱卡，直播无大额优惠券，鸿蒙版无优惠",
+        "Actionable_Suggestion": "增加省钱卡、直播优惠券等运营活动，与安卓版同步"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_191",
+        "User_Pain_Point": "内测报名名额已满后仍提示更新，存在误导。",
+        "Actionable_Suggestion": "优化内测报名流程，名额满后不再向用户推送更新提示或明确告知名额已满。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_197",
+        "User_Pain_Point": "合集之间广告插入频繁，影响观看体验且质疑分成问题。",
+        "Actionable_Suggestion": "合理控制广告频率，考虑与合集博主分成或透明化广告规则。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_240",
+        "User_Pain_Point": "没有618活动卷",
+        "Actionable_Suggestion": "提供618活动优惠券"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_246",
+        "User_Pain_Point": "老是推荐不喜欢看的",
+        "Actionable_Suggestion": "改进推荐算法，提高内容匹配度"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_252",
+        "User_Pain_Point": "没有优惠券",
+        "Actionable_Suggestion": "增加优惠券发放或活动"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_288",
+        "User_Pain_Point": "直播中存在主播利用感情套路用户",
+        "Actionable_Suggestion": "加强对直播内容的审核和管控，尤其是情感类套路行为"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_319",
+        "User_Pain_Point": "审核不严，存在私生视频",
+        "Actionable_Suggestion": "加强审核，对私生视频严格处理"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_337",
+        "User_Pain_Point": "在未违规情况下视频和动图无法发布，流量差且内容发出去别人看不见，客服无法解决问题。",
+        "Actionable_Suggestion": "优化审核机制，提升内容可见性和流量分配，改善客服服务质量。"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_412",
+        "User_Pain_Point": "广告推广频繁，禁止类似视频后仍推送相同发布者的同类视频",
+        "Actionable_Suggestion": "优化广告推荐算法，用户禁止后不再推送同类内容"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_435",
+        "User_Pain_Point": "无法进行积分预言",
+        "Actionable_Suggestion": "恢复或增加积分预言功能"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_451",
+        "User_Pain_Point": "天天在那里乱审核我的视频，就一个肩膀不让发",
+        "Actionable_Suggestion": "优化审核模型，放宽对正常内容的审核标准"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_459",
+        "User_Pain_Point": "广告太多太密集了",
+        "Actionable_Suggestion": "减少广告数量或优化广告展示频率"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_476",
+        "User_Pain_Point": "用户质疑为什么是极速版（可能希望正式版功能）",
+        "Actionable_Suggestion": "明确版本定位，或考虑提供完整版"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_486",
+        "User_Pain_Point": "更新进度慢，对准安卓iOS",
+        "Actionable_Suggestion": "加快更新速度，全面对标安卓iOS"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_491",
+        "User_Pain_Point": "客服态度非常蛮横",
+        "Actionable_Suggestion": "加强客服培训，改善服务态度"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.ss.hm.ugc.aweme_8",
+        "User_Pain_Point": "赞赏深色模式舒适、举报响应快、视频推荐精准",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_29",
+        "User_Pain_Point": "用户表达整体使用很棒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_43",
+        "User_Pain_Point": "终于有直播间预言功能了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_103",
+        "User_Pain_Point": "抖音平台好，学会记录生活，心情变好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_161",
+        "User_Pain_Point": "没有商城，一个月省了不少钱",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_202",
+        "User_Pain_Point": "用户评价“不赖”，表示赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_214",
+        "User_Pain_Point": "很实用，超喜欢",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_225",
+        "User_Pain_Point": "用户表达赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_230",
+        "User_Pain_Point": "用户表达赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_247",
+        "User_Pain_Point": "非常好，今天能进去了，能发评论了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_262",
+        "User_Pain_Point": "挺好挺好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_276",
+        "User_Pain_Point": "应用很好用，很实用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_285",
+        "User_Pain_Point": "用户赞赏抖音",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_306",
+        "User_Pain_Point": "用户称赞应用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_309",
+        "User_Pain_Point": "应用好用，功能越来越完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_317",
+        "User_Pain_Point": "很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_323",
+        "User_Pain_Point": "整体体验不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_329",
+        "User_Pain_Point": "评价良好，表示满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_334",
+        "User_Pain_Point": "用户表示‘不错’，整体体验认可。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_341",
+        "User_Pain_Point": "用户表示‘挺好的’",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_381",
+        "User_Pain_Point": "很棒的软件",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_388",
+        "User_Pain_Point": "挺好的，没事打发时间，玩看看。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_390",
+        "User_Pain_Point": "抖音更新的真快，给工程师点赞👍",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_391",
+        "User_Pain_Point": "最新版与安卓版功能基本持平",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_396",
+        "User_Pain_Point": "逐步完善，感觉不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_408",
+        "User_Pain_Point": "更新速度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_410",
+        "User_Pain_Point": "用户很喜欢该应用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_421",
+        "User_Pain_Point": "用户整体体验良好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_452",
+        "User_Pain_Point": "主页小横条沉浸适配了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_460",
+        "User_Pain_Point": "主页的导航条修复了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_468",
+        "User_Pain_Point": "用户认为不错，快要追上安卓版了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_498",
+        "User_Pain_Point": "现在很好了",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.ss.hm.ugc.aweme_34",
+        "User_Pain_Point": "推荐了不喜欢的伤感文案",
+        "Actionable_Suggestion": "优化推荐算法，减少或允许用户屏蔽伤感文案类内容"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_221",
+        "User_Pain_Point": "收藏的音乐未上架",
+        "Actionable_Suggestion": "加快音乐版权合作，尽快上架收藏音乐"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_253",
+        "User_Pain_Point": "缺少小游戏",
+        "Actionable_Suggestion": "丰富小游戏内容"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_260",
+        "User_Pain_Point": "内容太多卖货",
+        "Actionable_Suggestion": "平衡内容类型，减少广告化内容"
+      },
+      {
+        "id": "com.ss.hm.ugc.aweme_405",
+        "User_Pain_Point": "视频内容过于猎奇",
+        "Actionable_Suggestion": "优化推荐算法，减少猎奇内容"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.ss.hm.ugc.aweme_15",
+        "User_Pain_Point": "用户赞赏作品很好",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.ss.hm.ugc.aweme_51",
+        "User_Pain_Point": "缺少八月手札内容",
+        "Actionable_Suggestion": "建议添加八月手札内容"
+      }
+    ]
+  }
+}

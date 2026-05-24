@@ -1,0 +1,2878 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.jd.hm.mall_3",
+        "User_Pain_Point": "外卖地址不能根据当前定位自动调整送货地址，而是优先选择默认地址",
+        "Actionable_Suggestion": "增加根据当前定位自动调整送货地址的功能。"
+      },
+      {
+        "id": "com.jd.hm.mall_7",
+        "User_Pain_Point": "换购商品没有搜索功能，太不方便了",
+        "Actionable_Suggestion": "在换购商品页面添加搜索功能。"
+      },
+      {
+        "id": "com.jd.hm.mall_8",
+        "User_Pain_Point": "点了商品页面图片还不能放大看，图片模糊一点都看不清",
+        "Actionable_Suggestion": "添加商品图片放大查看功能。"
+      },
+      {
+        "id": "com.jd.hm.mall_13",
+        "User_Pain_Point": "满额加购没有搜索功能，不好用，不如安卓版功能全",
+        "Actionable_Suggestion": "建议在满额加购页面增加搜索功能，以提升用户体验"
+      },
+      {
+        "id": "com.jd.hm.mall_14",
+        "User_Pain_Point": "竞拍没法出价格",
+        "Actionable_Suggestion": "修复竞拍出价功能，确保用户能正常参与竞拍"
+      },
+      {
+        "id": "com.jd.hm.mall_18",
+        "User_Pain_Point": "不支持深色模式",
+        "Actionable_Suggestion": "建议增加深色模式支持"
+      },
+      {
+        "id": "com.jd.hm.mall_19",
+        "User_Pain_Point": "直播间没有连麦功能",
+        "Actionable_Suggestion": "建议开启直播间连麦功能，提升互动体验"
+      },
+      {
+        "id": "com.jd.hm.mall_20",
+        "User_Pain_Point": "不支持面容支付",
+        "Actionable_Suggestion": "建议增加面容支付功能"
+      },
+      {
+        "id": "com.jd.hm.mall_24",
+        "User_Pain_Point": "换购界面无法搜索，缺少这个功能",
+        "Actionable_Suggestion": "在换购界面增加搜索功能"
+      },
+      {
+        "id": "com.jd.hm.mall_27",
+        "User_Pain_Point": "缺少支付宝支付",
+        "Actionable_Suggestion": "增加支付宝支付方式"
+      },
+      {
+        "id": "com.jd.hm.mall_29",
+        "User_Pain_Point": "缺少华为支付和支付宝支付，且没有支付顺序设置",
+        "Actionable_Suggestion": "增加华为支付和支付宝支付，并提供支付顺序设置选项"
+      },
+      {
+        "id": "com.jd.hm.mall_32",
+        "User_Pain_Point": "付款时密码输入框无法输入英文字母，仅能输入数字，京东自营付款异常而京东惊喜正常",
+        "Actionable_Suggestion": "修复密码输入框对英文字母的支持"
+      },
+      {
+        "id": "com.jd.hm.mall_34",
+        "User_Pain_Point": "换肤功能长期未开发，用户多次反馈无果",
+        "Actionable_Suggestion": "开发并上线换肤功能"
+      },
+      {
+        "id": "com.jd.hm.mall_44",
+        "User_Pain_Point": "能不能不要用网页套壳",
+        "Actionable_Suggestion": "采用原生开发，提升用户体验。"
+      },
+      {
+        "id": "com.jd.hm.mall_46",
+        "User_Pain_Point": "不能安装",
+        "Actionable_Suggestion": "修复安装问题，确保兼容性。"
+      },
+      {
+        "id": "com.jd.hm.mall_52",
+        "User_Pain_Point": "下单外卖后一单变多单，评价繁琐",
+        "Actionable_Suggestion": "优化下单流程，合并订单，简化评价操作"
+      },
+      {
+        "id": "com.jd.hm.mall_61",
+        "User_Pain_Point": "视频无法播放",
+        "Actionable_Suggestion": "修复视频播放功能"
+      },
+      {
+        "id": "com.jd.hm.mall_64",
+        "User_Pain_Point": "缺少暗黑模式，夜晚使用亮眼",
+        "Actionable_Suggestion": "添加暗黑模式"
+      },
+      {
+        "id": "com.jd.hm.mall_65",
+        "User_Pain_Point": "不支持京东E卡功能",
+        "Actionable_Suggestion": "添加京东E卡支持"
+      },
+      {
+        "id": "com.jd.hm.mall_70",
+        "User_Pain_Point": "缺少暗黑模式",
+        "Actionable_Suggestion": "添加暗黑模式"
+      },
+      {
+        "id": "com.jd.hm.mall_74",
+        "User_Pain_Point": "修改订单时选择时间滑动到最后一个日期会返回第一个，无法选择最后两个日期",
+        "Actionable_Suggestion": "修复日期选择滑动逻辑Bug，确保所有日期可选"
+      },
+      {
+        "id": "com.jd.hm.mall_82",
+        "User_Pain_Point": "购买页面体验非常差",
+        "Actionable_Suggestion": "优化购买页面性能与加载速度"
+      },
+      {
+        "id": "com.jd.hm.mall_86",
+        "User_Pain_Point": "京东直播间领京豆图标需要优化",
+        "Actionable_Suggestion": "优化直播间领京豆图标的设计或交互"
+      },
+      {
+        "id": "com.jd.hm.mall_88",
+        "User_Pain_Point": "医保支付功能未适配",
+        "Actionable_Suggestion": "尽快适配医保支付功能"
+      },
+      {
+        "id": "com.jd.hm.mall_91",
+        "User_Pain_Point": "需要适配3D人脸功能",
+        "Actionable_Suggestion": "适配3D人脸功能"
+      },
+      {
+        "id": "com.jd.hm.mall_99",
+        "User_Pain_Point": "购买的保险功能点进去白屏，未更新",
+        "Actionable_Suggestion": "修复保险功能，更新内容"
+      },
+      {
+        "id": "com.jd.hm.mall_108",
+        "User_Pain_Point": "设置中缺少字体大小调整功能，对视力不佳者不友好",
+        "Actionable_Suggestion": "在设置中添加字体大小调整功能"
+      },
+      {
+        "id": "com.jd.hm.mall_110",
+        "User_Pain_Point": "暂不支持商家小额收款功能",
+        "Actionable_Suggestion": "开发并接入商家小额收款功能"
+      },
+      {
+        "id": "com.jd.hm.mall_114",
+        "User_Pain_Point": "存储占用过大（10G）",
+        "Actionable_Suggestion": "优化存储占用，减少不必要数据缓存"
+      },
+      {
+        "id": "com.jd.hm.mall_122",
+        "User_Pain_Point": "外卖配送极慢，等待时间过长",
+        "Actionable_Suggestion": "优化配送流程，提高配送效率"
+      },
+      {
+        "id": "com.jd.hm.mall_127",
+        "User_Pain_Point": "外卖配送迟到半个多小时，准时宝未发挥作用",
+        "Actionable_Suggestion": "完善准时宝机制，确保配送时效"
+      },
+      {
+        "id": "com.jd.hm.mall_135",
+        "User_Pain_Point": "商家红包显示不出，无法领取",
+        "Actionable_Suggestion": "修复红包显示领取功能"
+      },
+      {
+        "id": "com.jd.hm.mall_136",
+        "User_Pain_Point": "缺少排序和筛选功能（销量、评价、价格排序，品牌、物流筛选）",
+        "Actionable_Suggestion": "增加商品列表的排序和筛选功能"
+      },
+      {
+        "id": "com.jd.hm.mall_137",
+        "User_Pain_Point": "消息一直显示未读，即使对方已读",
+        "Actionable_Suggestion": "修复消息已读状态同步问题"
+      },
+      {
+        "id": "com.jd.hm.mall_139",
+        "User_Pain_Point": "换购商品无法搜索",
+        "Actionable_Suggestion": "增加换购商品搜索功能"
+      },
+      {
+        "id": "com.jd.hm.mall_141",
+        "User_Pain_Point": "没有深夜（深黑）模式",
+        "Actionable_Suggestion": "增加深色模式支持"
+      },
+      {
+        "id": "com.jd.hm.mall_144",
+        "User_Pain_Point": "外卖无法点单，一直显示排队",
+        "Actionable_Suggestion": "优化外卖下单排队机制，提高成功率"
+      },
+      {
+        "id": "com.jd.hm.mall_147",
+        "User_Pain_Point": "深色模式未上线",
+        "Actionable_Suggestion": "尽快开发并上线深色模式"
+      },
+      {
+        "id": "com.jd.hm.mall_150",
+        "User_Pain_Point": "客服聊天中保存的图片在图库中不显示",
+        "Actionable_Suggestion": "修复图片保存到图库的功能"
+      },
+      {
+        "id": "com.jd.hm.mall_153",
+        "User_Pain_Point": "不支持支付宝支付",
+        "Actionable_Suggestion": "增加支付宝支付接口"
+      },
+      {
+        "id": "com.jd.hm.mall_155",
+        "User_Pain_Point": "评论时上传图片失败，无法显示",
+        "Actionable_Suggestion": "修复评论图片上传功能"
+      },
+      {
+        "id": "com.jd.hm.mall_155",
+        "User_Pain_Point": "支付时不支持结构光刷脸，强制使用低安全级别的刷脸方式且亮度过高",
+        "Actionable_Suggestion": "优化支付刷脸体验，支持结构光识别并控制屏幕亮度"
+      },
+      {
+        "id": "com.jd.hm.mall_156",
+        "User_Pain_Point": "不支持医保个人账户订单支付",
+        "Actionable_Suggestion": "增加医保个账支付功能"
+      },
+      {
+        "id": "com.jd.hm.mall_164",
+        "User_Pain_Point": "功能繁琐无用",
+        "Actionable_Suggestion": "简化功能，去除冗余或低频功能"
+      },
+      {
+        "id": "com.jd.hm.mall_168",
+        "User_Pain_Point": "很多商品页面无法打开",
+        "Actionable_Suggestion": "修复商品页面加载问题，确保链接可访问"
+      },
+      {
+        "id": "com.jd.hm.mall_169",
+        "User_Pain_Point": "期待抖音编辑作品功能但未提供",
+        "Actionable_Suggestion": "评估增加抖音编辑作品功能或引导用户使用抖音"
+      },
+      {
+        "id": "com.jd.hm.mall_171",
+        "User_Pain_Point": "没有深色模式",
+        "Actionable_Suggestion": "建议增加深色模式"
+      },
+      {
+        "id": "com.jd.hm.mall_172",
+        "User_Pain_Point": "适配深色模式了吗？",
+        "Actionable_Suggestion": "建议增加深色模式"
+      },
+      {
+        "id": "com.jd.hm.mall_173",
+        "User_Pain_Point": "什么时候支持医保买药",
+        "Actionable_Suggestion": "建议增加医保买药功能"
+      },
+      {
+        "id": "com.jd.hm.mall_175",
+        "User_Pain_Point": "主题没有选择",
+        "Actionable_Suggestion": "建议增加主题选择功能"
+      },
+      {
+        "id": "com.jd.hm.mall_181",
+        "User_Pain_Point": "字体改不全",
+        "Actionable_Suggestion": "优化字体设置功能，确保所有界面字体统一可修改"
+      },
+      {
+        "id": "com.jd.hm.mall_183",
+        "User_Pain_Point": "选商品加购物车时反应慢导致下错单",
+        "Actionable_Suggestion": "优化加购响应速度，增加操作确认环节防止误触"
+      },
+      {
+        "id": "com.jd.hm.mall_186",
+        "User_Pain_Point": "外卖评价时没法选中照片",
+        "Actionable_Suggestion": "修复外卖评价照片选择功能，确保相册访问正常"
+      },
+      {
+        "id": "com.jd.hm.mall_187",
+        "User_Pain_Point": "搜索结果不准确，搜荣耀出现杂牌机",
+        "Actionable_Suggestion": "改进搜索算法，确保关键词匹配准确，过滤无关商品"
+      },
+      {
+        "id": "com.jd.hm.mall_207",
+        "User_Pain_Point": "列表页显示价格与付款页不一致，差异几百元，影响下单决策",
+        "Actionable_Suggestion": "修复价格显示不一致问题，确保列表页价格与最终支付价格一致"
+      },
+      {
+        "id": "com.jd.hm.mall_215",
+        "User_Pain_Point": "无法写评论",
+        "Actionable_Suggestion": "修复评论功能"
+      },
+      {
+        "id": "com.jd.hm.mall_223",
+        "User_Pain_Point": "网页套壳体验，每次需要验证",
+        "Actionable_Suggestion": "优化验证流程或采用原生实现"
+      },
+      {
+        "id": "com.jd.hm.mall_229",
+        "User_Pain_Point": "客服对话无法发送相册照片",
+        "Actionable_Suggestion": "增加相册照片选择功能"
+      },
+      {
+        "id": "com.jd.hm.mall_232",
+        "User_Pain_Point": "聊天信息发送后不主动点击客服聊天看不到消息，但有提示，疑似bug",
+        "Actionable_Suggestion": "修复聊天消息显示bug"
+      },
+      {
+        "id": "com.jd.hm.mall_233",
+        "User_Pain_Point": "数据存储有问题，需卸载重装才正常",
+        "Actionable_Suggestion": "修复数据存储bug"
+      },
+      {
+        "id": "com.jd.hm.mall_234",
+        "User_Pain_Point": "缺少深色模式适配",
+        "Actionable_Suggestion": "尽快适配深色模式"
+      },
+      {
+        "id": "com.jd.hm.mall_237",
+        "User_Pain_Point": "评价添加图片时提示视频时长不能少于3秒，逻辑错误",
+        "Actionable_Suggestion": "修复评价图片上传的错误提示逻辑"
+      },
+      {
+        "id": "com.jd.hm.mall_251",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "建议增加深色模式功能"
+      },
+      {
+        "id": "com.jd.hm.mall_251",
+        "User_Pain_Point": "实况照片被错误识别为视频且无法发送",
+        "Actionable_Suggestion": "修复实况照片识别问题，允许正常发送"
+      },
+      {
+        "id": "com.jd.hm.mall_254",
+        "User_Pain_Point": "客服功能不完善",
+        "Actionable_Suggestion": "完善客服功能，提升用户体验"
+      },
+      {
+        "id": "com.jd.hm.mall_260",
+        "User_Pain_Point": "实况窗功能消失",
+        "Actionable_Suggestion": "恢复实况窗功能或提供替代方案"
+      },
+      {
+        "id": "com.jd.hm.mall_262",
+        "User_Pain_Point": "打开评论时提示无网络，无法加载评论内容",
+        "Actionable_Suggestion": "优化评论加载机制，确保网络正常时能正确加载"
+      },
+      {
+        "id": "com.jd.hm.mall_264",
+        "User_Pain_Point": "App占用存储空间达19GB，过大",
+        "Actionable_Suggestion": "优化存储管理，减少缓存占用，提供清理功能"
+      },
+      {
+        "id": "com.jd.hm.mall_265",
+        "User_Pain_Point": "无法调节字体大小，导致看不到物流通知",
+        "Actionable_Suggestion": "添加字体大小调节功能，并确保物流通知正常显示"
+      },
+      {
+        "id": "com.jd.hm.mall_268",
+        "User_Pain_Point": "缺少黑暗模式，希望添加",
+        "Actionable_Suggestion": "开发并上线黑暗模式功能"
+      },
+      {
+        "id": "com.jd.hm.mall_276",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "增加夜间模式功能"
+      },
+      {
+        "id": "com.jd.hm.mall_280",
+        "User_Pain_Point": "面容支付功能缺失",
+        "Actionable_Suggestion": "开发并上线面容支付功能"
+      },
+      {
+        "id": "com.jd.hm.mall_284",
+        "User_Pain_Point": "购物车的换购页面无法搜索商品啊",
+        "Actionable_Suggestion": "增加换购页面搜索功能"
+      },
+      {
+        "id": "com.jd.hm.mall_296",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "增加深色模式功能"
+      },
+      {
+        "id": "com.jd.hm.mall_297",
+        "User_Pain_Point": "每天都需要重新登录",
+        "Actionable_Suggestion": "优化登录状态保持，减少重新登录频率"
+      },
+      {
+        "id": "com.jd.hm.mall_301",
+        "User_Pain_Point": "客服聊天框每次进去卡顿，等同于微信小程序",
+        "Actionable_Suggestion": "优化客服聊天框性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_302",
+        "User_Pain_Point": "点击搜索栏和“我的订单”非常卡顿",
+        "Actionable_Suggestion": "优化搜索栏和“我的订单”页面性能"
+      },
+      {
+        "id": "com.jd.hm.mall_303",
+        "User_Pain_Point": "换购页面缺少搜索功能",
+        "Actionable_Suggestion": "在换购页面增加搜索功能"
+      },
+      {
+        "id": "com.jd.hm.mall_307",
+        "User_Pain_Point": "京东直播领红包比更新前还慢",
+        "Actionable_Suggestion": "优化直播领红包功能性能"
+      },
+      {
+        "id": "com.jd.hm.mall_316",
+        "User_Pain_Point": "京豆抽奖图标缺失",
+        "Actionable_Suggestion": "检查功能入口，添加缺失的图标"
+      },
+      {
+        "id": "com.jd.hm.mall_324",
+        "User_Pain_Point": "外卖功能体验差",
+        "Actionable_Suggestion": "改进外卖功能，提升用户体验"
+      },
+      {
+        "id": "com.jd.hm.mall_332",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "尽快开发并上线深色模式"
+      },
+      {
+        "id": "com.jd.hm.mall_334",
+        "User_Pain_Point": "刷脸支付未接入系统3D人脸",
+        "Actionable_Suggestion": "接入系统3D人脸识别以支持刷脸支付"
+      },
+      {
+        "id": "com.jd.hm.mall_343",
+        "User_Pain_Point": "更新了6.1，商品列表里就是个1.0版本的感觉，什么选项都没有",
+        "Actionable_Suggestion": "完善商品列表功能，增加筛选、排序等选项"
+      },
+      {
+        "id": "com.jd.hm.mall_345",
+        "User_Pain_Point": "支付界面没有华为支付选项",
+        "Actionable_Suggestion": "增加华为支付选项"
+      },
+      {
+        "id": "com.jd.hm.mall_351",
+        "User_Pain_Point": "无法分屏，太差了",
+        "Actionable_Suggestion": "建议增加分屏功能"
+      },
+      {
+        "id": "com.jd.hm.mall_354",
+        "User_Pain_Point": "客服聊天发送视频链接没法打开",
+        "Actionable_Suggestion": "修复聊天中视频链接无法打开的问题"
+      },
+      {
+        "id": "com.jd.hm.mall_354",
+        "User_Pain_Point": "鸿蒙系统京东app只能单账号使用，没法多账号切换，不方便",
+        "Actionable_Suggestion": "增加多账号切换功能"
+      },
+      {
+        "id": "com.jd.hm.mall_355",
+        "User_Pain_Point": "什么时候能支持3D面容支付，不是刷脸支付",
+        "Actionable_Suggestion": "建议支持3D面容支付"
+      },
+      {
+        "id": "com.jd.hm.mall_359",
+        "User_Pain_Point": "价保的功能什么时候可以用",
+        "Actionable_Suggestion": "建议尽快上线价保功能"
+      },
+      {
+        "id": "com.jd.hm.mall_365",
+        "User_Pain_Point": "超值换购鸿蒙版没有搜索框，功能不齐全",
+        "Actionable_Suggestion": "添加搜索框功能，确保与iOS/Android版本功能对齐。"
+      },
+      {
+        "id": "com.jd.hm.mall_368",
+        "User_Pain_Point": "推送太随机，基本不及时",
+        "Actionable_Suggestion": "优化推送机制，确保及时送达，可增加用户自定义推送频率选项。"
+      },
+      {
+        "id": "com.jd.hm.mall_368",
+        "User_Pain_Point": "部分物流信息需要订阅微信公众号通过微信推送",
+        "Actionable_Suggestion": "在鸿蒙版内集成物流信息推送功能，减少对第三方依赖。"
+      },
+      {
+        "id": "com.jd.hm.mall_371",
+        "User_Pain_Point": "购物应用体积过大，占用3GB空间",
+        "Actionable_Suggestion": "优化应用体积，减少不必要的资源文件，提供精简版本"
+      },
+      {
+        "id": "com.jd.hm.mall_372",
+        "User_Pain_Point": "原版分类树功能被移除，用户无法找到",
+        "Actionable_Suggestion": "恢复原版分类树功能或提供类似导航方式"
+      },
+      {
+        "id": "com.jd.hm.mall_375",
+        "User_Pain_Point": "签到功能异常，页面空白且图标消失",
+        "Actionable_Suggestion": "修复签到功能，确保图标正常显示和交互可用"
+      },
+      {
+        "id": "com.jd.hm.mall_378",
+        "User_Pain_Point": "应用缓存数据过大，清理后仍有15GB，只能卸载重装",
+        "Actionable_Suggestion": "优化缓存管理机制，提供有效的清理工具或自动清理策略"
+      },
+      {
+        "id": "com.jd.hm.mall_379",
+        "User_Pain_Point": "以旧换新模块无法点击打开",
+        "Actionable_Suggestion": "修复以旧换新模块的点击响应问题，确保功能正常访问"
+      },
+      {
+        "id": "com.jd.hm.mall_384",
+        "User_Pain_Point": "占用存储高达20多G，存储过大",
+        "Actionable_Suggestion": "优化存储管理，清理不必要的缓存和数据"
+      },
+      {
+        "id": "com.jd.hm.mall_386",
+        "User_Pain_Point": "挂断客服电话后连续被拨打多次",
+        "Actionable_Suggestion": "修复客服系统重复拨打电话的bug，增加挂断后不再重拨的逻辑"
+      },
+      {
+        "id": "com.jd.hm.mall_387",
+        "User_Pain_Point": "搜索不到信息",
+        "Actionable_Suggestion": "排查搜索功能问题，确保搜索结果正确显示"
+      },
+      {
+        "id": "com.jd.hm.mall_389",
+        "User_Pain_Point": "APP占用6个G内存",
+        "Actionable_Suggestion": "优化内存管理，减少内存占用"
+      },
+      {
+        "id": "com.jd.hm.mall_389",
+        "User_Pain_Point": "缓存无法清理",
+        "Actionable_Suggestion": "增加缓存清理功能，允许用户手动清理"
+      },
+      {
+        "id": "com.jd.hm.mall_400",
+        "User_Pain_Point": "东东农场抽10京豆任务缺失浏览任务",
+        "Actionable_Suggestion": "补充东东农场浏览任务功能"
+      },
+      {
+        "id": "com.jd.hm.mall_400",
+        "User_Pain_Point": "看视频活动倒计时转盘缺失，无法参加活动",
+        "Actionable_Suggestion": "补充看视频活动倒计时转盘功能"
+      },
+      {
+        "id": "com.jd.hm.mall_400",
+        "User_Pain_Point": "国家补贴百亿补贴助力不成功",
+        "Actionable_Suggestion": "修复国家补贴助力功能"
+      },
+      {
+        "id": "com.jd.hm.mall_400",
+        "User_Pain_Point": "欢乐挖宝任务不全",
+        "Actionable_Suggestion": "完善欢乐挖宝任务列表"
+      },
+      {
+        "id": "com.jd.hm.mall_405",
+        "User_Pain_Point": "不支持支付宝支付",
+        "Actionable_Suggestion": "增加支付宝支付方式"
+      },
+      {
+        "id": "com.jd.hm.mall_407",
+        "User_Pain_Point": "存在开屏广告",
+        "Actionable_Suggestion": "去除或减少开屏广告"
+      },
+      {
+        "id": "com.jd.hm.mall_412",
+        "User_Pain_Point": "小程序套壳，体验差",
+        "Actionable_Suggestion": "建议进行原生开发，提升应用体验"
+      },
+      {
+        "id": "com.jd.hm.mall_412",
+        "User_Pain_Point": "没有深色模式",
+        "Actionable_Suggestion": "建议增加深色模式"
+      },
+      {
+        "id": "com.jd.hm.mall_420",
+        "User_Pain_Point": "从5.0到6.1版本未增加暗黑模式",
+        "Actionable_Suggestion": "建议尽快增加暗黑模式"
+      },
+      {
+        "id": "com.jd.hm.mall_421",
+        "User_Pain_Point": "更新还慢",
+        "Actionable_Suggestion": "优化更新机制，实现增量更新，加快更新速度"
+      },
+      {
+        "id": "com.jd.hm.mall_424",
+        "User_Pain_Point": "体积太大了将近20个g",
+        "Actionable_Suggestion": "减小安装包体积，建议控制在合理范围内"
+      },
+      {
+        "id": "com.jd.hm.mall_426",
+        "User_Pain_Point": "还不能用医保买药",
+        "Actionable_Suggestion": "增加医保支付买药功能"
+      },
+      {
+        "id": "com.jd.hm.mall_428",
+        "User_Pain_Point": "能不能降级，我想回到之前版本",
+        "Actionable_Suggestion": "提供版本降级通道，允许用户回退到稳定版本"
+      },
+      {
+        "id": "com.jd.hm.mall_431",
+        "User_Pain_Point": "打开应用出现开屏广告",
+        "Actionable_Suggestion": "建议去掉开屏广告或提供关闭选项"
+      },
+      {
+        "id": "com.jd.hm.mall_432",
+        "User_Pain_Point": "更新6.1版本后出现开屏广告，其他应用没有",
+        "Actionable_Suggestion": "建议移除开屏广告或提供关闭选项"
+      },
+      {
+        "id": "com.jd.hm.mall_436",
+        "User_Pain_Point": "京东直播缺少领京豆图标",
+        "Actionable_Suggestion": "建议在京东直播页面添加领京豆图标"
+      },
+      {
+        "id": "com.jd.hm.mall_438",
+        "User_Pain_Point": "新版本评论页面不能提交照片，只能提交视频",
+        "Actionable_Suggestion": "建议修复评论照片上传功能"
+      },
+      {
+        "id": "com.jd.hm.mall_442",
+        "User_Pain_Point": "应用臃肿，集成了太多无关功能",
+        "Actionable_Suggestion": "精简功能，去除冗余模块"
+      },
+      {
+        "id": "com.jd.hm.mall_444",
+        "User_Pain_Point": "缺少puls会员皮肤和图标，忽视会员权益",
+        "Actionable_Suggestion": "增加puls会员专属皮肤和图标功能"
+      },
+      {
+        "id": "com.jd.hm.mall_447",
+        "User_Pain_Point": "客服聊天不能发送照片",
+        "Actionable_Suggestion": "增加客服聊天发送图片功能"
+      },
+      {
+        "id": "com.jd.hm.mall_448",
+        "User_Pain_Point": "不能代付，支付功能缺失",
+        "Actionable_Suggestion": "增加代付功能"
+      },
+      {
+        "id": "com.jd.hm.mall_453",
+        "User_Pain_Point": "商品详情页无法直接选择规格，必须在加入购物车过程中才能选择",
+        "Actionable_Suggestion": "在商品详情页增加规格选择功能"
+      },
+      {
+        "id": "com.jd.hm.mall_459",
+        "User_Pain_Point": "动态照片被误识别为视频，且要求视频不能短于3秒，导致用户上传图片困难",
+        "Actionable_Suggestion": "优化图片上传识别逻辑，区分动态照片和视频，并调整时长限制"
+      },
+      {
+        "id": "com.jd.hm.mall_464",
+        "User_Pain_Point": "京东应用占用存储空间过大，达到10GB，用户不满。",
+        "Actionable_Suggestion": "优化应用存储占用，清理缓存和不必要数据。"
+      },
+      {
+        "id": "com.jd.hm.mall_466",
+        "User_Pain_Point": "京东E卡绑定需要手动输入号码，操作麻烦，希望增加拍照识别功能。",
+        "Actionable_Suggestion": "增加E卡号码拍照识别功能，提高绑定效率。"
+      },
+      {
+        "id": "com.jd.hm.mall_475",
+        "User_Pain_Point": "新版本鸿蒙系统无法显示实况窗外卖",
+        "Actionable_Suggestion": "检查并修复实况窗功能对鸿蒙系统的适配"
+      },
+      {
+        "id": "com.jd.hm.mall_476",
+        "User_Pain_Point": "没有字体大小调节选项，对视力不佳的用户不友好",
+        "Actionable_Suggestion": "增加字体大小调节功能"
+      },
+      {
+        "id": "com.jd.hm.mall_479",
+        "User_Pain_Point": "看不了评论区，即使重新卸载安装问题依旧",
+        "Actionable_Suggestion": "检查并修复评论区加载异常的问题"
+      },
+      {
+        "id": "com.jd.hm.mall_480",
+        "User_Pain_Point": "消息功能无法发送图片",
+        "Actionable_Suggestion": "修复消息中图片发送功能"
+      },
+      {
+        "id": "com.jd.hm.mall_481",
+        "User_Pain_Point": "客服聊天界面图片发送功能不可用，体验差。",
+        "Actionable_Suggestion": "修复聊天界面图片发送功能，优化上传流程。"
+      },
+      {
+        "id": "com.jd.hm.mall_482",
+        "User_Pain_Point": "没有深色模式设置，且设置中没有开关。",
+        "Actionable_Suggestion": "增加深色模式选项，支持跟随系统或手动切换。"
+      },
+      {
+        "id": "com.jd.hm.mall_483",
+        "User_Pain_Point": "平板分栏显示功能缺失，影响多任务操作。",
+        "Actionable_Suggestion": "开发平板分栏显示功能，根据屏幕尺寸自适应布局。"
+      },
+      {
+        "id": "com.jd.hm.mall_484",
+        "User_Pain_Point": "购买商品时无法选择规格（如颜色、尺码），直接跳转到付款页面，导致用户被迫接受默认规格。",
+        "Actionable_Suggestion": "修复SKU选择流程，确保用户在点击购买时先弹出规格选择界面，确认后再进入付款。"
+      },
+      {
+        "id": "com.jd.hm.mall_484",
+        "User_Pain_Point": "SKU选择功能缺失，与其他购物APP流程不一致。",
+        "Actionable_Suggestion": "恢复或完善SKU选择功能，让用户自主选择商品规格后再付款。"
+      },
+      {
+        "id": "com.jd.hm.mall_495",
+        "User_Pain_Point": "搜索框反应太慢",
+        "Actionable_Suggestion": "优化搜索框的响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_496",
+        "User_Pain_Point": "点开“问大家”后无法返回",
+        "Actionable_Suggestion": "修复“问大家”页面的返回功能"
+      },
+      {
+        "id": "com.jd.hm.mall_500",
+        "User_Pain_Point": "无法跳转医保结算",
+        "Actionable_Suggestion": "修复医保结算跳转功能"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.jd.hm.mall_491",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "增加夜间模式功能"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.jd.hm.mall_93",
+        "User_Pain_Point": "折叠屏未适配左右屏",
+        "Actionable_Suggestion": "适配折叠屏左右屏显示"
+      },
+      {
+        "id": "com.jd.hm.mall_97",
+        "User_Pain_Point": "折叠屏仅放大显示，未做适配优化",
+        "Actionable_Suggestion": "优化折叠屏显示，避免纯放大"
+      },
+      {
+        "id": "com.jd.hm.mall_105",
+        "User_Pain_Point": "鸿蒙系统下不弹出9.4折优惠券，而其他手机正常",
+        "Actionable_Suggestion": "检查并修复鸿蒙系统下的优惠券弹出逻辑"
+      },
+      {
+        "id": "com.jd.hm.mall_113",
+        "User_Pain_Point": "在鸿蒙手机上耗电快",
+        "Actionable_Suggestion": "优化鸿蒙版本的功耗"
+      },
+      {
+        "id": "com.jd.hm.mall_120",
+        "User_Pain_Point": "鸿蒙版滑动卡顿",
+        "Actionable_Suggestion": "优化鸿蒙版本的滑动流畅性"
+      },
+      {
+        "id": "com.jd.hm.mall_170",
+        "User_Pain_Point": "深色模式适配延迟",
+        "Actionable_Suggestion": "尽快适配深色模式以提升夜间使用体验"
+      },
+      {
+        "id": "com.jd.hm.mall_223",
+        "User_Pain_Point": "鸿蒙版京东外卖点击进店显示访问人数过多，而安卓正常",
+        "Actionable_Suggestion": "排查鸿蒙版与安卓服务端差异，确保功能一致"
+      },
+      {
+        "id": "com.jd.hm.mall_246",
+        "User_Pain_Point": "平板端是手机移植版，横屏不能全屏显示",
+        "Actionable_Suggestion": "优化平板适配，支持横屏全屏显示"
+      },
+      {
+        "id": "com.jd.hm.mall_285",
+        "User_Pain_Point": "什么时候支持面容",
+        "Actionable_Suggestion": "适配面容支付功能"
+      },
+      {
+        "id": "com.jd.hm.mall_287",
+        "User_Pain_Point": "啥时候能适配面容支付界面",
+        "Actionable_Suggestion": "适配面容支付界面"
+      },
+      {
+        "id": "com.jd.hm.mall_304",
+        "User_Pain_Point": "适配有问题，京东打开后非常卡",
+        "Actionable_Suggestion": "优化不同机型的适配，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_321",
+        "User_Pain_Point": "鸿蒙系统兼容性不佳导致卡顿",
+        "Actionable_Suggestion": "优化鸿蒙系统兼容性，提升适配表现"
+      },
+      {
+        "id": "com.jd.hm.mall_349",
+        "User_Pain_Point": "支付密码不能调用加密键盘，只能调起输入法键盘，不能支持英文字符输入",
+        "Actionable_Suggestion": "适配鸿蒙系统，支持加密键盘"
+      },
+      {
+        "id": "com.jd.hm.mall_417",
+        "User_Pain_Point": "MatePad不支持分屏功能",
+        "Actionable_Suggestion": "建议适配平板分屏功能"
+      },
+      {
+        "id": "com.jd.hm.mall_424",
+        "User_Pain_Point": "不是原生app,套壳",
+        "Actionable_Suggestion": "采用鸿蒙原生开发，避免套壳导致的性能问题"
+      },
+      {
+        "id": "com.jd.hm.mall_427",
+        "User_Pain_Point": "软件适配太差劲了",
+        "Actionable_Suggestion": "优化不同机型的适配，确保各设备流畅运行"
+      },
+      {
+        "id": "com.jd.hm.mall_450",
+        "User_Pain_Point": "华为X6在抖音中不能打开京东，跳转功能异常",
+        "Actionable_Suggestion": "适配华为X6机型在抖音中的跳转功能"
+      },
+      {
+        "id": "com.jd.hm.mall_454",
+        "User_Pain_Point": "与客服沟通时无法调取系统相册中的照片或视频",
+        "Actionable_Suggestion": "适配系统相册访问权限，支持在客服聊天中发送图片/视频"
+      },
+      {
+        "id": "com.jd.hm.mall_457",
+        "User_Pain_Point": "未适配平板电脑模式，不能全屏显示",
+        "Actionable_Suggestion": "适配平板电脑全屏显示模式"
+      },
+      {
+        "id": "com.jd.hm.mall_472",
+        "User_Pain_Point": "平板横屏模式下完全未适配",
+        "Actionable_Suggestion": "针对平板进行横屏适配优化"
+      },
+      {
+        "id": "com.jd.hm.mall_473",
+        "User_Pain_Point": "应用在华为Mate 60 Pro+上不兼容，导致卡顿发烫",
+        "Actionable_Suggestion": "优化兼容性，解决特定机型的卡顿发烫问题"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.jd.hm.mall_1",
+        "User_Pain_Point": "操作非常不顺畅",
+        "Actionable_Suggestion": "优化操作流畅度，减少卡顿。"
+      },
+      {
+        "id": "com.jd.hm.mall_2",
+        "User_Pain_Point": "App占用存储过大，固定占用3.5G",
+        "Actionable_Suggestion": "优化存储占用，减少缓存或允许用户清理。"
+      },
+      {
+        "id": "com.jd.hm.mall_6",
+        "User_Pain_Point": "之前一路升级，后来卡顿严重，卸载，重新安装后，正常",
+        "Actionable_Suggestion": "优化升级后的性能，避免卡顿问题。"
+      },
+      {
+        "id": "com.jd.hm.mall_9",
+        "User_Pain_Point": "触控响应慢或者干脆无响应，画面掉帧卡顿，体验极差",
+        "Actionable_Suggestion": "优化触控响应速度和画面流畅度。"
+      },
+      {
+        "id": "com.jd.hm.mall_10",
+        "User_Pain_Point": "客服界面卡顿",
+        "Actionable_Suggestion": "优化客服界面流畅度。"
+      },
+      {
+        "id": "com.jd.hm.mall_11",
+        "User_Pain_Point": "内存占用高达23个G，占用空间过大",
+        "Actionable_Suggestion": "优化内存占用，减少存储空间消耗"
+      },
+      {
+        "id": "com.jd.hm.mall_12",
+        "User_Pain_Point": "软件太卡，掉帧严重",
+        "Actionable_Suggestion": "优化性能，减少卡顿和掉帧"
+      },
+      {
+        "id": "com.jd.hm.mall_15",
+        "User_Pain_Point": "手机发热严重",
+        "Actionable_Suggestion": "优化功耗，降低发热"
+      },
+      {
+        "id": "com.jd.hm.mall_15",
+        "User_Pain_Point": "卡顿",
+        "Actionable_Suggestion": "优化性能，解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_16",
+        "User_Pain_Point": "最近应用卡顿严重",
+        "Actionable_Suggestion": "优化应用性能，解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_23",
+        "User_Pain_Point": "软件占用空间很大，堪比3A大作",
+        "Actionable_Suggestion": "优化软件体积，减少存储占用"
+      },
+      {
+        "id": "com.jd.hm.mall_25",
+        "User_Pain_Point": "鸿蒙加载最卡，卡顿严重",
+        "Actionable_Suggestion": "优化应用启动和页面加载速度"
+      },
+      {
+        "id": "com.jd.hm.mall_28",
+        "User_Pain_Point": "很卡，鸿蒙最卡的App",
+        "Actionable_Suggestion": "全面优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_30",
+        "User_Pain_Point": "更新后非常卡",
+        "Actionable_Suggestion": "优化更新后的性能，修复卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_31",
+        "User_Pain_Point": "应用卡顿，其他软件正常，京东超级慢",
+        "Actionable_Suggestion": "优化应用性能，特别是加载和响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_33",
+        "User_Pain_Point": "安卓版和鸿蒙版均存在卡顿问题",
+        "Actionable_Suggestion": "全面优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_37",
+        "User_Pain_Point": "京东APP卡顿严重",
+        "Actionable_Suggestion": "优化应用性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_38",
+        "User_Pain_Point": "使用不丝滑，卡顿，体验差",
+        "Actionable_Suggestion": "优化动画和交互流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_39",
+        "User_Pain_Point": "应用太卡",
+        "Actionable_Suggestion": "整体性能优化"
+      },
+      {
+        "id": "com.jd.hm.mall_42",
+        "User_Pain_Point": "卡",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿问题。"
+      },
+      {
+        "id": "com.jd.hm.mall_43",
+        "User_Pain_Point": "有点卡，刚开始用的时候物流非常快，现在越来越慢了",
+        "Actionable_Suggestion": "优化应用性能，解决卡顿问题。"
+      },
+      {
+        "id": "com.jd.hm.mall_44",
+        "User_Pain_Point": "卡的很",
+        "Actionable_Suggestion": "优化性能，减少卡顿。"
+      },
+      {
+        "id": "com.jd.hm.mall_45",
+        "User_Pain_Point": "卡顿严重，反应特别慢。",
+        "Actionable_Suggestion": "优化性能，提高响应速度。"
+      },
+      {
+        "id": "com.jd.hm.mall_47",
+        "User_Pain_Point": "打开软件发热严重",
+        "Actionable_Suggestion": "优化功耗管理，减少发热。"
+      },
+      {
+        "id": "com.jd.hm.mall_48",
+        "User_Pain_Point": "好卡，越往下划越卡，是所有购物app中最卡的",
+        "Actionable_Suggestion": "优化列表滑动性能。"
+      },
+      {
+        "id": "com.jd.hm.mall_49",
+        "User_Pain_Point": "点击里边的内容反应慢，点我的订单 4 秒才能出来。最近才是这样的",
+        "Actionable_Suggestion": "优化点击响应速度，排查最近更新导致的问题。"
+      },
+      {
+        "id": "com.jd.hm.mall_50",
+        "User_Pain_Point": "玩里面的小游戏或者跳转页面，卡的很，尤其是小游戏有时候卡的还没十年前流畅",
+        "Actionable_Suggestion": "优化小游戏性能，提升跳转页面流畅度。"
+      },
+      {
+        "id": "com.jd.hm.mall_53",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_56",
+        "User_Pain_Point": "应用卡出天际",
+        "Actionable_Suggestion": "优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_57",
+        "User_Pain_Point": "应用卡顿和发热",
+        "Actionable_Suggestion": "优化性能和功耗管理"
+      },
+      {
+        "id": "com.jd.hm.mall_58",
+        "User_Pain_Point": "上下滑动卡顿",
+        "Actionable_Suggestion": "优化渲染和列表性能"
+      },
+      {
+        "id": "com.jd.hm.mall_59",
+        "User_Pain_Point": "搜索和订单页面卡成白页",
+        "Actionable_Suggestion": "修复白页问题，优化加载速度"
+      },
+      {
+        "id": "com.jd.hm.mall_62",
+        "User_Pain_Point": "搜索点进去卡顿未解决",
+        "Actionable_Suggestion": "优化搜索页面性能"
+      },
+      {
+        "id": "com.jd.hm.mall_63",
+        "User_Pain_Point": "App卡顿",
+        "Actionable_Suggestion": "优化整体性能"
+      },
+      {
+        "id": "com.jd.hm.mall_66",
+        "User_Pain_Point": "卡顿严重",
+        "Actionable_Suggestion": "优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_68",
+        "User_Pain_Point": "严重卡顿，首页搜索白屏",
+        "Actionable_Suggestion": "修复搜索白屏并优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_71",
+        "User_Pain_Point": "主页向下滑动时掉帧严重",
+        "Actionable_Suggestion": "优化主页列表滑动性能，减少掉帧现象"
+      },
+      {
+        "id": "com.jd.hm.mall_72",
+        "User_Pain_Point": "更新后体验不流畅，声称的全面升级未体现",
+        "Actionable_Suggestion": "重新评估性能优化方案，确保实际体验与宣传一致"
+      },
+      {
+        "id": "com.jd.hm.mall_73",
+        "User_Pain_Point": "鸿蒙中最卡的App，所有功能模块都卡顿",
+        "Actionable_Suggestion": "进行全面性能优化，重点解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_75",
+        "User_Pain_Point": "每次打开客服聊天界面都需要加载，延迟高",
+        "Actionable_Suggestion": "优化客服聊天界面加载速度，实现预加载或缓存"
+      },
+      {
+        "id": "com.jd.hm.mall_76",
+        "User_Pain_Point": "应用程序整体运行卡顿严重",
+        "Actionable_Suggestion": "整体性能优化，解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_77",
+        "User_Pain_Point": "搜索界面和购物车界面滑动卡顿",
+        "Actionable_Suggestion": "优化搜索界面和购物车界面的滑动流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_79",
+        "User_Pain_Point": "存储占用高达8GB，怀疑后台异常占用",
+        "Actionable_Suggestion": "优化存储管理，降低App存储占用"
+      },
+      {
+        "id": "com.jd.hm.mall_81",
+        "User_Pain_Point": "截屏时异常卡顿和发热",
+        "Actionable_Suggestion": "优化截屏时的性能和功耗"
+      },
+      {
+        "id": "com.jd.hm.mall_85",
+        "User_Pain_Point": "切换界面第一下滑动必卡",
+        "Actionable_Suggestion": "优化滑动切换界面的流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_87",
+        "User_Pain_Point": "刷京东有点卡顿",
+        "Actionable_Suggestion": "优化整体流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_90",
+        "User_Pain_Point": "太卡太卡，要求优化流畅",
+        "Actionable_Suggestion": "优化流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_92",
+        "User_Pain_Point": "越更新越卡，不流畅",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_95",
+        "User_Pain_Point": "APP卡顿严重",
+        "Actionable_Suggestion": "优化流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_95",
+        "User_Pain_Point": "APP使用期间发热严重",
+        "Actionable_Suggestion": "优化功耗，减少发热"
+      },
+      {
+        "id": "com.jd.hm.mall_96",
+        "User_Pain_Point": "打开APP严重发热",
+        "Actionable_Suggestion": "优化启动功耗"
+      },
+      {
+        "id": "com.jd.hm.mall_96",
+        "User_Pain_Point": "掉电很快",
+        "Actionable_Suggestion": "优化电池续航"
+      },
+      {
+        "id": "com.jd.hm.mall_96",
+        "User_Pain_Point": "手机变得很卡",
+        "Actionable_Suggestion": "优化流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_98",
+        "User_Pain_Point": "太卡了",
+        "Actionable_Suggestion": "优化流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_100",
+        "User_Pain_Point": "卡顿导致半截白屏",
+        "Actionable_Suggestion": "完善代码，防止白屏"
+      },
+      {
+        "id": "com.jd.hm.mall_101",
+        "User_Pain_Point": "应用卡顿严重，影响京东购物和点外卖使用体验",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿，参考淘宝流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_102",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_103",
+        "User_Pain_Point": "经常有小卡顿，流畅度不如竞品",
+        "Actionable_Suggestion": "优化卡顿问题，提升流畅度至竞品水平"
+      },
+      {
+        "id": "com.jd.hm.mall_104",
+        "User_Pain_Point": "应用非常卡顿",
+        "Actionable_Suggestion": "优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_106",
+        "User_Pain_Point": "鸿蒙系统下京东APP卡顿，流畅度不如其他购物软件",
+        "Actionable_Suggestion": "针对鸿蒙系统进行性能优化"
+      },
+      {
+        "id": "com.jd.hm.mall_107",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_109",
+        "User_Pain_Point": "升级到6.0后出现卡顿",
+        "Actionable_Suggestion": "排查并修复升级后的卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_111",
+        "User_Pain_Point": "App卡顿，性能下降",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_115",
+        "User_Pain_Point": "反应迟钝，不流畅",
+        "Actionable_Suggestion": "提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_119",
+        "User_Pain_Point": "启动卡顿，响应慢",
+        "Actionable_Suggestion": "优化启动速度"
+      },
+      {
+        "id": "com.jd.hm.mall_114",
+        "User_Pain_Point": "App卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_121",
+        "User_Pain_Point": "应用非常卡顿，是鸿蒙上最卡的app",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_124",
+        "User_Pain_Point": "应用感觉很卡，存在普遍卡顿现象",
+        "Actionable_Suggestion": "排查并修复卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_125",
+        "User_Pain_Point": "更新后依然卡顿，未改善",
+        "Actionable_Suggestion": "持续优化性能，确保更新后流畅"
+      },
+      {
+        "id": "com.jd.hm.mall_126",
+        "User_Pain_Point": "应用占用存储空间过大，几天就占8个多G",
+        "Actionable_Suggestion": "优化存储管理，减少缓存占用"
+      },
+      {
+        "id": "com.jd.hm.mall_128",
+        "User_Pain_Point": "应用卡顿严重，卡到头疼",
+        "Actionable_Suggestion": "紧急优化性能，解决严重卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_129",
+        "User_Pain_Point": "鸿蒙京东APP太卡，需要好好优化",
+        "Actionable_Suggestion": "针对鸿蒙系统进行深度优化"
+      },
+      {
+        "id": "com.jd.hm.mall_130",
+        "User_Pain_Point": "订单页面、二级菜单、进入app时都卡顿掉帧",
+        "Actionable_Suggestion": "优化页面加载和动画流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_131",
+        "User_Pain_Point": "选择商品规格时卡顿约1分钟无响应",
+        "Actionable_Suggestion": "优化商品规格选择页面的性能，减少卡顿现象"
+      },
+      {
+        "id": "com.jd.hm.mall_132",
+        "User_Pain_Point": "App卡顿",
+        "Actionable_Suggestion": "优化应用整体性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_133",
+        "User_Pain_Point": "发热严重",
+        "Actionable_Suggestion": "优化功耗管理，降低发热"
+      },
+      {
+        "id": "com.jd.hm.mall_138",
+        "User_Pain_Point": "运行慢且卡顿，不如淘宝",
+        "Actionable_Suggestion": "优化应用响应速度和流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_140",
+        "User_Pain_Point": "长时间无改进，仍卡顿，不如微信小程序",
+        "Actionable_Suggestion": "持续优化性能，提升用户体验"
+      },
+      {
+        "id": "com.jd.hm.mall_142",
+        "User_Pain_Point": "应用非常卡顿",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_145",
+        "User_Pain_Point": "应用太卡，需要升级",
+        "Actionable_Suggestion": "进行性能优化更新"
+      },
+      {
+        "id": "com.jd.hm.mall_146",
+        "User_Pain_Point": "点击后卡顿约5秒",
+        "Actionable_Suggestion": "修复响应延迟问题"
+      },
+      {
+        "id": "com.jd.hm.mall_151",
+        "User_Pain_Point": "鸿蒙系统下京东App运行速度慢",
+        "Actionable_Suggestion": "优化App启动和运行速度"
+      },
+      {
+        "id": "com.jd.hm.mall_152",
+        "User_Pain_Point": "在Mate X7上使用京东时出现卡顿和点击不响应",
+        "Actionable_Suggestion": "排查卡顿原因，提升触摸响应性能"
+      },
+      {
+        "id": "com.jd.hm.mall_152",
+        "User_Pain_Point": "打开京东后发热严重，卡顿明显",
+        "Actionable_Suggestion": "优化CPU和内存使用，减少发热"
+      },
+      {
+        "id": "com.jd.hm.mall_154",
+        "User_Pain_Point": "长时间刷京东后出现卡顿和手机发热",
+        "Actionable_Suggestion": "优化长时间使用场景下的性能和功耗"
+      },
+      {
+        "id": "com.jd.hm.mall_159",
+        "User_Pain_Point": "App运行卡顿",
+        "Actionable_Suggestion": "优化App性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_162",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿现象"
+      },
+      {
+        "id": "com.jd.hm.mall_164",
+        "User_Pain_Point": "应用臃肿，优化不足导致卡顿",
+        "Actionable_Suggestion": "精简应用体积，加强性能优化"
+      },
+      {
+        "id": "com.jd.hm.mall_166",
+        "User_Pain_Point": "APP卡顿且未优化",
+        "Actionable_Suggestion": "进行性能优化，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_167",
+        "User_Pain_Point": "鸿蒙版京东打开巨卡",
+        "Actionable_Suggestion": "针对鸿蒙系统进行专项性能优化"
+      },
+      {
+        "id": "com.jd.hm.mall_172",
+        "User_Pain_Point": "卡卡卡",
+        "Actionable_Suggestion": "建议优化性能减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_174",
+        "User_Pain_Point": "跟客服的聊天不能更新，需要重新退出APP再打开才能更新",
+        "Actionable_Suggestion": "建议修复聊天消息刷新问题"
+      },
+      {
+        "id": "com.jd.hm.mall_176",
+        "User_Pain_Point": "每次打开，卡的要死，尤其是进订单和客服，点几次都没有反应",
+        "Actionable_Suggestion": "建议优化订单和客服页面加载速度"
+      },
+      {
+        "id": "com.jd.hm.mall_177",
+        "User_Pain_Point": "非常卡顿，主页卡、购物车卡、查看全部订单卡",
+        "Actionable_Suggestion": "建议全面优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_179",
+        "User_Pain_Point": "京东太卡了  不好用",
+        "Actionable_Suggestion": "建议优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_180",
+        "User_Pain_Point": "卡顿，手机发热",
+        "Actionable_Suggestion": "建议优化性能减少发热"
+      },
+      {
+        "id": "com.jd.hm.mall_181",
+        "User_Pain_Point": "APP优化差",
+        "Actionable_Suggestion": "全面优化APP性能，提升启动速度和流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_182",
+        "User_Pain_Point": "卡顿严重，恨不得卸载",
+        "Actionable_Suggestion": "重点优化卡顿问题，提升用户操作体验"
+      },
+      {
+        "id": "com.jd.hm.mall_183",
+        "User_Pain_Point": "选商品加购物车时反应慢",
+        "Actionable_Suggestion": "优化加购物车响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_184",
+        "User_Pain_Point": "太卡了，像半成品",
+        "Actionable_Suggestion": "大幅提升流畅度，完善产品成熟度"
+      },
+      {
+        "id": "com.jd.hm.mall_185",
+        "User_Pain_Point": "越更新越卡",
+        "Actionable_Suggestion": "查明性能退化原因，优化更新策略"
+      },
+      {
+        "id": "com.jd.hm.mall_191",
+        "User_Pain_Point": "流畅度一般，加载有点慢。",
+        "Actionable_Suggestion": "优化页面加载速度和动画流畅度。"
+      },
+      {
+        "id": "com.jd.hm.mall_192",
+        "User_Pain_Point": "应用比之前更卡。",
+        "Actionable_Suggestion": "检查性能退化原因，回归优化。"
+      },
+      {
+        "id": "com.jd.hm.mall_193",
+        "User_Pain_Point": "应用很卡，越来越卡。",
+        "Actionable_Suggestion": "持续优化性能，排查卡顿原因。"
+      },
+      {
+        "id": "com.jd.hm.mall_194",
+        "User_Pain_Point": "应用极其卡顿。",
+        "Actionable_Suggestion": "紧急修复卡顿问题，提升流畅度。"
+      },
+      {
+        "id": "com.jd.hm.mall_195",
+        "User_Pain_Point": "在PURA X上使用非常卡。",
+        "Actionable_Suggestion": "针对PURA X机型进行性能优化。"
+      },
+      {
+        "id": "com.jd.hm.mall_196",
+        "User_Pain_Point": "卡顿严重，体验像拨号上网。",
+        "Actionable_Suggestion": "大幅提升响应速度。"
+      },
+      {
+        "id": "com.jd.hm.mall_197",
+        "User_Pain_Point": "应用卡顿，数月没有改进。",
+        "Actionable_Suggestion": "持续优化性能，及时修复卡顿问题。"
+      },
+      {
+        "id": "com.jd.hm.mall_198",
+        "User_Pain_Point": "浏览商品和购物车页面卡顿掉帧。",
+        "Actionable_Suggestion": "优化商品列表和购物车的渲染性能。"
+      },
+      {
+        "id": "com.jd.hm.mall_199",
+        "User_Pain_Point": "流畅度差，刷新商品卡顿。",
+        "Actionable_Suggestion": "提升商品浏览刷新流畅度。"
+      },
+      {
+        "id": "com.jd.hm.mall_200",
+        "User_Pain_Point": "应用太卡，持续掉帧。",
+        "Actionable_Suggestion": "解决掉帧问题，保证稳定帧率。"
+      },
+      {
+        "id": "com.jd.hm.mall_201",
+        "User_Pain_Point": "应用卡死，无法正常使用",
+        "Actionable_Suggestion": "优化性能，修复卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_202",
+        "User_Pain_Point": "应用非常卡顿，用户体验差",
+        "Actionable_Suggestion": "优化性能，提高流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_203",
+        "User_Pain_Point": "应用耗电快且消耗大量流量",
+        "Actionable_Suggestion": "优化电量消耗和网络流量使用"
+      },
+      {
+        "id": "com.jd.hm.mall_204",
+        "User_Pain_Point": "应用卡顿，体验比同类购物应用差",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_205",
+        "User_Pain_Point": "界面滚动卡顿，其他应用正常",
+        "Actionable_Suggestion": "优化界面滚动性能"
+      },
+      {
+        "id": "com.jd.hm.mall_208",
+        "User_Pain_Point": "应用卡顿，需要优化",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_210",
+        "User_Pain_Point": "应用出现卡顿现象",
+        "Actionable_Suggestion": "排查并修复卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_212",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿现象"
+      },
+      {
+        "id": "com.jd.hm.mall_214",
+        "User_Pain_Point": "应用卡顿，一视同仁的卡",
+        "Actionable_Suggestion": "优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_216",
+        "User_Pain_Point": "APP太卡，而元服务流畅",
+        "Actionable_Suggestion": "参考元服务优化APP性能"
+      },
+      {
+        "id": "com.jd.hm.mall_217",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_217",
+        "User_Pain_Point": "占用空间大",
+        "Actionable_Suggestion": "优化内存管理，减小应用体积"
+      },
+      {
+        "id": "com.jd.hm.mall_218",
+        "User_Pain_Point": "应用非常卡顿",
+        "Actionable_Suggestion": "优化性能，解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_219",
+        "User_Pain_Point": "怀疑套壳网页，卡顿严重",
+        "Actionable_Suggestion": "提升原生应用性能，减少网页加载"
+      },
+      {
+        "id": "com.jd.hm.mall_220",
+        "User_Pain_Point": "打开慢，卡顿",
+        "Actionable_Suggestion": "优化启动速度和应用流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_221",
+        "User_Pain_Point": "应用卡顿，优化不足",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_222",
+        "User_Pain_Point": "滑动浏览不流畅卡顿，多次更新未解决",
+        "Actionable_Suggestion": "重点优化滑动流畅度，排查性能瓶颈"
+      },
+      {
+        "id": "com.jd.hm.mall_225",
+        "User_Pain_Point": "使用京东app导致手机发烫",
+        "Actionable_Suggestion": "优化功耗，减少发热"
+      },
+      {
+        "id": "com.jd.hm.mall_227",
+        "User_Pain_Point": "搜索界面打开卡顿，比安卓版差",
+        "Actionable_Suggestion": "优化搜索页面性能，缩小与安卓版差距"
+      },
+      {
+        "id": "com.jd.hm.mall_230",
+        "User_Pain_Point": "应用安装包446MB，使用后膨胀至2.6GB",
+        "Actionable_Suggestion": "优化存储管理，清理缓存和不必要数据"
+      },
+      {
+        "id": "com.jd.hm.mall_231",
+        "User_Pain_Point": "APP卡得不能用，怀疑没有测试",
+        "Actionable_Suggestion": "加强性能测试，优化卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_235",
+        "User_Pain_Point": "更新后浏览商品滑动卡顿",
+        "Actionable_Suggestion": "优化滑动浏览的性能"
+      },
+      {
+        "id": "com.jd.hm.mall_236",
+        "User_Pain_Point": "打开APP就卡顿且发热严重",
+        "Actionable_Suggestion": "优化启动速度和降低功耗"
+      },
+      {
+        "id": "com.jd.hm.mall_240",
+        "User_Pain_Point": "越更新越卡",
+        "Actionable_Suggestion": "检查每次更新对性能的影响，优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_241",
+        "User_Pain_Point": "15.7.0版本很耗电，打开几分钟比看视频几十分钟还耗电",
+        "Actionable_Suggestion": "优化功耗，减少耗电问题"
+      },
+      {
+        "id": "com.jd.hm.mall_242",
+        "User_Pain_Point": "软件卡顿，点击无反应，响应时间长",
+        "Actionable_Suggestion": "优化应用流畅度，提升响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_243",
+        "User_Pain_Point": "应用卡顿严重，甚至在高端芯片9020上也运行不流畅",
+        "Actionable_Suggestion": "针对高端芯片进行性能优化"
+      },
+      {
+        "id": "com.jd.hm.mall_244",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_245",
+        "User_Pain_Point": "在主流APP中京东最卡，体验差",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_247",
+        "User_Pain_Point": "应用卡顿严重，优化不及时",
+        "Actionable_Suggestion": "加大性能优化力度，提升响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_248",
+        "User_Pain_Point": "冷启动等待时间太长",
+        "Actionable_Suggestion": "优化冷启动速度"
+      },
+      {
+        "id": "com.jd.hm.mall_248",
+        "User_Pain_Point": "应用卡顿严重，其他APP不卡就JD卡",
+        "Actionable_Suggestion": "针对性优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_249",
+        "User_Pain_Point": "浏览不流畅，卡顿",
+        "Actionable_Suggestion": "优化浏览流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_250",
+        "User_Pain_Point": "京东外卖配送速度慢",
+        "Actionable_Suggestion": "优化外卖配送时效或提升调度效率"
+      },
+      {
+        "id": "com.jd.hm.mall_252",
+        "User_Pain_Point": "页面加载缓慢，无法操作",
+        "Actionable_Suggestion": "优化页面加载性能，减少等待时间"
+      },
+      {
+        "id": "com.jd.hm.mall_253",
+        "User_Pain_Point": "应用卡顿，反应慢",
+        "Actionable_Suggestion": "优化应用性能，解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_254",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化应用流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_255",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化性能，消除卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_257",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化应用性能，解决卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_258",
+        "User_Pain_Point": "更新后主界面仍然卡顿不流畅",
+        "Actionable_Suggestion": "持续优化性能，确保更新后流畅度提升"
+      },
+      {
+        "id": "com.jd.hm.mall_259",
+        "User_Pain_Point": "应用极度卡顿",
+        "Actionable_Suggestion": "紧急优化性能，修复卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_263",
+        "User_Pain_Point": "更新后界面卡顿，加载非常慢",
+        "Actionable_Suggestion": "优化性能，减少卡顿和加载时间"
+      },
+      {
+        "id": "com.jd.hm.mall_264",
+        "User_Pain_Point": "手机（70rs）上经常卡顿",
+        "Actionable_Suggestion": "针对机型进行性能优化，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_266",
+        "User_Pain_Point": "长时间使用后发热严重",
+        "Actionable_Suggestion": "优化功耗管理，减少发热"
+      },
+      {
+        "id": "com.jd.hm.mall_267",
+        "User_Pain_Point": "界面卡顿，购物体验差",
+        "Actionable_Suggestion": "优化界面流畅度，提升用户体验"
+      },
+      {
+        "id": "com.jd.hm.mall_269",
+        "User_Pain_Point": "刷新页面时非常卡顿",
+        "Actionable_Suggestion": "优化刷新机制，提高响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_270",
+        "User_Pain_Point": "浏览商品时非常卡顿",
+        "Actionable_Suggestion": "优化商品浏览性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_271",
+        "User_Pain_Point": "App卡顿，比其他购物软件更严重",
+        "Actionable_Suggestion": "优化性能，解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_272",
+        "User_Pain_Point": "多次更新后仍然卡顿",
+        "Actionable_Suggestion": "彻底排查卡顿原因并优化"
+      },
+      {
+        "id": "com.jd.hm.mall_273",
+        "User_Pain_Point": "更新后卡顿问题未解决",
+        "Actionable_Suggestion": "针对性优化卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_274",
+        "User_Pain_Point": "页面刷新不流畅，卡顿",
+        "Actionable_Suggestion": "提升页面刷新流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_275",
+        "User_Pain_Point": "App非常卡顿",
+        "Actionable_Suggestion": "优化性能，降低卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_277",
+        "User_Pain_Point": "App卡顿",
+        "Actionable_Suggestion": "排查并修复卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_278",
+        "User_Pain_Point": "初始页下滑即卡顿，体验差",
+        "Actionable_Suggestion": "优化初始页滑动性能"
+      },
+      {
+        "id": "com.jd.hm.mall_279",
+        "User_Pain_Point": "卡顿严重导致用户不愿打开App",
+        "Actionable_Suggestion": "紧急优化性能，提升用户体验"
+      },
+      {
+        "id": "com.jd.hm.mall_281",
+        "User_Pain_Point": "所有购物app中最卡的一个，一直也不说优化一下",
+        "Actionable_Suggestion": "优化性能减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_282",
+        "User_Pain_Point": "卡的要死，最不用心e66购物软件。",
+        "Actionable_Suggestion": "优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_283",
+        "User_Pain_Point": "卡的要死，",
+        "Actionable_Suggestion": "优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_286",
+        "User_Pain_Point": "太卡太卡太卡 优化太差",
+        "Actionable_Suggestion": "优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_289",
+        "User_Pain_Point": "使用起来太卡了，无论在哪个界面，滑动屏幕都卡的不行，希望尽快优化",
+        "Actionable_Suggestion": "优化整体性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_291",
+        "User_Pain_Point": "打开京东卡顿严重",
+        "Actionable_Suggestion": "优化启动和页面加载性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_293",
+        "User_Pain_Point": "每次更新后仍然卡顿，加载慢",
+        "Actionable_Suggestion": "彻底解决卡顿问题，优化加载逻辑"
+      },
+      {
+        "id": "com.jd.hm.mall_294",
+        "User_Pain_Point": "应用卡死",
+        "Actionable_Suggestion": "优化流畅度，避免卡死"
+      },
+      {
+        "id": "com.jd.hm.mall_295",
+        "User_Pain_Point": "流畅度差，卡顿",
+        "Actionable_Suggestion": "优化整体流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_298",
+        "User_Pain_Point": "卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_299",
+        "User_Pain_Point": "鸿蒙系统上最卡的应用",
+        "Actionable_Suggestion": "全面优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_300",
+        "User_Pain_Point": "冷启动卡顿，点击反应慢，底层代码臃肿",
+        "Actionable_Suggestion": "优化冷启动速度，精简代码，提升响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_305",
+        "User_Pain_Point": "鸿蒙6.1启动速度慢",
+        "Actionable_Suggestion": "优化启动速度"
+      },
+      {
+        "id": "com.jd.hm.mall_306",
+        "User_Pain_Point": "发热严重",
+        "Actionable_Suggestion": "优化发热问题"
+      },
+      {
+        "id": "com.jd.hm.mall_308",
+        "User_Pain_Point": "好卡啊，特别卡",
+        "Actionable_Suggestion": "优化整体性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_310",
+        "User_Pain_Point": "非常卡，比老年机还卡",
+        "Actionable_Suggestion": "优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_311",
+        "User_Pain_Point": "应用卡顿严重，优化差",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_312",
+        "User_Pain_Point": "搜索时卡白屏，未优化",
+        "Actionable_Suggestion": "优化搜索功能，避免白屏"
+      },
+      {
+        "id": "com.jd.hm.mall_313",
+        "User_Pain_Point": "页面卡顿掉帧",
+        "Actionable_Suggestion": "优化动画和渲染，提升帧率"
+      },
+      {
+        "id": "com.jd.hm.mall_314",
+        "User_Pain_Point": "升级后更卡",
+        "Actionable_Suggestion": "谨慎升级，修复卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_315",
+        "User_Pain_Point": "界面加载缓慢，半天刷不开",
+        "Actionable_Suggestion": "优化页面加载速度"
+      },
+      {
+        "id": "com.jd.hm.mall_317",
+        "User_Pain_Point": "滑动一卡一卡",
+        "Actionable_Suggestion": "优化滑动流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_318",
+        "User_Pain_Point": "卡顿明显，一顿一顿",
+        "Actionable_Suggestion": "优化应用性能，消除卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_320",
+        "User_Pain_Point": "应用占用存储空间过大（17G+）",
+        "Actionable_Suggestion": "优化存储管理，减小应用体积"
+      },
+      {
+        "id": "com.jd.hm.mall_321",
+        "User_Pain_Point": "应用卡顿、点击不响应、加载慢",
+        "Actionable_Suggestion": "优化性能，减少卡顿，提升响应速度，加快页面加载"
+      },
+      {
+        "id": "com.jd.hm.mall_322",
+        "User_Pain_Point": "占用存储空间过大（9GB）",
+        "Actionable_Suggestion": "优化存储占用，减少应用体积"
+      },
+      {
+        "id": "com.jd.hm.mall_326",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_328",
+        "User_Pain_Point": "应用未优化，非常卡顿",
+        "Actionable_Suggestion": "进行性能优化，解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_331",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_333",
+        "User_Pain_Point": "搜索速度慢",
+        "Actionable_Suggestion": "优化搜索速度"
+      },
+      {
+        "id": "com.jd.hm.mall_337",
+        "User_Pain_Point": "搜索框反应慢",
+        "Actionable_Suggestion": "优化搜索框响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_338",
+        "User_Pain_Point": "流畅性差",
+        "Actionable_Suggestion": "提升流畅性"
+      },
+      {
+        "id": "com.jd.hm.mall_340",
+        "User_Pain_Point": "卡顿不跟手",
+        "Actionable_Suggestion": "优化性能，提升跟手度"
+      },
+      {
+        "id": "com.jd.hm.mall_341",
+        "User_Pain_Point": "卡顿，有的页面直接不动了",
+        "Actionable_Suggestion": "优化性能，解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_344",
+        "User_Pain_Point": "怎么越来越卡了",
+        "Actionable_Suggestion": "优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_345",
+        "User_Pain_Point": "占用空间越来越大，好多G",
+        "Actionable_Suggestion": "优化存储管理，减少占用空间"
+      },
+      {
+        "id": "com.jd.hm.mall_346",
+        "User_Pain_Point": "超级卡顿",
+        "Actionable_Suggestion": "优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_350",
+        "User_Pain_Point": "商品滑动太卡了，帧率太低了",
+        "Actionable_Suggestion": "优化滑动性能"
+      },
+      {
+        "id": "com.jd.hm.mall_352",
+        "User_Pain_Point": "卡顿",
+        "Actionable_Suggestion": "建议优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_356",
+        "User_Pain_Point": "没见过怎么卡顿的app",
+        "Actionable_Suggestion": "优化性能减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_357",
+        "User_Pain_Point": "卡死了，最卡的购物软件",
+        "Actionable_Suggestion": "优化性能减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_360",
+        "User_Pain_Point": "有点卡顿，不知道能不能优化一下。",
+        "Actionable_Suggestion": "优化性能减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_361",
+        "User_Pain_Point": "所有购物软件鸿蒙版本，就你京东最卡",
+        "Actionable_Suggestion": "优化页面渲染和加载速度，减少卡顿，特别是针对鸿蒙版本进行性能调优。"
+      },
+      {
+        "id": "com.jd.hm.mall_362",
+        "User_Pain_Point": "卡顿且掉帧",
+        "Actionable_Suggestion": "排查掉帧原因，优化动画和渲染管线，提升帧率稳定性。"
+      },
+      {
+        "id": "com.jd.hm.mall_363",
+        "User_Pain_Point": "卡的要死，看直播还能卡出去",
+        "Actionable_Suggestion": "优化直播流处理，避免卡顿导致应用闪退，增加容错机制。"
+      },
+      {
+        "id": "com.jd.hm.mall_364",
+        "User_Pain_Point": "卡顿",
+        "Actionable_Suggestion": "全面性能优化，尤其是列表滑动和页面切换。"
+      },
+      {
+        "id": "com.jd.hm.mall_367",
+        "User_Pain_Point": "真的很卡，杀后台，最小化后页面消失",
+        "Actionable_Suggestion": "优化内存管理和后台进程保留，避免杀后台导致页面丢失；同时提升整体流畅度。"
+      },
+      {
+        "id": "com.jd.hm.mall_369",
+        "User_Pain_Point": "太卡了不流畅",
+        "Actionable_Suggestion": "紧急性能优化，提升应用响应速度。"
+      },
+      {
+        "id": "com.jd.hm.mall_373",
+        "User_Pain_Point": "Mate70 Pro上应用总是很卡，多次优化未改善",
+        "Actionable_Suggestion": "针对Mate70 Pro机型进行专项性能优化，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_374",
+        "User_Pain_Point": "更新后更卡，在Mate80 Pro Max上搜索框依然巨卡",
+        "Actionable_Suggestion": "优化搜索框的响应速度和整体性能，解决更新后性能倒退问题"
+      },
+      {
+        "id": "com.jd.hm.mall_376",
+        "User_Pain_Point": "每次搜索都会白屏好几秒",
+        "Actionable_Suggestion": "优化搜索加载逻辑，减少白屏时间，可采用异步加载或预加载"
+      },
+      {
+        "id": "com.jd.hm.mall_377",
+        "User_Pain_Point": "购物软件中最卡的，体验差",
+        "Actionable_Suggestion": "全面优化应用性能，提升流畅度，缩小与其他购物应用的差距"
+      },
+      {
+        "id": "com.jd.hm.mall_380",
+        "User_Pain_Point": "页面卡顿严重，需要优化",
+        "Actionable_Suggestion": "优化页面渲染和交互响应，提升整体流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_381",
+        "User_Pain_Point": "APP卡顿",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿现象"
+      },
+      {
+        "id": "com.jd.hm.mall_382",
+        "User_Pain_Point": "App点击严重卡顿，响应慢",
+        "Actionable_Suggestion": "优化交互响应速度，减少点击延迟"
+      },
+      {
+        "id": "com.jd.hm.mall_382",
+        "User_Pain_Point": "使用APP导致手机发烫",
+        "Actionable_Suggestion": "优化应用功耗管理，降低CPU占用，减少发热"
+      },
+      {
+        "id": "com.jd.hm.mall_384",
+        "User_Pain_Point": "APP卡顿",
+        "Actionable_Suggestion": "优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_385",
+        "User_Pain_Point": "APP卡顿不流畅",
+        "Actionable_Suggestion": "针对Mate X5鸿蒙版本进行适配优化，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_388",
+        "User_Pain_Point": "爱回收页面选购闪退",
+        "Actionable_Suggestion": "修复爱回收页面闪退bug，加强稳定性测试"
+      },
+      {
+        "id": "com.jd.hm.mall_391",
+        "User_Pain_Point": "内存占用17G且无法清理",
+        "Actionable_Suggestion": "提供清理缓存或卸载残留功能"
+      },
+      {
+        "id": "com.jd.hm.mall_392",
+        "User_Pain_Point": "上下滑动卡顿",
+        "Actionable_Suggestion": "优化滑动性能"
+      },
+      {
+        "id": "com.jd.hm.mall_393",
+        "User_Pain_Point": "打开APP卡顿",
+        "Actionable_Suggestion": "优化启动速度和资源加载"
+      },
+      {
+        "id": "com.jd.hm.mall_394",
+        "User_Pain_Point": "卡顿严重，一度以为是手机问题",
+        "Actionable_Suggestion": "全面优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_395",
+        "User_Pain_Point": "卡顿严重，其他应用不卡",
+        "Actionable_Suggestion": "针对性优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_396",
+        "User_Pain_Point": "页面跳转慢，网页打开速度慢",
+        "Actionable_Suggestion": "优化页面加载和跳转速度"
+      },
+      {
+        "id": "com.jd.hm.mall_397",
+        "User_Pain_Point": "打开APP慢，模块切换卡顿",
+        "Actionable_Suggestion": "全面优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_398",
+        "User_Pain_Point": "打开APP闪退，持续一个多月未解决",
+        "Actionable_Suggestion": "修复闪退Bug，提升稳定性"
+      },
+      {
+        "id": "com.jd.hm.mall_399",
+        "User_Pain_Point": "卡顿严重，比淘宝卡太多",
+        "Actionable_Suggestion": "优化性能，减少与竞品差距"
+      },
+      {
+        "id": "com.jd.hm.mall_401",
+        "User_Pain_Point": "使用app卡顿严重",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿现象"
+      },
+      {
+        "id": "com.jd.hm.mall_402",
+        "User_Pain_Point": "应用卡顿，严重影响使用体验",
+        "Actionable_Suggestion": "优化应用性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_404",
+        "User_Pain_Point": "上下滑动卡顿",
+        "Actionable_Suggestion": "优化滑动流畅度，提升滚动性能"
+      },
+      {
+        "id": "com.jd.hm.mall_406",
+        "User_Pain_Point": "应用过于卡顿",
+        "Actionable_Suggestion": "全面优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_408",
+        "User_Pain_Point": "搜索功能卡顿严重",
+        "Actionable_Suggestion": "优化搜索性能，提升搜索响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_409",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化性能，解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_410",
+        "User_Pain_Point": "打开应用掉帧严重",
+        "Actionable_Suggestion": "优化启动动画和页面加载，减少掉帧"
+      },
+      {
+        "id": "com.jd.hm.mall_412",
+        "User_Pain_Point": "内存占用大，接近游戏大小",
+        "Actionable_Suggestion": "建议优化内存占用"
+      },
+      {
+        "id": "com.jd.hm.mall_413",
+        "User_Pain_Point": "打开App发热严重",
+        "Actionable_Suggestion": "建议优化发热问题"
+      },
+      {
+        "id": "com.jd.hm.mall_414",
+        "User_Pain_Point": "占用11G存储空间",
+        "Actionable_Suggestion": "建议减少存储占用"
+      },
+      {
+        "id": "com.jd.hm.mall_415",
+        "User_Pain_Point": "加载速度慢，卡顿",
+        "Actionable_Suggestion": "建议优化加载速度和流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_416",
+        "User_Pain_Point": "应用特别卡",
+        "Actionable_Suggestion": "建议优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_418",
+        "User_Pain_Point": "用起来很卡，流畅度非常差",
+        "Actionable_Suggestion": "建议优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_421",
+        "User_Pain_Point": "二月份升级后，卡的要死。最近更新也没改善",
+        "Actionable_Suggestion": "优化系统升级后的性能，确保更新能解决卡顿问题"
+      },
+      {
+        "id": "com.jd.hm.mall_422",
+        "User_Pain_Point": "每次进去卡爆了",
+        "Actionable_Suggestion": "优化启动速度和页面加载性能"
+      },
+      {
+        "id": "com.jd.hm.mall_423",
+        "User_Pain_Point": "启动后进入我的，再点里面的任何页面都要等待3秒以上",
+        "Actionable_Suggestion": "优化页面切换响应速度，减少加载时间"
+      },
+      {
+        "id": "com.jd.hm.mall_424",
+        "User_Pain_Point": "还特别卡",
+        "Actionable_Suggestion": "优化整体性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_425",
+        "User_Pain_Point": "太卡了拉",
+        "Actionable_Suggestion": "优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_427",
+        "User_Pain_Point": "看商品掉帧",
+        "Actionable_Suggestion": "优化商品页面渲染性能，减少掉帧"
+      },
+      {
+        "id": "com.jd.hm.mall_428",
+        "User_Pain_Point": "升级后非常卡顿",
+        "Actionable_Suggestion": "优化升级后的系统性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_430",
+        "User_Pain_Point": "卡得都不想用了，再这样下去以后就只能去其他平台网购了！",
+        "Actionable_Suggestion": "优先优化性能，避免用户流失"
+      },
+      {
+        "id": "com.jd.hm.mall_433",
+        "User_Pain_Point": "应用卡顿严重，多天未优化",
+        "Actionable_Suggestion": "建议优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_434",
+        "User_Pain_Point": "应用是鸿蒙生态中最卡的，非常卡顿难用",
+        "Actionable_Suggestion": "建议优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_435",
+        "User_Pain_Point": "应用卡顿明显",
+        "Actionable_Suggestion": "建议优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_437",
+        "User_Pain_Point": "应用卡顿严重影响体验",
+        "Actionable_Suggestion": "建议优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_440",
+        "User_Pain_Point": "所有软件中京东最卡",
+        "Actionable_Suggestion": "建议优化性能"
+      },
+      {
+        "id": "com.jd.hm.mall_441",
+        "User_Pain_Point": "应用卡顿严重，运营体验难受",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_442",
+        "User_Pain_Point": "应用打开慢，启动速度不佳",
+        "Actionable_Suggestion": "优化启动速度，减少加载时间"
+      },
+      {
+        "id": "com.jd.hm.mall_445",
+        "User_Pain_Point": "应用卡顿，反映开发架构水平差",
+        "Actionable_Suggestion": "全面优化性能，提升流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_446",
+        "User_Pain_Point": "高配置手机（9030）仍卡顿，体验失望",
+        "Actionable_Suggestion": "针对高端机型进行性能调优，确保流畅"
+      },
+      {
+        "id": "com.jd.hm.mall_448",
+        "User_Pain_Point": "应用体积巨大，占用存储空间过多",
+        "Actionable_Suggestion": "减小应用体积，优化资源加载"
+      },
+      {
+        "id": "com.jd.hm.mall_449",
+        "User_Pain_Point": "越更新越卡，版本迭代性能下降",
+        "Actionable_Suggestion": "优化更新版本的性能，避免倒退"
+      },
+      {
+        "id": "com.jd.hm.mall_451",
+        "User_Pain_Point": "点击搜索栏后需要等待4-5秒才能弹出输入法，相比其他软件明显慢",
+        "Actionable_Suggestion": "优化搜索栏输入法调起速度"
+      },
+      {
+        "id": "com.jd.hm.mall_452",
+        "User_Pain_Point": "应用反应速度慢",
+        "Actionable_Suggestion": "优化应用整体响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_455",
+        "User_Pain_Point": "更新后打开响应慢，经常卡住",
+        "Actionable_Suggestion": "优化应用启动速度和稳定性"
+      },
+      {
+        "id": "com.jd.hm.mall_458",
+        "User_Pain_Point": "应用各种卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_460",
+        "User_Pain_Point": "应用太卡",
+        "Actionable_Suggestion": "优化性能，提高流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_461",
+        "User_Pain_Point": "应用反应迟钝，使用体验差。",
+        "Actionable_Suggestion": "优化应用响应速度，减少卡顿。"
+      },
+      {
+        "id": "com.jd.hm.mall_462",
+        "User_Pain_Point": "应用非常卡顿，感觉像低质量产品。",
+        "Actionable_Suggestion": "提升性能稳定性，解决卡顿问题。"
+      },
+      {
+        "id": "com.jd.hm.mall_463",
+        "User_Pain_Point": "应用卡顿严重，主页加载慢，搜索更慢，输入法位置延迟。",
+        "Actionable_Suggestion": "优化首页加载和搜索性能，减少输入法卡顿。"
+      },
+      {
+        "id": "com.jd.hm.mall_465",
+        "User_Pain_Point": "客服信息加载很慢，长时间转圈。",
+        "Actionable_Suggestion": "优化客服信息加载速度。"
+      },
+      {
+        "id": "com.jd.hm.mall_467",
+        "User_Pain_Point": "应用卡顿严重。",
+        "Actionable_Suggestion": "全面排查并解决卡顿问题。"
+      },
+      {
+        "id": "com.jd.hm.mall_468",
+        "User_Pain_Point": "更新后卡顿感更强，性能退化。",
+        "Actionable_Suggestion": "确保更新不引入性能问题，回退优化。"
+      },
+      {
+        "id": "com.jd.hm.mall_469",
+        "User_Pain_Point": "首页非常卡顿。",
+        "Actionable_Suggestion": "重点优化首页性能。"
+      },
+      {
+        "id": "com.jd.hm.mall_471",
+        "User_Pain_Point": "应用卡顿严重，感觉像在用十年前的老手机",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_473",
+        "User_Pain_Point": "浏览商品时手机变卡发烫",
+        "Actionable_Suggestion": "优化性能与功耗控制，降低发热"
+      },
+      {
+        "id": "com.jd.hm.mall_474",
+        "User_Pain_Point": "搜索框点击后响应极慢，半天才能打开输入界面",
+        "Actionable_Suggestion": "优化搜索框响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_477",
+        "User_Pain_Point": "整体操作卡顿，点击后反应缓慢",
+        "Actionable_Suggestion": "全面优化应用响应性能"
+      },
+      {
+        "id": "com.jd.hm.mall_478",
+        "User_Pain_Point": "最近应用非常卡顿",
+        "Actionable_Suggestion": "排查近期变更，修复导致卡顿的问题"
+      },
+      {
+        "id": "com.jd.hm.mall_485",
+        "User_Pain_Point": "在鸿蒙6下启动速度慢，切换页面（购物车、已买物品）加载缓慢，快速点击会触发跳两次。对话框输入响应慢。",
+        "Actionable_Suggestion": "优化启动速度和页面切换性能，修复双击跳转bug，提升输入框响应速度。"
+      },
+      {
+        "id": "com.jd.hm.mall_486",
+        "User_Pain_Point": "更新后应用变卡顿，流畅度下降。",
+        "Actionable_Suggestion": "排查更新引入的性能问题，进行针对性优化。"
+      },
+      {
+        "id": "com.jd.hm.mall_487",
+        "User_Pain_Point": "每次更新后应用越来越卡，性能持续下降。",
+        "Actionable_Suggestion": "建立性能基准测试，确保每次更新不引入性能退化。"
+      },
+      {
+        "id": "com.jd.hm.mall_489",
+        "User_Pain_Point": "更新日志宣称流畅但实际体验卡顿，存在虚假宣传感。",
+        "Actionable_Suggestion": "如实更新日志，同时优化性能使其匹配描述。"
+      },
+      {
+        "id": "com.jd.hm.mall_492",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化应用性能以改善卡顿"
+      },
+      {
+        "id": "com.jd.hm.mall_493",
+        "User_Pain_Point": "掉帧严重",
+        "Actionable_Suggestion": "优化渲染流畅度，减少掉帧"
+      },
+      {
+        "id": "com.jd.hm.mall_497",
+        "User_Pain_Point": "浏览时卡顿严重，不顺畅",
+        "Actionable_Suggestion": "优化浏览页面的流畅性"
+      },
+      {
+        "id": "com.jd.hm.mall_498",
+        "User_Pain_Point": "查询订单时卡顿无响应",
+        "Actionable_Suggestion": "优化订单页面的性能和响应速度"
+      },
+      {
+        "id": "com.jd.hm.mall_499",
+        "User_Pain_Point": "数据占用内存过大",
+        "Actionable_Suggestion": "优化数据存储机制，减少内存占用或提供清理功能"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.jd.hm.mall_17",
+        "User_Pain_Point": "滑动很不流畅",
+        "Actionable_Suggestion": "优化滑动动画和交互流畅度"
+      },
+      {
+        "id": "com.jd.hm.mall_36",
+        "User_Pain_Point": "进入店铺弹出抽奖页面无法关闭",
+        "Actionable_Suggestion": "允许用户关闭弹窗，或优化弹窗交互"
+      },
+      {
+        "id": "com.jd.hm.mall_40",
+        "User_Pain_Point": "折叠屏内屏使用仅为简单放大，未做适配",
+        "Actionable_Suggestion": "适配折叠屏内屏显示，提供更好的布局体验"
+      },
+      {
+        "id": "com.jd.hm.mall_69",
+        "User_Pain_Point": "双折和三折展开后UI字体超大，不和谐",
+        "Actionable_Suggestion": "优化折叠屏展开后的字体大小和UI适配"
+      },
+      {
+        "id": "com.jd.hm.mall_82",
+        "User_Pain_Point": "很多界面是网页版，体验差",
+        "Actionable_Suggestion": "将网页版界面替换为原生界面"
+      },
+      {
+        "id": "com.jd.hm.mall_89",
+        "User_Pain_Point": "购物车界面太大，一页显示商品少",
+        "Actionable_Suggestion": "优化购物车界面布局，增加商品密度"
+      },
+      {
+        "id": "com.jd.hm.mall_123",
+        "User_Pain_Point": "无夜间模式，也不支持换肤",
+        "Actionable_Suggestion": "增加夜间模式和换肤功能"
+      },
+      {
+        "id": "com.jd.hm.mall_157",
+        "User_Pain_Point": "鸿蒙版京东无暗黑模式",
+        "Actionable_Suggestion": "增加暗黑模式适配"
+      },
+      {
+        "id": "com.jd.hm.mall_165",
+        "User_Pain_Point": "图标更改不满意",
+        "Actionable_Suggestion": "考虑提供图标风格切换选项或恢复原图标"
+      },
+      {
+        "id": "com.jd.hm.mall_175",
+        "User_Pain_Point": "写评价看不到写的什么",
+        "Actionable_Suggestion": "建议显示评价输入内容"
+      },
+      {
+        "id": "com.jd.hm.mall_197",
+        "User_Pain_Point": "评论侧滑返回到商品页功能异常。",
+        "Actionable_Suggestion": "修复侧滑返回逻辑，确保操作一致性。"
+      },
+      {
+        "id": "com.jd.hm.mall_217",
+        "User_Pain_Point": "未适配深色模式",
+        "Actionable_Suggestion": "适配深色模式"
+      },
+      {
+        "id": "com.jd.hm.mall_217",
+        "User_Pain_Point": "图标上有牛皮癣（广告标识）",
+        "Actionable_Suggestion": "去除图标上的广告元素，提供纯净图标"
+      },
+      {
+        "id": "com.jd.hm.mall_250",
+        "User_Pain_Point": "点单系统不完善，操作不顺手",
+        "Actionable_Suggestion": "优化点单系统的界面和交互逻辑，提升易用性"
+      },
+      {
+        "id": "com.jd.hm.mall_287",
+        "User_Pain_Point": "调用相机界面太丑了",
+        "Actionable_Suggestion": "优化相机界面设计"
+      },
+      {
+        "id": "com.jd.hm.mall_288",
+        "User_Pain_Point": "和商家聊天界面的体验太差了，和网页一样。",
+        "Actionable_Suggestion": "优化聊天界面体验，使其更接近原生应用"
+      },
+      {
+        "id": "com.jd.hm.mall_329",
+        "User_Pain_Point": "缺少暗黑模式，夜间使用眼睛疲劳",
+        "Actionable_Suggestion": "增加暗黑模式，保护用户视力"
+      },
+      {
+        "id": "com.jd.hm.mall_370",
+        "User_Pain_Point": "商品结算和点击进入时首先加载过渡动画才跳转，导致等待时间长",
+        "Actionable_Suggestion": "优化动画加载逻辑，让页面内容与动画同步加载或减少动画等待，提升交互流畅性。"
+      },
+      {
+        "id": "com.jd.hm.mall_390",
+        "User_Pain_Point": "聊天界面像网页版，体验差",
+        "Actionable_Suggestion": "优化聊天界面交互，提升原生应用体验"
+      },
+      {
+        "id": "com.jd.hm.mall_448",
+        "User_Pain_Point": "网页套壳体验，感觉不是原生应用",
+        "Actionable_Suggestion": "优化原生交互体验，减少网页套壳感"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.jd.hm.mall_118",
+        "User_Pain_Point": "缺少暗黑模式",
+        "Actionable_Suggestion": "增加暗黑模式"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.jd.hm.mall_35",
+        "User_Pain_Point": "618活动优惠券难以抢到",
+        "Actionable_Suggestion": "优化优惠券发放机制或增加抢券成功率"
+      },
+      {
+        "id": "com.jd.hm.mall_43",
+        "User_Pain_Point": "刚开始用的时候物流非常快，现在越来越慢了",
+        "Actionable_Suggestion": "改善物流配送速度。"
+      },
+      {
+        "id": "com.jd.hm.mall_46",
+        "User_Pain_Point": "一安装，京东金融就天天打电话推销贷款。",
+        "Actionable_Suggestion": "停止或允许用户关闭安装后推销电话。"
+      },
+      {
+        "id": "com.jd.hm.mall_51",
+        "User_Pain_Point": "自营商品价格贵，另收快递费，不送货上门",
+        "Actionable_Suggestion": "优化定价策略，考虑免运费或包邮，改善配送服务"
+      },
+      {
+        "id": "com.jd.hm.mall_54",
+        "User_Pain_Point": "逛频道赚金币任务经常消失，任务中断需重新签到",
+        "Actionable_Suggestion": "修复任务规则，确保任务持续稳定，避免中断"
+      },
+      {
+        "id": "com.jd.hm.mall_116",
+        "User_Pain_Point": "付款时诱导使用金融付款（白条等），缺乏明确提示",
+        "Actionable_Suggestion": "优化付款流程，明确提示用户选择支付方式，不得默认跳转到金融付款"
+      },
+      {
+        "id": "com.jd.hm.mall_117",
+        "User_Pain_Point": "退款流程慢，拖延",
+        "Actionable_Suggestion": "优化退款流程，提高效率"
+      },
+      {
+        "id": "com.jd.hm.mall_122",
+        "User_Pain_Point": "同类产品中价格过高",
+        "Actionable_Suggestion": "调整定价策略，提升性价比"
+      },
+      {
+        "id": "com.jd.hm.mall_127",
+        "User_Pain_Point": "客服推诿、售后不处理，自行标记已完成",
+        "Actionable_Suggestion": "加强客服培训，优化售后流程"
+      },
+      {
+        "id": "com.jd.hm.mall_158",
+        "User_Pain_Point": "购买商品运费过高，申请全额退款只退了1/4",
+        "Actionable_Suggestion": "优化运费规则和退款政策"
+      },
+      {
+        "id": "com.jd.hm.mall_158",
+        "User_Pain_Point": "客服推卸责任，服务态度差",
+        "Actionable_Suggestion": "提升客服服务质量，加强投诉处理"
+      },
+      {
+        "id": "com.jd.hm.mall_161",
+        "User_Pain_Point": "相同购买方式下待遇不一致",
+        "Actionable_Suggestion": "检查活动规则一致性，确保同等条件用户获得相同权益"
+      },
+      {
+        "id": "com.jd.hm.mall_178",
+        "User_Pain_Point": "一直给我打电话",
+        "Actionable_Suggestion": "建议减少电话骚扰或提供关闭选项"
+      },
+      {
+        "id": "com.jd.hm.mall_187",
+        "User_Pain_Point": "搜索时疯狂推广告",
+        "Actionable_Suggestion": "控制广告展示频率，避免过度干扰用户搜索"
+      },
+      {
+        "id": "com.jd.hm.mall_187",
+        "User_Pain_Point": "搜索结果诱导误导，类似'买雪碧得雷碧'",
+        "Actionable_Suggestion": "严格审核搜索推荐逻辑，杜绝误导性结果"
+      },
+      {
+        "id": "com.jd.hm.mall_193",
+        "User_Pain_Point": "广告弹窗多。",
+        "Actionable_Suggestion": "减少广告弹窗频率或优化展示时机。"
+      },
+      {
+        "id": "com.jd.hm.mall_211",
+        "User_Pain_Point": "客服配合拖延流程并污蔑客户未接听电话",
+        "Actionable_Suggestion": "优化客服流程，加强培训，杜绝推诿和污蔑"
+      },
+      {
+        "id": "com.jd.hm.mall_213",
+        "User_Pain_Point": "服务差，售后无人理会",
+        "Actionable_Suggestion": "改善售后服务质量，增加客服响应"
+      },
+      {
+        "id": "com.jd.hm.mall_221",
+        "User_Pain_Point": "更新后出现开屏广告",
+        "Actionable_Suggestion": "提供关闭开屏广告的选项或减少广告打扰"
+      },
+      {
+        "id": "com.jd.hm.mall_226",
+        "User_Pain_Point": "支付过程要求过多绑定，体验繁琐",
+        "Actionable_Suggestion": "简化支付流程，减少不必要的绑定步骤"
+      },
+      {
+        "id": "com.jd.hm.mall_228",
+        "User_Pain_Point": "应用出现广告",
+        "Actionable_Suggestion": "提供广告关闭选项或减少广告数量"
+      },
+      {
+        "id": "com.jd.hm.mall_250",
+        "User_Pain_Point": "商品价格偏贵",
+        "Actionable_Suggestion": "调整定价策略或提供更多优惠"
+      },
+      {
+        "id": "com.jd.hm.mall_256",
+        "User_Pain_Point": "商家存在割韭菜行为",
+        "Actionable_Suggestion": "加强商家监管，杜绝不公平规则"
+      },
+      {
+        "id": "com.jd.hm.mall_256",
+        "User_Pain_Point": "平台偏袒商家，不保护消费者",
+        "Actionable_Suggestion": "完善消费者保护机制，平衡商家与用户权益"
+      },
+      {
+        "id": "com.jd.hm.mall_256",
+        "User_Pain_Point": "客服态度恶劣，强行抢话",
+        "Actionable_Suggestion": "加强客服培训，改善服务态度"
+      },
+      {
+        "id": "com.jd.hm.mall_280",
+        "User_Pain_Point": "每次更新内容空洞，未解决实际问题",
+        "Actionable_Suggestion": "优化更新策略，聚焦用户痛点改进"
+      },
+      {
+        "id": "com.jd.hm.mall_324",
+        "User_Pain_Point": "缺少客服投诉渠道",
+        "Actionable_Suggestion": "增加客服投诉渠道，方便用户反馈问题"
+      },
+      {
+        "id": "com.jd.hm.mall_330",
+        "User_Pain_Point": "存在开屏广告",
+        "Actionable_Suggestion": "减少或移除开屏广告，提升用户体验"
+      },
+      {
+        "id": "com.jd.hm.mall_335",
+        "User_Pain_Point": "更新后出现广告",
+        "Actionable_Suggestion": "减少或去除更新后的广告"
+      },
+      {
+        "id": "com.jd.hm.mall_336",
+        "User_Pain_Point": "应用内有广告",
+        "Actionable_Suggestion": "减少或去除广告"
+      },
+      {
+        "id": "com.jd.hm.mall_342",
+        "User_Pain_Point": "今天打开京东有广告了",
+        "Actionable_Suggestion": "减少或取消广告"
+      },
+      {
+        "id": "com.jd.hm.mall_345",
+        "User_Pain_Point": "有开屏广告",
+        "Actionable_Suggestion": "减少或取消开屏广告"
+      },
+      {
+        "id": "com.jd.hm.mall_347",
+        "User_Pain_Point": "超时无通知、无赔偿，随意改送达时间",
+        "Actionable_Suggestion": "完善超时处理机制，提供通知和赔偿"
+      },
+      {
+        "id": "com.jd.hm.mall_348",
+        "User_Pain_Point": "功能还没上全就开始整上开屏广告",
+        "Actionable_Suggestion": "减少或取消广告，先完善功能"
+      },
+      {
+        "id": "com.jd.hm.mall_353",
+        "User_Pain_Point": "售后效率极低，退货花了五个小时，半个月无法售后",
+        "Actionable_Suggestion": "建议提升售后处理效率，简化退货流程"
+      },
+      {
+        "id": "com.jd.hm.mall_358",
+        "User_Pain_Point": "白条无法关闭，黑白通吃",
+        "Actionable_Suggestion": "建议提供关闭白条的选项"
+      },
+      {
+        "id": "com.jd.hm.mall_366",
+        "User_Pain_Point": "京东售假太严重，且客服喜欢踢皮球",
+        "Actionable_Suggestion": "加强商品审核和供应商管理，建立有效的投诉和退赔机制，提升客服服务质量。"
+      },
+      {
+        "id": "com.jd.hm.mall_403",
+        "User_Pain_Point": "频繁诱导开通先尝后付功能，不尊重用户",
+        "Actionable_Suggestion": "取消强制诱导，改为用户主动选择开通"
+      },
+      {
+        "id": "com.jd.hm.mall_411",
+        "User_Pain_Point": "有开屏广告，严重影响体验",
+        "Actionable_Suggestion": "建议取消或减少开屏广告"
+      },
+      {
+        "id": "com.jd.hm.mall_419",
+        "User_Pain_Point": "京东金融通过京东获取电话并频繁骚扰",
+        "Actionable_Suggestion": "建议停止电话骚扰或提供关闭选项"
+      },
+      {
+        "id": "com.jd.hm.mall_439",
+        "User_Pain_Point": "官方旗舰店存在刷单行为，盗取用户地址并发送不明物品，隐私安全受威胁",
+        "Actionable_Suggestion": "建议加强商家审核，保护用户隐私"
+      },
+      {
+        "id": "com.jd.hm.mall_443",
+        "User_Pain_Point": "客服服务不好，售后不行，商家和骑手服务不行",
+        "Actionable_Suggestion": "提升客服和售后服务质量，加强商家与骑手管理"
+      },
+      {
+        "id": "com.jd.hm.mall_470",
+        "User_Pain_Point": "配送员素质低下，撞人后不道歉反咬一口。",
+        "Actionable_Suggestion": "加强配送员培训，提高服务意识。"
+      },
+      {
+        "id": "com.jd.hm.mall_470",
+        "User_Pain_Point": "客服无法转接人工服务，问题得不到解决。",
+        "Actionable_Suggestion": "优化客服转人工流程，确保用户能联系到人工客服。"
+      },
+      {
+        "id": "com.jd.hm.mall_490",
+        "User_Pain_Point": "购买灯具不到半年损坏，联系售后无渠道处理，感觉维权无门。",
+        "Actionable_Suggestion": "完善售后服务体系，明确保修政策和投诉渠道，确保问题能得到响应。"
+      },
+      {
+        "id": "com.jd.hm.mall_494",
+        "User_Pain_Point": "新版新增广告",
+        "Actionable_Suggestion": "减少广告数量或优化广告展示方式"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.jd.hm.mall_4",
+        "User_Pain_Point": "平台登录新户有一分购优惠，逢年过节还有京豆抽奖、优惠券、红包派发热闹活动",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_143",
+        "User_Pain_Point": "物流速度快，商品为正品",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.jd.hm.mall_4",
+        "User_Pain_Point": "发货速度快，商品是正品质量好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_5",
+        "User_Pain_Point": "物流给力，又好又便宜",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_21",
+        "User_Pain_Point": "京东应该是我最喜欢的购物平台了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_22",
+        "User_Pain_Point": "京东是我用过最好的软件",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_26",
+        "User_Pain_Point": "爱4.3版本的流畅的多，没有广告，优惠还不少",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_41",
+        "User_Pain_Point": "不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_55",
+        "User_Pain_Point": "新版本有页面打断功能",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_60",
+        "User_Pain_Point": "立即购买不能选品类问题已修复",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_67",
+        "User_Pain_Point": "使用感受还可以，希望继续完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_78",
+        "User_Pain_Point": "功能齐全，越来越好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_80",
+        "User_Pain_Point": "大平台购物方便，物流超级快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_83",
+        "User_Pain_Point": "比较良心的购物软件，用了很多年，不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_84",
+        "User_Pain_Point": "非常好的购物APP",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_94",
+        "User_Pain_Point": "京东大平台值得信赖，商品齐全价格合理售后有保障",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_112",
+        "User_Pain_Point": "用户认为是最好的购物软件",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_134",
+        "User_Pain_Point": "软件好用，点外卖购物方便，快递快，价格实惠",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_148",
+        "User_Pain_Point": "京东很好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_149",
+        "User_Pain_Point": "京东在手机、鸿蒙、PC端都有，功能基本齐全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_160",
+        "User_Pain_Point": "认为京东值得信赖，非常好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_163",
+        "User_Pain_Point": "用户赞赏京东为优质软件",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_164",
+        "User_Pain_Point": "开屏广告做得好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_188",
+        "User_Pain_Point": "京东是最好用的购物平台",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_189",
+        "User_Pain_Point": "物流速度快，商品丰富，质量好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_190",
+        "User_Pain_Point": "物流快，质量好，售后服务态度好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_206",
+        "User_Pain_Point": "用户认为软件非常好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_224",
+        "User_Pain_Point": "购物体验很好，值得信赖",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_238",
+        "User_Pain_Point": "用户称赞APP非常棒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_239",
+        "User_Pain_Point": "用户认为京东非常好用，外卖配送快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_250",
+        "User_Pain_Point": "主APP速度快一点",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_261",
+        "User_Pain_Point": "整体使用体验很好，很喜欢并推荐",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_290",
+        "User_Pain_Point": "诚信公平，平价交易！百姓生活需要京东。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_309",
+        "User_Pain_Point": "京东的平台货真价实",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_319",
+        "User_Pain_Point": "购物体验超棒，物流快，商品正品，客服响应及时，售后无忧",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_323",
+        "User_Pain_Point": "售后服务好，分类清晰，操作流畅，退换货便捷，优惠活动多",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_325",
+        "User_Pain_Point": "购物平台靠谱，商品质量有保障",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_327",
+        "User_Pain_Point": "商品种类齐全，正品保证，物流速度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_339",
+        "User_Pain_Point": "实用购物平台，正品价格合理，购买方便，物流快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_367",
+        "User_Pain_Point": "功能与其它系统对齐了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_383",
+        "User_Pain_Point": "软件特别好，购物体验好，物流快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_429",
+        "User_Pain_Point": "特别好，很棒的软件，平时买东西就用它。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.jd.hm.mall_456",
+        "User_Pain_Point": "用户赞赏京东APP商品丰富、价格优惠、发货快",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.jd.hm.mall_250",
+        "User_Pain_Point": "买东西选择性少",
+        "Actionable_Suggestion": "丰富商品种类"
+      },
+      {
+        "id": "com.jd.hm.mall_250",
+        "User_Pain_Point": "外卖种类少",
+        "Actionable_Suggestion": "增加外卖商家和品类"
+      },
+      {
+        "id": "com.jd.hm.mall_488",
+        "User_Pain_Point": "平台存在销售假冒史密斯净水器和滤芯的情况。",
+        "Actionable_Suggestion": "加强商家审核和商品抽检，建立假货举报机制。"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.jd.hm.mall_5",
+        "User_Pain_Point": "产品丰富",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  }
+}

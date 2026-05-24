@@ -1,0 +1,74 @@
+[
+  {
+    "package": "com.tencent.mqq",
+    "batch_index": 8,
+    "batch_ids": [
+      "com.tencent.mqq_71",
+      "com.tencent.mqq_72",
+      "com.tencent.mqq_73",
+      "com.tencent.mqq_74",
+      "com.tencent.mqq_75",
+      "com.tencent.mqq_76",
+      "com.tencent.mqq_77",
+      "com.tencent.mqq_78",
+      "com.tencent.mqq_79",
+      "com.tencent.mqq_80"
+    ],
+    "stage": "request_or_parse",
+    "error": "The read operation timed out"
+  },
+  {
+    "package": "com.tencent.mqq",
+    "batch_index": 8,
+    "batch_ids": [
+      "com.tencent.mqq_71",
+      "com.tencent.mqq_72",
+      "com.tencent.mqq_73",
+      "com.tencent.mqq_74",
+      "com.tencent.mqq_75",
+      "com.tencent.mqq_76",
+      "com.tencent.mqq_77",
+      "com.tencent.mqq_78",
+      "com.tencent.mqq_79",
+      "com.tencent.mqq_80"
+    ],
+    "stage": "repair",
+    "error": "Skipped repair because no model output was returned"
+  },
+  {
+    "package": "com.tencent.mqq",
+    "batch_index": 11,
+    "batch_ids": [
+      "com.tencent.mqq_101",
+      "com.tencent.mqq_102",
+      "com.tencent.mqq_103",
+      "com.tencent.mqq_104",
+      "com.tencent.mqq_105",
+      "com.tencent.mqq_106",
+      "com.tencent.mqq_107",
+      "com.tencent.mqq_108",
+      "com.tencent.mqq_109",
+      "com.tencent.mqq_110"
+    ],
+    "stage": "request_or_parse",
+    "error": "The read operation timed out"
+  },
+  {
+    "package": "com.tencent.mqq",
+    "batch_index": 11,
+    "batch_ids": [
+      "com.tencent.mqq_101",
+      "com.tencent.mqq_102",
+      "com.tencent.mqq_103",
+      "com.tencent.mqq_104",
+      "com.tencent.mqq_105",
+      "com.tencent.mqq_106",
+      "com.tencent.mqq_107",
+      "com.tencent.mqq_108",
+      "com.tencent.mqq_109",
+      "com.tencent.mqq_110"
+    ],
+    "stage": "repair",
+    "error": "Skipped repair because no model output was returned"
+  }
+]

@@ -4,32 +4,32 @@
       {
         "id": "com.xingin.xhs_hos_1",
         "User_Pain_Point": "AI评论不显示",
-        "Actionable_Suggestion": "修复AI评论显示问题，确保用户能看到AI生成的评论"
+        "Actionable_Suggestion": "修复AI评论显示问题"
       },
       {
         "id": "com.xingin.xhs_hos_1",
         "User_Pain_Point": "动态图没有原声",
-        "Actionable_Suggestion": "为动态图添加原声支持，允许用户上传和播放带声音的动态图片"
+        "Actionable_Suggestion": "为动态图添加原声音频播放功能"
       },
       {
         "id": "com.xingin.xhs_hos_4",
-        "User_Pain_Point": "人脸识别功能缺失或不完善",
-        "Actionable_Suggestion": "完善人脸识别功能，用于登录验证或内容审核"
+        "User_Pain_Point": "人脸识别功能缺失或不好用",
+        "Actionable_Suggestion": "跟进并优化人脸识别功能"
       },
       {
         "id": "com.xingin.xhs_hos_7",
         "User_Pain_Point": "无法使用专业号的个人售卖功能",
-        "Actionable_Suggestion": "为专业号用户增加个人售卖功能，完善电商工具"
+        "Actionable_Suggestion": "增加专业号的个人售卖功能"
       },
       {
         "id": "com.xingin.xhs_hos_8",
-        "User_Pain_Point": "不支持群接龙功能",
-        "Actionable_Suggestion": "在群聊中添加接龙功能，方便用户组织活动和收集信息"
+        "User_Pain_Point": "缺少群接龙功能",
+        "Actionable_Suggestion": "增加群接龙功能"
       },
       {
         "id": "com.xingin.xhs_hos_11",
         "User_Pain_Point": "缺少长文功能",
-        "Actionable_Suggestion": "尽快更新长文编辑功能"
+        "Actionable_Suggestion": "增加长文功能支持"
       },
       {
         "id": "com.xingin.xhs_hos_12",
@@ -38,368 +38,1187 @@
       },
       {
         "id": "com.xingin.xhs_hos_16",
-        "User_Pain_Point": "无法找到直播观看历史，只有浏览笔记记录",
-        "Actionable_Suggestion": "增加直播观看历史记录功能"
+        "User_Pain_Point": "直播观看记录缺失，只有浏览笔记记录",
+        "Actionable_Suggestion": "增加直播观看历史功能"
       },
       {
         "id": "com.xingin.xhs_hos_18",
         "User_Pain_Point": "缺少小程序功能",
-        "Actionable_Suggestion": "尽快增加小程序功能"
+        "Actionable_Suggestion": "增加小程序功能"
       },
       {
         "id": "com.xingin.xhs_hos_19",
-        "User_Pain_Point": "缺少查看评论历史（点赞、收藏、自己发出的评论）的功能；市集功能缺失多",
-        "Actionable_Suggestion": "增加评论历史查看功能，并完善市集功能"
+        "User_Pain_Point": "缺少查看点赞、收藏过的评论和自己发出去的评论的功能",
+        "Actionable_Suggestion": "增加评论管理功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_19",
+        "User_Pain_Point": "市集功能缺失",
+        "Actionable_Suggestion": "补充市集功能"
       },
       {
         "id": "com.xingin.xhs_hos_21",
-        "User_Pain_Point": "直播商品回看讲解加载失败，出现黑屏和无限加载",
-        "Actionable_Suggestion": "优化直播回看讲解的加载功能，修复黑屏问题"
+        "User_Pain_Point": "直播商品回看讲解时黑屏转圈，无法正常观看",
+        "Actionable_Suggestion": "修复直播回看功能，确保视频加载正常"
       },
       {
         "id": "com.xingin.xhs_hos_23",
-        "User_Pain_Point": "不支持发布长文内容",
-        "Actionable_Suggestion": "增加长文发布功能"
+        "User_Pain_Point": "不能写长文",
+        "Actionable_Suggestion": "增加长文发布功能，允许用户发布更长的内容"
       },
       {
         "id": "com.xingin.xhs_hos_24",
-        "User_Pain_Point": "评论中的笔记链接无法点击打开，也无法复制",
-        "Actionable_Suggestion": "修复评论中笔记链接的点击和复制功能，确保与其它系统版本一致"
+        "User_Pain_Point": "评论里的笔记链接点不开，复制无反应",
+        "Actionable_Suggestion": "修复链接点击和复制功能，确保正常跳转和复制"
       },
       {
         "id": "com.xingin.xhs_hos_27",
         "User_Pain_Point": "虚拟产品购买体验差，无法正常沟通",
-        "Actionable_Suggestion": "优化虚拟商品的购买流程和沟通渠道，改善用户体验"
+        "Actionable_Suggestion": "优化虚拟产品购买流程，增加即时沟通渠道"
       },
       {
         "id": "com.xingin.xhs_hos_31",
-        "User_Pain_Point": "缺少群内发送文件功能，如PDF",
-        "Actionable_Suggestion": "尽快上线群文件分享功能，支持PDF等常见格式"
+        "User_Pain_Point": "群里无法发送PDF等文件",
+        "Actionable_Suggestion": "增加群聊文件发送功能，支持PDF等常见格式"
       },
       {
         "id": "com.xingin.xhs_hos_32",
-        "User_Pain_Point": "套用模板发布笔记时失败",
-        "Actionable_Suggestion": "修复笔记模板应用功能，确保用户能正常使用模板"
+        "User_Pain_Point": "套模板发笔记套不上",
+        "Actionable_Suggestion": "修复模板套用功能，确保模板正确应用"
       },
       {
         "id": "com.xingin.xhs_hos_33",
-        "User_Pain_Point": "问一问AI功能未更新，无法看到或使用",
-        "Actionable_Suggestion": "尽快更新问一问AI功能，确保用户界面显示入口"
-      },
-      {
-        "id": "com.xingin.xhs_hos_35",
-        "User_Pain_Point": "图片预加载功能未更新上线",
-        "Actionable_Suggestion": "尽快更新上线图片预加载功能"
+        "User_Pain_Point": "问一问AI功能没有更新，看不到",
+        "Actionable_Suggestion": "更新问一问AI功能，确保用户可见可用"
       },
       {
         "id": "com.xingin.xhs_hos_36",
-        "User_Pain_Point": "不支持海外用户登录",
-        "Actionable_Suggestion": "支持海外地区登录，适配国际账号体系"
+        "User_Pain_Point": "不支持海外登录",
+        "Actionable_Suggestion": "增加海外登录支持，满足国际用户需求"
       },
       {
         "id": "com.xingin.xhs_hos_38",
         "User_Pain_Point": "缺少翻译功能",
-        "Actionable_Suggestion": "集成翻译功能，支持多语言翻译"
+        "Actionable_Suggestion": "增加翻译功能，方便用户跨语言使用"
       },
       {
         "id": "com.xingin.xhs_hos_41",
-        "User_Pain_Point": "问一问AI功能无法使用",
-        "Actionable_Suggestion": "修复问一问AI功能，确保新版本可用"
-      },
-      {
-        "id": "com.xingin.xhs_hos_42",
-        "User_Pain_Point": "评论区“展开n条回复”无法点开",
-        "Actionable_Suggestion": "修复评论区展开回复按钮的点击事件"
+        "User_Pain_Point": "这个版本用不了问一问ai",
+        "Actionable_Suggestion": "修复问一问AI功能"
       },
       {
         "id": "com.xingin.xhs_hos_43",
-        "User_Pain_Point": "横屏看视频时智感握姿功能不触发",
-        "Actionable_Suggestion": "修复横屏场景下智感握姿功能的触发逻辑"
+        "User_Pain_Point": "横屏看视频，智感握姿功能不会触发。",
+        "Actionable_Suggestion": "修复横屏智感握姿触发"
       },
       {
         "id": "com.xingin.xhs_hos_44",
-        "User_Pain_Point": "评论区问一问无法@用户",
-        "Actionable_Suggestion": "为评论区问一问添加@功能"
-      },
-      {
-        "id": "com.xingin.xhs_hos_45",
-        "User_Pain_Point": "横屏笔记最下面一条评论无法展开更多回复",
-        "Actionable_Suggestion": "修复横屏下评论展开回复功能"
+        "User_Pain_Point": "鸿蒙评论区的问一问没法艾特",
+        "Actionable_Suggestion": "修复问一问艾特功能"
       },
       {
         "id": "com.xingin.xhs_hos_46",
-        "User_Pain_Point": "购物车打开后无内容",
-        "Actionable_Suggestion": "修复购物车数据加载问题"
+        "User_Pain_Point": "怎么购物车打开没东西了",
+        "Actionable_Suggestion": "修复购物车显示问题"
       },
       {
         "id": "com.xingin.xhs_hos_48",
-        "User_Pain_Point": "部分笔记发送失败",
-        "Actionable_Suggestion": "排查并修复笔记发送功能"
-      },
-      {
-        "id": "com.xingin.xhs_hos_51",
-        "User_Pain_Point": "悬浮底栏功能存在机型独占，部分机型不支持",
-        "Actionable_Suggestion": "取消悬浮底栏的机型独占，让所有机型都能使用该功能"
-      },
-      {
-        "id": "com.xingin.xhs_hos_52",
-        "User_Pain_Point": "功能按机型区别适配，基础功能适配较差",
-        "Actionable_Suggestion": "统一功能适配，确保所有机型的基础功能体验一致"
-      },
-      {
-        "id": "com.xingin.xhs_hos_53",
-        "User_Pain_Point": "Pura X机型不支持沉浸光感功能",
-        "Actionable_Suggestion": "为Pura X机型添加沉浸光感功能支持"
-      },
-      {
-        "id": "com.xingin.xhs_hos_54",
-        "User_Pain_Point": "底部光感功能按机型区分，部分机型缺失",
-        "Actionable_Suggestion": "取消底部光感功能的机型区分，在所有机型上提供该功能"
-      },
-      {
-        "id": "com.xingin.xhs_hos_55",
-        "User_Pain_Point": "功能根据机型做区分，认为不合理",
-        "Actionable_Suggestion": "去除功能根据机型的差异化限制，统一功能体验"
-      },
-      {
-        "id": "com.xingin.xhs_hos_56",
-        "User_Pain_Point": "沉浸光感功能被独占，仅部分机型可用",
-        "Actionable_Suggestion": "取消沉浸光感功能的独占策略，让更多机型支持"
-      },
-      {
-        "id": "com.xingin.xhs_hos_57",
-        "User_Pain_Point": "Dock栏（悬浮底栏）功能存在机型独占",
-        "Actionable_Suggestion": "取消Dock栏的机型独占，让所有机型都能使用"
-      },
-      {
-        "id": "com.xingin.xhs_hos_59",
-        "User_Pain_Point": "沉浸光感功能不给其他机型，导致低分评价",
-        "Actionable_Suggestion": "将沉浸光感功能开放给所有机型，避免用户不满"
-      },
-      {
-        "id": "com.xingin.xhs_hos_60",
-        "User_Pain_Point": "光感功能按机型提供，引发用户不满",
-        "Actionable_Suggestion": "在所有机型上统一提供光感功能，取消按机型限制"
+        "User_Pain_Point": "为啥有的笔记发送不了啊？",
+        "Actionable_Suggestion": "修复笔记发送失败问题"
       },
       {
         "id": "com.xingin.xhs_hos_61",
-        "User_Pain_Point": "无法查看小红书群接龙信息",
-        "Actionable_Suggestion": "添加群接龙功能，支持在群聊中发起和查看接龙"
+        "User_Pain_Point": "无法看到小红书的群接龙信息",
+        "Actionable_Suggestion": "增加群接龙信息显示功能"
       },
       {
         "id": "com.xingin.xhs_hos_65",
-        "User_Pain_Point": "群功能不完善",
-        "Actionable_Suggestion": "完善群功能，如增加接龙、红包等常用群能力"
+        "User_Pain_Point": "群功能不够完善",
+        "Actionable_Suggestion": "完善群功能，如增加接龙、红包等"
       },
       {
         "id": "com.xingin.xhs_hos_66",
         "User_Pain_Point": "不能私信感谢点赞",
-        "Actionable_Suggestion": "在私信模块增加感谢点赞的快捷操作或入口"
+        "Actionable_Suggestion": "增加私信感谢点赞功能"
       },
       {
         "id": "com.xingin.xhs_hos_66",
-        "User_Pain_Point": "无法搜索灵感",
-        "Actionable_Suggestion": "增加灵感搜索功能，支持关键词检索平台灵感内容"
+        "User_Pain_Point": "不能搜索灵感",
+        "Actionable_Suggestion": "增加搜索灵感功能"
       },
       {
         "id": "com.xingin.xhs_hos_66",
-        "User_Pain_Point": "选品管理操作不便",
-        "Actionable_Suggestion": "优化商品选品管理流程，提供更便捷的编辑、分类和批量操作"
+        "User_Pain_Point": "不能便捷的进行选品管理",
+        "Actionable_Suggestion": "优化选品管理便捷性"
       },
       {
         "id": "com.xingin.xhs_hos_67",
-        "User_Pain_Point": "缺少写长文功能",
-        "Actionable_Suggestion": "添加写长文功能，支持发布长文笔记"
+        "User_Pain_Point": "缺少写长文的功能",
+        "Actionable_Suggestion": "增加写长文的功能"
       },
       {
         "id": "com.xingin.xhs_hos_68",
-        "User_Pain_Point": "群消息中缺少链接红包功能",
-        "Actionable_Suggestion": "推进群链接红包功能，支持在群聊中发送红包链接"
+        "User_Pain_Point": "群消息链接红包功能未推进",
+        "Actionable_Suggestion": "推进群消息链接红包功能"
       },
       {
-        "id": "com.xingin.xhs_hos_69",
-        "User_Pain_Point": "Mate X7 缺乏沉浸光感和智感握姿适配",
-        "Actionable_Suggestion": "尽快为 Mate X7 机型适配沉浸光感和智感握姿功能"
+        "id": "com.xingin.xhs_hos_72",
+        "User_Pain_Point": "其他机型没有沉浸光感功能",
+        "Actionable_Suggestion": "尽快为其他机型适配沉浸光感功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_73",
+        "User_Pain_Point": "其他机型未适配沉浸光感",
+        "Actionable_Suggestion": "公布适配计划，加快适配进度"
       },
       {
         "id": "com.xingin.xhs_hos_74",
-        "User_Pain_Point": "沉浸光感功能没有开关设置，用户无法自主控制。",
-        "Actionable_Suggestion": "增加沉浸光感功能的开关设置，让用户自主选择开启或关闭。"
+        "User_Pain_Point": "沉浸光感功能存在机型歧视，缺少开关设置",
+        "Actionable_Suggestion": "添加沉浸光感的开关设置，让用户自主选择"
+      },
+      {
+        "id": "com.xingin.xhs_hos_75",
+        "User_Pain_Point": "其他机型未适配沉浸光感",
+        "Actionable_Suggestion": "明确其他机型的适配时间"
       },
       {
         "id": "com.xingin.xhs_hos_77",
-        "User_Pain_Point": "无法给关注的人添加备注名字。",
-        "Actionable_Suggestion": "增加关注人备注功能。"
+        "User_Pain_Point": "无法给关注的人添加备注名字",
+        "Actionable_Suggestion": "增加给关注人备注名字的功能"
       },
       {
         "id": "com.xingin.xhs_hos_80",
-        "User_Pain_Point": "直播缺少回放功能。",
-        "Actionable_Suggestion": "支持直播回放功能。"
-      },
-      {
-        "id": "com.xingin.xhs_hos_81",
-        "User_Pain_Point": "澳门手机账号无法登录，仅支持内地手机号。",
-        "Actionable_Suggestion": "增加对澳门及其他地区手机号登录的支持，确保功能与内地一致。"
+        "User_Pain_Point": "直播无法观看回放",
+        "Actionable_Suggestion": "提供直播回放功能"
       },
       {
         "id": "com.xingin.xhs_hos_82",
-        "User_Pain_Point": "标签搜索功能体验差，搜索结果不相关，搜AB出现BA。",
-        "Actionable_Suggestion": "优化标签搜索算法，提高搜索结果的准确性和相关性。"
+        "User_Pain_Point": "标签功能混乱，搜索标签逻辑差，搜AB老出现BA，体验非常差",
+        "Actionable_Suggestion": "优化标签搜索逻辑，确保关键词匹配准确"
+      },
+      {
+        "id": "com.xingin.xhs_hos_83",
+        "User_Pain_Point": "宣传的「沉浸光感」功能无法使用",
+        "Actionable_Suggestion": "确保宣传的功能在所有适配机型上可用"
       },
       {
         "id": "com.xingin.xhs_hos_84",
-        "User_Pain_Point": "平板版小红书缺少手游直播功能。",
-        "Actionable_Suggestion": "在平板版本中增加手游直播功能。"
+        "User_Pain_Point": "平板版不支持手游直播",
+        "Actionable_Suggestion": "增加平板版手游直播功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_86",
+        "User_Pain_Point": "缺少关注栏上方显示关注头像，以及我的栏的评论区",
+        "Actionable_Suggestion": "增加关注栏上方关注头像显示，我的栏增加评论区"
+      },
+      {
+        "id": "com.xingin.xhs_hos_87",
+        "User_Pain_Point": "话题功能混乱：收藏话题找不到，关注话题列表不透明",
+        "Actionable_Suggestion": "优化话题功能，增加话题收藏管理入口，显示已关注话题列表"
       },
       {
         "id": "com.xingin.xhs_hos_88",
-        "User_Pain_Point": "“问一问”功能不可见或无法使用。",
-        "Actionable_Suggestion": "修复“问一问”功能入口和可用性问题，确保其正常显示和运作。"
+        "User_Pain_Point": "问一问功能无法看到和使用",
+        "Actionable_Suggestion": "修复问一问功能，确保正常显示和使用"
       },
       {
         "id": "com.xingin.xhs_hos_90",
-        "User_Pain_Point": "实况图片发布后没有声音。",
-        "Actionable_Suggestion": "修复实况图片声音录制或播放问题，确保实况图片包含音频。"
+        "User_Pain_Point": "实况图片没有声音",
+        "Actionable_Suggestion": "为实况图片添加声音播放功能"
       },
       {
         "id": "com.xingin.xhs_hos_90",
-        "User_Pain_Point": "无法下载帖子中的附件文件。",
-        "Actionable_Suggestion": "增加附件下载功能。"
+        "User_Pain_Point": "编辑帖子时话题会重复",
+        "Actionable_Suggestion": "修复编辑帖子时话题重复的问题"
       },
       {
         "id": "com.xingin.xhs_hos_90",
-        "User_Pain_Point": "缺少星标朋友功能。",
-        "Actionable_Suggestion": "添加星标朋友功能。"
+        "User_Pain_Point": "不能显示、不能下载附件文件",
+        "Actionable_Suggestion": "增加附件文件的显示和下载功能"
       },
       {
         "id": "com.xingin.xhs_hos_90",
-        "User_Pain_Point": "无法为好友添加备注。",
-        "Actionable_Suggestion": "添加好友备注功能。"
+        "User_Pain_Point": "星标朋友功能未上线",
+        "Actionable_Suggestion": "尽快上线星标朋友功能"
       },
       {
         "id": "com.xingin.xhs_hos_90",
-        "User_Pain_Point": "群聊功能缺失，不能查看群文件、群置顶、群通知等。",
-        "Actionable_Suggestion": "完善群聊功能，增加群文件、群置顶、群通知等。"
+        "User_Pain_Point": "不能为好友添加备注",
+        "Actionable_Suggestion": "增加用户备注功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_90",
+        "User_Pain_Point": "不能查看群文件、群置顶和群通知",
+        "Actionable_Suggestion": "增加群文件、群置顶和群通知功能"
       },
       {
         "id": "com.xingin.xhs_hos_91",
-        "User_Pain_Point": "无法查看PDF文件",
-        "Actionable_Suggestion": "添加PDF查看器功能"
+        "User_Pain_Point": "缺少PDF查看功能",
+        "Actionable_Suggestion": "增加PDF查看功能"
       },
       {
         "id": "com.xingin.xhs_hos_92",
-        "User_Pain_Point": "视频画质差且无法调整",
-        "Actionable_Suggestion": "提供画质调整选项或优化默认画质"
+        "User_Pain_Point": "画质差且无法调节",
+        "Actionable_Suggestion": "提供画质调节选项"
       },
       {
         "id": "com.xingin.xhs_hos_94",
-        "User_Pain_Point": "缺少文章点赞（好）功能",
-        "Actionable_Suggestion": "添加文章点赞功能"
-      },
-      {
-        "id": "com.xingin.xhs_hos_94",
-        "User_Pain_Point": "缺少翻译功能",
-        "Actionable_Suggestion": "添加翻译功能"
+        "User_Pain_Point": "缺少文章点“好”功能和翻译功能",
+        "Actionable_Suggestion": "尽快增加文章点赞（好）功能和翻译功能"
       },
       {
         "id": "com.xingin.xhs_hos_95",
         "User_Pain_Point": "直播间缺少缩放功能",
-        "Actionable_Suggestion": "添加直播间缩放功能"
+        "Actionable_Suggestion": "增加直播间缩放功能"
       },
       {
         "id": "com.xingin.xhs_hos_98",
-        "User_Pain_Point": "无法使用@问一问功能",
-        "Actionable_Suggestion": "修复@问一问功能"
+        "User_Pain_Point": "不能@问一问功能",
+        "Actionable_Suggestion": "增加@问一问功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_103",
+        "User_Pain_Point": "新手机功能比旧手机少",
+        "Actionable_Suggestion": "确保各机型功能完整性"
+      },
+      {
+        "id": "com.xingin.xhs_hos_103",
+        "User_Pain_Point": "某些视频无法观看",
+        "Actionable_Suggestion": "修复视频播放兼容性"
+      },
+      {
+        "id": "com.xingin.xhs_hos_103",
+        "User_Pain_Point": "无法购买商品",
+        "Actionable_Suggestion": "修复购物功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_104",
+        "User_Pain_Point": "下载显示大小与实际安装大小不一致",
+        "Actionable_Suggestion": "统一显示正确的应用大小或说明差异原因"
+      },
+      {
+        "id": "com.xingin.xhs_hos_105",
+        "User_Pain_Point": "私信中无法打开商品链接页面",
+        "Actionable_Suggestion": "在私信功能中支持打开商品链接"
+      },
+      {
+        "id": "com.xingin.xhs_hos_108",
+        "User_Pain_Point": "发布的帖子别人无法查看，客服无解决方案",
+        "Actionable_Suggestion": "修复帖子可见性功能，提升客服响应质量"
+      },
+      {
+        "id": "com.xingin.xhs_hos_111",
+        "User_Pain_Point": "每一次都要登陆",
+        "Actionable_Suggestion": "优化登录状态保持，避免每次重新登录"
+      },
+      {
+        "id": "com.xingin.xhs_hos_112",
+        "User_Pain_Point": "鸿蒙6没有个人售卖",
+        "Actionable_Suggestion": "增加个人售卖功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_113",
+        "User_Pain_Point": "直播没有手游选项",
+        "Actionable_Suggestion": "在直播中添加手游选项"
+      },
+      {
+        "id": "com.xingin.xhs_hos_114",
+        "User_Pain_Point": "看不到附件，无法下载附件",
+        "Actionable_Suggestion": "修复附件查看和下载功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_115",
+        "User_Pain_Point": "群聊文件不能正常显示",
+        "Actionable_Suggestion": "修复群聊文件显示功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_116",
+        "User_Pain_Point": "看不到帖子中分享的文件",
+        "Actionable_Suggestion": "支持帖子中文件的查看和下载"
+      },
+      {
+        "id": "com.xingin.xhs_hos_118",
+        "User_Pain_Point": "无法打开评论区里的链接",
+        "Actionable_Suggestion": "修复评论区链接打开功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_119",
+        "User_Pain_Point": "鸿蒙系统6.0以上没有“点点”功能",
+        "Actionable_Suggestion": "添加“点点”功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_120",
+        "User_Pain_Point": "不支持HDR",
+        "Actionable_Suggestion": "增加HDR支持"
+      },
+      {
+        "id": "com.xingin.xhs_hos_121",
+        "User_Pain_Point": "缺少“我的订单”功能，用户无法查看订单信息。",
+        "Actionable_Suggestion": "尽快开发并上线“我的订单”功能。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_123",
+        "User_Pain_Point": "群话题功能缺失，影响使用体验。",
+        "Actionable_Suggestion": "更新并完善群话题功能。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_126",
+        "User_Pain_Point": "搜索功能出现重复帖子，影响搜索效率。",
+        "Actionable_Suggestion": "优化搜索算法，去除重复结果。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_127",
+        "User_Pain_Point": "未成年模式无法关闭，影响正常使用。",
+        "Actionable_Suggestion": "修复未成年模式切换bug，提供关闭选项。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_129",
+        "User_Pain_Point": "更新后直播回放功能无法观看。",
+        "Actionable_Suggestion": "修复直播回放功能，确保可用。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_130",
+        "User_Pain_Point": "发布页功能缺失太多，希望升级或提供卓易通版本。",
+        "Actionable_Suggestion": "升级发布页功能，补齐缺失项，或开发卓易通版本。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_131",
+        "User_Pain_Point": "个人售卖功能缺失或不可见，用户不知道何时更新",
+        "Actionable_Suggestion": "尽快上线个人售卖功能并优化显示"
+      },
+      {
+        "id": "com.xingin.xhs_hos_132",
+        "User_Pain_Point": "位置定位功能强制要求人脸识别，不合理",
+        "Actionable_Suggestion": "移除不必要的权限要求，或提供替代验证方式"
+      },
+      {
+        "id": "com.xingin.xhs_hos_133",
+        "User_Pain_Point": "更新后无法领取素材，功能异常",
+        "Actionable_Suggestion": "修复更新后素材领取功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_134",
+        "User_Pain_Point": "消息栏无法长按复制内容",
+        "Actionable_Suggestion": "增加通知栏长按复制功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_136",
+        "User_Pain_Point": "分享微信时小卡片功能缺失",
+        "Actionable_Suggestion": "修复分享微信小卡片功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_137",
+        "User_Pain_Point": "实名认证后系统仍显示未认证，状态不同步",
+        "Actionable_Suggestion": "修复实名认证状态同步逻辑"
+      },
+      {
+        "id": "com.xingin.xhs_hos_139",
+        "User_Pain_Point": "缺少“好”按钮和侧边点赞评论功能",
+        "Actionable_Suggestion": "增加“好”按钮交互和侧边点赞评论功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_141",
+        "User_Pain_Point": "发布页没有合集了",
+        "Actionable_Suggestion": "增加合集功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_141",
+        "User_Pain_Point": "没有高清发布",
+        "Actionable_Suggestion": "增加高清发布选项"
+      },
+      {
+        "id": "com.xingin.xhs_hos_141",
+        "User_Pain_Point": "搜索筛选不了未看笔记",
+        "Actionable_Suggestion": "增加按未看筛选功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_142",
+        "User_Pain_Point": "没法清理数据清理缓存，永远显示为0",
+        "Actionable_Suggestion": "修复缓存清理功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_146",
+        "User_Pain_Point": "实况没声音",
+        "Actionable_Suggestion": "修复实况照片声音问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_149",
+        "User_Pain_Point": "发图文很多功能没有",
+        "Actionable_Suggestion": "补充发图文缺失的功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_150",
+        "User_Pain_Point": "笔记下方个人售卖链接看不到",
+        "Actionable_Suggestion": "修复售卖链接显示问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_153",
+        "User_Pain_Point": "编辑内容时光标跳跃，在第三行打字跑到第二行，打标签也有问题",
+        "Actionable_Suggestion": "修复编辑时光标跳跃和标签异常问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_154",
+        "User_Pain_Point": "认证蓝V不显示，没有专业号栏目，创作者功能缺失",
+        "Actionable_Suggestion": "增加蓝V显示和专业号栏目"
+      },
+      {
+        "id": "com.xingin.xhs_hos_155",
+        "User_Pain_Point": "不支持4K视频选项",
+        "Actionable_Suggestion": "增加4K视频上传选项"
+      },
+      {
+        "id": "com.xingin.xhs_hos_156",
+        "User_Pain_Point": "私信和评论发送图片功能失效",
+        "Actionable_Suggestion": "修复私信和评论中图片发送功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_159",
+        "User_Pain_Point": "直播功能严重受限，除人脸直播外其他直播无法进行",
+        "Actionable_Suggestion": "完善直播功能，支持多种直播模式"
+      },
+      {
+        "id": "com.xingin.xhs_hos_160",
+        "User_Pain_Point": "小红书千帆功能超过4个月未更新",
+        "Actionable_Suggestion": "加快千帆功能更新频率"
+      },
+      {
+        "id": "com.xingin.xhs_hos_161",
+        "User_Pain_Point": "不能开通橱窗，说鸿蒙不支持",
+        "Actionable_Suggestion": "支持鸿蒙系统开通橱窗功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_161",
+        "User_Pain_Point": "发文不能艾特",
+        "Actionable_Suggestion": "修复发文艾特功能，使其在鸿蒙系统上可用"
+      },
+      {
+        "id": "com.xingin.xhs_hos_162",
+        "User_Pain_Point": "实况图声音功能开发慢",
+        "Actionable_Suggestion": "加快实况图声音功能的上线速度"
+      },
+      {
+        "id": "com.xingin.xhs_hos_162",
+        "User_Pain_Point": "评论点赞推送不及时，几个小时以后才有提示",
+        "Actionable_Suggestion": "优化评论点赞推送的及时性，减少延迟"
+      },
+      {
+        "id": "com.xingin.xhs_hos_163",
+        "User_Pain_Point": "调节音量与亮度功能无效，视频横屏无法调节",
+        "Actionable_Suggestion": "修复调节音量与亮度功能的bug，确保横屏下可用"
+      },
+      {
+        "id": "com.xingin.xhs_hos_164",
+        "User_Pain_Point": "评论看不到图片",
+        "Actionable_Suggestion": "修复评论中图片显示的问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_165",
+        "User_Pain_Point": "看不到评论的图片",
+        "Actionable_Suggestion": "修复评论中图片显示的问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_167",
+        "User_Pain_Point": "更新之后看不了评论区的图片",
+        "Actionable_Suggestion": "修复更新后评论区图片无法显示的问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_169",
+        "User_Pain_Point": "更新完评论区表情包看不到，只显示转圈刷新图标",
+        "Actionable_Suggestion": "修复评论区表情包显示异常的问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_171",
+        "User_Pain_Point": "评论看不了图片",
+        "Actionable_Suggestion": "优化图片加载功能，确保评论图片正常显示"
+      },
+      {
+        "id": "com.xingin.xhs_hos_173",
+        "User_Pain_Point": "官方不能恢复搬运工功能",
+        "Actionable_Suggestion": "恢复或改进搬运工功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_174",
+        "User_Pain_Point": "收不到私信和评论通知",
+        "Actionable_Suggestion": "优化通知推送机制，确保用户能收到私信和评论通知"
+      },
+      {
+        "id": "com.xingin.xhs_hos_175",
+        "User_Pain_Point": "星标提示功能未开放，耽误事",
+        "Actionable_Suggestion": "尽快上线星标提示功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_176",
+        "User_Pain_Point": "评论区的图片看不了",
+        "Actionable_Suggestion": "修复评论区图片加载问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_177",
+        "User_Pain_Point": "点进去不显示图片",
+        "Actionable_Suggestion": "修复图片显示问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_178",
+        "User_Pain_Point": "鸿蒙版本看不到问一问，也不能@问一问",
+        "Actionable_Suggestion": "尽快在鸿蒙版本中适配问一问功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_180",
+        "User_Pain_Point": "不支持对方发来的卡片信息",
+        "Actionable_Suggestion": "增加对卡片信息的支持"
+      },
+      {
+        "id": "com.xingin.xhs_hos_182",
+        "User_Pain_Point": "更新后评论图片加载不出来",
+        "Actionable_Suggestion": "修复评论图片加载问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_184",
+        "User_Pain_Point": "横屏视频状态下无法用手势调节音量和亮度",
+        "Actionable_Suggestion": "横屏视频状态添加手势调节音量和亮度功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_186",
+        "User_Pain_Point": "带话题的问题未修复",
+        "Actionable_Suggestion": "修复发布内容带话题的功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_187",
+        "User_Pain_Point": "横竖屏旋转不能跟随系统设定",
+        "Actionable_Suggestion": "实现横竖屏旋转跟随系统设定"
+      },
+      {
+        "id": "com.xingin.xhs_hos_191",
+        "User_Pain_Point": "用户希望发布全屏图，但当前版本不支持该功能。",
+        "Actionable_Suggestion": "增加全屏图发布功能，允许用户上传和发布全屏尺寸的图片。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_194",
+        "User_Pain_Point": "笔记发布有1000字限制，用户希望发布长文。",
+        "Actionable_Suggestion": "提高笔记字数限制，或提供长文发布模式（如展开全文）。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_197",
+        "User_Pain_Point": "用户反映平台没有卫生巾等女性用品售卖，认为存在性别歧视。",
+        "Actionable_Suggestion": "引入卫生巾等女性必需品品类，丰富商品种类，避免歧视。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_199",
+        "User_Pain_Point": "无法搜索关注人并直接修改备注，需要在列表逐一查找。",
+        "Actionable_Suggestion": "在关注列表增加搜索功能，支持直接修改备注名称。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_200",
+        "User_Pain_Point": "分享生成的图片不显示时间，且无法直接转发，需先保存图片。",
+        "Actionable_Suggestion": "优化分享功能：生成图片时包含时间戳，并支持一键转发到其他平台。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_201",
+        "User_Pain_Point": "看不到别人回复我的评论",
+        "Actionable_Suggestion": "修复评论回复通知或显示问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_202",
+        "User_Pain_Point": "发帖时点tag乱跳格式，手打tag跳不出联想",
+        "Actionable_Suggestion": "优化tag编辑功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_203",
+        "User_Pain_Point": "发帖不能正常引出话题，客服解决不了",
+        "Actionable_Suggestion": "修复话题引出功能并改善客服"
+      },
+      {
+        "id": "com.xingin.xhs_hos_204",
+        "User_Pain_Point": "缺失进度条、时间点一键传送、筛选已读未读等功能",
+        "Actionable_Suggestion": "增加进度条、时间点传送、已读未读筛选功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_205",
+        "User_Pain_Point": "很多功能相比安卓版本少了很多",
+        "Actionable_Suggestion": "补充缺失功能，缩小与安卓版差距"
+      },
+      {
+        "id": "com.xingin.xhs_hos_205",
+        "User_Pain_Point": "不能发送长文",
+        "Actionable_Suggestion": "支持发送长文内容"
+      },
+      {
+        "id": "com.xingin.xhs_hos_205",
+        "User_Pain_Point": "话题插入会跑偏",
+        "Actionable_Suggestion": "修复话题插入功能，确保位置正确"
+      },
+      {
+        "id": "com.xingin.xhs_hos_206",
+        "User_Pain_Point": "直播回放不能全屏播放，画面不全",
+        "Actionable_Suggestion": "优化直播回放全屏和画面显示"
+      },
+      {
+        "id": "com.xingin.xhs_hos_207",
+        "User_Pain_Point": "群内分享的资料无法显示",
+        "Actionable_Suggestion": "修复群内资料显示问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_212",
+        "User_Pain_Point": "关注界面顶上显示的关注博主被移除，每条笔记的时间也不展示。",
+        "Actionable_Suggestion": "恢复关注界面顶端显示关注的博主列表，并重新展示每条笔记的发布时间。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_222",
+        "User_Pain_Point": "无法查看个人售卖商品",
+        "Actionable_Suggestion": "增加个人售卖商品查看功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_222",
+        "User_Pain_Point": "分享的文件无法下载",
+        "Actionable_Suggestion": "修复文件下载功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_223",
+        "User_Pain_Point": "直播间商品不能点一键求讲解",
+        "Actionable_Suggestion": "添加一键求讲解功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_223",
+        "User_Pain_Point": "正常功能缺失较多",
+        "Actionable_Suggestion": "增加更多常用功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_224",
+        "User_Pain_Point": "发帖时话题会插入到文案中间",
+        "Actionable_Suggestion": "修复话题插入位置逻辑"
+      },
+      {
+        "id": "com.xingin.xhs_hos_225",
+        "User_Pain_Point": "没有心愿单功能",
+        "Actionable_Suggestion": "添加心愿单功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_225",
+        "User_Pain_Point": "笔记带的文件不能查看",
+        "Actionable_Suggestion": "支持笔记内的文件查看"
+      },
+      {
+        "id": "com.xingin.xhs_hos_225",
+        "User_Pain_Point": "没有评论记录功能",
+        "Actionable_Suggestion": "增加评论记录查看功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_226",
+        "User_Pain_Point": "横屏播放视频时不能翻页",
+        "Actionable_Suggestion": "优化横屏模式下的翻页交互"
+      },
+      {
+        "id": "com.xingin.xhs_hos_226",
+        "User_Pain_Point": "横屏播放视频时不能看评论",
+        "Actionable_Suggestion": "横屏模式下支持评论展示"
+      },
+      {
+        "id": "com.xingin.xhs_hos_228",
+        "User_Pain_Point": "直播无法连线",
+        "Actionable_Suggestion": "修复直播连线功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_229",
+        "User_Pain_Point": "看不到个人售卖商品及管理",
+        "Actionable_Suggestion": "增加个人售卖商品查看和管理功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_230",
+        "User_Pain_Point": "点“好”功能未上线",
+        "Actionable_Suggestion": "尽快上线点“好”功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_231",
+        "User_Pain_Point": "笔记加不了话题",
+        "Actionable_Suggestion": "修复话题添加功能，确保用户可以在发布笔记时正常添加话题。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_232",
+        "User_Pain_Point": "更新后购物链接消失",
+        "Actionable_Suggestion": "恢复购物链接功能，检查更新带来的兼容性问题。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_233",
+        "User_Pain_Point": "关注话题不显示",
+        "Actionable_Suggestion": "修复关注话题的显示问题，确保用户关注的话题能正常展示。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_234",
+        "User_Pain_Point": "缺少帖子带文件功能",
+        "Actionable_Suggestion": "增加帖子带文件的功能，满足用户分享文件的需求。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_236",
+        "User_Pain_Point": "缺少搜索热榜功能",
+        "Actionable_Suggestion": "增加搜索热榜功能，提升内容发现效率。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_237",
+        "User_Pain_Point": "群聊设置不了管理员",
+        "Actionable_Suggestion": "增加群聊管理员设置功能，完善群组管理能力。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_239",
+        "User_Pain_Point": "新建笔记时不推荐标签",
+        "Actionable_Suggestion": "恢复新建笔记时的标签推荐功能，提升内容发布效率。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_242",
+        "User_Pain_Point": "关注没有备注功能",
+        "Actionable_Suggestion": "增加关注备注功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_243",
+        "User_Pain_Point": "个人售卖功能迟迟不上线",
+        "Actionable_Suggestion": "加快开发个人售卖功能并上线"
+      },
+      {
+        "id": "com.xingin.xhs_hos_245",
+        "User_Pain_Point": "发小红书自主加不了话题",
+        "Actionable_Suggestion": "允许用户在发帖时自主添加话题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_246",
+        "User_Pain_Point": "鸿蒙版本没有直播预约功能",
+        "Actionable_Suggestion": "开发鸿蒙版本直播预约功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_247",
+        "User_Pain_Point": "不支持多设备登录",
+        "Actionable_Suggestion": "增加多设备登录功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_248",
+        "User_Pain_Point": "个人售卖模块缺失",
+        "Actionable_Suggestion": "尽快更新个人售卖模块"
+      },
+      {
+        "id": "com.xingin.xhs_hos_249",
+        "User_Pain_Point": "没有小程序功能",
+        "Actionable_Suggestion": "开发小程序功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_250",
+        "User_Pain_Point": "无法点开评论区链接",
+        "Actionable_Suggestion": "支持点击打开评论区中的链接"
+      },
+      {
+        "id": "com.xingin.xhs_hos_251",
+        "User_Pain_Point": "鸿蒙版不能用云闪付支付",
+        "Actionable_Suggestion": "增加云闪付支付方式"
+      },
+      {
+        "id": "com.xingin.xhs_hos_252",
+        "User_Pain_Point": "直播回放画面比例不正常，画面放大",
+        "Actionable_Suggestion": "修复直播回放画面比例问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_253",
+        "User_Pain_Point": "无法查看别人帖子里的附件",
+        "Actionable_Suggestion": "修复附件显示功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_254",
+        "User_Pain_Point": "平板用户缺少语音直播和群接龙功能",
+        "Actionable_Suggestion": "为平板用户补充语音直播和群接龙功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_255",
+        "User_Pain_Point": "无法添加logo",
+        "Actionable_Suggestion": "支持添加logo功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_258",
+        "User_Pain_Point": "群聊中评论无法查看",
+        "Actionable_Suggestion": "修复群聊评论查看功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_259",
+        "User_Pain_Point": "添加话题功能失效，输入无反应且光标乱跳",
+        "Actionable_Suggestion": "修复添加话题功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_260",
+        "User_Pain_Point": "聊天中对方发送的卡片、笔记不显示",
+        "Actionable_Suggestion": "修复聊天中卡片和笔记显示"
+      },
+      {
+        "id": "com.xingin.xhs_hos_261",
+        "User_Pain_Point": "鸿蒙系统阉割了星光夜市功能",
+        "Actionable_Suggestion": "恢复星光夜市功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_261",
+        "User_Pain_Point": "鸿蒙系统阉割了优惠券领取功能",
+        "Actionable_Suggestion": "恢复优惠券领取功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_262",
+        "User_Pain_Point": "没有英文功能",
+        "Actionable_Suggestion": "增加英文语言支持"
+      },
+      {
+        "id": "com.xingin.xhs_hos_264",
+        "User_Pain_Point": "缺少瞬时功能",
+        "Actionable_Suggestion": "增加瞬时功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_265",
+        "User_Pain_Point": "不支持多设备登录",
+        "Actionable_Suggestion": "支持多设备登录"
+      },
+      {
+        "id": "com.xingin.xhs_hos_266",
+        "User_Pain_Point": "评论点赞提示数字无法消除",
+        "Actionable_Suggestion": "修复点赞提示数字消除功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_268",
+        "User_Pain_Point": "话题添加功能异常，使用#添加显示黑色而非蓝色链接",
+        "Actionable_Suggestion": "修复话题添加功能，确保#显示为蓝色链接"
+      },
+      {
+        "id": "com.xingin.xhs_hos_269",
+        "User_Pain_Point": "视频动图功能长时间未更新",
+        "Actionable_Suggestion": "尽快更新视频动图功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_270",
+        "User_Pain_Point": "无法下载PDF",
+        "Actionable_Suggestion": "增加PDF下载功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_271",
+        "User_Pain_Point": "直播连麦不了",
+        "Actionable_Suggestion": "修复直播连麦功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_273",
+        "User_Pain_Point": "作品话题带不了，很多功能不完善",
+        "Actionable_Suggestion": "完善作品话题功能，优化其他不完善功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_274",
+        "User_Pain_Point": "希望上架英语模式",
+        "Actionable_Suggestion": "上架英语模式"
+      },
+      {
+        "id": "com.xingin.xhs_hos_276",
+        "User_Pain_Point": "没有消息提醒",
+        "Actionable_Suggestion": "添加消息提醒功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_278",
+        "User_Pain_Point": "鸿蒙系统的实况图听不到声音",
+        "Actionable_Suggestion": "修复实况图声音问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_280",
+        "User_Pain_Point": "每次打开都要再登一次",
+        "Actionable_Suggestion": "修复登录状态持久化问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_281",
+        "User_Pain_Point": "聚光功能一直未上线",
+        "Actionable_Suggestion": "加快聚光功能的开发与上线"
+      },
+      {
+        "id": "com.xingin.xhs_hos_283",
+        "User_Pain_Point": "不支持发长文功能",
+        "Actionable_Suggestion": "增加发长文功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_284",
+        "User_Pain_Point": "视频不能自动横屏",
+        "Actionable_Suggestion": "优化视频播放，支持自动横屏"
+      },
+      {
+        "id": "com.xingin.xhs_hos_285",
+        "User_Pain_Point": "找不到心愿单入口",
+        "Actionable_Suggestion": "添加心愿单功能或增加入口"
+      },
+      {
+        "id": "com.xingin.xhs_hos_286",
+        "User_Pain_Point": "看不到笔记链接",
+        "Actionable_Suggestion": "修复笔记链接显示问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_288",
+        "User_Pain_Point": "主页看不到蓝V标识",
+        "Actionable_Suggestion": "修复蓝V显示问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_288",
+        "User_Pain_Point": "手机没有聚光入口",
+        "Actionable_Suggestion": "添加聚光功能入口"
+      },
+      {
+        "id": "com.xingin.xhs_hos_289",
+        "User_Pain_Point": "直播间商品不能购买",
+        "Actionable_Suggestion": "修复购买功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_290",
+        "User_Pain_Point": "发笔记不能放进合集",
+        "Actionable_Suggestion": "优化笔记合集功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_290",
+        "User_Pain_Point": "live图没有声音",
+        "Actionable_Suggestion": "修复live图声音功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_291",
+        "User_Pain_Point": "商品浏览、评论等场景无深色模式",
+        "Actionable_Suggestion": "增加深色模式功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_292",
+        "User_Pain_Point": "没有投屏功能",
+        "Actionable_Suggestion": "增加投屏功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_293",
+        "User_Pain_Point": "私信不能查看对方发送的卡片信息",
+        "Actionable_Suggestion": "增加私信卡片信息的查看功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_296",
+        "User_Pain_Point": "直播间所有商品都无法购买",
+        "Actionable_Suggestion": "修复购买功能，确保用户可以正常下单"
+      },
+      {
+        "id": "com.xingin.xhs_hos_299",
+        "User_Pain_Point": "很多东西都设置不了，包括位置设置",
+        "Actionable_Suggestion": "完善设置功能，特别是位置设置"
+      },
+      {
+        "id": "com.xingin.xhs_hos_300",
+        "User_Pain_Point": "鸿蒙版本没有市集功能",
+        "Actionable_Suggestion": "增加市集功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_302",
+        "User_Pain_Point": "只能登录2个账号，添加第三个时前两个被挤掉",
+        "Actionable_Suggestion": "支持多账号同时在线或优化账号管理逻辑"
+      },
+      {
+        "id": "com.xingin.xhs_hos_303",
+        "User_Pain_Point": "Live图听不到声音",
+        "Actionable_Suggestion": "修复Live图播放无声问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_304",
+        "User_Pain_Point": "发视频压缩严重，不如iOS",
+        "Actionable_Suggestion": "优化视频上传压缩算法"
+      },
+      {
+        "id": "com.xingin.xhs_hos_305",
+        "User_Pain_Point": "看不了评论区的文字链接",
+        "Actionable_Suggestion": "支持点击评论区的文字链接"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.xingin.xhs_hos_181",
+        "User_Pain_Point": "竖屏终于适配了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_221",
+        "User_Pain_Point": "推送通知积极及时",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.xingin.xhs_hos_158",
+        "User_Pain_Point": "历史记录默认关闭，用户可能需要手动开启",
+        "Actionable_Suggestion": "考虑默认开启历史记录或提供首次引导"
+      },
+      {
+        "id": "com.xingin.xhs_hos_188",
+        "User_Pain_Point": "希望在鸿蒙系统小红书群内打卡",
+        "Actionable_Suggestion": "考虑增加鸿蒙系统小红书群内打卡功能"
       }
     ]
   },
   "系统与机型适配": {
     "Negative": [
       {
-        "id": "com.xingin.xhs_hos_15",
-        "User_Pain_Point": "外屏分屏时，聊天框被菜单栏遮挡",
-        "Actionable_Suggestion": "优化外屏分屏布局，避免聊天框被遮挡"
-      },
-      {
         "id": "com.xingin.xhs_hos_29",
-        "User_Pain_Point": "鸿蒙系统上红包功能存在bug，无法领取",
-        "Actionable_Suggestion": "针对鸿蒙系统优化红包功能，修复无法领取的bug"
+        "User_Pain_Point": "鸿蒙系统红包领取bug，无法正常领红包",
+        "Actionable_Suggestion": "修复鸿蒙系统下红包功能的兼容性问题"
       },
       {
         "id": "com.xingin.xhs_hos_34",
-        "User_Pain_Point": "沉浸光感功能仅适配PXM设备，其他设备未支持",
-        "Actionable_Suggestion": "扩展沉浸光感功能到更多设备型号"
+        "User_Pain_Point": "只有PXM适配沉浸光感，其他机型没有",
+        "Actionable_Suggestion": "扩大沉浸光感适配机型范围，公平对待所有用户"
       },
       {
         "id": "com.xingin.xhs_hos_39",
-        "User_Pain_Point": "沉浸光感功能仅限特定高端机型，导致用户感到被区别对待",
-        "Actionable_Suggestion": "开放沉浸光感功能给更多设备，或增加其他机型适配计划"
+        "User_Pain_Point": "沉浸光感仅限Pura X Max用户，其他用户被歧视",
+        "Actionable_Suggestion": "提供一致的沉浸光感体验，避免按机型区分功能"
       },
       {
         "id": "com.xingin.xhs_hos_40",
-        "User_Pain_Point": "部分版本的群聊信息功能未适配",
+        "User_Pain_Point": "群聊信息功能在当前版本不支持",
         "Actionable_Suggestion": "尽快完成群聊信息功能的全版本适配"
       },
       {
+        "id": "com.xingin.xhs_hos_51",
+        "User_Pain_Point": "悬浮底栏功能按机型独占，导致其他机型用户无法使用",
+        "Actionable_Suggestion": "取消功能机型限制，统一适配所有机型"
+      },
+      {
+        "id": "com.xingin.xhs_hos_52",
+        "User_Pain_Point": "部分功能按机型区别适配，基础功能适配不完整",
+        "Actionable_Suggestion": "去除功能机型差异化，保证所有机型基础功能一致"
+      },
+      {
+        "id": "com.xingin.xhs_hos_53",
+        "User_Pain_Point": "Pura X机型未获得沉浸光感功能",
+        "Actionable_Suggestion": "为Pura X及更多机型提供沉浸光感功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_54",
+        "User_Pain_Point": "底部光感功能按机型区分，部分机型缺失",
+        "Actionable_Suggestion": "底部光感应作为通用功能，不再区分机型"
+      },
+      {
+        "id": "com.xingin.xhs_hos_55",
+        "User_Pain_Point": "功能根据机型做区分，体验不统一",
+        "Actionable_Suggestion": "所有功能不限制机型，保持一致体验"
+      },
+      {
+        "id": "com.xingin.xhs_hos_56",
+        "User_Pain_Point": "沉浸光感功能被特定机型独占",
+        "Actionable_Suggestion": "将沉浸光感开放给所有机型"
+      },
+      {
+        "id": "com.xingin.xhs_hos_57",
+        "User_Pain_Point": "应用内dock栏功能被某机型独占",
+        "Actionable_Suggestion": "取消dock栏功能机型限制"
+      },
+      {
+        "id": "com.xingin.xhs_hos_59",
+        "User_Pain_Point": "沉浸光感功能未覆盖其他机型，导致用户给差评",
+        "Actionable_Suggestion": "为所有机型提供沉浸光感功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_60",
+        "User_Pain_Point": "光感功能根据机型提供，用户不满",
+        "Actionable_Suggestion": "光感功能应全机型统一提供"
+      },
+      {
         "id": "com.xingin.xhs_hos_62",
-        "User_Pain_Point": "更新推荐仅针对折叠屏，对非折叠屏用户无意义",
-        "Actionable_Suggestion": "根据用户机型精准推送更新内容，或明确标注适配机型范围"
+        "User_Pain_Point": "只有折叠屏支持沉浸光感，其他机型没有，用户感到不公平",
+        "Actionable_Suggestion": "建议扩大沉浸光感功能的适配机型范围"
       },
       {
         "id": "com.xingin.xhs_hos_63",
-        "User_Pain_Point": "收到与当前设备无关的 Pura X Max 优化更新推送",
-        "Actionable_Suggestion": "修复更新推送逻辑，确保用户只收到相应机型的适配更新"
+        "User_Pain_Point": "收到不匹配机型的更新推送，用户感到困扰",
+        "Actionable_Suggestion": "优化更新推送逻辑，确保仅推送匹配机型的更新"
       },
       {
         "id": "com.xingin.xhs_hos_64",
-        "User_Pain_Point": "Mate 80 Pro 及以上机型与折叠屏同 CPU 却不支持沉浸光感，存在机型差别对待",
-        "Actionable_Suggestion": "统一高端机型的适配标准，将沉浸光感功能扩展至同 CPU 的机型"
+        "User_Pain_Point": "同样CPU的机型却没有沉浸光感适配，用户认为存在机型差别对待",
+        "Actionable_Suggestion": "根据CPU型号而非机型进行功能适配"
       },
       {
         "id": "com.xingin.xhs_hos_69",
-        "User_Pain_Point": "收到与 Mate X7 无关的 Pura X Max 优化更新",
-        "Actionable_Suggestion": "优化更新推送机制，避免给用户推送不匹配的机型更新"
+        "User_Pain_Point": "收到不匹配机型的更新推送",
+        "Actionable_Suggestion": "优化更新推送逻辑，确保仅推送匹配机型的更新"
+      },
+      {
+        "id": "com.xingin.xhs_hos_69",
+        "User_Pain_Point": "沉浸光感和智感握姿功能未适配X7",
+        "Actionable_Suggestion": "适配X7的沉浸光感和智感握姿功能"
       },
       {
         "id": "com.xingin.xhs_hos_70",
-        "User_Pain_Point": "沉浸光感功能仅限特定机型，其他高端机型无法使用",
-        "Actionable_Suggestion": "扩大沉浸光感适配范围，覆盖更多主流中高端机型"
+        "User_Pain_Point": "沉浸光感仅适配部分机型，其他机型不配，用户感到不满",
+        "Actionable_Suggestion": "扩大沉浸光感适配机型范围"
       },
       {
-        "id": "com.xingin.xhs_hos_72",
-        "User_Pain_Point": "其他机型没有沉浸光感功能。",
-        "Actionable_Suggestion": "尽快为其他机型适配沉浸光感功能。"
-      },
-      {
-        "id": "com.xingin.xhs_hos_73",
-        "User_Pain_Point": "其他机型尚未适配沉浸光感功能。",
-        "Actionable_Suggestion": "明确公布沉浸光感功能适配计划，尽快适配。"
-      },
-      {
-        "id": "com.xingin.xhs_hos_74",
-        "User_Pain_Point": "沉浸光感功能存在机型歧视，部分机型不支持。",
-        "Actionable_Suggestion": "为所有机型统一提供沉浸光感功能。"
-      },
-      {
-        "id": "com.xingin.xhs_hos_75",
-        "User_Pain_Point": "其他机型尚未适配沉浸光感功能。",
-        "Actionable_Suggestion": "公布适配时间表，尽快支持。"
+        "id": "com.xingin.xhs_hos_81",
+        "User_Pain_Point": "澳门手机账号登录不兼容鸿蒙系统，内地手机号可正常登录",
+        "Actionable_Suggestion": "适配澳门手机号登录，或提供其他登录方式"
       },
       {
         "id": "com.xingin.xhs_hos_83",
-        "User_Pain_Point": "在Pura X Max上无法升级到最新版本，缺乏宣传的沉浸光感功能，应用尝鲜也未提供。",
-        "Actionable_Suggestion": "尽快在应用市场推送更新版本，适配新机型特性，并确保应用尝鲜渠道可用。"
+        "User_Pain_Point": "Pura X Max机型无法升级到最新版本9.27.1，且没有沉浸光感功能",
+        "Actionable_Suggestion": "适配Pura X Max机型的系统升级和沉浸光感功能"
       },
       {
         "id": "com.xingin.xhs_hos_96",
-        "User_Pain_Point": "澳門用戶無法登入，系統提示使用安卓或iOS",
-        "Actionable_Suggestion": "修复澳门用户登录问题，支持鸿蒙系统登录"
+        "User_Pain_Point": "澳门用户无法登录，提示使用安卓或iOS",
+        "Actionable_Suggestion": "修复鸿蒙系统的登录问题，支持澳门地区用户"
+      },
+      {
+        "id": "com.xingin.xhs_hos_101",
+        "User_Pain_Point": "Mate 80没有沉浸光感功能",
+        "Actionable_Suggestion": "适配Mate 80机型的沉浸光感视效"
+      },
+      {
+        "id": "com.xingin.xhs_hos_102",
+        "User_Pain_Point": "其他鸿蒙手机没有沉浸光感视效",
+        "Actionable_Suggestion": "为更多鸿蒙机型适配沉浸光感视效"
+      },
+      {
+        "id": "com.xingin.xhs_hos_103",
+        "User_Pain_Point": "无法更新应用版本",
+        "Actionable_Suggestion": "支持该机型的版本更新"
+      },
+      {
+        "id": "com.xingin.xhs_hos_106",
+        "User_Pain_Point": "其他机型未适配沉浸光感",
+        "Actionable_Suggestion": "适配更多机型的沉浸光感功能"
+      },
+      {
+        "id": "com.xingin.xhs_hos_125",
+        "User_Pain_Point": "鸿蒙系统兼容性不足，导致博主链接商品无法购买。",
+        "Actionable_Suggestion": "加快鸿蒙系统适配，确保商品链接功能正常。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_128",
+        "User_Pain_Point": "鸿蒙版本群打卡功能不支持，显示“当前版本暂不支持”。",
+        "Actionable_Suggestion": "尽快适配鸿蒙系统，上线群打卡功能。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_135",
+        "User_Pain_Point": "纯血鸿蒙系统上功能缺失严重，用户希望允许自行搜索安装",
+        "Actionable_Suggestion": "完善系统功能兼容性，或开放第三方安装渠道"
+      },
+      {
+        "id": "com.xingin.xhs_hos_166",
+        "User_Pain_Point": "鸿蒙系统看不到评论区图",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复评论区图片显示问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_170",
+        "User_Pain_Point": "鸿蒙系统上看不到售卖链接",
+        "Actionable_Suggestion": "适配鸿蒙系统，支持售卖链接的显示和跳转"
+      },
+      {
+        "id": "com.xingin.xhs_hos_205",
+        "User_Pain_Point": "不能装卓易通版本",
+        "Actionable_Suggestion": "允许安装卓易通或提供替代兼容方案"
+      },
+      {
+        "id": "com.xingin.xhs_hos_240",
+        "User_Pain_Point": "鸿蒙6版本无法编辑话题",
+        "Actionable_Suggestion": "修复鸿蒙6版本下编辑话题的功能，确保系统兼容性。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_253",
+        "User_Pain_Point": "卓易通中无法安装小红书",
+        "Actionable_Suggestion": "支持在卓易通中安装小红书"
       }
     ],
     "Positive": [
       {
-        "id": "com.xingin.xhs_hos_71",
-        "User_Pain_Point": "赞赏应用快速适配最新机型，工作态度好。",
+        "id": "com.xingin.xhs_hos_190",
+        "User_Pain_Point": "适配速度快，适配度最佳，认真用心",
         "Actionable_Suggestion": "无"
       }
     ]
@@ -407,75 +1226,210 @@
   "稳定性与性能": {
     "Negative": [
       {
+        "id": "com.xingin.xhs_hos_3",
+        "User_Pain_Point": "存在左滑直接进入主页的bug",
+        "Actionable_Suggestion": "修复左滑进入主页的bug"
+      },
+      {
         "id": "com.xingin.xhs_hos_17",
-        "User_Pain_Point": "帖子添加话题和@用户时出现明显bug，且会清空编辑好的内容",
-        "Actionable_Suggestion": "修复添加话题和@用户时的bug，防止清空编辑内容"
+        "User_Pain_Point": "添加话题和@用户时触发bug，清空编辑好的内容",
+        "Actionable_Suggestion": "修复编辑框bug，防止内容清空"
       },
       {
         "id": "com.xingin.xhs_hos_35",
-        "User_Pain_Point": "图片加载速度慢，一张图片加载半天",
-        "Actionable_Suggestion": "优化图片加载机制，提升加载速度"
+        "User_Pain_Point": "图片加载慢，预加载功能未更新",
+        "Actionable_Suggestion": "优化图片预加载机制，提升加载速度"
+      },
+      {
+        "id": "com.xingin.xhs_hos_42",
+        "User_Pain_Point": "评论区最下面的“展开n条回复”目前无法点开，希望尽快修复。",
+        "Actionable_Suggestion": "修复展开回复的bug"
+      },
+      {
+        "id": "com.xingin.xhs_hos_45",
+        "User_Pain_Point": "Pura X Max横屏点进笔记的时候最下面一条评论无法展开更多回复，bug速度修复",
+        "Actionable_Suggestion": "修复横屏下展开评论的bug"
+      },
+      {
+        "id": "com.xingin.xhs_hos_52",
+        "User_Pain_Point": "返回动画经常出现路径错误，动画适配较差",
+        "Actionable_Suggestion": "优化返回动画效果，确保动画路径正确"
       },
       {
         "id": "com.xingin.xhs_hos_78",
-        "User_Pain_Point": "在Pura X Max上编辑笔记时，打字光标会到处乱跳。",
-        "Actionable_Suggestion": "修复在Pura X Max上编辑笔记时光标乱跳的Bug。"
+        "User_Pain_Point": "编辑笔记时打字光标乱跳",
+        "Actionable_Suggestion": "修复光标乱跳的bug，提升输入稳定性"
       },
       {
         "id": "com.xingin.xhs_hos_89",
-        "User_Pain_Point": "应用内存占用较高，希望优化。",
-        "Actionable_Suggestion": "优化应用内存使用，减少后台占用，提升流畅度。"
+        "User_Pain_Point": "内存占用过大，希望像B站一样优化",
+        "Actionable_Suggestion": "优化内存占用，减少资源消耗"
       },
       {
         "id": "com.xingin.xhs_hos_90",
-        "User_Pain_Point": "应用运行卡顿。",
-        "Actionable_Suggestion": "进行性能优化，减少卡顿现象。"
-      },
-      {
-        "id": "com.xingin.xhs_hos_90",
-        "User_Pain_Point": "消息界面加载缓慢，半天不显示。",
-        "Actionable_Suggestion": "优化消息加载机制，提高加载速度。"
+        "User_Pain_Point": "应用卡顿，消息加载慢",
+        "Actionable_Suggestion": "优化应用性能和消息加载速度"
       },
       {
         "id": "com.xingin.xhs_hos_100",
         "User_Pain_Point": "应用耗电严重",
-        "Actionable_Suggestion": "优化应用耗电问题"
+        "Actionable_Suggestion": "优化能耗，降低电池消耗"
+      },
+      {
+        "id": "com.xingin.xhs_hos_117",
+        "User_Pain_Point": "没用几天就卡死了",
+        "Actionable_Suggestion": "优化性能，修复卡死问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_124",
+        "User_Pain_Point": "缓存占用越来越大，且不能自动清理。",
+        "Actionable_Suggestion": "增加缓存自动清理功能或提供手动清理选项，优化缓存管理。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_138",
+        "User_Pain_Point": "应用不流畅、频繁闪退，且无更新提示",
+        "Actionable_Suggestion": "优化性能，修复闪退问题，并及时推送更新"
+      },
+      {
+        "id": "com.xingin.xhs_hos_143",
+        "User_Pain_Point": "最近运行卡顿，多次闪退",
+        "Actionable_Suggestion": "优化性能和稳定性"
+      },
+      {
+        "id": "com.xingin.xhs_hos_172",
+        "User_Pain_Point": "更新后很多图片看不到了，bug",
+        "Actionable_Suggestion": "修复更新导致的图片显示问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_179",
+        "User_Pain_Point": "更新后点开帖子第一张图片无法显示",
+        "Actionable_Suggestion": "修复更新导致的图片显示bug"
+      },
+      {
+        "id": "com.xingin.xhs_hos_193",
+        "User_Pain_Point": "出现被吞赞、笔记发布不成功的故障。",
+        "Actionable_Suggestion": "排查并修复点赞计数和笔记发布功能的异常，确保数据准确和发布稳定。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_198",
+        "User_Pain_Point": "小红书店铺无法领取优惠券，造成经济损失。",
+        "Actionable_Suggestion": "修复优惠券领取功能的bug，确保用户能正常领取和使用优惠券。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_209",
+        "User_Pain_Point": "存在一些bug",
+        "Actionable_Suggestion": "修复已知bug，提升稳定性"
+      },
+      {
+        "id": "com.xingin.xhs_hos_214",
+        "User_Pain_Point": "发布的笔记一直吞标签，无法正常添加话题标签，该bug持续多个版本未修复。",
+        "Actionable_Suggestion": "立即定位并修复标签输入与保存的bug，确保添加功能正常。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_235",
+        "User_Pain_Point": "直播间弹幕延迟严重",
+        "Actionable_Suggestion": "优化弹幕实时性，降低延迟以提升直播互动体验。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_241",
+        "User_Pain_Point": "平板滑动评论掉帧",
+        "Actionable_Suggestion": "优化滑动流畅性，减少掉帧"
+      },
+      {
+        "id": "com.xingin.xhs_hos_267",
+        "User_Pain_Point": "笔记发布失败，几天发不出去",
+        "Actionable_Suggestion": "优化发布流程，解决发布失败问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_282",
+        "User_Pain_Point": "账号频繁退出登录",
+        "Actionable_Suggestion": "修复账号稳定性问题"
+      },
+      {
+        "id": "com.xingin.xhs_hos_301",
+        "User_Pain_Point": "打开消息时卡顿",
+        "Actionable_Suggestion": "优化消息打开时的性能"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.xingin.xhs_hos_211",
+        "User_Pain_Point": "评论指出应用运行很流畅。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_297",
+        "User_Pain_Point": "比很多APP流畅",
+        "Actionable_Suggestion": "无"
       }
     ]
   },
   "UI与交互": {
     "Negative": [
       {
-        "id": "com.xingin.xhs_hos_3",
-        "User_Pain_Point": "左滑手势直接进入主页，可能是误触或BUG",
-        "Actionable_Suggestion": "修复左滑手势逻辑，避免直接跳转主页，或增加确认机制"
+        "id": "com.xingin.xhs_hos_15",
+        "User_Pain_Point": "外屏分屏后聊天框被菜单栏遮挡",
+        "Actionable_Suggestion": "优化分屏布局，避免遮挡"
       },
       {
         "id": "com.xingin.xhs_hos_47",
-        "User_Pain_Point": "更新后界面采用大量圆角卡片，设计不够简洁",
-        "Actionable_Suggestion": "优化UI设计，提供更简洁的显示模式或减少圆角卡片"
+        "User_Pain_Point": "更新后主页的笔记浏览页和每篇带图片的笔记浏览界面，采用了大量圆角卡片的显示模式，我想请问工程师有没有审美，明不明白简洁构...",
+        "Actionable_Suggestion": "优化UI设计，减少圆角卡片"
       },
       {
-        "id": "com.xingin.xhs_hos_52",
-        "User_Pain_Point": "打开笔记后的返回动画经常出现动画路径错误",
-        "Actionable_Suggestion": "修复返回动画的路径错误，确保动画效果正确流畅"
+        "id": "com.xingin.xhs_hos_110",
+        "User_Pain_Point": "清屏按钮移除或找不到，导致字幕被遮挡",
+        "Actionable_Suggestion": "恢复清屏按钮或提供替代交互方式"
       },
       {
-        "id": "com.xingin.xhs_hos_87",
-        "User_Pain_Point": "话题功能界面混乱，无法找到收藏的话题和管理关注的话题。",
-        "Actionable_Suggestion": "重新设计话题功能，提供清晰的话题收藏入口和关注话题列表。"
+        "id": "com.xingin.xhs_hos_140",
+        "User_Pain_Point": "返回桌面后通知栏常驻音频任务通知，干扰用户",
+        "Actionable_Suggestion": "优化后台音频任务通知显示，避免常驻通知"
       },
       {
-        "id": "com.xingin.xhs_hos_90",
-        "User_Pain_Point": "编辑帖子时话题重复显示。",
-        "Actionable_Suggestion": "修复编辑帖子时话题重复的bug，确保话题正确显示。"
-      }
-    ],
-    "Neutral": [
+        "id": "com.xingin.xhs_hos_141",
+        "User_Pain_Point": "点开图片，双击不是放大是点赞",
+        "Actionable_Suggestion": "将双击手势改为放大"
+      },
       {
-        "id": "com.xingin.xhs_hos_86",
-        "User_Pain_Point": "关注栏缺少关注头像展示，个人页缺少评论区入口。",
-        "Actionable_Suggestion": "在关注栏顶部增加关注头像，在个人页面增加评论区入口。"
+        "id": "com.xingin.xhs_hos_152",
+        "User_Pain_Point": "平板端界面改版难看",
+        "Actionable_Suggestion": "重新评估平板端UI改版，参考用户意见优化设计"
+      },
+      {
+        "id": "com.xingin.xhs_hos_189",
+        "User_Pain_Point": "心愿单找不到入口",
+        "Actionable_Suggestion": "优化心愿单入口，使其更易发现"
+      },
+      {
+        "id": "com.xingin.xhs_hos_195",
+        "User_Pain_Point": "输入标签时，打的字被遮挡看不见。",
+        "Actionable_Suggestion": "调整标签输入框的UI，确保输入内容完全可见，避免遮挡。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_217",
+        "User_Pain_Point": "向右划图片时容易误触划到博主主页，其他系统无此问题。",
+        "Actionable_Suggestion": "优化图片滑动交互，增加防误触机制或调整触发区域，避免与跳转博主主页的手势冲突。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_257",
+        "User_Pain_Point": "展开评论区必须点击蓝色区域，点击区域太小",
+        "Actionable_Suggestion": "扩大评论区展开点击区域至整行可点"
+      },
+      {
+        "id": "com.xingin.xhs_hos_291",
+        "User_Pain_Point": "UX很差",
+        "Actionable_Suggestion": "优化用户体验设计，提升交互流畅度和易用性"
+      },
+      {
+        "id": "com.xingin.xhs_hos_306",
+        "User_Pain_Point": "深色模式下字体灰色难以看清，音量条、导航栏时间变灰",
+        "Actionable_Suggestion": "优化深色模式下的对比度和颜色设计"
+      },
+      {
+        "id": "com.xingin.xhs_hos_308",
+        "User_Pain_Point": "底部状态栏不适配沉浸光感",
+        "Actionable_Suggestion": "优化底部状态栏适配沉浸式效果"
       }
     ]
   },
@@ -483,63 +1437,140 @@
     "Negative": [
       {
         "id": "com.xingin.xhs_hos_6",
-        "User_Pain_Point": "特定地区不支持实名认证，导致无法找回账号",
-        "Actionable_Suggestion": "扩展实名认证的地区覆盖范围，或提供其他身份验证和账号找回方式"
+        "User_Pain_Point": "该地区暂不支持实名认证，无法找回账号",
+        "Actionable_Suggestion": "扩大实名认证支持地区或提供其他找回方式"
       },
       {
         "id": "com.xingin.xhs_hos_9",
-        "User_Pain_Point": "账号被无故封禁",
-        "Actionable_Suggestion": "优化封号审核流程，提供详细的封禁原因和申诉渠道，避免误封"
+        "User_Pain_Point": "无缘无故被封号",
+        "Actionable_Suggestion": "完善封号机制，提供申诉渠道和明确封号原因"
       },
       {
         "id": "com.xingin.xhs_hos_22",
-        "User_Pain_Point": "账号被随意封禁",
-        "Actionable_Suggestion": "完善封号审核机制，明确封禁原因，避免误伤"
-      },
-      {
-        "id": "com.xingin.xhs_hos_22",
-        "User_Pain_Point": "强制人脸识别和实名信息，过度收集个人信息",
-        "Actionable_Suggestion": "优化身份验证方式，提供更灵活的验证选项，减少不必要的隐私要求"
+        "User_Pain_Point": "随意封账号，强制要求人脸识别和实名信息，注销困难",
+        "Actionable_Suggestion": "优化账号封禁规则，降低实名认证强制程度，简化注销流程"
       },
       {
         "id": "com.xingin.xhs_hos_25",
-        "User_Pain_Point": "平台管理水平低下，用户不满",
-        "Actionable_Suggestion": "提升平台管理质量，优化用户服务"
+        "User_Pain_Point": "管理水平低下，平台运营不佳",
+        "Actionable_Suggestion": "提升管理团队水平，改进平台运营策略"
       },
       {
         "id": "com.xingin.xhs_hos_26",
-        "User_Pain_Point": "新创建的账号立即被封禁",
-        "Actionable_Suggestion": "审查新账号封禁的规则，避免误伤正常用户"
+        "User_Pain_Point": "刚起的号就被封，封号机制不合理",
+        "Actionable_Suggestion": "优化新号封禁机制，减少误封"
       },
       {
         "id": "com.xingin.xhs_hos_28",
-        "User_Pain_Point": "正常使用的账号被无故永久封号，申诉失败且不告知具体违规原因",
-        "Actionable_Suggestion": "完善封号规则透明度，明确告知用户违规原因；改进申诉流程，提供有效复核机制"
+        "User_Pain_Point": "正常使用账号被永久封号，申诉失败且不说明违规原因",
+        "Actionable_Suggestion": "完善封号申诉机制，明确违规原因，提高申诉成功率"
       },
       {
         "id": "com.xingin.xhs_hos_50",
-        "User_Pain_Point": "沉浸光感功能仅限部分机型，存在独占",
-        "Actionable_Suggestion": "考虑将沉浸光感功能开放给更多机型"
+        "User_Pain_Point": "沉浸光感还要搞独占",
+        "Actionable_Suggestion": "取消沉浸光感独占"
       },
       {
         "id": "com.xingin.xhs_hos_76",
-        "User_Pain_Point": "平台监管不利，缺少实名制。",
-        "Actionable_Suggestion": "加强监管，尽快推行实名认证制度。"
+        "User_Pain_Point": "监管不利，希望实行实名制",
+        "Actionable_Suggestion": "加强监管，考虑实施实名认证"
       },
       {
         "id": "com.xingin.xhs_hos_79",
-        "User_Pain_Point": "强制实名认证，感觉隐私被侵犯；无故封号。",
-        "Actionable_Suggestion": "改进实名认证流程，保护用户隐私；明确封号原因并提供申诉渠道。"
+        "User_Pain_Point": "强制实名认证且无故封号，怀疑信息泄露",
+        "Actionable_Suggestion": "优化实名认证流程，减少误封，保护用户隐私"
       },
       {
         "id": "com.xingin.xhs_hos_85",
-        "User_Pain_Point": "举报系统形同虚设，虚假处置反馈，黑产账号未得到实际清理。",
-        "Actionable_Suggestion": "加强举报审核机制，确保举报后实际执行处罚，并公开处理结果以提高信任度。"
+        "User_Pain_Point": "举报功能形同虚设，黑产账号举报后仍正常存在",
+        "Actionable_Suggestion": "改进举报处理流程，确保有效处置违规账号"
       },
       {
         "id": "com.xingin.xhs_hos_99",
-        "User_Pain_Point": "内容流量低",
-        "Actionable_Suggestion": "优化流量分配机制"
+        "User_Pain_Point": "流量不好，内容曝光不足",
+        "Actionable_Suggestion": "优化推荐算法，提升内容曝光"
+      },
+      {
+        "id": "com.xingin.xhs_hos_148",
+        "User_Pain_Point": "莫名其妙给我封号哈，现在另一个账号也不让我用",
+        "Actionable_Suggestion": "优化封号机制，提供申诉渠道"
+      },
+      {
+        "id": "com.xingin.xhs_hos_151",
+        "User_Pain_Point": "账号被乱封",
+        "Actionable_Suggestion": "优化封号机制，减少误封，增加申诉渠道"
+      },
+      {
+        "id": "com.xingin.xhs_hos_159",
+        "User_Pain_Point": "客服未能提供有效解决方案，推诿为内测版问题",
+        "Actionable_Suggestion": "加强客服培训，提升问题处理能力，明确版本支持范围"
+      },
+      {
+        "id": "com.xingin.xhs_hos_183",
+        "User_Pain_Point": "随意限流，工作人员严重不负责",
+        "Actionable_Suggestion": "优化限流机制，加强工作人员培训与问责"
+      },
+      {
+        "id": "com.xingin.xhs_hos_193",
+        "User_Pain_Point": "申诉回复是车轱辘话，且需等待48小时，问题未解决。",
+        "Actionable_Suggestion": "优化申诉流程，提供更精准的反馈和更高效的解决方案，减少机械回复。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_208",
+        "User_Pain_Point": "无故被判定违规并锁定账号",
+        "Actionable_Suggestion": "优化违规判定机制，增加申诉渠道"
+      },
+      {
+        "id": "com.xingin.xhs_hos_216",
+        "User_Pain_Point": "推送不喜欢的笔记和作者，且添加话题后阅读量反而更少。",
+        "Actionable_Suggestion": "改进推荐算法，减少重复推荐不感兴趣内容，同时优化话题流量分配机制。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_216",
+        "User_Pain_Point": "系统持续推送不喜欢的笔记和作者。",
+        "Actionable_Suggestion": "增加“不感兴趣”反馈的权重，减少同类内容推荐。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_218",
+        "User_Pain_Point": "平台不给予流量，笔记几乎没有曝光。",
+        "Actionable_Suggestion": "优化流量分配策略，确保优质内容获得合理推荐，减少对特定内容的限流。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_227",
+        "User_Pain_Point": "热门活动更新滞后，群打卡功能未上线",
+        "Actionable_Suggestion": "加快活动同步与功能上线速度"
+      },
+      {
+        "id": "com.xingin.xhs_hos_256",
+        "User_Pain_Point": "记录日记莫名其妙违规，处罚机制不明确",
+        "Actionable_Suggestion": "明确违规处罚机制，提供申诉渠道"
+      },
+      {
+        "id": "com.xingin.xhs_hos_275",
+        "User_Pain_Point": "莫名其妙被封号一封一个不吱声",
+        "Actionable_Suggestion": "优化封号机制，增加通知说明"
+      },
+      {
+        "id": "com.xingin.xhs_hos_295",
+        "User_Pain_Point": "无缘无故封号且不能解封",
+        "Actionable_Suggestion": "完善封号规则和解封流程，提供申诉渠道"
+      },
+      {
+        "id": "com.xingin.xhs_hos_307",
+        "User_Pain_Point": "禁言莫名其妙，敏感词过滤过于敏感",
+        "Actionable_Suggestion": "优化审核机制，减少误禁言"
+      },
+      {
+        "id": "com.xingin.xhs_hos_309",
+        "User_Pain_Point": "审核太严格，被禁言多次",
+        "Actionable_Suggestion": "放宽审核标准，减少误判"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.xingin.xhs_hos_147",
+        "User_Pain_Point": "才申诉没半小时，已经给出答复了，况且人工服务态度很好",
+        "Actionable_Suggestion": "无"
       }
     ]
   },
@@ -547,42 +1578,42 @@
     "Positive": [
       {
         "id": "com.xingin.xhs_hos_2",
-        "User_Pain_Point": "整体体验很好",
+        "User_Pain_Point": "应用好用",
         "Actionable_Suggestion": "无"
       },
       {
         "id": "com.xingin.xhs_hos_5",
-        "User_Pain_Point": "应用很有趣，很好玩",
+        "User_Pain_Point": "超级好玩",
         "Actionable_Suggestion": "无"
       },
       {
         "id": "com.xingin.xhs_hos_13",
-        "User_Pain_Point": "整体体验良好",
+        "User_Pain_Point": "用户认为整体体验挺好",
         "Actionable_Suggestion": "无"
       },
       {
         "id": "com.xingin.xhs_hos_14",
-        "User_Pain_Point": "更新频繁，体验良好",
+        "User_Pain_Point": "赞赏一个月更新9个版本的高频率",
         "Actionable_Suggestion": "无"
       },
       {
         "id": "com.xingin.xhs_hos_20",
-        "User_Pain_Point": "好用易用",
+        "User_Pain_Point": "用户认为好使好用",
         "Actionable_Suggestion": "无"
       },
       {
         "id": "com.xingin.xhs_hos_30",
-        "User_Pain_Point": "用户表示喜欢该应用",
+        "User_Pain_Point": "用户表示喜欢",
         "Actionable_Suggestion": "无"
       },
       {
         "id": "com.xingin.xhs_hos_37",
-        "User_Pain_Point": "产品整体实用性强，得到用户认可",
+        "User_Pain_Point": "实用性高",
         "Actionable_Suggestion": "无"
       },
       {
         "id": "com.xingin.xhs_hos_49",
-        "User_Pain_Point": "鸿蒙PC触控板刷视频丝滑流畅",
+        "User_Pain_Point": "鸿蒙PC触控盘刷视频十分丝滑",
         "Actionable_Suggestion": "无"
       },
       {
@@ -591,22 +1622,174 @@
         "Actionable_Suggestion": "无"
       },
       {
+        "id": "com.xingin.xhs_hos_71",
+        "User_Pain_Point": "适配最新机型速度快，工作态度值得点赞",
+        "Actionable_Suggestion": "无"
+      },
+      {
         "id": "com.xingin.xhs_hos_93",
-        "User_Pain_Point": "社交体验好，能交到朋友",
+        "User_Pain_Point": "交到了很多朋友，有粉丝喜欢",
         "Actionable_Suggestion": "无"
       },
       {
         "id": "com.xingin.xhs_hos_97",
-        "User_Pain_Point": "社交体验好，能交到好友",
+        "User_Pain_Point": "交到了许多喜欢的好友，真心推荐",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_100",
+        "User_Pain_Point": "整体很不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_107",
+        "User_Pain_Point": "整体好评",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_109",
+        "User_Pain_Point": "喜欢更新",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_122",
+        "User_Pain_Point": "用户对应用表示赞赏。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_144",
+        "User_Pain_Point": "小红书非常棒。好的不能再好了！",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_145",
+        "User_Pain_Point": "挺好看的。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_157",
+        "User_Pain_Point": "用户交到好友并学到教训，整体体验良好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_168",
+        "User_Pain_Point": "小红书真的非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_173",
+        "User_Pain_Point": "特别好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_185",
+        "User_Pain_Point": "不错呢！",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_210",
+        "User_Pain_Point": "一天三更新，更新频繁",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_213",
+        "User_Pain_Point": "用户对小红书平台表示赞赏，认为是一个很好的平台。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_215",
+        "User_Pain_Point": "用户给予高度评价“非常好”。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_219",
+        "User_Pain_Point": "用户称赞“你是很good的好吧”。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_220",
+        "User_Pain_Point": "用户称“小红书，YYDS”。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_228",
+        "User_Pain_Point": "整体使用感受良好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_238",
+        "User_Pain_Point": "整体使用体验非常好，推荐使用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_263",
+        "User_Pain_Point": "应用体验好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_272",
+        "User_Pain_Point": "更新快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_277",
+        "User_Pain_Point": "不错😌",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_279",
+        "User_Pain_Point": "我去，挺好用的",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_287",
+        "User_Pain_Point": "在平台上交到了很多朋友",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.xingin.xhs_hos_298",
+        "User_Pain_Point": "整体体验非常棒，YYDS",
         "Actionable_Suggestion": "无"
       }
     ]
   },
   "内容生态": {
+    "Negative": [
+      {
+        "id": "com.xingin.xhs_hos_137",
+        "User_Pain_Point": "开播绘画时缺少“手游”选项",
+        "Actionable_Suggestion": "增加“手游”开播分类选项"
+      },
+      {
+        "id": "com.xingin.xhs_hos_141",
+        "User_Pain_Point": "无关笔记太多了",
+        "Actionable_Suggestion": "优化推荐算法，减少无关内容"
+      },
+      {
+        "id": "com.xingin.xhs_hos_192",
+        "User_Pain_Point": "存在盗墓笔记相关侵权群组、个人及视频内容，影响正版权益。",
+        "Actionable_Suggestion": "加强内容审核，对侵权内容（如盗墓笔记）进行封禁，并阻止相关注册。"
+      },
+      {
+        "id": "com.xingin.xhs_hos_244",
+        "User_Pain_Point": "推荐内容过于离谱",
+        "Actionable_Suggestion": "优化推荐算法，提高内容相关性"
+      },
+      {
+        "id": "com.xingin.xhs_hos_263",
+        "User_Pain_Point": "应用太容易上瘾",
+        "Actionable_Suggestion": "增加防沉迷机制或使用时长提醒"
+      },
+      {
+        "id": "com.xingin.xhs_hos_294",
+        "User_Pain_Point": "平台内容混杂，什么人都有",
+        "Actionable_Suggestion": "加强内容审核和用户管理，提升内容质量"
+      }
+    ],
     "Positive": [
       {
         "id": "com.xingin.xhs_hos_10",
-        "User_Pain_Point": "内容范围广泛，资料齐全",
+        "User_Pain_Point": "内容范围广，能找到各种资料",
         "Actionable_Suggestion": "无"
       }
     ]

@@ -1,0 +1,2808 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.alipay.mobile.client_1",
+        "User_Pain_Point": "蚂蚁财富功能未上架",
+        "Actionable_Suggestion": "加速蚂蚁财富功能的上架进度"
+      },
+      {
+        "id": "com.alipay.mobile.client_2",
+        "User_Pain_Point": "缺少俄语和英语版本",
+        "Actionable_Suggestion": "增加俄语和英语语言支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_3",
+        "User_Pain_Point": "没有语言切换选项",
+        "Actionable_Suggestion": "在设置中添加语言切换选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_4",
+        "User_Pain_Point": "不支持团购功能",
+        "Actionable_Suggestion": "添加团购功能支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_9",
+        "User_Pain_Point": "股票AI诊断和理财机器人功能长久未适配",
+        "Actionable_Suggestion": "尽快完成股票AI诊断和理财机器人功能的适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_10",
+        "User_Pain_Point": "代付功能显示异常",
+        "Actionable_Suggestion": "修复代付显示问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_20",
+        "User_Pain_Point": "好友沟通没有翻译功能",
+        "Actionable_Suggestion": "增加聊天翻译功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_20",
+        "User_Pain_Point": "收藏没有保存功能，没有笔记功能，收藏没法修改",
+        "Actionable_Suggestion": "增加收藏保存、笔记和修改功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_21",
+        "User_Pain_Point": "骑行时定位已开启，但应用仍提示未打开定位，导致功能无法使用",
+        "Actionable_Suggestion": "修复定位权限检测逻辑，确保正确识别定位状态"
+      },
+      {
+        "id": "com.alipay.mobile.client_23",
+        "User_Pain_Point": "小额支付需验证指纹后再刷脸，流程繁琐且反应慢",
+        "Actionable_Suggestion": "优化支付验证流程，根据金额和风险等级智能选择验证方式，提升响应速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_26",
+        "User_Pain_Point": "理财功能缺少动态发布功能，内容生态不完善",
+        "Actionable_Suggestion": "尽快开发并上线理财动态发布功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_27",
+        "User_Pain_Point": "股票分时线显示异常，只显示一个点",
+        "Actionable_Suggestion": "修复股票分时图数据渲染问题，确保正确显示"
+      },
+      {
+        "id": "com.alipay.mobile.client_29",
+        "User_Pain_Point": "人脸支付识别能力不足，需要优化",
+        "Actionable_Suggestion": "改进人脸识别算法，提高识别速度和准确率"
+      },
+      {
+        "id": "com.alipay.mobile.client_31",
+        "User_Pain_Point": "面容支付功能失效，即使已设置也无法使用",
+        "Actionable_Suggestion": "修复面容支付功能，确保设置生效"
+      },
+      {
+        "id": "com.alipay.mobile.client_33",
+        "User_Pain_Point": "碰一碰支付功能不稳定，经常无响应",
+        "Actionable_Suggestion": "优化碰一碰功能在鸿蒙系统上的稳定性和响应速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_34",
+        "User_Pain_Point": "股票界面买入和卖出键触控失灵，影响操作",
+        "Actionable_Suggestion": "修复股票界面触控失灵问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_35",
+        "User_Pain_Point": "理财页面无法关闭，用户希望有选项关闭",
+        "Actionable_Suggestion": "增加关闭理财页面的选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_36",
+        "User_Pain_Point": "达人消息缺少叮一下功能",
+        "Actionable_Suggestion": "在达人消息中增加叮一下功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_37",
+        "User_Pain_Point": "聊天消息中点开图片显示错误，变成其他图片",
+        "Actionable_Suggestion": "修复图片显示错误，确保点击图片显示正确"
+      },
+      {
+        "id": "com.alipay.mobile.client_37",
+        "User_Pain_Point": "群聊翻看历史消息时自动跳转到新消息，无法停留在历史位置",
+        "Actionable_Suggestion": "修复消息跳转问题，允许用户停留在历史消息位置"
+      },
+      {
+        "id": "com.alipay.mobile.client_39",
+        "User_Pain_Point": "语音输入识别准确率低，文字混乱",
+        "Actionable_Suggestion": "优化语音识别算法，提升准确率"
+      },
+      {
+        "id": "com.alipay.mobile.client_39",
+        "User_Pain_Point": "客服聊天添加照片时闪退并自动重新开启新话题",
+        "Actionable_Suggestion": "修复添加照片闪退问题，保持当前对话状态"
+      },
+      {
+        "id": "com.alipay.mobile.client_39",
+        "User_Pain_Point": "智能体功能单一，只能点咖啡",
+        "Actionable_Suggestion": "丰富智能体功能，支持更多场景"
+      },
+      {
+        "id": "com.alipay.mobile.client_40",
+        "User_Pain_Point": "经常出现网络连接问题，无法正常使用",
+        "Actionable_Suggestion": "修复网络连接异常，提升网络稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_43",
+        "User_Pain_Point": "缺少发送视频的功能",
+        "Actionable_Suggestion": "增加发送视频的功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_45",
+        "User_Pain_Point": "使用后应用持续在后台运行",
+        "Actionable_Suggestion": "优化后台管理策略，增加退出后自动清理选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_46",
+        "User_Pain_Point": "不支持面容支付功能",
+        "Actionable_Suggestion": "适配并开放面容支付功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_47",
+        "User_Pain_Point": "不支持灵光扫物体自动识别",
+        "Actionable_Suggestion": "适配灵光扫物体自动识别功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_47",
+        "User_Pain_Point": "不支持哈喽单车",
+        "Actionable_Suggestion": "适配哈喽单车功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_50",
+        "User_Pain_Point": "不支持澳门跨境汇款功能",
+        "Actionable_Suggestion": "适配澳门跨境汇款功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_51",
+        "User_Pain_Point": "头像更换后变成灰色，无法正常显示",
+        "Actionable_Suggestion": "修复头像更换逻辑，确保更换后颜色正常"
+      },
+      {
+        "id": "com.alipay.mobile.client_53",
+        "User_Pain_Point": "已设置生物识别付款，但付款时仍要求输入密码",
+        "Actionable_Suggestion": "修复生物识别与密码验证的冲突，确保生物识别生效"
+      },
+      {
+        "id": "com.alipay.mobile.client_55",
+        "User_Pain_Point": "扫码速度极慢，长时间无法扫出",
+        "Actionable_Suggestion": "优化扫码算法，提升扫码速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_57",
+        "User_Pain_Point": "还款无需输入支付密码，存在安全隐患",
+        "Actionable_Suggestion": "增加还款时的支付密码验证环节"
+      },
+      {
+        "id": "com.alipay.mobile.client_58",
+        "User_Pain_Point": "无法切换至澳门版",
+        "Actionable_Suggestion": "添加澳门版地区切换功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_59",
+        "User_Pain_Point": "淘宝闪购订单缺少配送地图进度显示",
+        "Actionable_Suggestion": "增加配送地图进度显示功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_63",
+        "User_Pain_Point": "里面的各个小程序都打不开，时好时坏",
+        "Actionable_Suggestion": "修复小程序加载问题，确保稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_65",
+        "User_Pain_Point": "飞猪旅行的酒店名单打不开",
+        "Actionable_Suggestion": "修复飞猪旅行数据加载功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_66",
+        "User_Pain_Point": "支付宝基金实盘功能缺失",
+        "Actionable_Suggestion": "增加基金实盘功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_68",
+        "User_Pain_Point": "理财社区不能发帖",
+        "Actionable_Suggestion": "修复理财社区发帖功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_69",
+        "User_Pain_Point": "缺少境外乘车码功能",
+        "Actionable_Suggestion": "增加境外乘车码功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_71",
+        "User_Pain_Point": "支付宝聊天功能无法正常使用",
+        "Actionable_Suggestion": "修复聊天功能，确保正常使用"
+      },
+      {
+        "id": "com.alipay.mobile.client_74",
+        "User_Pain_Point": "APP臃肿不堪，功能难找，定位不清",
+        "Actionable_Suggestion": "精简功能，优化导航和搜索，明确产品定位"
+      },
+      {
+        "id": "com.alipay.mobile.client_75",
+        "User_Pain_Point": "花呗还款时验证码短信收不到",
+        "Actionable_Suggestion": "修复短信验证码发送问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_77",
+        "User_Pain_Point": "游戏圈功能体验差，不完善",
+        "Actionable_Suggestion": "优化游戏圈功能，提升体验"
+      },
+      {
+        "id": "com.alipay.mobile.client_78",
+        "User_Pain_Point": "碰一碰支付后自动放大音量且无法调节",
+        "Actionable_Suggestion": "修复碰一碰支付导致的音量问题，确保能正常调节"
+      },
+      {
+        "id": "com.alipay.mobile.client_79",
+        "User_Pain_Point": "小组件不齐全",
+        "Actionable_Suggestion": "增加并完善小组件功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_80",
+        "User_Pain_Point": "扫一扫识物功能缺失",
+        "Actionable_Suggestion": "恢复扫一扫识物功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_81",
+        "User_Pain_Point": "笑容适配功能缺失",
+        "Actionable_Suggestion": "建议适配笑容检测功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_82",
+        "User_Pain_Point": "蚂蚁森林能量PK赛鸿蒙版无法加PK森友为好友",
+        "Actionable_Suggestion": "在鸿蒙版增加蚂蚁森林能量PK赛加好友功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_83",
+        "User_Pain_Point": "无法查看火车车次",
+        "Actionable_Suggestion": "修复或增加查看火车车次功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_84",
+        "User_Pain_Point": "星语星愿资金转入密码输入不了",
+        "Actionable_Suggestion": "修复星语星愿资金转入时密码输入问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_85",
+        "User_Pain_Point": "缺少人脸识别解锁功能",
+        "Actionable_Suggestion": "在账号安全-解锁设置中增加人脸识别解锁选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_86",
+        "User_Pain_Point": "开启应用锁后长按图标扫码提示摄像头被占用",
+        "Actionable_Suggestion": "修复开启应用锁后长按图标扫码时摄像头被占用的bug"
+      },
+      {
+        "id": "com.alipay.mobile.client_89",
+        "User_Pain_Point": "游戏中心声音无法单独关闭，强制绑定媒体音量",
+        "Actionable_Suggestion": "增加游戏中心独立音量控制开关"
+      },
+      {
+        "id": "com.alipay.mobile.client_91",
+        "User_Pain_Point": "并未开通境外巴士公交卡",
+        "Actionable_Suggestion": "建议尽快开通境外巴士公交卡功能，完善公共交通支持。"
+      },
+      {
+        "id": "com.alipay.mobile.client_92",
+        "User_Pain_Point": "求你了，给小荷包小组件做出来吧",
+        "Actionable_Suggestion": "建议开发并上线小荷包小组件功能，提升用户便捷性。"
+      },
+      {
+        "id": "com.alipay.mobile.client_96",
+        "User_Pain_Point": "最近怎么扫支付码扫不出来？",
+        "Actionable_Suggestion": "建议修复扫码识别问题，优化摄像头和算法稳定性。"
+      },
+      {
+        "id": "com.alipay.mobile.client_97",
+        "User_Pain_Point": "深圳社保不能在鸿蒙支付宝的APP上实现缴费。每次都要换手机。什么时候可以更新好？",
+        "Actionable_Suggestion": "建议尽快适配鸿蒙系统，上线深圳社保缴费功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_100",
+        "User_Pain_Point": "股票功能还不全，没诊断",
+        "Actionable_Suggestion": "建议补充股票诊断等缺失功能，完善金融服务。"
+      },
+      {
+        "id": "com.alipay.mobile.client_102",
+        "User_Pain_Point": "出行功能定位服务不准，在定位功能常开的情况下，有时骑行时会提醒未开启定位功能",
+        "Actionable_Suggestion": "优化定位服务准确性，避免误提醒"
+      },
+      {
+        "id": "com.alipay.mobile.client_106",
+        "User_Pain_Point": "3D 人脸支付后无反应",
+        "Actionable_Suggestion": "修复3D人脸支付功能无响应的问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_111",
+        "User_Pain_Point": "支付宝无法使用，需要恢复账户或应用。",
+        "Actionable_Suggestion": "提供清晰的账户恢复流程或应用重新安装引导。"
+      },
+      {
+        "id": "com.alipay.mobile.client_112",
+        "User_Pain_Point": "打开小程序长时间转圈加载，无法正常使用。",
+        "Actionable_Suggestion": "优化小程序加载速度，减少等待时间。"
+      },
+      {
+        "id": "com.alipay.mobile.client_113",
+        "User_Pain_Point": "在淘宝闪购支付时无法使用指纹或面容识别，只能手动输入密码。",
+        "Actionable_Suggestion": "支持指纹或面容识别支付功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_114",
+        "User_Pain_Point": "诊股功能无法使用，一直显示不可用。",
+        "Actionable_Suggestion": "修复诊股功能，确保正常访问。"
+      },
+      {
+        "id": "com.alipay.mobile.client_115",
+        "User_Pain_Point": "Pure X外屏不支持碰一碰支付，无法使用该功能。",
+        "Actionable_Suggestion": "适配Pure X外屏的碰一碰支付功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_116",
+        "User_Pain_Point": "支付扫码反应慢，特别是扫描收款码时延迟十多秒。",
+        "Actionable_Suggestion": "优化扫码识别速度，减少延迟。"
+      },
+      {
+        "id": "com.alipay.mobile.client_119",
+        "User_Pain_Point": "支付宝个人小荷包的评论功能尚未恢复，无法发布评论。",
+        "Actionable_Suggestion": "恢复个人小荷包的评论功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_121",
+        "User_Pain_Point": "不能切换支付宝澳门版",
+        "Actionable_Suggestion": "增加切换支付宝澳门版的功能选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_122",
+        "User_Pain_Point": "小程序位置权限设置为仅本次允许时无法获取位置，必须选使用期间允许",
+        "Actionable_Suggestion": "修复权限逻辑，使仅本次允许选项正常工作"
+      },
+      {
+        "id": "com.alipay.mobile.client_124",
+        "User_Pain_Point": "小程序各种问题，体验差",
+        "Actionable_Suggestion": "全面排查并修复小程序问题，提升稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_128",
+        "User_Pain_Point": "支付宝自带视频自动播放无法关闭",
+        "Actionable_Suggestion": "增加关闭视频自动播放的选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_128",
+        "User_Pain_Point": "支付核心场景慢且繁琐",
+        "Actionable_Suggestion": "优化支付流程，减少步骤，提升速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_131",
+        "User_Pain_Point": "收藏功能缺失，用户找不到收藏功能。",
+        "Actionable_Suggestion": "恢复收藏功能入口或提供替代方案。"
+      },
+      {
+        "id": "com.alipay.mobile.client_134",
+        "User_Pain_Point": "余额宝里的财富黑卡找不到了。",
+        "Actionable_Suggestion": "恢复财富黑卡功能或明确告知用户位置。"
+      },
+      {
+        "id": "com.alipay.mobile.client_139",
+        "User_Pain_Point": "应用功能庞大复杂，小组件、小程序、签到打卡等互相串扰，用户感到繁琐。",
+        "Actionable_Suggestion": "简化功能结构，提供个性化定制选项，减少不必要的干扰。"
+      },
+      {
+        "id": "com.alipay.mobile.client_144",
+        "User_Pain_Point": "收款没有推送信息到手机，系统通知是开着的",
+        "Actionable_Suggestion": "修复推送通知功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_145",
+        "User_Pain_Point": "新版的买黄金基金不好用了，看不到实时的黄金价位",
+        "Actionable_Suggestion": "恢复实时金价显示"
+      },
+      {
+        "id": "com.alipay.mobile.client_146",
+        "User_Pain_Point": "理财的统计感觉不太丰富",
+        "Actionable_Suggestion": "丰富理财统计功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_147",
+        "User_Pain_Point": "生活号不能发作品",
+        "Actionable_Suggestion": "修复生活号发作品功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_151",
+        "User_Pain_Point": "扫码速度越来越慢",
+        "Actionable_Suggestion": "优化扫码识别速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_152",
+        "User_Pain_Point": "碰一下支付需要等待5秒以上，时间太长",
+        "Actionable_Suggestion": "缩短碰一下支付的响应时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_153",
+        "User_Pain_Point": "申请慢性病功能无法使用",
+        "Actionable_Suggestion": "修复慢性病申请功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_154",
+        "User_Pain_Point": "更新后网上消费看不到红包",
+        "Actionable_Suggestion": "修复更新后红包显示问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_155",
+        "User_Pain_Point": "惊喜市集用不了",
+        "Actionable_Suggestion": "修复惊喜市集功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_156",
+        "User_Pain_Point": "不能多设备登录，没有平板版",
+        "Actionable_Suggestion": "增加多设备登录或平板端支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_158",
+        "User_Pain_Point": "看不了惊喜市集",
+        "Actionable_Suggestion": "修复惊喜市集查看功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_162",
+        "User_Pain_Point": "支付宝缺少惊喜集市功能",
+        "Actionable_Suggestion": "增加惊喜集市入口"
+      },
+      {
+        "id": "com.alipay.mobile.client_168",
+        "User_Pain_Point": "支付宝无法进行付款操作",
+        "Actionable_Suggestion": "修复支付功能故障，确保正常支付"
+      },
+      {
+        "id": "com.alipay.mobile.client_172",
+        "User_Pain_Point": "最近扫码支付很难扫，没人提这个问题吗？",
+        "Actionable_Suggestion": "优化扫码识别算法，提高扫码成功率"
+      },
+      {
+        "id": "com.alipay.mobile.client_176",
+        "User_Pain_Point": "为什么蚂蚁森林能量PK参赛开启不了😭",
+        "Actionable_Suggestion": "修复蚂蚁森林能量PK参赛功能，确保正常开启"
+      },
+      {
+        "id": "com.alipay.mobile.client_177",
+        "User_Pain_Point": "怎么没有境外NFC功能了",
+        "Actionable_Suggestion": "恢复境外NFC功能或提供替代方案"
+      },
+      {
+        "id": "com.alipay.mobile.client_179",
+        "User_Pain_Point": "星巴克小程序卡包无法使用，尽快更新",
+        "Actionable_Suggestion": "更新星巴克小程序，修复卡包功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_181",
+        "User_Pain_Point": "经常卡顿，页面打不开",
+        "Actionable_Suggestion": "优化应用性能，修复页面加载问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_182",
+        "User_Pain_Point": "皮肤设置不了",
+        "Actionable_Suggestion": "修复皮肤设置功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_183",
+        "User_Pain_Point": "点进去天天秒杀直接卡住读取不了购物信息，下拉刷新也刷不了",
+        "Actionable_Suggestion": "优化秒杀页面加载和刷新功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_185",
+        "User_Pain_Point": "横屏功能缺失，不知何时更新",
+        "Actionable_Suggestion": "增加横屏功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_186",
+        "User_Pain_Point": "小游戏越加越多，内存占用越来越大",
+        "Actionable_Suggestion": "优化小游戏内存占用，或提供关闭小游戏的选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_187",
+        "User_Pain_Point": "阳光云校园中的去打卡立即前往点不开",
+        "Actionable_Suggestion": "修复阳光云校园相关功能，确保点击正常"
+      },
+      {
+        "id": "com.alipay.mobile.client_191",
+        "User_Pain_Point": "校园跑语音播报无法关闭",
+        "Actionable_Suggestion": "提供关闭语音播报的选项，或允许用户自定义播报内容"
+      },
+      {
+        "id": "com.alipay.mobile.client_193",
+        "User_Pain_Point": "实名认证失败，显示'人气大爆发'错误",
+        "Actionable_Suggestion": "修复实名认证功能，检查服务器状态并给出明确错误提示"
+      },
+      {
+        "id": "com.alipay.mobile.client_194",
+        "User_Pain_Point": "缺少人脸解锁功能",
+        "Actionable_Suggestion": "在解锁方式中增加人脸解锁选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_196",
+        "User_Pain_Point": "游戏过多且与外部应用互通体验差",
+        "Actionable_Suggestion": "优化游戏互通逻辑，减少不必要的跳转或提供更顺畅的衔接"
+      },
+      {
+        "id": "com.alipay.mobile.client_198",
+        "User_Pain_Point": "刷脸认证一直报错，其他软件正常",
+        "Actionable_Suggestion": "优化刷脸认证功能的兼容性和稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_201",
+        "User_Pain_Point": "缺少人脸识别登录功能",
+        "Actionable_Suggestion": "建议增加人脸识别登录功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_202",
+        "User_Pain_Point": "视频领红包活动未适配，无法使用",
+        "Actionable_Suggestion": "尽快适配视频领红包活动"
+      },
+      {
+        "id": "com.alipay.mobile.client_204",
+        "User_Pain_Point": "NFC一卡通功能未支持",
+        "Actionable_Suggestion": "增加NFC一卡通功能支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_206",
+        "User_Pain_Point": "没有惊喜市集功能",
+        "Actionable_Suggestion": "增加惊喜市集功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_206",
+        "User_Pain_Point": "小荷包红包功能无法使用",
+        "Actionable_Suggestion": "修复小荷包红包功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_208",
+        "User_Pain_Point": "校园跑功能不能使用",
+        "Actionable_Suggestion": "支持校园跑功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_211",
+        "User_Pain_Point": "支付宝实况窗功能还没有",
+        "Actionable_Suggestion": "增加实况窗功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_212",
+        "User_Pain_Point": "什么时候更新澳门版本支付宝",
+        "Actionable_Suggestion": "推出或更新澳门版本支付宝"
+      },
+      {
+        "id": "com.alipay.mobile.client_214",
+        "User_Pain_Point": "支付宝里面应用功能少，比如蚂蚁森林收集能量下拉的任务很少",
+        "Actionable_Suggestion": "增加蚂蚁森林等应用的任务数量"
+      },
+      {
+        "id": "com.alipay.mobile.client_217",
+        "User_Pain_Point": "蚂蚁庄园小组件什么时候上啊",
+        "Actionable_Suggestion": "上线蚂蚁庄园小组件"
+      },
+      {
+        "id": "com.alipay.mobile.client_218",
+        "User_Pain_Point": "惊喜市集一直没有",
+        "Actionable_Suggestion": "上线惊喜市集功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_220",
+        "User_Pain_Point": "希望尽快上线惊喜市集功能，谢谢",
+        "Actionable_Suggestion": "上线惊喜市集功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_227",
+        "User_Pain_Point": "盘友圈无法发视频",
+        "Actionable_Suggestion": "增加发视频功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_229",
+        "User_Pain_Point": "校园跑功能无法使用",
+        "Actionable_Suggestion": "修复校园跑功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_230",
+        "User_Pain_Point": "付款码上桌面功能缺失",
+        "Actionable_Suggestion": "添加付款码上桌面功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_232",
+        "User_Pain_Point": "无法转换为支付宝澳门",
+        "Actionable_Suggestion": "增加支付宝澳门转换功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_235",
+        "User_Pain_Point": "不支持惊喜集市功能",
+        "Actionable_Suggestion": "增加惊喜集市支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_236",
+        "User_Pain_Point": "打开软件后通知栏提示未自动消除",
+        "Actionable_Suggestion": "优化通知提示自动消除逻辑"
+      },
+      {
+        "id": "com.alipay.mobile.client_240",
+        "User_Pain_Point": "缺少指纹解锁功能兼容",
+        "Actionable_Suggestion": "增加指纹解锁兼容性，保护隐私"
+      },
+      {
+        "id": "com.alipay.mobile.client_241",
+        "User_Pain_Point": "扫码识别时间太长，接近一分钟",
+        "Actionable_Suggestion": "优化扫码识别算法，缩短识别时间至数秒内"
+      },
+      {
+        "id": "com.alipay.mobile.client_243",
+        "User_Pain_Point": "不支持NFC公交卡充值消费，落后于苹果系统",
+        "Actionable_Suggestion": "增加NFC公交卡充值消费功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_244",
+        "User_Pain_Point": "无法从单独窗口打开小程序",
+        "Actionable_Suggestion": "支持小程序独立窗口打开"
+      },
+      {
+        "id": "com.alipay.mobile.client_247",
+        "User_Pain_Point": "Mate系列缺乏面容解锁功能",
+        "Actionable_Suggestion": "为Mate系列增加面容解锁功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_250",
+        "User_Pain_Point": "人脸识别提现功能被移除",
+        "Actionable_Suggestion": "恢复人脸识别提现功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_251",
+        "User_Pain_Point": "支付宝内的小程序U净无法正常使用，影响学校洗衣需求。",
+        "Actionable_Suggestion": "加快适配小程序U净，确保支付宝扫一扫功能正常使用。"
+      },
+      {
+        "id": "com.alipay.mobile.client_252",
+        "User_Pain_Point": "缺少AI拍照识花功能。",
+        "Actionable_Suggestion": "增加AI拍照识花功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_253",
+        "User_Pain_Point": "理财功能中AI建议点不了，显示不适配。",
+        "Actionable_Suggestion": "适配AI建议功能，使其可点击并正常使用。"
+      },
+      {
+        "id": "com.alipay.mobile.client_253",
+        "User_Pain_Point": "理财功能中基金诊断不能用。",
+        "Actionable_Suggestion": "适配基金诊断功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_254",
+        "User_Pain_Point": "缺少离线支付功能。",
+        "Actionable_Suggestion": "开发离线支付功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_255",
+        "User_Pain_Point": "理财股票基金内的基金分析功能未适配。",
+        "Actionable_Suggestion": "加快适配基金分析功能，并提高更新频率。"
+      },
+      {
+        "id": "com.alipay.mobile.client_256",
+        "User_Pain_Point": "AI能力蚂小财未适配，无法使用。",
+        "Actionable_Suggestion": "适配蚂小财AI功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_257",
+        "User_Pain_Point": "支付宝种树领取肥料领不全。",
+        "Actionable_Suggestion": "修复领取肥料不全的问题。"
+      },
+      {
+        "id": "com.alipay.mobile.client_258",
+        "User_Pain_Point": "收款播报功能不工作，虽然声音已打开。",
+        "Actionable_Suggestion": "修复收款播报功能，确保声音正常播报。"
+      },
+      {
+        "id": "com.alipay.mobile.client_259",
+        "User_Pain_Point": "NFC不能用于公交卡充值。",
+        "Actionable_Suggestion": "适配NFC公交卡充值功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_261",
+        "User_Pain_Point": "支付记录不能截图，影响记录分享或保存",
+        "Actionable_Suggestion": "允许用户在支付记录页面进行截图，或者提供分享功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_262",
+        "User_Pain_Point": "没有朋友圈入口，缺少社交互动功能",
+        "Actionable_Suggestion": "在支付宝内增加朋友圈入口，允许用户发布动态"
+      },
+      {
+        "id": "com.alipay.mobile.client_263",
+        "User_Pain_Point": "没有自己的生活圈，用户感到缺失",
+        "Actionable_Suggestion": "恢复或增加生活圈功能，提供用户互动空间"
+      },
+      {
+        "id": "com.alipay.mobile.client_264",
+        "User_Pain_Point": "支付宝积分跳转不成功，影响积分使用",
+        "Actionable_Suggestion": "修复积分跳转逻辑，确保跳转成功"
+      },
+      {
+        "id": "com.alipay.mobile.client_269",
+        "User_Pain_Point": "没有药品比价功能，无法比较价格",
+        "Actionable_Suggestion": "增加药品比价功能，方便用户选择"
+      },
+      {
+        "id": "com.alipay.mobile.client_271",
+        "User_Pain_Point": "看视频拿红包的功能缺失",
+        "Actionable_Suggestion": "建议增加鸿蒙版本的看视频拿红包或打卡拿礼品功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_275",
+        "User_Pain_Point": "蚂小财功能在鸿蒙系统里不能用",
+        "Actionable_Suggestion": "尽快适配蚂小财功能至鸿蒙系统"
+      },
+      {
+        "id": "com.alipay.mobile.client_276",
+        "User_Pain_Point": "理财中的链接提示功能适配中",
+        "Actionable_Suggestion": "完成理财功能的适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_279",
+        "User_Pain_Point": "人脸识别时屏幕太亮",
+        "Actionable_Suggestion": "优化人脸识别时的屏幕亮度，利用结构光减少强光"
+      },
+      {
+        "id": "com.alipay.mobile.client_287",
+        "User_Pain_Point": "鸿蒙什么时候才能把灵光加上，出门压根扫不了东西",
+        "Actionable_Suggestion": "为鸿蒙系统适配灵光功能，确保扫码可用"
+      },
+      {
+        "id": "com.alipay.mobile.client_290",
+        "User_Pain_Point": "小程序店铺下单给了各种定位权限，也开了定位，但是没办法定位，页面一片空白。而且没办法手动搜索，就算快速点开了地址搜索栏，输入任何地址都不会有显示。但是找不到店铺我根本无法下单。",
+        "Actionable_Suggestion": "修复定位及搜索功能，确保下单流程顺畅"
+      },
+      {
+        "id": "com.alipay.mobile.client_291",
+        "User_Pain_Point": "历史记录和生活缴费历史丢失",
+        "Actionable_Suggestion": "恢复历史记录功能，确保数据迁移完整"
+      },
+      {
+        "id": "com.alipay.mobile.client_293",
+        "User_Pain_Point": "鸿蒙系统版本的功能很差",
+        "Actionable_Suggestion": "优化鸿蒙版本的功能完整性，修复已知问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_294",
+        "User_Pain_Point": "聊天图片发送失败",
+        "Actionable_Suggestion": "修复聊天图片发送功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_295",
+        "User_Pain_Point": "缺少境外NFC支付功能",
+        "Actionable_Suggestion": "增加境外NFC支付功能支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_298",
+        "User_Pain_Point": "看视频不能领红包",
+        "Actionable_Suggestion": "修复或添加看视频领红包功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_301",
+        "User_Pain_Point": "无法找到切换英文界面的选项",
+        "Actionable_Suggestion": "添加语言切换选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_304",
+        "User_Pain_Point": "鸿蒙版支付宝理财的创作者中心缺失",
+        "Actionable_Suggestion": "尽快更新添加理财创作者中心"
+      },
+      {
+        "id": "com.alipay.mobile.client_305",
+        "User_Pain_Point": "Mate 80 Pro缺少语言等模块，而旧机型无此问题",
+        "Actionable_Suggestion": "添加语言模块，改进新机型适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_306",
+        "User_Pain_Point": "扫码定位显示不出来",
+        "Actionable_Suggestion": "修复扫码定位显示问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_307",
+        "User_Pain_Point": "取快递扫码不会显示灯颜色",
+        "Actionable_Suggestion": "修复取快递扫码显示灯颜色功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_308",
+        "User_Pain_Point": "网商贷信息不能更新",
+        "Actionable_Suggestion": "修复网商贷信息更新功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_309",
+        "User_Pain_Point": "刷脸支付体验太差",
+        "Actionable_Suggestion": "优化刷脸支付体验"
+      },
+      {
+        "id": "com.alipay.mobile.client_310",
+        "User_Pain_Point": "扫码支付识别速度慢，两分钟才识别出来",
+        "Actionable_Suggestion": "提升扫码支付识别速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_313",
+        "User_Pain_Point": "消息页面一键清除未读功能失效",
+        "Actionable_Suggestion": "修复一键清除未读功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_314",
+        "User_Pain_Point": "地铁二维码扫码识别成功率低，需多次尝试",
+        "Actionable_Suggestion": "优化二维码识别算法，提高扫码成功率。"
+      },
+      {
+        "id": "com.alipay.mobile.client_315",
+        "User_Pain_Point": "碰一下功能缺失，秒杀活动页面不显示",
+        "Actionable_Suggestion": "完善碰一下功能，修复秒杀页面显示问题。"
+      },
+      {
+        "id": "com.alipay.mobile.client_316",
+        "User_Pain_Point": "个人信息中缺少'我的档案'和'我的收藏'功能",
+        "Actionable_Suggestion": "尽快开发并上线'我的档案'和'我的收藏'功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_318",
+        "User_Pain_Point": "淘宝闪购app无法直接跳转，被强制跳转到淘宝内闪购页面",
+        "Actionable_Suggestion": "修复跳转逻辑，支持直接打开淘宝闪购app。"
+      },
+      {
+        "id": "com.alipay.mobile.client_322",
+        "User_Pain_Point": "用户想要刷视频红包签到功能，但当前没有。",
+        "Actionable_Suggestion": "增加刷视频红包签到功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_323",
+        "User_Pain_Point": "用户想要实况窗功能，但当前不支持。",
+        "Actionable_Suggestion": "增加实况窗功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_325",
+        "User_Pain_Point": "提交资料涨额度功能未开放，用户询问开放时间。",
+        "Actionable_Suggestion": "尽快开放提交资料涨额度功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_326",
+        "User_Pain_Point": "地铁二维码无法使用。",
+        "Actionable_Suggestion": "修复地铁二维码功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_328",
+        "User_Pain_Point": "支付宝里的地图无法跳转。",
+        "Actionable_Suggestion": "修复地图跳转功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_331",
+        "User_Pain_Point": "基友圈无法发送信息",
+        "Actionable_Suggestion": "修复基友圈发送信息功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_333",
+        "User_Pain_Point": "扭码付款出不来",
+        "Actionable_Suggestion": "修复扭码付款功能，尽快更新"
+      },
+      {
+        "id": "com.alipay.mobile.client_344",
+        "User_Pain_Point": "扫码不能支付",
+        "Actionable_Suggestion": "修复扫码支付功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_348",
+        "User_Pain_Point": "更新后看不到持仓的基金了",
+        "Actionable_Suggestion": "修复基金持仓显示功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_349",
+        "User_Pain_Point": "小程序不能单独打开",
+        "Actionable_Suggestion": "支持小程序单独打开"
+      },
+      {
+        "id": "com.alipay.mobile.client_350",
+        "User_Pain_Point": "鸿蒙版不支持校园卡充值",
+        "Actionable_Suggestion": "支持校园卡充值功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_354",
+        "User_Pain_Point": "更新后没有了版本设置，无法转支付宝国际版",
+        "Actionable_Suggestion": "恢复版本设置选项，允许用户切换国际版"
+      },
+      {
+        "id": "com.alipay.mobile.client_358",
+        "User_Pain_Point": "只能指纹解锁，手小的用户使用不便，缺少面容解锁",
+        "Actionable_Suggestion": "增加面容解锁功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_359",
+        "User_Pain_Point": "惊喜集市功能不能用，影响优惠券使用",
+        "Actionable_Suggestion": "修复惊喜集市功能，确保正常使用"
+      },
+      {
+        "id": "com.alipay.mobile.client_362",
+        "User_Pain_Point": "动态功能缺失，无法查看或使用动态",
+        "Actionable_Suggestion": "恢复动态功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_362",
+        "User_Pain_Point": "之前保存的相片数据丢失",
+        "Actionable_Suggestion": "恢复用户照片数据或提供数据找回方案"
+      },
+      {
+        "id": "com.alipay.mobile.client_363",
+        "User_Pain_Point": "NFC功能未启用",
+        "Actionable_Suggestion": "启用NFC功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_366",
+        "User_Pain_Point": "支付宝澳门版未适配，无法从澳门汇款至内地",
+        "Actionable_Suggestion": "适配澳门版并支持跨境汇款功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_368",
+        "User_Pain_Point": "支付宝的收藏功能不可用",
+        "Actionable_Suggestion": "开放收藏功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_370",
+        "User_Pain_Point": "应用锁情况下长按扫一扫无法使用人脸识别",
+        "Actionable_Suggestion": "优化应用锁与人脸识别的适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_371",
+        "User_Pain_Point": "基金的搜索功能难以使用",
+        "Actionable_Suggestion": "优化基金搜索功能，提高搜索准确性和响应速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_372",
+        "User_Pain_Point": "从支付宝点闪购进入外卖后，没有地图实时显示",
+        "Actionable_Suggestion": "在外卖订单页面增加实时地图跟踪功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_374",
+        "User_Pain_Point": "支付宝的香港乘车码无法使用，且未更新",
+        "Actionable_Suggestion": "尽快更新并修复香港乘车码功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_375",
+        "User_Pain_Point": "无法添加好友且无法查看好友信息",
+        "Actionable_Suggestion": "修复好友添加和查看功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_377",
+        "User_Pain_Point": "更新后花呗支付功能无法使用",
+        "Actionable_Suggestion": "修复花呗支付功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_378",
+        "User_Pain_Point": "应用锁定状态下，人脸识别无法使用扫一扫，提示摄像头被占用",
+        "Actionable_Suggestion": "优化应用锁与人脸识别的兼容性，确保扫一扫正常调用摄像头"
+      },
+      {
+        "id": "com.alipay.mobile.client_379",
+        "User_Pain_Point": "不支持广深城际刷码乘车",
+        "Actionable_Suggestion": "尽快开发并支持广深城际刷码功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_387",
+        "User_Pain_Point": "股票板块无法查看日K线",
+        "Actionable_Suggestion": "修复股票日K线显示功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_389",
+        "User_Pain_Point": "更新后翻译功能失效，未考虑外国用户",
+        "Actionable_Suggestion": "修复翻译功能，增加多语言支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_392",
+        "User_Pain_Point": "人脸识别解锁功能有待更新",
+        "Actionable_Suggestion": "加快开发并发布人脸识别解锁功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_394",
+        "User_Pain_Point": "不支持境外支付",
+        "Actionable_Suggestion": "增加境外支付功能支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_399",
+        "User_Pain_Point": "指纹支付设置后仍要求输密码",
+        "Actionable_Suggestion": "修复指纹支付功能，确保设置后生效"
+      },
+      {
+        "id": "com.alipay.mobile.client_401",
+        "User_Pain_Point": "淘宝小程序不能用",
+        "Actionable_Suggestion": "优化小程序的兼容性和功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_402",
+        "User_Pain_Point": "手机和平板不能同时登录",
+        "Actionable_Suggestion": "支持多设备同时登录"
+      },
+      {
+        "id": "com.alipay.mobile.client_403",
+        "User_Pain_Point": "很多小游戏突然不能玩了",
+        "Actionable_Suggestion": "修复小游戏兼容性"
+      },
+      {
+        "id": "com.alipay.mobile.client_404",
+        "User_Pain_Point": "还没有蚂蚁银行",
+        "Actionable_Suggestion": "增加蚂蚁银行功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_404",
+        "User_Pain_Point": "澳门版支付宝还没有",
+        "Actionable_Suggestion": "推出澳门版支付宝"
+      },
+      {
+        "id": "com.alipay.mobile.client_406",
+        "User_Pain_Point": "香港的境外出行地铁还需要旧版",
+        "Actionable_Suggestion": "支持香港地铁功能的新版本"
+      },
+      {
+        "id": "com.alipay.mobile.client_406",
+        "User_Pain_Point": "澳门公交完全还不支持",
+        "Actionable_Suggestion": "增加澳门公交功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_408",
+        "User_Pain_Point": "不支持3D人脸识别，仍调用前置摄像头",
+        "Actionable_Suggestion": "支持3D人脸识别功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_411",
+        "User_Pain_Point": "NFC开门功能反应慢，经常加载中失败，体验差",
+        "Actionable_Suggestion": "优化NFC读取速度和稳定性，减少加载时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_419",
+        "User_Pain_Point": "闪购功能没有实况（如实况照片/实时状态）",
+        "Actionable_Suggestion": "添加实况功能，提升购物体验"
+      },
+      {
+        "id": "com.alipay.mobile.client_420",
+        "User_Pain_Point": "仅支持指纹登录，不支持面容登录",
+        "Actionable_Suggestion": "增加面容登录方式，与面容支付一致"
+      },
+      {
+        "id": "com.alipay.mobile.client_420",
+        "User_Pain_Point": "不支持上传微信账单到芝麻信用验证",
+        "Actionable_Suggestion": "添加微信账单上传功能，方便信用验证"
+      },
+      {
+        "id": "com.alipay.mobile.client_421",
+        "User_Pain_Point": "收款语音播报有时候播报，有时候不播报，非常不方便",
+        "Actionable_Suggestion": "优化语音播报稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_424",
+        "User_Pain_Point": "社慧通功能不好使",
+        "Actionable_Suggestion": "修复社慧通功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_426",
+        "User_Pain_Point": "扫收款码怎么都扫不上",
+        "Actionable_Suggestion": "优化扫码识别功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_427",
+        "User_Pain_Point": "扫码付款经常无反应",
+        "Actionable_Suggestion": "修复扫码付款功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_427",
+        "User_Pain_Point": "出示二维码付款时二维码经常不出来",
+        "Actionable_Suggestion": "优化二维码生成显示"
+      },
+      {
+        "id": "com.alipay.mobile.client_430",
+        "User_Pain_Point": "更新后没有压箱底小荷包的入口",
+        "Actionable_Suggestion": "保留或说明入口位置"
+      },
+      {
+        "id": "com.alipay.mobile.client_431",
+        "User_Pain_Point": "惊喜市集打不开，功能阉割严重",
+        "Actionable_Suggestion": "修复惊喜市集功能，确保正常访问"
+      },
+      {
+        "id": "com.alipay.mobile.client_433",
+        "User_Pain_Point": "鸿蒙版支付宝股票无法查看10档和资金流向",
+        "Actionable_Suggestion": "补充股票高级数据功能，支持10档行情和资金流向"
+      },
+      {
+        "id": "com.alipay.mobile.client_435",
+        "User_Pain_Point": "无法使用人脸支付，且推卸责任给用户",
+        "Actionable_Suggestion": "修复人脸支付功能，提供准确的问题排查指引"
+      },
+      {
+        "id": "com.alipay.mobile.client_436",
+        "User_Pain_Point": "缺少境外支付和闪速汇出功能",
+        "Actionable_Suggestion": "增加境外支付和闪速汇出功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_437",
+        "User_Pain_Point": "无法在圈子发帖子，影响参与活动",
+        "Actionable_Suggestion": "恢复发帖入口，支持在圈子内发布帖子"
+      },
+      {
+        "id": "com.alipay.mobile.client_440",
+        "User_Pain_Point": "小程序全部打不开",
+        "Actionable_Suggestion": "修复小程序加载问题，确保正常打开"
+      },
+      {
+        "id": "com.alipay.mobile.client_441",
+        "User_Pain_Point": "转账及余额宝转余额功能失败，验证后无响应",
+        "Actionable_Suggestion": "修复转账流程，确保验证后正常完成操作"
+      },
+      {
+        "id": "com.alipay.mobile.client_442",
+        "User_Pain_Point": "收款到账无声音提示",
+        "Actionable_Suggestion": "增加收款到账声音提醒功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_443",
+        "User_Pain_Point": "扫码支付不定时提示无网络，需二次扫码",
+        "Actionable_Suggestion": "优化网络检测逻辑，修复扫码支付异常"
+      },
+      {
+        "id": "com.alipay.mobile.client_445",
+        "User_Pain_Point": "淘宝闲鱼跳转支付无法使用指纹或面部识别",
+        "Actionable_Suggestion": "修复支付时生物识别功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_446",
+        "User_Pain_Point": "境外支付功能无法正常使用，更新后仍未修复",
+        "Actionable_Suggestion": "及时更新并修复境外支付功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_447",
+        "User_Pain_Point": "平板应用不便携，需要手表版",
+        "Actionable_Suggestion": "开发手表版应用"
+      },
+      {
+        "id": "com.alipay.mobile.client_448",
+        "User_Pain_Point": "惊喜市集功能消失",
+        "Actionable_Suggestion": "恢复或开通惊喜市集功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_451",
+        "User_Pain_Point": "卡包团购功能不可用",
+        "Actionable_Suggestion": "修复卡包团购功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_452",
+        "User_Pain_Point": "所有支付功能均不可用（扫码支付、付款码、外卖、基金支付）",
+        "Actionable_Suggestion": "紧急修复支付功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_454",
+        "User_Pain_Point": "小蓝环碰一碰功能不可用",
+        "Actionable_Suggestion": "恢复碰一碰功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_457",
+        "User_Pain_Point": "缺少淘宝闪购的果园种树功能",
+        "Actionable_Suggestion": "添加果园种树功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_459",
+        "User_Pain_Point": "周五碰一碰红包功能未实现",
+        "Actionable_Suggestion": "增加该功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_462",
+        "User_Pain_Point": "支付宝消息出不来",
+        "Actionable_Suggestion": "修复消息推送功能，确保消息能正常接收和显示。"
+      },
+      {
+        "id": "com.alipay.mobile.client_463",
+        "User_Pain_Point": "步数那块接受不到运动健康里的了",
+        "Actionable_Suggestion": "修复与运动健康的数据同步问题，确保步数信息正确获取。"
+      },
+      {
+        "id": "com.alipay.mobile.client_464",
+        "User_Pain_Point": "还是不能识别境外支付码",
+        "Actionable_Suggestion": "增加对境外支付码的识别功能，提升跨境支付体验。"
+      },
+      {
+        "id": "com.alipay.mobile.client_466",
+        "User_Pain_Point": "实况窗怎么没了",
+        "Actionable_Suggestion": "检查并恢复实况窗功能，确保用户能正常使用。"
+      },
+      {
+        "id": "com.alipay.mobile.client_467",
+        "User_Pain_Point": "给别人发的消息都不显示，别人发给我的也看不到",
+        "Actionable_Suggestion": "修复消息收发显示问题，确保聊天记录正常展示。"
+      },
+      {
+        "id": "com.alipay.mobile.client_472",
+        "User_Pain_Point": "不能语音聊天转文字",
+        "Actionable_Suggestion": "添加语音聊天转文字功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_475",
+        "User_Pain_Point": "缺少收藏功能",
+        "Actionable_Suggestion": "增加收藏功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_477",
+        "User_Pain_Point": "碰一下功能无法使用",
+        "Actionable_Suggestion": "修复碰一下功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_477",
+        "User_Pain_Point": "蚂蚁森林能量收集异常（跳转快手浏览后返回无法收集）",
+        "Actionable_Suggestion": "修复蚂蚁森林能量收集问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_478",
+        "User_Pain_Point": "缺少指纹和人脸识别支持",
+        "Actionable_Suggestion": "添加指纹和人脸识别支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_479",
+        "User_Pain_Point": "无法切换澳门版支付宝",
+        "Actionable_Suggestion": "增加澳门版支付宝切换功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_480",
+        "User_Pain_Point": "应用变成游戏APP，偏离支付工具本质",
+        "Actionable_Suggestion": "减少游戏化功能，回归支付工具本质"
+      },
+      {
+        "id": "com.alipay.mobile.client_481",
+        "User_Pain_Point": "人脸识别经常识别不出来，指纹无反应",
+        "Actionable_Suggestion": "优化人脸识别算法和指纹响应"
+      },
+      {
+        "id": "com.alipay.mobile.client_482",
+        "User_Pain_Point": "支付扫码识别太慢",
+        "Actionable_Suggestion": "优化扫码识别速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_483",
+        "User_Pain_Point": "余额宝没有大额快取功能",
+        "Actionable_Suggestion": "添加大额快取功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_486",
+        "User_Pain_Point": "打开付款码非常慢",
+        "Actionable_Suggestion": "优化付款码打开速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_491",
+        "User_Pain_Point": "绑定其他账号授权时提示选择打开方式但无可选项",
+        "Actionable_Suggestion": "修复授权打开方式缺失问题，确保提供有效的打开方式选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_492",
+        "User_Pain_Point": "小程序添加到桌面操作不明确，用户不知如何操作",
+        "Actionable_Suggestion": "优化小程序添加到桌面的指引或功能入口，提供明确步骤或一键添加功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_494",
+        "User_Pain_Point": "更新后余利宝在财富页不显示余额，需单独打开网商银行查看",
+        "Actionable_Suggestion": "修复更新后财富页余利宝余额显示问题，确保余额正常显示"
+      },
+      {
+        "id": "com.alipay.mobile.client_496",
+        "User_Pain_Point": "医保社保打印无法保存图片",
+        "Actionable_Suggestion": "增加医保社保打印结果的图片保存功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_499",
+        "User_Pain_Point": "蚂蚁庄园饲料获取功能不完善，希望增加看视频、淘宝签到跳转、闲鱼跳转等获取方式",
+        "Actionable_Suggestion": "按照用户建议完善蚂蚁庄园饲料获取途径，增加看视频、淘宝签到跳转、闲鱼跳转等"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.alipay.mobile.client_332",
+        "User_Pain_Point": "模拟炒股功能上线，获得用户赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_346",
+        "User_Pain_Point": "NFC速度还行",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.alipay.mobile.client_163",
+        "User_Pain_Point": "千牛中无法操作退款",
+        "Actionable_Suggestion": "增加千牛退款操作功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_164",
+        "User_Pain_Point": "淘宝闪购商家版尚未上线",
+        "Actionable_Suggestion": "加快上线淘宝闪购商家版"
+      },
+      {
+        "id": "com.alipay.mobile.client_336",
+        "User_Pain_Point": "基金盘友圈缺少“加入叮”功能",
+        "Actionable_Suggestion": "增加“加入叮”功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_357",
+        "User_Pain_Point": "希望增加扫一扫识别植物的功能（灵光）",
+        "Actionable_Suggestion": "考虑增加扫一扫识别植物的功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_386",
+        "User_Pain_Point": "用户期望上线极速模式",
+        "Actionable_Suggestion": "考虑增加极速模式功能"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.alipay.mobile.client_12",
+        "User_Pain_Point": "折叠竖屏左右有白边，比例适配不行",
+        "Actionable_Suggestion": "优化折叠屏竖屏模式的比例适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_15",
+        "User_Pain_Point": "小程序页面不适配Pura X，弹窗关闭按钮无法点击",
+        "Actionable_Suggestion": "适配华为Pura X机型，确保弹窗按钮可点击"
+      },
+      {
+        "id": "com.alipay.mobile.client_18",
+        "User_Pain_Point": "适配很差",
+        "Actionable_Suggestion": "优化机型适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_52",
+        "User_Pain_Point": "鸿蒙电脑版支付宝迟迟未上线",
+        "Actionable_Suggestion": "尽快推出鸿蒙电脑版支付宝"
+      },
+      {
+        "id": "com.alipay.mobile.client_67",
+        "User_Pain_Point": "鸿蒙最新版本不能用支付宝内的惊喜市集",
+        "Actionable_Suggestion": "适配鸿蒙最新版本，修复惊喜市集功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_76",
+        "User_Pain_Point": "Mate 80机型无法查看外卖员距离",
+        "Actionable_Suggestion": "适配Mate 80机型，解决查看距离功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_90",
+        "User_Pain_Point": "华为Pura X Max外屏蚂蚁庄园显示太小",
+        "Actionable_Suggestion": "适配华为Pura X Max外屏的蚂蚁庄园显示比例"
+      },
+      {
+        "id": "com.alipay.mobile.client_95",
+        "User_Pain_Point": "不兼容小程序，无法使用",
+        "Actionable_Suggestion": "建议修复小程序兼容性问题，确保所有功能可用。"
+      },
+      {
+        "id": "com.alipay.mobile.client_98",
+        "User_Pain_Point": "适配差的远呢，蚂蚁森林和安卓的差太多，用点心吧",
+        "Actionable_Suggestion": "建议提升鸿蒙版与安卓版的适配一致性，缩小功能差距。"
+      },
+      {
+        "id": "com.alipay.mobile.client_109",
+        "User_Pain_Point": "换了puraX Max，这个版本的支付宝反而没之前好用了，很多活动突然就没了",
+        "Actionable_Suggestion": "优化PuraX Max机型适配，恢复活动显示"
+      },
+      {
+        "id": "com.alipay.mobile.client_120",
+        "User_Pain_Point": "应用与当前系统不兼容，存在兼容性问题。",
+        "Actionable_Suggestion": "适配更多设备型号和系统版本，提升兼容性。"
+      },
+      {
+        "id": "com.alipay.mobile.client_126",
+        "User_Pain_Point": "升级鸿蒙6.0后扫纸质收款码经常扫不了",
+        "Actionable_Suggestion": "修复鸿蒙6.0下扫描纸质二维码的兼容性问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_128",
+        "User_Pain_Point": "适配鸿蒙系统但速度和体验落后",
+        "Actionable_Suggestion": "针对鸿蒙系统进一步优化性能和用户体验"
+      },
+      {
+        "id": "com.alipay.mobile.client_135",
+        "User_Pain_Point": "澳门地区地铁公交乘车码未适配。",
+        "Actionable_Suggestion": "适配澳门地区公共交通乘车码功能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_137",
+        "User_Pain_Point": "鸿蒙6系统下惊喜市集无法使用。",
+        "Actionable_Suggestion": "修复鸿蒙6系统下惊喜市集的兼容性问题。"
+      },
+      {
+        "id": "com.alipay.mobile.client_146",
+        "User_Pain_Point": "什么时候能适配平板",
+        "Actionable_Suggestion": "适配平板设备"
+      },
+      {
+        "id": "com.alipay.mobile.client_148",
+        "User_Pain_Point": "不适配华为Pura XMAX",
+        "Actionable_Suggestion": "适配华为Pura XMAX机型"
+      },
+      {
+        "id": "com.alipay.mobile.client_165",
+        "User_Pain_Point": "页面不支持鸿蒙系统访问",
+        "Actionable_Suggestion": "适配鸿蒙系统，确保页面正常访问"
+      },
+      {
+        "id": "com.alipay.mobile.client_188",
+        "User_Pain_Point": "鸿蒙系统下12306刷卡进站功能用不了，从去年到现在未修复",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复12306刷卡进站功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_190",
+        "User_Pain_Point": "鸿蒙系统付款码显示异常，付款码特别小",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复付款码显示大小问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_195",
+        "User_Pain_Point": "折叠屏小游戏未适配",
+        "Actionable_Suggestion": "适配折叠屏机型，确保小游戏正常显示和操作"
+      },
+      {
+        "id": "com.alipay.mobile.client_246",
+        "User_Pain_Point": "理财盘友圈无法修改个人资料，蚂蚁财富长期未适配鸿蒙系统",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复理财盘友圈个人资料修改功能，加速蚂蚁财富适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_248",
+        "User_Pain_Point": "盒马会员码付款时部分收款机不兼容，需专用鸿蒙收款机",
+        "Actionable_Suggestion": "提升与各类收款机的兼容性，尤其是鸿蒙系统设备"
+      },
+      {
+        "id": "com.alipay.mobile.client_266",
+        "User_Pain_Point": "鸿蒙系统上医保支付功能不可用，影响就医",
+        "Actionable_Suggestion": "修复鸿蒙系统医保支付兼容性问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_283",
+        "User_Pain_Point": "适配鸿蒙最新6.0系统，太卡了，慢死了。",
+        "Actionable_Suggestion": "针对鸿蒙6.0系统进行性能优化，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_341",
+        "User_Pain_Point": "平板横屏使用时两边填充不满",
+        "Actionable_Suggestion": "优化平板横屏显示适配，填满屏幕"
+      },
+      {
+        "id": "com.alipay.mobile.client_351",
+        "User_Pain_Point": "折叠屏体验很差",
+        "Actionable_Suggestion": "优化折叠屏适配，改善显示和交互"
+      },
+      {
+        "id": "com.alipay.mobile.client_360",
+        "User_Pain_Point": "未适配鸿蒙6折叠内屏，建议增加平行视界",
+        "Actionable_Suggestion": "适配鸿蒙6折叠内屏，或增加平行视界模式"
+      },
+      {
+        "id": "com.alipay.mobile.client_388",
+        "User_Pain_Point": "支付宝不支持实况窗，外卖不显示，而淘宝支持",
+        "Actionable_Suggestion": "适配鸿蒙实况窗功能，使支付宝支持实况窗"
+      },
+      {
+        "id": "com.alipay.mobile.client_398",
+        "User_Pain_Point": "在纯鸿蒙系统上运行卡顿",
+        "Actionable_Suggestion": "优化鸿蒙系统版本兼容性，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_398",
+        "User_Pain_Point": "5A信号差",
+        "Actionable_Suggestion": "优化与鸿蒙系统的网络信号适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_425",
+        "User_Pain_Point": "鸿蒙系统支付宝记录新手机无法同步",
+        "Actionable_Suggestion": "修复鸿蒙系统数据同步问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_450",
+        "User_Pain_Point": "升级系统后应用无法使用",
+        "Actionable_Suggestion": "适配新系统版本，确保兼容性"
+      },
+      {
+        "id": "com.alipay.mobile.client_460",
+        "User_Pain_Point": "小天才电话手表不支持公交车码功能",
+        "Actionable_Suggestion": "尽快适配该设备"
+      },
+      {
+        "id": "com.alipay.mobile.client_468",
+        "User_Pain_Point": "功能适配滞后",
+        "Actionable_Suggestion": "加快对新机型和系统版本的适配进度，确保功能完整可用。"
+      },
+      {
+        "id": "com.alipay.mobile.client_473",
+        "User_Pain_Point": "鸿蒙系统无法使用惊喜市集",
+        "Actionable_Suggestion": "适配鸿蒙系统，使惊喜市集正常使用"
+      },
+      {
+        "id": "com.alipay.mobile.client_485",
+        "User_Pain_Point": "pura x外屏乘车码太小，扫码困难",
+        "Actionable_Suggestion": "适配pura x外屏，增大乘车码显示"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.alipay.mobile.client_337",
+        "User_Pain_Point": "支付宝匹配鸿蒙系统最快、功能最齐全、最完整",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_493",
+        "User_Pain_Point": "适配完美，使用体验好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_497",
+        "User_Pain_Point": "鸿蒙系统上使用一直好用",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.alipay.mobile.client_5",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_7",
+        "User_Pain_Point": "转账操作卡顿严重",
+        "Actionable_Suggestion": "重点优化转账等核心操作的流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_8",
+        "User_Pain_Point": "扫码功能因卡顿无法使用",
+        "Actionable_Suggestion": "优化扫码功能的性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_11",
+        "User_Pain_Point": "超级卡",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_14",
+        "User_Pain_Point": "发热",
+        "Actionable_Suggestion": "优化功耗，减少发热"
+      },
+      {
+        "id": "com.alipay.mobile.client_18",
+        "User_Pain_Point": "很容易卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_20",
+        "User_Pain_Point": "整个页面非常卡顿，打开详情等半天",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_21",
+        "User_Pain_Point": "应用很多功能打不开，无法正常使用",
+        "Actionable_Suggestion": "排查并修复应用内页面加载失败的问题，提升稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_23",
+        "User_Pain_Point": "支付完成后长时间无反应，疑似卡死",
+        "Actionable_Suggestion": "优化支付流程的异步处理，确保支付结果及时反馈"
+      },
+      {
+        "id": "com.alipay.mobile.client_24",
+        "User_Pain_Point": "鸿蒙版越更新越卡顿，打开界面经常卡住不动",
+        "Actionable_Suggestion": "进行性能优化，减少卡顿和界面无响应问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_25",
+        "User_Pain_Point": "应用卡死，无法正常操作",
+        "Actionable_Suggestion": "排查卡死原因，及时发布修复更新"
+      },
+      {
+        "id": "com.alipay.mobile.client_28",
+        "User_Pain_Point": "打开积分卡和商家服务均无反应，卡顿严重",
+        "Actionable_Suggestion": "优化相应用户交互的响应速度，修复无响应问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_29",
+        "User_Pain_Point": "启动后页面响应速度慢，点击其他页面也慢",
+        "Actionable_Suggestion": "优化启动速度和页面切换性能，减少加载时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_30",
+        "User_Pain_Point": "新版支付宝非常卡顿",
+        "Actionable_Suggestion": "全面性能优化，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_36",
+        "User_Pain_Point": "支付宝卡顿，影响使用体验",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_38",
+        "User_Pain_Point": "码上推中地图非常卡顿，无法正常使用",
+        "Actionable_Suggestion": "优化地图性能，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_40",
+        "User_Pain_Point": "应用卡顿，操作不流畅",
+        "Actionable_Suggestion": "优化性能，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_41",
+        "User_Pain_Point": "付完钱后应用卡住不动",
+        "Actionable_Suggestion": "修复支付后页面跳转卡顿问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_42",
+        "User_Pain_Point": "签到等操作卡顿，体验不如安卓",
+        "Actionable_Suggestion": "优化签到等基础操作的性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_44",
+        "User_Pain_Point": "应用启动慢且卡顿",
+        "Actionable_Suggestion": "优化应用启动速度与流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_47",
+        "User_Pain_Point": "使用完后结算显示延迟20几秒",
+        "Actionable_Suggestion": "优化结算显示响应速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_48",
+        "User_Pain_Point": "扫码支付时连续闪退",
+        "Actionable_Suggestion": "修复扫码支付闪退问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_49",
+        "User_Pain_Point": "应用严重卡顿",
+        "Actionable_Suggestion": "全面优化应用流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_54",
+        "User_Pain_Point": "反应奇慢，经常打不开付款码",
+        "Actionable_Suggestion": "优化整体性能，修复付款码加载问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_56",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_60",
+        "User_Pain_Point": "支付过程非常卡顿",
+        "Actionable_Suggestion": "优化支付流程流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_61",
+        "User_Pain_Point": "在鸿蒙上卡成马了，点一下得等1分钟",
+        "Actionable_Suggestion": "优化鸿蒙版本性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_64",
+        "User_Pain_Point": "启动慢，打开功能转半天转不出来",
+        "Actionable_Suggestion": "优化启动速度和功能加载速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_70",
+        "User_Pain_Point": "优化差，不如淘宝丝滑",
+        "Actionable_Suggestion": "全面优化性能，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_73",
+        "User_Pain_Point": "卡顿、反应慢，使用体验差",
+        "Actionable_Suggestion": "优化性能，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_87",
+        "User_Pain_Point": "支付反应慢，打开地铁码有3-4秒延迟",
+        "Actionable_Suggestion": "优化支付及地铁码打开速度，减少延迟"
+      },
+      {
+        "id": "com.alipay.mobile.client_88",
+        "User_Pain_Point": "应用打开卡死，每次打开都卡顿",
+        "Actionable_Suggestion": "修复应用启动卡顿问题，优化性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_93",
+        "User_Pain_Point": "尽快！修复！消息页面白屏！无响应！重启强制关闭应用都无效！",
+        "Actionable_Suggestion": "建议紧急排查消息页面白屏和无响应问题，修复内存或渲染错误。"
+      },
+      {
+        "id": "com.alipay.mobile.client_94",
+        "User_Pain_Point": "好卡啊可以更新一下吗",
+        "Actionable_Suggestion": "建议优化应用性能，减少卡顿，提升流畅度。"
+      },
+      {
+        "id": "com.alipay.mobile.client_99",
+        "User_Pain_Point": "很卡，支付也卡加载也卡",
+        "Actionable_Suggestion": "建议全面优化支付和加载流程的响应速度。"
+      },
+      {
+        "id": "com.alipay.mobile.client_101",
+        "User_Pain_Point": "语音通话会自动断开，有时候接不到",
+        "Actionable_Suggestion": "修复语音通话自动断连的问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_103",
+        "User_Pain_Point": "有时候还是很卡的",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_104",
+        "User_Pain_Point": "打开蚂蚁庄园，芭芭农场页面加载非常慢",
+        "Actionable_Suggestion": "优化页面加载速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_105",
+        "User_Pain_Point": "太卡了，打开要半天，尤其是做任务根本都打不开！",
+        "Actionable_Suggestion": "优化性能，确保任务页面正常打开"
+      },
+      {
+        "id": "com.alipay.mobile.client_113",
+        "User_Pain_Point": "应用卡顿严重，点击任何操作都需要长时间等待加载。",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿现象。"
+      },
+      {
+        "id": "com.alipay.mobile.client_118",
+        "User_Pain_Point": "应用整体卡顿，使用体验差。",
+        "Actionable_Suggestion": "优化应用性能，提升流畅度。"
+      },
+      {
+        "id": "com.alipay.mobile.client_120",
+        "User_Pain_Point": "应用后台自动关闭，且运行卡顿。",
+        "Actionable_Suggestion": "优化后台进程管理，提升应用稳定性与流畅度。"
+      },
+      {
+        "id": "com.alipay.mobile.client_123",
+        "User_Pain_Point": "打开支付宝卡顿掉帧，问题长期未修复",
+        "Actionable_Suggestion": "优化启动性能，修复卡顿掉帧问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_125",
+        "User_Pain_Point": "版本打开卡顿",
+        "Actionable_Suggestion": "优化版本启动速度，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_126",
+        "User_Pain_Point": "查看收款码时经常出现死机或卡顿",
+        "Actionable_Suggestion": "优化收款码页面的性能，防止死机和卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_127",
+        "User_Pain_Point": "当前版本运行缓慢，之前没有此问题",
+        "Actionable_Suggestion": "优化版本性能，解决卡顿问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_129",
+        "User_Pain_Point": "二维码扫码支付出来慢，冷启动卡顿严重",
+        "Actionable_Suggestion": "优化扫码支付启动速度，减少冷启动卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_130",
+        "User_Pain_Point": "应用占用16GB存储空间，且时有卡顿",
+        "Actionable_Suggestion": "优化存储空间占用，提升运行流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_132",
+        "User_Pain_Point": "抢整点红包时点击红包后无响应，卡住不动。",
+        "Actionable_Suggestion": "修复红包活动点击后的卡顿或无响应问题。"
+      },
+      {
+        "id": "com.alipay.mobile.client_133",
+        "User_Pain_Point": "扫一扫功能反应极慢，影响使用体验。",
+        "Actionable_Suggestion": "优化扫一扫功能的响应速度和性能。"
+      },
+      {
+        "id": "com.alipay.mobile.client_136",
+        "User_Pain_Point": "应用整体卡顿，扫码和页面切换均延迟。",
+        "Actionable_Suggestion": "全面优化应用性能，减少卡顿现象。"
+      },
+      {
+        "id": "com.alipay.mobile.client_138",
+        "User_Pain_Point": "蚂蚁庄园应用内卡顿严重，且长期未优化。",
+        "Actionable_Suggestion": "优化蚂蚁庄园的流畅度，特别是在鸿蒙系统上。"
+      },
+      {
+        "id": "com.alipay.mobile.client_140",
+        "User_Pain_Point": "华为Mate80上收款提示音失效，重新安装仅能维持一天。",
+        "Actionable_Suggestion": "修复收款提示音bug，确保长期稳定。"
+      },
+      {
+        "id": "com.alipay.mobile.client_141",
+        "User_Pain_Point": "好卡，越升越卡",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_142",
+        "User_Pain_Point": "一个页面半天加载不出来",
+        "Actionable_Suggestion": "优化加载速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_143",
+        "User_Pain_Point": "这几天为什么这么卡，打开界面都卡老半天",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_149",
+        "User_Pain_Point": "界面加载越来越慢",
+        "Actionable_Suggestion": "优化加载速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_157",
+        "User_Pain_Point": "支付宝最近容易卡，一动不动",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_159",
+        "User_Pain_Point": "卡得要死",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_161",
+        "User_Pain_Point": "支付宝版本太卡，无法使用，时好时坏",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿，确保稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_166",
+        "User_Pain_Point": "支付宝占用存储空间过大（11GB）",
+        "Actionable_Suggestion": "优化存储占用，减少缓存或提供清理功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_167",
+        "User_Pain_Point": "打开APP反应很慢",
+        "Actionable_Suggestion": "优化启动速度，减少加载时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_169",
+        "User_Pain_Point": "支付宝卡顿，特别是碰一碰功能",
+        "Actionable_Suggestion": "优化碰一碰功能性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_170",
+        "User_Pain_Point": "扫一扫功能识别二维码需要二三十秒，卡顿严重",
+        "Actionable_Suggestion": "优化扫一扫识别速度，解决卡顿问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_175",
+        "User_Pain_Point": "鸿蒙端体验感太差了，打开app能卡几分钟，经常各种小程序卡死，打不开",
+        "Actionable_Suggestion": "优化鸿蒙端性能，减少卡顿和崩溃，确保小程序的稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_192",
+        "User_Pain_Point": "鸿蒙最新版支付宝卡顿严重",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿现象"
+      },
+      {
+        "id": "com.alipay.mobile.client_195",
+        "User_Pain_Point": "运行发热、掉帧，类似3A大作",
+        "Actionable_Suggestion": "优化功耗和帧率控制，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_199",
+        "User_Pain_Point": "小程序进入卡顿，加载慢",
+        "Actionable_Suggestion": "优化小程序加载速度和运行性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_203",
+        "User_Pain_Point": "发热严重",
+        "Actionable_Suggestion": "优化功耗，减少发热"
+      },
+      {
+        "id": "com.alipay.mobile.client_207",
+        "User_Pain_Point": "反应迟钝，扫码半天出不来",
+        "Actionable_Suggestion": "优化扫码响应速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_209",
+        "User_Pain_Point": "各种卡顿，小程序bug一堆",
+        "Actionable_Suggestion": "修复卡顿和小程序bug"
+      },
+      {
+        "id": "com.alipay.mobile.client_215",
+        "User_Pain_Point": "小程序南京地铁雨伞服务用不了，害我淋雨！！！！",
+        "Actionable_Suggestion": "修复南京地铁雨伞服务小程序"
+      },
+      {
+        "id": "com.alipay.mobile.client_216",
+        "User_Pain_Point": "最近经常出现扫码不能对焦的问题。",
+        "Actionable_Suggestion": "修复扫码对焦问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_219",
+        "User_Pain_Point": "有谁付款报错？？？",
+        "Actionable_Suggestion": "修复付款报错问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_221",
+        "User_Pain_Point": "使用发热严重",
+        "Actionable_Suggestion": "优化性能，减少发热"
+      },
+      {
+        "id": "com.alipay.mobile.client_223",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化性能，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_225",
+        "User_Pain_Point": "加载速度慢，付款等待时间长",
+        "Actionable_Suggestion": "优化加载速度，减少等待时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_229",
+        "User_Pain_Point": "碰一碰闪退",
+        "Actionable_Suggestion": "修复闪退问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_233",
+        "User_Pain_Point": "扫码识别特别慢",
+        "Actionable_Suggestion": "优化扫码识别速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_234",
+        "User_Pain_Point": "小鸡游戏在旗舰机上频繁卡顿",
+        "Actionable_Suggestion": "优化小鸡游戏性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_238",
+        "User_Pain_Point": "应用经常卡顿，使用体验差",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_242",
+        "User_Pain_Point": "收藏和档案功能无法打开",
+        "Actionable_Suggestion": "修复收藏和档案功能的数据加载问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_245",
+        "User_Pain_Point": "鸿蒙版支付宝越来越卡，体验极差",
+        "Actionable_Suggestion": "优化鸿蒙系统下的性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_248",
+        "User_Pain_Point": "扫码进入小程序缴费时页面空白且应用死机，只能重启",
+        "Actionable_Suggestion": "修复扫码后页面空白及应用卡死问题，确保稳定退出"
+      },
+      {
+        "id": "com.alipay.mobile.client_249",
+        "User_Pain_Point": "应用整体卡顿",
+        "Actionable_Suggestion": "全面优化应用性能，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_260",
+        "User_Pain_Point": "3D人脸识别支付速度慢。",
+        "Actionable_Suggestion": "优化3D人脸识别支付的性能，提高识别速度。"
+      },
+      {
+        "id": "com.alipay.mobile.client_265",
+        "User_Pain_Point": "鸿蒙版支付宝卡顿，体验差",
+        "Actionable_Suggestion": "优化性能，减少卡顿现象"
+      },
+      {
+        "id": "com.alipay.mobile.client_267",
+        "User_Pain_Point": "支付宝卡顿严重，点不动",
+        "Actionable_Suggestion": "紧急优化性能，解决卡死问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_268",
+        "User_Pain_Point": "打开蚂蚁森林、蚂蚁庄园速度极慢",
+        "Actionable_Suggestion": "优化蚂蚁森林、蚂蚁庄园的加载速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_270",
+        "User_Pain_Point": "坐公交时页面切换卡顿，影响使用",
+        "Actionable_Suggestion": "优化页面切换性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_272",
+        "User_Pain_Point": "应用付款跳转到支付宝功能没反应",
+        "Actionable_Suggestion": "修复应用间跳转的稳定性问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_274",
+        "User_Pain_Point": "每次打开都卡顿",
+        "Actionable_Suggestion": "优化启动速度和流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_276",
+        "User_Pain_Point": "启动速度慢",
+        "Actionable_Suggestion": "优化启动速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_277",
+        "User_Pain_Point": "超级耗电",
+        "Actionable_Suggestion": "优化耗电问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_281",
+        "User_Pain_Point": "桌面2*4小卡片每次要等一两秒才能正常显示",
+        "Actionable_Suggestion": "优化小卡片加载速度，减少等待时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_284",
+        "User_Pain_Point": "好卡，一直在转圈圈，付款等半天",
+        "Actionable_Suggestion": "优化支付流程性能，减少等待时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_285",
+        "User_Pain_Point": "支付宝里面的小程序打开太卡，有时需要退出重新打开一次才能进入。",
+        "Actionable_Suggestion": "优化小程序启动速度和稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_292",
+        "User_Pain_Point": "升级鸿蒙六后支付宝严重卡顿",
+        "Actionable_Suggestion": "优化鸿蒙六下的性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_293",
+        "User_Pain_Point": "鸿蒙系统版本使用流畅度很差",
+        "Actionable_Suggestion": "优化系统流畅度，提升用户体验"
+      },
+      {
+        "id": "com.alipay.mobile.client_296",
+        "User_Pain_Point": "除首页外其他界面有时不显示，影响稳定性",
+        "Actionable_Suggestion": "增强稳定性，确保所有界面正常显示"
+      },
+      {
+        "id": "com.alipay.mobile.client_297",
+        "User_Pain_Point": "支付宝是大厂应用中最卡顿的",
+        "Actionable_Suggestion": "优化性能，减少卡顿现象"
+      },
+      {
+        "id": "com.alipay.mobile.client_299",
+        "User_Pain_Point": "最近版本载入速度慢",
+        "Actionable_Suggestion": "优化载入速度，提升启动体验"
+      },
+      {
+        "id": "com.alipay.mobile.client_300",
+        "User_Pain_Point": "打开支付宝速度慢，需等待5-10秒，问题长期存在",
+        "Actionable_Suggestion": "优化启动速度，解决长期存在的性能问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_303",
+        "User_Pain_Point": "鸿蒙系统安装支付宝后钱取不出来，功能异常",
+        "Actionable_Suggestion": "修复取款功能异常问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_319",
+        "User_Pain_Point": "应用冷启动速度慢",
+        "Actionable_Suggestion": "优化启动速度，减少冷启动时间。"
+      },
+      {
+        "id": "com.alipay.mobile.client_320",
+        "User_Pain_Point": "应用整体卡顿，冷启动及页面跳转均卡顿",
+        "Actionable_Suggestion": "全面优化应用性能，提升流畅度。"
+      },
+      {
+        "id": "com.alipay.mobile.client_321",
+        "User_Pain_Point": "应用经常卡死。",
+        "Actionable_Suggestion": "优化应用稳定性，减少卡死现象。"
+      },
+      {
+        "id": "com.alipay.mobile.client_324",
+        "User_Pain_Point": "小程序系统太差劲，经常一进去就卡死。",
+        "Actionable_Suggestion": "优化小程序系统性能，避免卡死。"
+      },
+      {
+        "id": "com.alipay.mobile.client_327",
+        "User_Pain_Point": "记账本有Bug，数据同步和保存异常。",
+        "Actionable_Suggestion": "修复记账本数据同步和保存Bug。"
+      },
+      {
+        "id": "com.alipay.mobile.client_329",
+        "User_Pain_Point": "公交乘车码有时能用有时不能用，不稳定。",
+        "Actionable_Suggestion": "优化乘车码功能稳定性。"
+      },
+      {
+        "id": "com.alipay.mobile.client_330",
+        "User_Pain_Point": "应用占用内存过大，达十多个G。",
+        "Actionable_Suggestion": "优化内存占用，减小应用体积。"
+      },
+      {
+        "id": "com.alipay.mobile.client_335",
+        "User_Pain_Point": "更新后太卡",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_338",
+        "User_Pain_Point": "打开扫码界面时间有点长",
+        "Actionable_Suggestion": "优化扫码界面启动速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_340",
+        "User_Pain_Point": "付款扫码卡住，不停的转圈圈",
+        "Actionable_Suggestion": "修复付款扫码卡顿问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_342",
+        "User_Pain_Point": "支付宝使用很卡",
+        "Actionable_Suggestion": "优化整体性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_343",
+        "User_Pain_Point": "支付必卡",
+        "Actionable_Suggestion": "优化支付流程性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_345",
+        "User_Pain_Point": "刚启动时卡好几秒，在鸿蒙上最卡",
+        "Actionable_Suggestion": "优化启动速度，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_346",
+        "User_Pain_Point": "扫码和打开慢的要死",
+        "Actionable_Suggestion": "优化扫码和启动速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_347",
+        "User_Pain_Point": "扫码半天扫不上",
+        "Actionable_Suggestion": "优化扫码速度和成功率"
+      },
+      {
+        "id": "com.alipay.mobile.client_352",
+        "User_Pain_Point": "越来越卡了",
+        "Actionable_Suggestion": "优化整体性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_355",
+        "User_Pain_Point": "启动速度太慢",
+        "Actionable_Suggestion": "优化启动速度，减少等待时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_364",
+        "User_Pain_Point": "耗电量太大",
+        "Actionable_Suggestion": "优化功耗，减少电池消耗"
+      },
+      {
+        "id": "com.alipay.mobile.client_365",
+        "User_Pain_Point": "支付宝运行卡顿",
+        "Actionable_Suggestion": "优化流畅度，提升响应速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_369",
+        "User_Pain_Point": "支付宝鸿蒙版本有卡顿、延迟，有时加载不出来",
+        "Actionable_Suggestion": "优化性能，解决卡顿和加载问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_373",
+        "User_Pain_Point": "缓存清理功能不可用",
+        "Actionable_Suggestion": "修复缓存清理功能，确保正常使用"
+      },
+      {
+        "id": "com.alipay.mobile.client_376",
+        "User_Pain_Point": "鸿蒙版支付宝运行卡顿",
+        "Actionable_Suggestion": "优化鸿蒙系统下支付宝的性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_380",
+        "User_Pain_Point": "扫码点餐功能扫了后一直转圈，无法使用",
+        "Actionable_Suggestion": "优化扫码点餐功能的加载速度和稳定性"
+      },
+      {
+        "id": "com.alipay.mobile.client_381",
+        "User_Pain_Point": "应用卡顿，体验差",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_382",
+        "User_Pain_Point": "支付扫码后等待时间长",
+        "Actionable_Suggestion": "优化支付流程，缩短响应时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_383",
+        "User_Pain_Point": "整体使用感受卡顿",
+        "Actionable_Suggestion": "全面性能优化，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_391",
+        "User_Pain_Point": "应用卡顿，反应慢",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿和延迟"
+      },
+      {
+        "id": "com.alipay.mobile.client_393",
+        "User_Pain_Point": "小程序游戏持续卡顿",
+        "Actionable_Suggestion": "优化小程序游戏运行性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_395",
+        "User_Pain_Point": "启动速度过慢",
+        "Actionable_Suggestion": "优化启动速度，减少加载时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_397",
+        "User_Pain_Point": "支付宝整体卡顿",
+        "Actionable_Suggestion": "全面排查并优化卡顿问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_400",
+        "User_Pain_Point": "长期使用后内存占用过大",
+        "Actionable_Suggestion": "优化内存管理，减少应用尺寸膨胀"
+      },
+      {
+        "id": "com.alipay.mobile.client_405",
+        "User_Pain_Point": "版本很差劲，点什么都没反应，很慢很慢",
+        "Actionable_Suggestion": "优化性能，修复无响应问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_407",
+        "User_Pain_Point": "鸿蒙系统支付宝现在很卡",
+        "Actionable_Suggestion": "优化鸿蒙系统下的性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_410",
+        "User_Pain_Point": "碰一碰功能老是卡",
+        "Actionable_Suggestion": "优化碰一碰功能的性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_412",
+        "User_Pain_Point": "应用打开很慢，浇水页面加载不出来",
+        "Actionable_Suggestion": "优化启动速度和页面加载性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_414",
+        "User_Pain_Point": "各种页面卡顿",
+        "Actionable_Suggestion": "优化页面渲染性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_417",
+        "User_Pain_Point": "消消乐等游戏炸弹过多同时爆炸时特效卡顿明显",
+        "Actionable_Suggestion": "优化游戏特效性能，修复卡顿问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_418",
+        "User_Pain_Point": "打开小程序会出现红色条纹闪屏",
+        "Actionable_Suggestion": "修复小程序闪屏Bug"
+      },
+      {
+        "id": "com.alipay.mobile.client_423",
+        "User_Pain_Point": "打开什么界面都要超两秒",
+        "Actionable_Suggestion": "优化应用启动和界面加载速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_426",
+        "User_Pain_Point": "内部点啥都有延迟",
+        "Actionable_Suggestion": "优化界面响应速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_427",
+        "User_Pain_Point": "整体很慢很迟钝",
+        "Actionable_Suggestion": "优化性能，减少延迟"
+      },
+      {
+        "id": "com.alipay.mobile.client_432",
+        "User_Pain_Point": "小荷包长按排序切换卡顿",
+        "Actionable_Suggestion": "优化小荷包排序动画性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_434",
+        "User_Pain_Point": "游戏小程序过多导致内存占用大（四五个G）",
+        "Actionable_Suggestion": "优化小程序内存管理，提供清理缓存功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_438",
+        "User_Pain_Point": "冷启动速度极慢，比其他App慢",
+        "Actionable_Suggestion": "优化冷启动流程，减少启动时间"
+      },
+      {
+        "id": "com.alipay.mobile.client_439",
+        "User_Pain_Point": "整体非常卡顿无法正常使用",
+        "Actionable_Suggestion": "全面优化性能，提升流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_449",
+        "User_Pain_Point": "应用超级卡顿，频繁闪退",
+        "Actionable_Suggestion": "优化性能，减少卡顿和闪退"
+      },
+      {
+        "id": "com.alipay.mobile.client_455",
+        "User_Pain_Point": "界面卡顿，无法使用",
+        "Actionable_Suggestion": "优化性能，解决卡顿问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_458",
+        "User_Pain_Point": "小游戏卡顿不稳定",
+        "Actionable_Suggestion": "优化小游戏性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_461",
+        "User_Pain_Point": "为什么这么卡",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿现象，提升流畅度。"
+      },
+      {
+        "id": "com.alipay.mobile.client_465",
+        "User_Pain_Point": "占用空间太大了什么情况",
+        "Actionable_Suggestion": "优化存储管理，减小应用占用的空间。"
+      },
+      {
+        "id": "com.alipay.mobile.client_468",
+        "User_Pain_Point": "卡顿严重，内存占用大",
+        "Actionable_Suggestion": "优化性能，减少内存占用，改善卡顿问题。"
+      },
+      {
+        "id": "com.alipay.mobile.client_470",
+        "User_Pain_Point": "支付宝和淘宝的卡顿真的是永远都改不好了？",
+        "Actionable_Suggestion": "持续优化支付宝和淘宝的卡顿问题，提升用户体验。"
+      },
+      {
+        "id": "com.alipay.mobile.client_471",
+        "User_Pain_Point": "蚂蚁森林卡顿",
+        "Actionable_Suggestion": "优化蚂蚁森林性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_474",
+        "User_Pain_Point": "碰一下扫红包/扫码支付时卡屏",
+        "Actionable_Suggestion": "修复碰一下支付时的卡屏问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_476",
+        "User_Pain_Point": "画面流畅度差",
+        "Actionable_Suggestion": "优化画面流畅度"
+      },
+      {
+        "id": "com.alipay.mobile.client_484",
+        "User_Pain_Point": "网商银行板块打开非常慢，卡顿",
+        "Actionable_Suggestion": "优化网商银行板块的加载速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_488",
+        "User_Pain_Point": "最近非常卡顿",
+        "Actionable_Suggestion": "排查卡顿原因并优化性能"
+      },
+      {
+        "id": "com.alipay.mobile.client_490",
+        "User_Pain_Point": "其他软件调取支付宝付款时卡顿严重",
+        "Actionable_Suggestion": "优化被调起时的性能和响应速度"
+      },
+      {
+        "id": "com.alipay.mobile.client_495",
+        "User_Pain_Point": "特别卡",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_498",
+        "User_Pain_Point": "很卡顿，开卡包不流畅",
+        "Actionable_Suggestion": "优化卡包打开流畅度，减少卡顿"
+      },
+      {
+        "id": "com.alipay.mobile.client_500",
+        "User_Pain_Point": "每次打开应用头2秒必卡顿",
+        "Actionable_Suggestion": "优化应用启动加载速度，减少启动卡顿"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.alipay.mobile.client_6",
+        "User_Pain_Point": "PK赛易误触",
+        "Actionable_Suggestion": "优化PK赛的交互设计，减少误触"
+      },
+      {
+        "id": "com.alipay.mobile.client_22",
+        "User_Pain_Point": "滑动时太慢，不跟手",
+        "Actionable_Suggestion": "优化滑动响应的灵敏度，提升跟手性"
+      },
+      {
+        "id": "com.alipay.mobile.client_29",
+        "User_Pain_Point": "动画效果不流畅，需要优化",
+        "Actionable_Suggestion": "优化动画帧率，使动画更平滑"
+      },
+      {
+        "id": "com.alipay.mobile.client_72",
+        "User_Pain_Point": "深色模式不一致，只有首页是黑色",
+        "Actionable_Suggestion": "统一深色模式设计，覆盖所有页面"
+      },
+      {
+        "id": "com.alipay.mobile.client_89",
+        "User_Pain_Point": "游戏中心音量控制交互不便，需来回调节媒体音量",
+        "Actionable_Suggestion": "优化游戏中心音量控制交互，允许单独调节"
+      },
+      {
+        "id": "com.alipay.mobile.client_110",
+        "User_Pain_Point": "还完花呗弹出借款页面，点击✗没反应，关闭不了，但是滑动有反应。只能点击下方同意借款和开通额度。不知道是有bug，还是故意这样设计的",
+        "Actionable_Suggestion": "修复关闭按钮点击无响应问题，或调整交互设计避免强制引导"
+      },
+      {
+        "id": "com.alipay.mobile.client_128",
+        "User_Pain_Point": "没有的功能也显示按钮或入口，功能臃肿",
+        "Actionable_Suggestion": "精简界面，仅显示可用功能入口"
+      },
+      {
+        "id": "com.alipay.mobile.client_142",
+        "User_Pain_Point": "现在的支付宝“花里胡哨”的",
+        "Actionable_Suggestion": "简化界面设计"
+      },
+      {
+        "id": "com.alipay.mobile.client_174",
+        "User_Pain_Point": "收付款界面的皮肤不显示了",
+        "Actionable_Suggestion": "修复皮肤显示问题，确保皮肤正常加载"
+      },
+      {
+        "id": "com.alipay.mobile.client_178",
+        "User_Pain_Point": "宽屏体验有点差，还不给平行世界",
+        "Actionable_Suggestion": "优化宽屏显示适配，并增加平行世界功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_180",
+        "User_Pain_Point": "就算用你语音通话的人不多，但也要让我找得到哪里接听吧？别人打过来找半天不知道哪里接，服了",
+        "Actionable_Suggestion": "优化语音通话接听界面，增加明显接听按钮或提示"
+      },
+      {
+        "id": "com.alipay.mobile.client_205",
+        "User_Pain_Point": "股票交易按钮一度按不动",
+        "Actionable_Suggestion": "修复股票交易按钮响应问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_206",
+        "User_Pain_Point": "深色模式适配不行，很多二级页面是浅色",
+        "Actionable_Suggestion": "完善深色模式，使二级页面也适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_222",
+        "User_Pain_Point": "打开后自动定位到页面底部",
+        "Actionable_Suggestion": "修复自动滚动定位问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_248",
+        "User_Pain_Point": "付款码加密后没有指纹解锁，手势密码的蓝色大圆点过于显眼，暴露手势",
+        "Actionable_Suggestion": "增加付款码加密后的指纹解锁支持，并优化手势密码UI显示或提供隐藏选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_278",
+        "User_Pain_Point": "二级菜单底部导航条没有沉浸适配",
+        "Actionable_Suggestion": "实现底部导航条的沉浸式适配"
+      },
+      {
+        "id": "com.alipay.mobile.client_286",
+        "User_Pain_Point": "支付宝有取消不了的红点提醒 很烦人",
+        "Actionable_Suggestion": "提供关闭或一键清除红点提醒的功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_289",
+        "User_Pain_Point": "扫码支付或者进入基金赎回页面时，导航键会覆盖在赎回按钮上面。",
+        "Actionable_Suggestion": "调整页面布局，避免导航键遮挡关键按钮"
+      },
+      {
+        "id": "com.alipay.mobile.client_387",
+        "User_Pain_Point": "支付宝视频点赞图标不变色",
+        "Actionable_Suggestion": "修复点赞交互，确保点击后变色"
+      },
+      {
+        "id": "com.alipay.mobile.client_428",
+        "User_Pain_Point": "深色模式在二级菜单下失效",
+        "Actionable_Suggestion": "修复深色模式在二级菜单失效的问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_434",
+        "User_Pain_Point": "游戏小程序误触，容易跳转到小游戏",
+        "Actionable_Suggestion": "调整交互逻辑，减少误触，或增加防误触机制"
+      },
+      {
+        "id": "com.alipay.mobile.client_444",
+        "User_Pain_Point": "小程序插件等比放大，显示异常",
+        "Actionable_Suggestion": "优化小程序插件适配，确保正常显示"
+      },
+      {
+        "id": "com.alipay.mobile.client_444",
+        "User_Pain_Point": "麻将对对碰游戏缩小无法操作",
+        "Actionable_Suggestion": "修复游戏界面适配，确保可正常游玩"
+      },
+      {
+        "id": "com.alipay.mobile.client_456",
+        "User_Pain_Point": "新版界面丑，希望能回退旧版",
+        "Actionable_Suggestion": "提供版本回退选项或改进界面设计"
+      },
+      {
+        "id": "com.alipay.mobile.client_476",
+        "User_Pain_Point": "点击时动画效果不一致，使用体验不舒服",
+        "Actionable_Suggestion": "统一点击动画效果"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.alipay.mobile.client_13",
+        "User_Pain_Point": "外卖柜取外卖广告挡住取件码",
+        "Actionable_Suggestion": "优化广告展示位置，避免遮挡关键信息"
+      },
+      {
+        "id": "com.alipay.mobile.client_17",
+        "User_Pain_Point": "广告太多",
+        "Actionable_Suggestion": "减少广告数量或优化广告展示"
+      },
+      {
+        "id": "com.alipay.mobile.client_39",
+        "User_Pain_Point": "客服回答慢且不专业，服务体验差",
+        "Actionable_Suggestion": "提升客服响应速度和服务质量，加强培训"
+      },
+      {
+        "id": "com.alipay.mobile.client_108",
+        "User_Pain_Point": "无缘无故降额度，关闭借呗",
+        "Actionable_Suggestion": "优化额度管理规则，提供明确原因说明"
+      },
+      {
+        "id": "com.alipay.mobile.client_127",
+        "User_Pain_Point": "客服无人管理，反馈无回应",
+        "Actionable_Suggestion": "加强客服团队建设，及时响应用户反馈"
+      },
+      {
+        "id": "com.alipay.mobile.client_139",
+        "User_Pain_Point": "各种签到打卡积分需观看广告，用户反感。",
+        "Actionable_Suggestion": "减少广告强制观看，或提供免广告选项。"
+      },
+      {
+        "id": "com.alipay.mobile.client_142",
+        "User_Pain_Point": "净是宰熟，没半点优惠，全是一环接一环的套路",
+        "Actionable_Suggestion": "增加真实优惠，减少套路"
+      },
+      {
+        "id": "com.alipay.mobile.client_142",
+        "User_Pain_Point": "借呗基本上是高利贷，提前还款取消优惠还要收违约金",
+        "Actionable_Suggestion": "调整借款利率和提前还款规则"
+      },
+      {
+        "id": "com.alipay.mobile.client_150",
+        "User_Pain_Point": "支付宝积分太难，搞半年才一万分",
+        "Actionable_Suggestion": "增加积分获取途径"
+      },
+      {
+        "id": "com.alipay.mobile.client_159",
+        "User_Pain_Point": "不知道怎样回退上一个版本",
+        "Actionable_Suggestion": "提供版本回退渠道或说明"
+      },
+      {
+        "id": "com.alipay.mobile.client_171",
+        "User_Pain_Point": "之前的刷视频有红包，现在没有了\\n碰一碰也是这样",
+        "Actionable_Suggestion": "重新评估活动策略，恢复或增加红包激励"
+      },
+      {
+        "id": "com.alipay.mobile.client_184",
+        "User_Pain_Point": "不更新不给用，强制更新策略不合理",
+        "Actionable_Suggestion": "允许用户继续使用旧版本，或改善更新策略，提供更灵活的更新选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_189",
+        "User_Pain_Point": "一天收到14条消息，推送过多",
+        "Actionable_Suggestion": "减少推送频率或提供个性化推送设置"
+      },
+      {
+        "id": "com.alipay.mobile.client_196",
+        "User_Pain_Point": "支付宝社交属性过多",
+        "Actionable_Suggestion": "简化社交功能，让用户可选择关闭或减少社交元素"
+      },
+      {
+        "id": "com.alipay.mobile.client_200",
+        "User_Pain_Point": "福利少，芝麻信用使用体验不佳",
+        "Actionable_Suggestion": "增加福利活动，优化芝麻信用界面和逻辑"
+      },
+      {
+        "id": "com.alipay.mobile.client_206",
+        "User_Pain_Point": "很多优惠福利活动没上，全场满减券、无门槛代金券没有了",
+        "Actionable_Suggestion": "尽快上线优惠福利活动和相关券"
+      },
+      {
+        "id": "com.alipay.mobile.client_234",
+        "User_Pain_Point": "用户认为小鸡游戏是毒瘤，建议清除游戏板块",
+        "Actionable_Suggestion": "考虑优化游戏体验或提供关闭选项"
+      },
+      {
+        "id": "com.alipay.mobile.client_239",
+        "User_Pain_Point": "新用户不送货币",
+        "Actionable_Suggestion": "增加新用户货币奖励活动"
+      },
+      {
+        "id": "com.alipay.mobile.client_248",
+        "User_Pain_Point": "平台引入诱骗付费的联网游戏，不良信息处理不力，缺乏防沉迷限制，威胁用户资金安全",
+        "Actionable_Suggestion": "加强游戏监管，严惩诱骗付费行为，完善不良信息处理机制，增加游戏时间及年龄限制"
+      },
+      {
+        "id": "com.alipay.mobile.client_282",
+        "User_Pain_Point": "规规矩矩，老老实实的借钱还钱，从来没逾期过，芝麻分700多分，不给用就算了，还扣额度，搞不懂",
+        "Actionable_Suggestion": "优化额度评估机制，对信用良好的用户保持或提升额度"
+      },
+      {
+        "id": "com.alipay.mobile.client_312",
+        "User_Pain_Point": "错扣费后无法原路退回",
+        "Actionable_Suggestion": "优化退款机制，支持原路退回。"
+      },
+      {
+        "id": "com.alipay.mobile.client_312",
+        "User_Pain_Point": "不按用户要求的时间段联系",
+        "Actionable_Suggestion": "严格遵守用户设定的联系时间。"
+      },
+      {
+        "id": "com.alipay.mobile.client_312",
+        "User_Pain_Point": "人工客服无效沟通，无法解决实际问题",
+        "Actionable_Suggestion": "提升客服专业能力，提供有效解决方案。"
+      },
+      {
+        "id": "com.alipay.mobile.client_334",
+        "User_Pain_Point": "小程序用不能屏蔽的客服信息渠道发送骚扰营销信息，技术解决不了",
+        "Actionable_Suggestion": "允许用户屏蔽小程序的客服信息，加强营销信息管控"
+      },
+      {
+        "id": "com.alipay.mobile.client_356",
+        "User_Pain_Point": "人工客服排队异常，一直显示剩一位却排了很久",
+        "Actionable_Suggestion": "优化客服排队系统，解决显示与实际不符问题"
+      },
+      {
+        "id": "com.alipay.mobile.client_390",
+        "User_Pain_Point": "花呗关闭后无法再次开通，即使无逾期",
+        "Actionable_Suggestion": "优化花呗重开规则，允许符合条件用户重新开通"
+      },
+      {
+        "id": "com.alipay.mobile.client_396",
+        "User_Pain_Point": "未获得碰碰红包和视频红包活动资格",
+        "Actionable_Suggestion": "完善活动规则透明度，避免用户感知不公平"
+      },
+      {
+        "id": "com.alipay.mobile.client_409",
+        "User_Pain_Point": "限制支付状态，用不了还不能注销",
+        "Actionable_Suggestion": "优化账号管理，允许正常注销，避免无故限制支付"
+      },
+      {
+        "id": "com.alipay.mobile.client_415",
+        "User_Pain_Point": "胖乖生活小程序广告太多，影响正常使用",
+        "Actionable_Suggestion": "减少广告或提供无广告模式"
+      },
+      {
+        "id": "com.alipay.mobile.client_416",
+        "User_Pain_Point": "蚂蚁森林乐园小游戏看多个广告后仍不能继续游戏",
+        "Actionable_Suggestion": "确保观看广告后游戏能正常继续"
+      },
+      {
+        "id": "com.alipay.mobile.client_422",
+        "User_Pain_Point": "充值抖币也能被封",
+        "Actionable_Suggestion": "明确封禁规则或申诉渠道"
+      },
+      {
+        "id": "com.alipay.mobile.client_430",
+        "User_Pain_Point": "总是更新一些莫名其妙的东西",
+        "Actionable_Suggestion": "优化更新内容，增加说明"
+      },
+      {
+        "id": "com.alipay.mobile.client_489",
+        "User_Pain_Point": "支付软件上架外卖和淘宝接口，功能繁琐",
+        "Actionable_Suggestion": "简化功能，提供可定制化选择"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.alipay.mobile.client_16",
+        "User_Pain_Point": "校园课程表太好用了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_117",
+        "User_Pain_Point": "用户赞赏人脸识别登录解锁功能，认为比指纹好用，并希望尽快更新。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_160",
+        "User_Pain_Point": "没发现有啥不能用的！比微信强多了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_210",
+        "User_Pain_Point": "用户表示越来越棒，加油",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_213",
+        "User_Pain_Point": "给华为工程师和支付宝工程师点赞，之前经常漏取快递，现在快递不取出来，提醒界面不消失，并且提醒时间会安排在下班时间，非常给力",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_224",
+        "User_Pain_Point": "期待鸿蒙版完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_226",
+        "User_Pain_Point": "使用体验很棒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_228",
+        "User_Pain_Point": "感觉越来越好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_231",
+        "User_Pain_Point": "用户表示很好使用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_237",
+        "User_Pain_Point": "用户赞赏阿里支持力度大，更新快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_280",
+        "User_Pain_Point": "用户对整体体验表示赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_302",
+        "User_Pain_Point": "功能越来越全，使用体验不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_353",
+        "User_Pain_Point": "没感觉有啥差的功能，满分",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_361",
+        "User_Pain_Point": "用户赞赏阿里对鸿蒙系统的重视和投入",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_384",
+        "User_Pain_Point": "用户整体体验良好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_385",
+        "User_Pain_Point": "喜欢数字人民币网商银行钱包付款并赚福利金",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.alipay.mobile.client_413",
+        "User_Pain_Point": "更新系统光速操作，简单便捷惠民",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.alipay.mobile.client_32",
+        "User_Pain_Point": "鸿蒙6上无法访问惊喜市集，用户期待上线",
+        "Actionable_Suggestion": "尽快在鸿蒙6的支付宝中上线惊喜市集功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_107",
+        "User_Pain_Point": "没有澳门版。。。",
+        "Actionable_Suggestion": "考虑推出澳门版本"
+      },
+      {
+        "id": "com.alipay.mobile.client_288",
+        "User_Pain_Point": "请尽快开通理财中心创造中心",
+        "Actionable_Suggestion": "开放理财中心等更多内容生态功能"
+      },
+      {
+        "id": "com.alipay.mobile.client_317",
+        "User_Pain_Point": "鸿蒙版缺少蚂蚁财富功能",
+        "Actionable_Suggestion": "加快蚂蚁财富鸿蒙版的开发与上线。"
+      },
+      {
+        "id": "com.alipay.mobile.client_429",
+        "User_Pain_Point": "好多游戏都加载不了",
+        "Actionable_Suggestion": "修复游戏加载问题，更新内容"
+      },
+      {
+        "id": "com.alipay.mobile.client_453",
+        "User_Pain_Point": "智慧老兵小程序未及时上线",
+        "Actionable_Suggestion": "尽快上线该小程序"
+      },
+      {
+        "id": "com.alipay.mobile.client_469",
+        "User_Pain_Point": "淘宝板块还没开发，太不给力了",
+        "Actionable_Suggestion": "加快淘宝板块的开发进度，完善内容生态。"
+      },
+      {
+        "id": "com.alipay.mobile.client_487",
+        "User_Pain_Point": "豫事办小程序住房公积金一直维护无法使用",
+        "Actionable_Suggestion": "协调豫事办尽快完成维护或提供替代方案"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.alipay.mobile.client_339",
+        "User_Pain_Point": "希望支持澳门地区",
+        "Actionable_Suggestion": "增加澳门地区支持"
+      },
+      {
+        "id": "com.alipay.mobile.client_367",
+        "User_Pain_Point": "用户希望支付宝加入蚂蚁财富功能",
+        "Actionable_Suggestion": "考虑增加蚂蚁财富入口或功能"
+      }
+    ]
+  }
+}
