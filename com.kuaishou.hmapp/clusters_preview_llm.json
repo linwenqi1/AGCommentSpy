@@ -1,0 +1,5359 @@
+{
+  "n_items": 619,
+  "n_items_deduped": 608,
+  "功能体验": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "一键成片功能缺失",
+          "canonical_issue": "缺少一键成片功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_1",
+              "pain": "缺少一键成片功能",
+              "suggestion": "更新一键成片功能",
+              "source": "一键成片赶紧更新啊，还有听视频功能",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_1"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "听视频功能缺失",
+          "canonical_issue": "缺少听视频功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_1",
+              "pain": "缺少听视频功能",
+              "suggestion": "增加听视频功能",
+              "source": "一键成片赶紧更新啊，还有听视频功能",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_1"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "动图发布功能缺失",
+          "canonical_issue": "无法发动图",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_3",
+              "pain": "无法发动图",
+              "suggestion": "增加动图发布功能",
+              "source": "为啥不能发动图啊。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_3"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "直播功能不完善",
+          "canonical_issue": "无法看直播或分享直播间",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_4",
+              "pain": "无法看直播或分享直播间",
+              "suggestion": "完善直播观看和分享功能",
+              "source": "我为啥没有看直播分享直播间",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_4"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "浏览记录功能缺失",
+          "canonical_issue": "无法查看谁浏览了作品",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_6",
+              "pain": "无法查看谁浏览了作品",
+              "suggestion": "恢复浏览记录功能",
+              "source": "看不到浏览我作品的人了呢，之前还能看见",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_6"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "豆包视频通话功能缺失",
+          "canonical_issue": "缺少与豆包视频通话功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_7",
+              "pain": "缺少与豆包视频通话功能",
+              "suggestion": "尽快开通与豆包视频通话功能",
+              "source": "跟豆包视频通话功能快点开通一下",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_7"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "进群功能异常",
+          "canonical_issue": "无法进群",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_8",
+              "pain": "无法进群",
+              "suggestion": "修复进群功能",
+              "source": "能不能把进群的也改一下，现在根本就进不了，还有家人团队的亲密关系，好多都是暂不支持的信息，朋友邀请的时候，根本同意不了",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_8"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "家人团队亲密关系功能缺失",
+          "canonical_issue": "家人团队亲密关系暂不支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_8",
+              "pain": "家人团队亲密关系暂不支持",
+              "suggestion": "开发家人团队亲密关系功能",
+              "source": "能不能把进群的也改一下，现在根本就进不了，还有家人团队的亲密关系，好多都是暂不支持的信息，朋友邀请的时候，根本同意不了",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_8"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "邀请同意功能异常",
+          "canonical_issue": "无法同意朋友邀请",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_8",
+              "pain": "无法同意朋友邀请",
+              "suggestion": "修复邀请同意功能",
+              "source": "能不能把进群的也改一下，现在根本就进不了，还有家人团队的亲密关系，好多都是暂不支持的信息，朋友邀请的时候，根本同意不了",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_8"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "直播聊天室功能缺失",
+          "canonical_issue": "直播缺少聊天室功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_11",
+              "pain": "直播缺少聊天室功能",
+              "suggestion": "增加直播聊天室功能",
+              "source": "希望直播赶紧开通聊天室功能",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_11"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "聊天气泡和人物装扮需升级",
+          "canonical_issue": "聊天气泡和人物装扮需要升级",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_12",
+              "pain": "聊天气泡和人物装扮需要升级",
+              "suggestion": "升级聊天气泡和人物装扮",
+              "source": "希望升级一下聊天气泡和人物装扮，可以查看群聊人物，可以查看电量，升级一下新版本，谢谢啦",
+              "device": "华为畅享 90m Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_12"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "群聊人物查看功能缺失",
+          "canonical_issue": "无法查看群聊人物",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_12",
+              "pain": "无法查看群聊人物",
+              "suggestion": "增加群聊人物查看功能",
+              "source": "希望升级一下聊天气泡和人物装扮，可以查看群聊人物，可以查看电量，升级一下新版本，谢谢啦",
+              "device": "华为畅享 90m Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_12"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "电量显示功能缺失",
+          "canonical_issue": "无法查看电量",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_12",
+              "pain": "无法查看电量",
+              "suggestion": "增加电量显示功能",
+              "source": "希望升级一下聊天气泡和人物装扮，可以查看群聊人物，可以查看电量，升级一下新版本，谢谢啦",
+              "device": "华为畅享 90m Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_12"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "新版本升级需求",
+          "canonical_issue": "需要升级新版本",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_12",
+              "pain": "需要升级新版本",
+              "suggestion": "发布新版本更新",
+              "source": "希望升级一下聊天气泡和人物装扮，可以查看群聊人物，可以查看电量，升级一下新版本，谢谢啦",
+              "device": "华为畅享 90m Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_12"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "卖家版应用缺失",
+          "canonical_issue": "缺少卖家版应用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_13",
+              "pain": "缺少卖家版应用",
+              "suggestion": "推出卖家版应用",
+              "source": "什么鬼啊！卖家版都没有了吗",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_13"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "深色模式设置功能缺失",
+          "canonical_issue": "无法设置深色模式",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_14",
+              "pain": "无法设置深色模式",
+              "suggestion": "增加深色模式开关",
+              "source": "不是正版的里面不能调深色模式，不能养火崽崽",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_14"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "养火崽崽功能缺失",
+          "canonical_issue": "无法养火崽崽",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_14",
+              "pain": "无法养火崽崽",
+              "suggestion": "增加养火崽崽功能",
+              "source": "不是正版的里面不能调深色模式，不能养火崽崽",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_14"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "PK分数显示功能缺失",
+          "canonical_issue": "PK分数不可见",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_17",
+              "pain": "PK分数不可见",
+              "suggestion": "在PK界面显示分数",
+              "source": "Pk分数看不见\n希望能更新一下",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_17"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "实况照片功能缺失",
+          "canonical_issue": "无法转发照片、私信发送实况照片、实况保存后变静态、背景图视频不显示",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_18",
+              "pain": "无法转发照片",
+              "suggestion": "增加转发照片功能",
+              "source": "不能转发照片私信发不了实况对方发实况保存到相册是照片背景图是视频看不到",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_18",
+              "pain": "私信无法发送实况照片",
+              "suggestion": "支持私信发送实况照片",
+              "source": "不能转发照片私信发不了实况对方发实况保存到相册是照片背景图是视频看不到",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_18",
+              "pain": "对方发来的实况保存后变成静态照片",
+              "suggestion": "修复实况照片保存为动图或视频",
+              "source": "不能转发照片私信发不了实况对方发实况保存到相册是照片背景图是视频看不到",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_18",
+              "pain": "背景图设置为视频后不显示",
+              "suggestion": "修复背景图视频显示问题",
+              "source": "不能转发照片私信发不了实况对方发实况保存到相册是照片背景图是视频看不到",
+              "device": "nova 14 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_18",
+            "com.kuaishou.hmapp_18",
+            "com.kuaishou.hmapp_18",
+            "com.kuaishou.hmapp_18"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "应用版本更新缓慢",
+          "canonical_issue": "应用版本过旧，需要尽快更新",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_19",
+              "pain": "应用版本过旧，需要尽快更新",
+              "suggestion": "加速新版本发布",
+              "source": "快点更新新版",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_19"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "个人小店功能缺失",
+          "canonical_issue": "缺少个人小店功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_20",
+              "pain": "缺少个人小店功能",
+              "suggestion": "增加个人小店功能",
+              "source": "时不时蓝屏 没有个人小店",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_20"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "聊天界面视频滑动失效",
+          "canonical_issue": "聊天界面中滑动视频功能失效，无法上下滑动视频",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_21",
+              "pain": "聊天界面中滑动视频功能失效，无法上下滑动视频。",
+              "suggestion": "修复聊天界面视频滑动功能，确保用户能正常上下滑动视频。",
+              "source": "和朋友分享的视频，在聊天界面上下滑动视频就是滑不了？这功能难做是吧？？？？？？？？？？？？？？？",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_21"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "动图功能缺失",
+          "canonical_issue": "缺少动图功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_22",
+              "pain": "缺少动图功能。",
+              "suggestion": "尽快增加动图（GIF）支持。",
+              "source": "希望尽快更新动图",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_22"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "快手小店二维码扫描失效",
+          "canonical_issue": "快手小店商品二维码无法扫描，影响电商使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_23",
+              "pain": "快手小店商品二维码无法扫描，影响电商使用。",
+              "suggestion": "修复快手小店二维码扫描功能。",
+              "source": "快手小店商品二维码无法扫，很影响电商行业",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_23"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "语音上麦聊天功能缺失",
+          "canonical_issue": "缺少语音上麦聊天功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_25",
+              "pain": "缺少语音上麦聊天功能。",
+              "suggestion": "增加语音上麦聊天功能。",
+              "source": "快手什么时候语音能够上麦聊天？？",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_25"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "语音和视频连麦功能缺失",
+          "canonical_issue": "缺少语音和视频连麦功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_26",
+              "pain": "缺少语音和视频连麦功能。",
+              "suggestion": "尽快更新语音和视频连麦功能。",
+              "source": "希望快点更新语音和视频，没有连麦功能赶快更新，",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_26"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "直播连麦和PK功能缺失",
+          "canonical_issue": "直播缺少连麦和PK功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_27",
+              "pain": "直播缺少连麦和PK功能。",
+              "suggestion": "增加直播连麦和PK功能。",
+              "source": "直播的时候连麦都不可以。也不能Pk好多功能都没有。麻烦抓抓紧",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_27"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "评论区语音功能缺失",
+          "canonical_issue": "评论区缺少语音功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_28",
+              "pain": "评论区缺少语音功能。",
+              "suggestion": "在评论区增加语音留言功能。",
+              "source": "其实我感觉快手挺好的，其他功能我感觉都可以，但是快手那个评论区能不能出一个那个语音功能啊？求求了！",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_28"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "拍同款功能缺失",
+          "canonical_issue": "缺少“拍同款”功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_30",
+              "pain": "缺少“拍同款”功能。",
+              "suggestion": "增加“拍同款”功能。",
+              "source": "怎么没有拍同款？",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_30"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "主播连麦和语音功能缺失",
+          "canonical_issue": "不能和主播连麦和语音",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_31",
+              "pain": "不能和主播连麦和语音",
+              "suggestion": "增加连麦和语音功能",
+              "source": "畅享90promax不能和主播连麦和语音\n麻烦能更新一下快手嘛",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_31"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "创作者中心入口缺失",
+          "canonical_issue": "找不到创作者中心",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_32",
+              "pain": "找不到创作者中心",
+              "suggestion": "增加创作者中心入口",
+              "source": "怎么找不到没有创作者中心",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_32"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "赚金币功能不稳定",
+          "canonical_issue": "赚金币功能不稳定",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_34",
+              "pain": "赚金币功能不稳定",
+              "suggestion": "优化赚金币功能的稳定性",
+              "source": "嗯，希望这个赚金币的功能和聊天功能这些都改进一点，鸿蒙系统不太完善，而且那个赚金币的功能一点都不稳定。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_34"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "聊天功能需改进",
+          "canonical_issue": "聊天功能需改进",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_34",
+              "pain": "聊天功能需改进",
+              "suggestion": "改进聊天功能",
+              "source": "嗯，希望这个赚金币的功能和聊天功能这些都改进一点，鸿蒙系统不太完善，而且那个赚金币的功能一点都不稳定。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_34"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "商城订单页面打不开",
+          "canonical_issue": "商城订单页面无法打开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_36",
+              "pain": "商城打不开我的订单",
+              "suggestion": "修复商城订单页面无法打开的问题",
+              "source": "商城打不开我的订单",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_36"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "动图发布功能缺失",
+          "canonical_issue": "不支持发布动图",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_37",
+              "pain": "不能发动图",
+              "suggestion": "增加发动态图功能",
+              "source": "有很多东西还是不全 不能发动图 发作品的时候不能不让个别人看",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_49",
+              "pain": "不支持动图发作品",
+              "suggestion": "增加动图发作品功能",
+              "source": "希望快手支持动图发作品啊",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_37",
+            "com.kuaishou.hmapp_49"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "作品可见范围设置缺失",
+          "canonical_issue": "发作品时无法设置可见范围",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_37",
+              "pain": "发作品时不能不让个别人看",
+              "suggestion": "增加作品可见范围设置",
+              "source": "有很多东西还是不全 不能发动图 发作品的时候不能不让个别人看",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_37"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "缺少手动刷新开关",
+          "canonical_issue": "没有手动刷新开关，自动刷新导致视频列表变化",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_38",
+              "pain": "没有手动刷新开关，自动刷新导致视频列表变化",
+              "suggestion": "增加手动刷新开关并优化自动刷新逻辑",
+              "source": "他在更新那些啥呀？没刷的这个视频，因为我自己刷新了，你能不能有那个刷新开关我自己在自己手动更新呀，手动刷新呀，连数字你都找不到，连这个都做不到吗？好不容易找到一些好看的，说了三四个视频，马上就跳过来，就又刷新了返回那个开关设置有那么难做吗？",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_38"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "语音评论功能需优化",
+          "canonical_issue": "语音评论功能需要提升",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_40",
+              "pain": "语音评论功能需要提升",
+              "suggestion": "优化语音评论功能",
+              "source": "我希望可以提升一下那个语音评论谢谢老师",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_40"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "视频音乐残留问题",
+          "canonical_issue": "上一个视频的音乐会延续到下一个视频",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_41",
+              "pain": "视频音乐残留，上一个视频的音乐会延续到下一个视频",
+              "suggestion": "修复音频播放逻辑，确保切换视频时清除上一个视频的音乐",
+              "source": "杀后台太严重了，切换桌面几秒钟就没了，bug太多，上个视频的音乐到下个视频还有，这是更新了什么玩意？",
+              "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_41"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "火崽功能缺失",
+          "canonical_issue": "页面缺少火崽功能",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_42",
+              "pain": "页面缺少火崽功能",
+              "suggestion": "检查火崽功能是否对所有用户开放或修复显示问题",
+              "source": "为啥我的页面没有火崽？",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_43",
+              "pain": "火崽崽功能缺失，且缺少深色模式",
+              "suggestion": "尽快回归火崽功能并增加深色模式",
+              "source": "请赶紧回归火崽崽，这几天看不到孩子急死了，并且回归深色模式",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_42",
+            "com.kuaishou.hmapp_43"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "幸运星、好运来等功能未更新",
+          "canonical_issue": "缺少幸运星、好运来等更新",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_44",
+              "pain": "缺少幸运星、好运来等更新",
+              "suggestion": "规划并尽快推出幸运星、好运来等功能更新",
+              "source": "什么时候能更新幸运星啊好运来啊",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_44"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "视频分享时不能快捷搜索好友",
+          "canonical_issue": "视频分享时不能快捷搜索好友",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_45",
+              "pain": "视频分享时不能快捷搜索好友",
+              "suggestion": "在分享界面增加好友搜索功能",
+              "source": "视频分享不能快捷搜索好友分享，直播不能投屏，通知和私信没有提示显示",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_45"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "直播无法投屏",
+          "canonical_issue": "直播无法投屏",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_45",
+              "pain": "直播无法投屏",
+              "suggestion": "增加直播投屏功能",
+              "source": "视频分享不能快捷搜索好友分享，直播不能投屏，通知和私信没有提示显示",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_45"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "通知和私信没有提示显示",
+          "canonical_issue": "通知和私信没有提示显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_45",
+              "pain": "通知和私信没有提示显示",
+              "suggestion": "修复通知和私信的提示功能",
+              "source": "视频分享不能快捷搜索好友分享，直播不能投屏，通知和私信没有提示显示",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_45"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "创作中心无法进入",
+          "canonical_issue": "创作中心无法进入",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_46",
+              "pain": "创作中心无法进入",
+              "suggestion": "修复创作中心入口或后台问题",
+              "source": "快手里的创作中心进不去。加快功能上架。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_46"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "功能上架速度慢",
+          "canonical_issue": "功能上架速度慢",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_46",
+              "pain": "功能上架速度慢",
+              "suggestion": "加快功能迭代和上架速度",
+              "source": "快手里的创作中心进不去。加快功能上架。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_46"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "不支持QQ号登录",
+          "canonical_issue": "不支持QQ号登录",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_50",
+              "pain": "不支持QQ号登录",
+              "suggestion": "增加QQ号登录方式",
+              "source": "什么时候可以用QQ号登陆",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_50"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "直播间没有连麦功能",
+          "canonical_issue": "直播间没有连麦功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_51",
+              "pain": "直播间没有连麦功能",
+              "suggestion": "增加直播间连麦功能",
+              "source": "都26年了直播间没有连麦功能",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_51"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "语音厅玩法缺失",
+          "canonical_issue": "语音厅玩法缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_52",
+              "pain": "语音厅玩法缺失",
+              "suggestion": "恢复语音厅玩法",
+              "source": "语音厅那些玩法都没有了，能不能恢复呀",
+              "device": "nova 12 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_52"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "打赏礼物页面缺失",
+          "canonical_issue": "打赏礼物页面缺少许多礼物",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_53",
+              "pain": "打赏礼物页面缺少许多礼物",
+              "suggestion": "补全打赏礼物页面",
+              "source": "那么多功能都没有，视频下面那条大黑边什么时候可以缩小，打赏礼物里面很多礼物页面都没有，创作者中心也没有，这些问题可以快点解决吗",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_53"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "创作者中心缺失",
+          "canonical_issue": "缺少创作者中心功能",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_53",
+              "pain": "缺少创作者中心",
+              "suggestion": "添加创作者中心",
+              "source": "那么多功能都没有，视频下面那条大黑边什么时候可以缩小，打赏礼物里面很多礼物页面都没有，创作者中心也没有，这些问题可以快点解决吗",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.kuaishou.hmapp_61",
+              "pain": "缺少创作者中心功能",
+              "suggestion": "添加创作者中心功能",
+              "source": "啥时候能有创作者中心",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_73",
+              "pain": "缺少创作中心入口",
+              "suggestion": "增加创作中心功能入口",
+              "source": "没有创作的中心？",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_53",
+            "com.kuaishou.hmapp_61",
+            "com.kuaishou.hmapp_73"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "发长图和头像圈功能缺失",
+          "canonical_issue": "不能发长图，没有头像圈功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_55",
+              "pain": "不能发长图，没有头像圈功能",
+              "suggestion": "增加发长图和头像圈功能",
+              "source": "希望能快点更新，快手发作品可以发长图，想加入头像圈",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_55"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "语音转文字功能缺失",
+          "canonical_issue": "发视频时语音转文字功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_56",
+              "pain": "发视频时语音转文字功能缺失",
+              "suggestion": "恢复语音转文字功能",
+              "source": "为什么发视频不能语音转换文字了。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_56"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "拍摄保存功能限制",
+          "canonical_issue": "拍的照片必须发布才能保存",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_58",
+              "pain": "拍的照片必须发布才能保存",
+              "suggestion": "允许拍摄后直接保存照片",
+              "source": "拍的照片只有发布才能保存，呵呵",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_58"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "聊天频道显示问题",
+          "canonical_issue": "聊天频道未显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_60",
+              "pain": "聊天频道未显示",
+              "suggestion": "修复聊天频道显示问题",
+              "source": "聊天频道没显示",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_60"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "短视频页面细节待完善",
+          "canonical_issue": "短视频页面很多细节待完善",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_62",
+              "pain": "短视频页面很多细节待完善",
+              "suggestion": "完善短视频页面细节",
+              "source": "快手小店商家版功能及时更新完善，快手短视频页面很多细节待完善中，加油吧！",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_62"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "配音功能体验差",
+          "canonical_issue": "配音功能体验差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_63",
+              "pain": "配音功能体验差",
+              "suggestion": "优化配音功能",
+              "source": "配音真无语了",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_63"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "实况照片发布限制",
+          "canonical_issue": "无法发布实况照片",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_64",
+              "pain": "无法发布实况照片",
+              "suggestion": "支持发布实况照片",
+              "source": "发不了实况",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_69",
+              "pain": "不能发实况动图作品",
+              "suggestion": "支持发布实况动图作品",
+              "source": "不能发实况动图作品，希望改进",
+              "device": "HUAWEI MatePad Mini"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_64",
+            "com.kuaishou.hmapp_69"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "版本更新慢功能不支持",
+          "canonical_issue": "版本更新慢，很多功能暂不支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_65",
+              "pain": "版本更新慢，很多功能暂不支持",
+              "suggestion": "加快更新频率，支持更多功能",
+              "source": "更新的快一点行不行啊，有些消息都是该版本暂不支持，你啥时候更新的快一点",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_65"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "作品浏览记录查看缺失",
+          "canonical_issue": "无法查看作品浏览记录",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_68",
+              "pain": "无法查看作品浏览记录",
+              "suggestion": "增加作品浏览记录查看功能",
+              "source": "展示作品浏览记录看不了，麻烦更新一下",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_68"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "作品排序功能缺失",
+          "canonical_issue": "作品查看不支持按时间或热度排序",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_70",
+              "pain": "作品查看不支持按时间或热度排序",
+              "suggestion": "增加作品排序功能",
+              "source": "作品查看不支持按时间先后或热度排序。收藏作品失效清理需要手动翻到收藏作品最后一个才能操作，完全可以增加清理选项完成。",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_70"
+          ]
+        },
+        {
+          "cluster_id": "61",
+          "cluster_name": "收藏失效清理不便",
+          "canonical_issue": "收藏失效作品清理不便",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_70",
+              "pain": "收藏失效作品清理不便",
+              "suggestion": "增加收藏失效清理选项",
+              "source": "作品查看不支持按时间先后或热度排序。收藏作品失效清理需要手动翻到收藏作品最后一个才能操作，完全可以增加清理选项完成。",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_70"
+          ]
+        },
+        {
+          "cluster_id": "62",
+          "cluster_name": "语音厅功能不完善",
+          "canonical_issue": "语音厅功能不完善，只能进去但无法操作，无法查看几号麦",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_72",
+              "pain": "语音厅功能不完善，只能进去但无法操作，无法查看几号麦",
+              "suggestion": "完善语音厅功能，支持查看麦位和互动操作",
+              "source": "你什么时候把语音厅的功能完善啊 只能进去啥都做不了，连几号麦都看不了。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_72"
+          ]
+        },
+        {
+          "cluster_id": "63",
+          "cluster_name": "音量调节功能缺失",
+          "canonical_issue": "调声音大小的功能不可见或缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_74",
+              "pain": "调声音大小的功能不可见或缺失",
+              "suggestion": "恢复音量调节功能并正常显示",
+              "source": "好多功能不能用了，调声音大小看不到了，礼物也没有分类，快手活动也没有显示了，礼物效果也没有展示",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_74"
+          ]
+        },
+        {
+          "cluster_id": "64",
+          "cluster_name": "礼物功能缺失",
+          "canonical_issue": "礼物相关功能缺失或展示不全",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_74",
+              "pain": "礼物没有分类展示",
+              "suggestion": "增加礼物分类功能",
+              "source": "好多功能不能用了，调声音大小看不到了，礼物也没有分类，快手活动也没有显示了，礼物效果也没有展示",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_74",
+              "pain": "礼物效果没有展示",
+              "suggestion": "恢复礼物效果展示",
+              "source": "好多功能不能用了，调声音大小看不到了，礼物也没有分类，快手活动也没有显示了，礼物效果也没有展示",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_74",
+            "com.kuaishou.hmapp_74"
+          ]
+        },
+        {
+          "cluster_id": "65",
+          "cluster_name": "活动显示异常",
+          "canonical_issue": "快手活动无法正常显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_74",
+              "pain": "快手活动没有显示出来",
+              "suggestion": "修复活动显示功能",
+              "source": "好多功能不能用了，调声音大小看不到了，礼物也没有分类，快手活动也没有显示了，礼物效果也没有展示",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_74"
+          ]
+        },
+        {
+          "cluster_id": "66",
+          "cluster_name": "语音功能不完善",
+          "canonical_issue": "语音功能需要完善或优化",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_75",
+              "pain": "语音功能需要完善",
+              "suggestion": "完善语音功能，至少提供基础操作",
+              "source": "那个语音那个，你好歹搞一下吧",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_75"
+          ]
+        },
+        {
+          "cluster_id": "67",
+          "cluster_name": "群聊功能缺失",
+          "canonical_issue": "群聊页面缺少聊天记录搜索和媒体查看功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_76",
+              "pain": "群聊页面无法查找之前的聊天照片和视频",
+              "suggestion": "增加群聊聊天记录搜索和查看照片视频的功能",
+              "source": "群聊页面太简洁无法查找之前的聊天照片和视频，私信页面干净的比兜还干净，请尽快完善吧",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_76"
+          ]
+        },
+        {
+          "cluster_id": "68",
+          "cluster_name": "游览功能缺失",
+          "canonical_issue": "游览功能未上线或不可见",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_77",
+              "pain": "游览功能缺失",
+              "suggestion": "上线游览功能",
+              "source": "抓紧上线游览功能！！还有推荐作品，发视频配音乐功能，还有多段动图功能等\n不是说新增了备注显示吗？为什么没有了？还有游览功能也看不到‪...",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_77"
+          ]
+        },
+        {
+          "cluster_id": "69",
+          "cluster_name": "推荐作品功能缺失",
+          "canonical_issue": "推荐作品功能未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_77",
+              "pain": "推荐作品功能缺失",
+              "suggestion": "增加推荐作品功能",
+              "source": "抓紧上线游览功能！！还有推荐作品，发视频配音乐功能，还有多段动图功能等\n不是说新增了备注显示吗？为什么没有了？还有游览功能也看不到‪...",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_77"
+          ]
+        },
+        {
+          "cluster_id": "70",
+          "cluster_name": "发视频配音乐功能缺失",
+          "canonical_issue": "发视频配音乐功能未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_77",
+              "pain": "发视频配音乐功能缺失",
+              "suggestion": "增加发视频配音乐功能",
+              "source": "抓紧上线游览功能！！还有推荐作品，发视频配音乐功能，还有多段动图功能等\n不是说新增了备注显示吗？为什么没有了？还有游览功能也看不到‪...",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_77"
+          ]
+        },
+        {
+          "cluster_id": "71",
+          "cluster_name": "多段动图功能缺失",
+          "canonical_issue": "多段动图功能未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_77",
+              "pain": "多段动图功能缺失",
+              "suggestion": "增加多段动图功能",
+              "source": "抓紧上线游览功能！！还有推荐作品，发视频配音乐功能，还有多段动图功能等\n不是说新增了备注显示吗？为什么没有了？还有游览功能也看不到‪...",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_77"
+          ]
+        },
+        {
+          "cluster_id": "72",
+          "cluster_name": "备注显示功能异常",
+          "canonical_issue": "新增的备注显示功能消失或不可用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_77",
+              "pain": "新增的备注显示功能没有了",
+              "suggestion": "恢复备注显示功能",
+              "source": "抓紧上线游览功能！！还有推荐作品，发视频配音乐功能，还有多段动图功能等\n不是说新增了备注显示吗？为什么没有了？还有游览功能也看不到‪...",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_77"
+          ]
+        },
+        {
+          "cluster_id": "73",
+          "cluster_name": "九宫格打PK功能缺失",
+          "canonical_issue": "九宫格打PK功能未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_78",
+              "pain": "无法观看九宫格打PK",
+              "suggestion": "增加九宫格打PK功能",
+              "source": "什么时候能看九宫格打PK啊",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_78"
+          ]
+        },
+        {
+          "cluster_id": "74",
+          "cluster_name": "幸运星功能异常",
+          "canonical_issue": "幸运星功能无法正常显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_80",
+              "pain": "幸运星功能不显示",
+              "suggestion": "修复幸运星显示问题",
+              "source": "最基本的幸运星都不显示，唉！无语了",
+              "device": "华为畅享 70X"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_80"
+          ]
+        },
+        {
+          "cluster_id": "75",
+          "cluster_name": "直播评论功能缺失",
+          "canonical_issue": "直播评论无法复制粘贴",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_81",
+              "pain": "直播评论无法复制粘贴",
+              "suggestion": "增加直播评论复制粘贴功能",
+              "source": "希望进快更新直播评论复制粘贴攻能希望进快更新直播评论复制粘贴攻能",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_81"
+          ]
+        },
+        {
+          "cluster_id": "76",
+          "cluster_name": "视频美颜功能缺失",
+          "canonical_issue": "视频时缺少美颜功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_82",
+              "pain": "视频时没有美颜功能",
+              "suggestion": "增加视频美颜功能",
+              "source": "视频的时候啥时候有美颜功能",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_82"
+          ]
+        },
+        {
+          "cluster_id": "77",
+          "cluster_name": "直播连麦功能缺失",
+          "canonical_issue": "直播连麦和语音功能未上线",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_83",
+              "pain": "缺少直播连麦和语音功能",
+              "suggestion": "增加直播连麦和语音功能",
+              "source": "希望尽快更新那个直播连麦和语音，还有保稿箱里的那个相片编辑。",
+              "device": "nova 13 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_84",
+              "pain": "不能连麦",
+              "suggestion": "增加连麦功能",
+              "source": "不能连麦",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_83",
+            "com.kuaishou.hmapp_84"
+          ]
+        },
+        {
+          "cluster_id": "78",
+          "cluster_name": "草稿箱相片编辑功能缺失",
+          "canonical_issue": "草稿箱中缺少相片编辑功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_83",
+              "pain": "缺少草稿箱中的相片编辑功能",
+              "suggestion": "增加相片编辑功能",
+              "source": "希望尽快更新那个直播连麦和语音，还有保稿箱里的那个相片编辑。",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_83"
+          ]
+        },
+        {
+          "cluster_id": "79",
+          "cluster_name": "歌词选择功能缺失",
+          "canonical_issue": "无法选择歌词",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_85",
+              "pain": "无法选择歌词",
+              "suggestion": "增加歌词选择功能",
+              "source": "快手怎么选不了歌词呢",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_85"
+          ]
+        },
+        {
+          "cluster_id": "80",
+          "cluster_name": "直播互动功能缺失",
+          "canonical_issue": "直播相关互动功能缺失，包括连麦、直播、关系确认、粉丝团、等级体系等",
+          "size": 6,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_86",
+              "pain": "缺少连麦互动功能",
+              "suggestion": "增加连麦互动功能",
+              "source": "没有连麦互动，不能直播，不能确定关系，没有粉丝团，没有星耀等级，守护等级。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_86",
+              "pain": "不能直播",
+              "suggestion": "增加直播功能",
+              "source": "没有连麦互动，不能直播，不能确定关系，没有粉丝团，没有星耀等级，守护等级。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_86",
+              "pain": "不能确定关系",
+              "suggestion": "增加确定关系功能",
+              "source": "没有连麦互动，不能直播，不能确定关系，没有粉丝团，没有星耀等级，守护等级。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_86",
+              "pain": "缺少粉丝团功能",
+              "suggestion": "增加粉丝团功能",
+              "source": "没有连麦互动，不能直播，不能确定关系，没有粉丝团，没有星耀等级，守护等级。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_86",
+              "pain": "缺少星耀等级功能",
+              "suggestion": "增加星耀等级功能",
+              "source": "没有连麦互动，不能直播，不能确定关系，没有粉丝团，没有星耀等级，守护等级。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_86",
+              "pain": "缺少守护等级功能",
+              "suggestion": "增加守护等级功能",
+              "source": "没有连麦互动，不能直播，不能确定关系，没有粉丝团，没有星耀等级，守护等级。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_86",
+            "com.kuaishou.hmapp_86",
+            "com.kuaishou.hmapp_86",
+            "com.kuaishou.hmapp_86",
+            "com.kuaishou.hmapp_86",
+            "com.kuaishou.hmapp_86"
+          ]
+        },
+        {
+          "cluster_id": "81",
+          "cluster_name": "视频特效功能缺失",
+          "canonical_issue": "视频通话或拍摄时缺少特效功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_87",
+              "pain": "视频时没有特效",
+              "suggestion": "增加视频特效功能",
+              "source": "什么时候快手打视频可以有特效",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_87"
+          ]
+        },
+        {
+          "cluster_id": "82",
+          "cluster_name": "语音厅聊天室功能不完善",
+          "canonical_issue": "语音厅聊天室功能未完善或存在缺陷",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_88",
+              "pain": "语音厅聊天室功能未完善",
+              "suggestion": "完善语音厅聊天室功能",
+              "source": "语音厅聊天室什么时候能弄好",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_88"
+          ]
+        },
+        {
+          "cluster_id": "83",
+          "cluster_name": "直播显示功能缺失",
+          "canonical_issue": "直播时缺少灯牌显示和礼物个数显示功能",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_89",
+              "pain": "直播不显示灯牌",
+              "suggestion": "增加直播灯牌显示功能",
+              "source": "快点更新吧有些功能没有为什么看直播不显示灯牌还有批开的时候不显示礼物个数",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.kuaishou.hmapp_89",
+              "pain": "开播时不显示礼物个数",
+              "suggestion": "增加礼物个数显示功能",
+              "source": "快点更新吧有些功能没有为什么看直播不显示灯牌还有批开的时候不显示礼物个数",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_89",
+            "com.kuaishou.hmapp_89"
+          ]
+        },
+        {
+          "cluster_id": "84",
+          "cluster_name": "基础语音功能缺失",
+          "canonical_issue": "应用缺少基础语音功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_91",
+              "pain": "没有语音功能，太不好用",
+              "suggestion": "增加语音功能",
+              "source": "没有语音功能，太不好用，",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_91"
+          ]
+        },
+        {
+          "cluster_id": "85",
+          "cluster_name": "表情发送功能缺失",
+          "canonical_issue": "无法发送表情",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_92",
+              "pain": "连个表情都发不了",
+              "suggestion": "增加表情发送功能",
+              "source": "连个表情都发不了",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_92"
+          ]
+        },
+        {
+          "cluster_id": "86",
+          "cluster_name": "作品编辑功能缺失",
+          "canonical_issue": "作品发布时缺少文字添加和封面设置功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_94",
+              "pain": "作品还不能添加文字，不能设置封面",
+              "suggestion": "添加文字和封面设置功能",
+              "source": "更新了这么多版，作品还不能添加文字，不能设置封面！",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_94"
+          ]
+        },
+        {
+          "cluster_id": "87",
+          "cluster_name": "链接商品功能异常",
+          "canonical_issue": "发布的链接商品无法正常打开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_95",
+              "pain": "发链接商品打开不了",
+              "suggestion": "修复链接商品打开问题",
+              "source": "缺点是发链接商品打开不了。我多次反馈，和客服多次。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_95"
+          ]
+        },
+        {
+          "cluster_id": "88",
+          "cluster_name": "礼物减分功能未开发",
+          "canonical_issue": "礼物减分功能尚未开发完成",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_96",
+              "pain": "礼物减分的功能还没有开发好",
+              "suggestion": "尽快开发礼物减分功能",
+              "source": "礼物减分的还没有，多长时间呀还没有开发好",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_96"
+          ]
+        },
+        {
+          "cluster_id": "89",
+          "cluster_name": "幸运星和抢红包功能缺失",
+          "canonical_issue": "缺少幸运星和抢红包功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_98",
+              "pain": "没有幸运星和抢红包功能",
+              "suggestion": "增加幸运星和抢红包功能",
+              "source": "能不能把鸿蒙6更新一下啊，没有幸运星和抢红包功能！！！",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_98"
+          ]
+        },
+        {
+          "cluster_id": "90",
+          "cluster_name": "直播间@功能异常",
+          "canonical_issue": "直播间无法@其他用户",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_99",
+              "pain": "直播间@不了其他人",
+              "suggestion": "修复直播间@功能",
+              "source": "直播间@不了其他人",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_99"
+          ]
+        },
+        {
+          "cluster_id": "91",
+          "cluster_name": "长图发布功能缺失",
+          "canonical_issue": "无法发布长图作品",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_101",
+              "pain": "无法发布长图作品，影响分享",
+              "suggestion": "增加长图发布功能",
+              "source": "想发长图作品，但是不能发呀，快点更新吧，好看照片都不能及时分享，赶快赶快赶快",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_101"
+          ]
+        },
+        {
+          "cluster_id": "92",
+          "cluster_name": "直播功能缺失",
+          "canonical_issue": "直播功能缺失或不完善，包括画面、表情包、连麦等核心功能",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_102",
+              "pain": "直播功能缺失：无法看到直播画面、没有表情包、不能连麦",
+              "suggestion": "完善直播功能，支持画面显示、表情包和连麦",
+              "source": "我希望能看见直播画面还有表情包还有可以连麦观众连麦",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.kuaishou.hmapp_110",
+              "pain": "鸿蒙版直播功能不完善，游戏直播特有功能无法使用",
+              "suggestion": "尽快更新直播功能，支持游戏直播特有功能",
+              "source": "希望官方抓紧更新一下鸿蒙的直播中的功能，特别是游戏官方的直播，太多功能用不上了，本来这些功能就只有快手直播特有的，结果也用不上，例如cfm赛事",
+              "device": "nova 13 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_118",
+              "pain": "直播间无法上麦聊天",
+              "suggestion": "开发直播间上麦聊天功能",
+              "source": "直播间无法上麦聊天",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_132",
+              "pain": "连麦功能长期无法使用",
+              "suggestion": "尽快修复连麦功能恢复正常使用",
+              "source": "啥时候可以恢复正常，快手连麦都不可以，真心太难了，都快一年了",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_102",
+            "com.kuaishou.hmapp_110",
+            "com.kuaishou.hmapp_118",
+            "com.kuaishou.hmapp_132"
+          ]
+        },
+        {
+          "cluster_id": "93",
+          "cluster_name": "访客记录无法关闭",
+          "canonical_issue": "访客记录无法关闭，导致无法匿名浏览",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_104",
+              "pain": "访客记录无法关闭，导致无法匿名浏览",
+              "suggestion": "增加关闭访客记录的选项",
+              "source": "可不可以把访客记录关了，想偷窥别人都不行",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_104"
+          ]
+        },
+        {
+          "cluster_id": "94",
+          "cluster_name": "创作者中心缺失",
+          "canonical_issue": "创作者中心功能未接入或缺失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_106",
+              "pain": "创作者中心功能未接入或缺失",
+              "suggestion": "尽快接入创作者中心",
+              "source": "希望快点融入创作者中心",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.kuaishou.hmapp_117",
+              "pain": "缺少创作者中心和快手小店切换买家选项",
+              "suggestion": "增加创作者中心，添加快手小店切换买家选项",
+              "source": "鸿蒙快手怎么没有创作者中心？快手小店没有切换买家选项啊？希望加快更新！辛苦了！",
+              "device": "HUAWEI Mate X6 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_106",
+            "com.kuaishou.hmapp_117"
+          ]
+        },
+        {
+          "cluster_id": "95",
+          "cluster_name": "动图功能缺失",
+          "canonical_issue": "不支持动图功能",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_107",
+              "pain": "不支持动图",
+              "suggestion": "增加动图功能",
+              "source": "能不能有动图啊",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_115",
+              "pain": "无法更新动图",
+              "suggestion": "尽快支持动图功能",
+              "source": "能更新动图吗？",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_107",
+            "com.kuaishou.hmapp_115"
+          ]
+        },
+        {
+          "cluster_id": "96",
+          "cluster_name": "直播间聊天室异常",
+          "canonical_issue": "直播间聊天室功能异常，无法正常聊天",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_108",
+              "pain": "直播间聊天室功能异常，无法正常聊天",
+              "suggestion": "修复聊天室功能，恢复正常聊天",
+              "source": "直播间聊天室，希望赶快恢复正常聊天",
+              "device": "HUAWEI Pura 80 Ultra"
+            },
+            {
+              "id": "com.kuaishou.hmapp_121",
+              "pain": "直播聊天室提示版本低且无法看到人，功能不可用。",
+              "suggestion": "修复聊天室版本兼容问题，确保用户可正常进入并使用聊天功能。",
+              "source": "直播聊天室，聊天室频道，聊天室，老是提示当前版本低，开发中，人都看不到！",
+              "device": "nova 12"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_108",
+            "com.kuaishou.hmapp_121"
+          ]
+        },
+        {
+          "cluster_id": "97",
+          "cluster_name": "关系等级要求过高",
+          "canonical_issue": "关系等级达到100级才能养猫咪，等级要求太高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_111",
+              "pain": "关系等级达到100级才能养猫咪，等级要求太高",
+              "suggestion": "将等级要求降低到50级",
+              "source": "基本上是非常好的，观看体验也不错，我听说那个打到关系到达100级，可以和养小猫咪。感觉可以降一点，因为我们才十几级。降到50级。建议听一下。谢谢，",
+              "device": "HUAWEI Pura 90"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_111"
+          ]
+        },
+        {
+          "cluster_id": "98",
+          "cluster_name": "无法发送长图",
+          "canonical_issue": "无法发送长图",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_112",
+              "pain": "无法发送长图",
+              "suggestion": "增加发长图功能",
+              "source": "发长图可以更上吗",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_112"
+          ]
+        },
+        {
+          "cluster_id": "99",
+          "cluster_name": "快聘管家功能缺失",
+          "canonical_issue": "缺少快聘管家功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_120",
+              "pain": "缺少快聘管家功能",
+              "suggestion": "增加快聘管家功能",
+              "source": "啥时候能增加快聘管家功能啊",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_120"
+          ]
+        },
+        {
+          "cluster_id": "100",
+          "cluster_name": "课程无法打开",
+          "canonical_issue": "在快手购买的课程‘易只课堂’打不开看不了",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_122",
+              "pain": "在快手购买的课程‘易只课堂’打不开看不了。",
+              "suggestion": "检查课程购买与播放逻辑，确保用户可正常访问已购买内容。",
+              "source": "为什么在快手里买的软件易只课堂在快手里打不开看不了。",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_122"
+          ]
+        },
+        {
+          "cluster_id": "101",
+          "cluster_name": "实况功能缺失",
+          "canonical_issue": "缺少实况功能（Live Photo）",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_127",
+              "pain": "缺少实况功能（Live Photo）。",
+              "suggestion": "增加实况照片功能，满足用户需求。",
+              "source": "没有实况",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_127"
+          ]
+        },
+        {
+          "cluster_id": "102",
+          "cluster_name": "语音功能无法收听",
+          "canonical_issue": "语音功能无法收听",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_134",
+              "pain": "语音功能无法收听",
+              "suggestion": "修复语音播放功能异常",
+              "source": "为啥我听不了语音了？",
+              "device": "华为畅享 70X 尊享版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_134"
+          ]
+        },
+        {
+          "cluster_id": "103",
+          "cluster_name": "直播间不显示粉丝团等级",
+          "canonical_issue": "直播间不显示粉丝团等级",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_135",
+              "pain": "直播间不显示粉丝团等级",
+              "suggestion": "在直播间添加粉丝团等级显示",
+              "source": "直播间不显示粉丝团等级，超级差评",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_135"
+          ]
+        },
+        {
+          "cluster_id": "104",
+          "cluster_name": "PK功能异常",
+          "canonical_issue": "PK功能无法观看或显示信息不全",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_136",
+              "pain": "无法观看PK功能",
+              "suggestion": "修复PK功能无法观看的问题",
+              "source": "看不了pk",
+              "device": "HUAWEI Mate X5"
+            },
+            {
+              "id": "com.kuaishou.hmapp_149",
+              "pain": "打PK看不到分数和PK时间",
+              "suggestion": "显示PK分数和时间",
+              "source": "打PK这个看不着分数和PK时间。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_136",
+            "com.kuaishou.hmapp_149"
+          ]
+        },
+        {
+          "cluster_id": "105",
+          "cluster_name": "深色模式缺失",
+          "canonical_issue": "应用缺少深色模式功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_138",
+              "pain": "缺少深色模式",
+              "suggestion": "尽快开发并上线深色模式",
+              "source": "深色模式什么时候安排一下，上线这么久了都",
+              "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_138"
+          ]
+        },
+        {
+          "cluster_id": "106",
+          "cluster_name": "博主主页功能缺失",
+          "canonical_issue": "博主视频主页缺少点亮爱心功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_140",
+              "pain": "博主视频主页缺少点亮爱心功能",
+              "suggestion": "完善博主视频主页点亮爱心功能",
+              "source": "1.博主视频的主页点亮爱心，请尽快完善。\n2.没有天天预约领金币，请尽快开发这个功能。\n3.现在没有封面编辑，请尽快添加功能。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_140"
+          ]
+        },
+        {
+          "cluster_id": "107",
+          "cluster_name": "封面编辑功能缺失",
+          "canonical_issue": "缺少封面编辑功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_140",
+              "pain": "缺少封面编辑功能",
+              "suggestion": "添加封面编辑功能",
+              "source": "1.博主视频的主页点亮爱心，请尽快完善。\n2.没有天天预约领金币，请尽快开发这个功能。\n3.现在没有封面编辑，请尽快添加功能。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_140"
+          ]
+        },
+        {
+          "cluster_id": "108",
+          "cluster_name": "直播回放功能缺失",
+          "canonical_issue": "店铺内无法观看直播回放",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_142",
+              "pain": "店铺里不能看直播回放",
+              "suggestion": "增加直播回放功能",
+              "source": "店铺里不能看直播回放",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_157",
+              "pain": "闪电购小黄车不弹出和商品讲解回放不可见",
+              "suggestion": "修复闪电购小黄车弹出和商品讲解回放功能",
+              "source": "我是一个快手购物爱好者，换了这个系统以后商家闪电购小黄车也不弹出来了，商品的讲解回放也看不到了，麻烦你们快更新吧。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_142",
+            "com.kuaishou.hmapp_157"
+          ]
+        },
+        {
+          "cluster_id": "109",
+          "cluster_name": "语音功能异常",
+          "canonical_issue": "语音功能无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_143",
+              "pain": "语音不能用",
+              "suggestion": "修复语音功能",
+              "source": "非常非常的差，语音不能用，太烦了，难用",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_143"
+          ]
+        },
+        {
+          "cluster_id": "110",
+          "cluster_name": "拍照保存功能异常",
+          "canonical_issue": "拍照后无法保存到相册",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_144",
+              "pain": "拍照保存不了相册",
+              "suggestion": "修复拍照保存功能",
+              "source": "更新的太慢，拍照保存不了相册",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_144"
+          ]
+        },
+        {
+          "cluster_id": "111",
+          "cluster_name": "直播清屏功能缺失",
+          "canonical_issue": "观看直播时无法清屏",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_146",
+              "pain": "看直播不能清屏",
+              "suggestion": "增加清屏功能",
+              "source": "看直播不能清屏希望快点功能全一些",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_146"
+          ]
+        },
+        {
+          "cluster_id": "112",
+          "cluster_name": "评论区功能缺失",
+          "canonical_issue": "评论区不支持查看动图和发送多图",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_150",
+              "pain": "评论区不能看动图和发多图",
+              "suggestion": "支持评论区动图和多图",
+              "source": "评论区什么时候能看动图和发多图啊",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_150"
+          ]
+        },
+        {
+          "cluster_id": "113",
+          "cluster_name": "手游直播功能缺失",
+          "canonical_issue": "缺少手游直播功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_151",
+              "pain": "缺少手游直播功能",
+              "suggestion": "添加手游直播功能",
+              "source": "什么时候能手游直播",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_151"
+          ]
+        },
+        {
+          "cluster_id": "114",
+          "cluster_name": "直播灯牌显示异常",
+          "canonical_issue": "直播中无法看到其他用户的灯牌",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_153",
+              "pain": "直播中看不见灯牌",
+              "suggestion": "修复直播中灯牌显示问题",
+              "source": "我看直播，为什么看不见别人的灯牌呢？",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_153"
+          ]
+        },
+        {
+          "cluster_id": "115",
+          "cluster_name": "版本更新功能异常",
+          "canonical_issue": "无法更新应用版本",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_154",
+              "pain": "无法更新版本",
+              "suggestion": "提供版本更新渠道或修复更新功能",
+              "source": "什么都没有，版本怎么更新啊？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_154"
+          ]
+        },
+        {
+          "cluster_id": "116",
+          "cluster_name": "分享链接功能异常",
+          "canonical_issue": "分享的链接无法打开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_155",
+              "pain": "分享链接无法打开",
+              "suggestion": "修复分享链接打开问题",
+              "source": "分享的链接打不开",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_155"
+          ]
+        },
+        {
+          "cluster_id": "117",
+          "cluster_name": "你画我猜功能缺失",
+          "canonical_issue": "缺少你画我猜游戏功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_160",
+              "pain": "缺少你画我猜功能",
+              "suggestion": "添加你画我猜功能",
+              "source": "请抓紧时间更新，我想玩你画我猜。请快点，辛苦了，快抓紧更新，真求求了。",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_160"
+          ]
+        },
+        {
+          "cluster_id": "118",
+          "cluster_name": "群成员查看功能缺失",
+          "canonical_issue": "无法查看群成员",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_161",
+              "pain": "看不到群成员",
+              "suggestion": "添加查看群成员功能",
+              "source": "看不到群成员。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_161"
+          ]
+        },
+        {
+          "cluster_id": "119",
+          "cluster_name": "共享电量权益缺失",
+          "canonical_issue": "缺少共享电量权益功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_162",
+              "pain": "没有共享电量权益",
+              "suggestion": "增加共享电量权益功能",
+              "source": "没有共享电量权益，能不能更新一下？",
+              "device": "华为畅享 70X"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_162"
+          ]
+        },
+        {
+          "cluster_id": "120",
+          "cluster_name": "收藏分类缺失",
+          "canonical_issue": "收藏功能缺少分类管理",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_163",
+              "pain": "收藏不能分类",
+              "suggestion": "添加收藏分类功能",
+              "source": "收藏不能分类",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_163"
+          ]
+        },
+        {
+          "cluster_id": "121",
+          "cluster_name": "直播功能缺失",
+          "canonical_issue": "直播相关功能未显示或缺失",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_165",
+              "pain": "直播功能没有显示 null",
+              "suggestion": "修复直播功能显示问题",
+              "source": "直播功能没有显示 null，快手小游戏没有，团购功能没有，商城功能没有，还有很多功能都没有，希望官方更新速度能快点这也太慢了，这些需求也是刚需",
+              "device": "华为畅享 70X"
+            },
+            {
+              "id": "com.kuaishou.hmapp_166",
+              "pain": "看直播不能上麦",
+              "suggestion": "添加直播上麦功能",
+              "source": "看直播不能上麦",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_175",
+              "pain": "无法看到直播画面和连线",
+              "suggestion": "建议增加直播画面和连线功能",
+              "source": "我希望能看到直播画面，能连线，加油努力",
+              "device": "HUAWEI Pura 80 Ultra"
+            },
+            {
+              "id": "com.kuaishou.hmapp_176",
+              "pain": "新机型上直播间功能缺失",
+              "suggestion": "建议适配新机型，补齐直播功能",
+              "source": "我是新买的华为Mate 80，看直播间好多功能都缺少了，太不适应了",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_165",
+            "com.kuaishou.hmapp_166",
+            "com.kuaishou.hmapp_175",
+            "com.kuaishou.hmapp_176"
+          ]
+        },
+        {
+          "cluster_id": "122",
+          "cluster_name": "小游戏功能缺失",
+          "canonical_issue": "快手小游戏功能未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_165",
+              "pain": "快手小游戏没有",
+              "suggestion": "添加快手小游戏功能",
+              "source": "直播功能没有显示 null，快手小游戏没有，团购功能没有，商城功能没有，还有很多功能都没有，希望官方更新速度能快点这也太慢了，这些需求也是刚需",
+              "device": "华为畅享 70X"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_165"
+          ]
+        },
+        {
+          "cluster_id": "123",
+          "cluster_name": "团购功能缺失",
+          "canonical_issue": "团购功能未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_165",
+              "pain": "团购功能没有",
+              "suggestion": "添加团购功能",
+              "source": "直播功能没有显示 null，快手小游戏没有，团购功能没有，商城功能没有，还有很多功能都没有，希望官方更新速度能快点这也太慢了，这些需求也是刚需",
+              "device": "华为畅享 70X"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_165"
+          ]
+        },
+        {
+          "cluster_id": "124",
+          "cluster_name": "商城功能缺失",
+          "canonical_issue": "商城功能未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_165",
+              "pain": "商城功能没有",
+              "suggestion": "添加商城功能",
+              "source": "直播功能没有显示 null，快手小游戏没有，团购功能没有，商城功能没有，还有很多功能都没有，希望官方更新速度能快点这也太慢了，这些需求也是刚需",
+              "device": "华为畅享 70X"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_165"
+          ]
+        },
+        {
+          "cluster_id": "125",
+          "cluster_name": "我的花园功能缺失",
+          "canonical_issue": "我的花园功能被移除或无法找到",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_169",
+              "pain": "我的花园功能没有了",
+              "suggestion": "恢复我的花园功能",
+              "source": "快手里我的花园功能没有了，怎么找也没有。很遗憾！",
+              "device": "华为畅享 70X 尊享版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_169"
+          ]
+        },
+        {
+          "cluster_id": "126",
+          "cluster_name": "表情包添加异常",
+          "canonical_issue": "表情包添加功能失效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_170",
+              "pain": "表情包添加不了了",
+              "suggestion": "修复表情包添加功能",
+              "source": "快手的表情包添加不了了，请修改一下",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_170"
+          ]
+        },
+        {
+          "cluster_id": "127",
+          "cluster_name": "私信功能缺失",
+          "canonical_issue": "私信相关功能（备注、分享、保存）缺失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_171",
+              "pain": "缺少备注、打电话消息、分享评论消息等功能",
+              "suggestion": "建议增加备注、打电话消息、分享评论消息等功能",
+              "source": "希望你可以早点更新出那个备注和打电话的那个消息，还有别人分享评论的那个消息，和自己分享给别人的评论，希望可以早点更新。",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.kuaishou.hmapp_172",
+              "pain": "无法分享私信消息，无法保存朋友发的视频",
+              "suggestion": "建议增加私信消息分享和视频保存功能",
+              "source": "快点更新啊私信的消息分享都没法分享朋友给发的视频都没法保存",
+              "device": "HUAWEI MatePad 11.5 S 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_171",
+            "com.kuaishou.hmapp_172"
+          ]
+        },
+        {
+          "cluster_id": "128",
+          "cluster_name": "钱包提现功能缺失",
+          "canonical_issue": "快手钱包提现功能未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_173",
+              "pain": "快手钱包提现功能缺失",
+              "suggestion": "建议尽快更新钱包提现功能",
+              "source": "快手钱包提现功能，请尽快更新一下",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_173"
+          ]
+        },
+        {
+          "cluster_id": "129",
+          "cluster_name": "直播送礼明细缺失",
+          "canonical_issue": "多人PK直播中无法查看实时送礼明细",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_181",
+              "pain": "多人PK局看不到每个直播间实时送礼明细",
+              "suggestion": "优化PK直播功能，显示实时送礼明细",
+              "source": "鸿蒙系统，多人pk局看不到每个直播间实时送礼明细，应该怎么调试",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_181"
+          ]
+        },
+        {
+          "cluster_id": "130",
+          "cluster_name": "用户等级显示异常",
+          "canonical_issue": "用户等级无法正常显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_182",
+              "pain": "自己等级看不见",
+              "suggestion": "修复用户等级显示问题",
+              "source": "继续更新吧 自己等级看不见 礼物没有 都还是老版的",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_182"
+          ]
+        },
+        {
+          "cluster_id": "131",
+          "cluster_name": "礼物功能缺失",
+          "canonical_issue": "礼物功能未上线或失效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_182",
+              "pain": "礼物功能缺失",
+              "suggestion": "恢复礼物功能",
+              "source": "继续更新吧 自己等级看不见 礼物没有 都还是老版的",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_182"
+          ]
+        },
+        {
+          "cluster_id": "132",
+          "cluster_name": "版本更新滞后",
+          "canonical_issue": "应用版本落后，功能仍为老版",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_182",
+              "pain": "版本落后，功能仍为老版",
+              "suggestion": "加快版本更新，补齐老版缺失功能",
+              "source": "继续更新吧 自己等级看不见 礼物没有 都还是老版的",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_182"
+          ]
+        },
+        {
+          "cluster_id": "133",
+          "cluster_name": "分享数量显示异常",
+          "canonical_issue": "分享数量始终显示为零",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_177",
+              "pain": "分享数量显示为零",
+              "suggestion": "建议修复分享数量显示问题",
+              "source": "为啥我的分享数量永远是零  不过还行",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_177"
+          ]
+        },
+        {
+          "cluster_id": "134",
+          "cluster_name": "评论数显示错误",
+          "canonical_issue": "评论数统计逻辑错误导致显示异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_183",
+              "pain": "评论数显示错误，从132亿变为四千多万",
+              "suggestion": "修复评论数统计逻辑，确保数据准确",
+              "source": "次评论132亿，怎么变四千多万了？无语",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_183"
+          ]
+        },
+        {
+          "cluster_id": "135",
+          "cluster_name": "私信视频无法下载",
+          "canonical_issue": "私信视频下载功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_184",
+              "pain": "私信视频不能下载",
+              "suggestion": "支持下载私信视频",
+              "source": "能不能和安卓一样啊！求求了！！！！私信视频不能下载 ！作品不能发动图！！！",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_184"
+          ]
+        },
+        {
+          "cluster_id": "136",
+          "cluster_name": "作品无法发布动图",
+          "canonical_issue": "动图发布功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_184",
+              "pain": "作品不能发动图",
+              "suggestion": "支持发布动图功能",
+              "source": "能不能和安卓一样啊！求求了！！！！私信视频不能下载 ！作品不能发动图！！！",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_184"
+          ]
+        },
+        {
+          "cluster_id": "137",
+          "cluster_name": "备注功能消失",
+          "canonical_issue": "备注功能被移除或无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_186",
+              "pain": "备注功能消失",
+              "suggestion": "恢复备注功能",
+              "source": "备注怎么又没了。。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_186"
+          ]
+        },
+        {
+          "cluster_id": "138",
+          "cluster_name": "缺少一起看功能",
+          "canonical_issue": "一起看功能未实现",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_187",
+              "pain": "缺少一起看功能",
+              "suggestion": "增加一起看功能",
+              "source": "为什么没有一起看",
+              "device": "HUAWEI MatePad 11.5 S 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_187"
+          ]
+        },
+        {
+          "cluster_id": "139",
+          "cluster_name": "PK功能显示异常",
+          "canonical_issue": "PK功能分数和血条无法显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_188",
+              "pain": "打PK看不见分数和血条",
+              "suggestion": "修复PK功能，显示分数和血条",
+              "source": "打PK看不见分数和血条",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_188"
+          ]
+        },
+        {
+          "cluster_id": "140",
+          "cluster_name": "暂不支持消息提示",
+          "canonical_issue": "出现暂不支持的消息提示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_189",
+              "pain": "出现暂不支持的消息提示",
+              "suggestion": "明确暂不支持原因并尽快支持相关功能",
+              "source": "为什么有暂不支持的消息？",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_189"
+          ]
+        },
+        {
+          "cluster_id": "141",
+          "cluster_name": "快手群无法进入",
+          "canonical_issue": "快手群功能未开放",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_190",
+              "pain": "无法进入快手群",
+              "suggestion": "尽快开放快手群功能",
+              "source": "快手群啥时候能进啊",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_190"
+          ]
+        },
+        {
+          "cluster_id": "142",
+          "cluster_name": "创作者中心功能缺失",
+          "canonical_issue": "创作者中心及发短视频前的小程序和网络推广功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_191",
+              "pain": "发短视频前的小程序和网络推广功能缺失",
+              "suggestion": "建议恢复小程序和网络推广功能",
+              "source": "我的快手找不到创作者中心，还有发短视频前小程序和视频来自网络推广之类的没有了，好多都没有了",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_191"
+          ]
+        },
+        {
+          "cluster_id": "143",
+          "cluster_name": "长图发布功能需更新",
+          "canonical_issue": "长图发布功能需要优化或更新",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_192",
+              "pain": "发作品的长图功能需要更新",
+              "suggestion": "建议优化长图发布功能",
+              "source": "发作品那里的长图能不能更新一下啊",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_192"
+          ]
+        },
+        {
+          "cluster_id": "144",
+          "cluster_name": "表情包功能缺失",
+          "canonical_issue": "表情包功能被移除或无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_194",
+              "pain": "表情包功能缺失",
+              "suggestion": "建议恢复表情包功能",
+              "source": "还我表情包",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_194"
+          ]
+        },
+        {
+          "cluster_id": "145",
+          "cluster_name": "福袋幸运星功能不显示",
+          "canonical_issue": "福袋幸运星功能未显示或无法参加",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_195",
+              "pain": "福袋幸运星功能不显示，无法参加",
+              "suggestion": "建议开发福袋幸运星功能并显示入口",
+              "source": "没有福袋幸运星之类的没有办法参加根本不显示，希望能早点开发出来",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_195"
+          ]
+        },
+        {
+          "cluster_id": "146",
+          "cluster_name": "发作品添加音乐无效",
+          "canonical_issue": "发作品时添加音乐功能无效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_196",
+              "pain": "发作品添加音乐没效果",
+              "suggestion": "建议修复音乐添加功能",
+              "source": "发作品添加音乐没效果，求赶紧更新",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_196"
+          ]
+        },
+        {
+          "cluster_id": "147",
+          "cluster_name": "福袋功能内容不足",
+          "canonical_issue": "福袋功能内容不足或不好用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_198",
+              "pain": "福袋功能没什么内容或不好用",
+              "suggestion": "建议丰富福袋内容或优化福袋功能",
+              "source": "福袋没什么",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_198"
+          ]
+        },
+        {
+          "cluster_id": "148",
+          "cluster_name": "无法发布长图模式",
+          "canonical_issue": "长图发布模式无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_199",
+              "pain": "发不了长图模式",
+              "suggestion": "建议支持长图发布模式",
+              "source": "挺好的就是作品发不了长图模式 私信有的消息也看不到麻烦更新一下谢谢了",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_199"
+          ]
+        },
+        {
+          "cluster_id": "149",
+          "cluster_name": "私信消息无法查看",
+          "canonical_issue": "私信消息显示异常或无法查看",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_199",
+              "pain": "私信有的消息看不到",
+              "suggestion": "建议修复私信消息显示问题",
+              "source": "挺好的就是作品发不了长图模式 私信有的消息也看不到麻烦更新一下谢谢了",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_199"
+          ]
+        },
+        {
+          "cluster_id": "150",
+          "cluster_name": "无法查看对方点赞",
+          "canonical_issue": "查看对方点赞功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_200",
+              "pain": "不能看对方的点赞",
+              "suggestion": "建议增加查看对方点赞的功能",
+              "source": "不能看对方的点赞希望再完善一下",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_200"
+          ]
+        },
+        {
+          "cluster_id": "151",
+          "cluster_name": "购物无产品介绍视频",
+          "canonical_issue": "购物时产品介绍视频功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_201",
+              "pain": "买东西时没有产品介绍视频",
+              "suggestion": "增加产品介绍视频功能",
+              "source": "买东西，为什么没有产品介绍视频了",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_201"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "78",
+          "cluster_name": "功能更新及时",
+          "canonical_issue": "快手小店商家版功能更新及时完善",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_62",
+              "pain": "快手小店商家版功能更新及时",
+              "suggestion": "无",
+              "source": "快手小店商家版功能及时更新完善，快手短视频页面很多细节待完善中，加油吧！",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_62"
+          ]
+        },
+        {
+          "cluster_id": "79",
+          "cluster_name": "在线状态显示",
+          "canonical_issue": "能看到对方在线状态",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_231",
+              "pain": "能看到对方在线状态",
+              "suggestion": "无",
+              "source": "能看到对方在线状态",
+              "device": "HUAWEI MatePad 11.5\"S 灵动款"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_231"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "86",
+          "cluster_name": "自动播放短视频",
+          "canonical_issue": "希望增加自动播放下一个短视频功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_93",
+              "pain": "希望增加自动播放下一个短视频功能",
+              "suggestion": "增加自动播放下一个短视频功能",
+              "source": "能增加自动播放下一个短视频就好了",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_93"
+          ]
+        },
+        {
+          "cluster_id": "87",
+          "cluster_name": "聊天室功能上线时间",
+          "canonical_issue": "询问聊天室功能上线时间",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_97",
+              "pain": "询问什么时候可以过聊天室",
+              "suggestion": "明确聊天室功能上线时间",
+              "source": "什么时候可以过聊天室了呀",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.kuaishou.hmapp_100",
+              "pain": "询问什么时候能聊天室直播",
+              "suggestion": "明确聊天室直播功能上线时间",
+              "source": "什么时候能聊天室直播",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_97",
+            "com.kuaishou.hmapp_100"
+          ]
+        },
+        {
+          "cluster_id": "88",
+          "cluster_name": "视频通话特效",
+          "canonical_issue": "希望在打视频时能加特效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_124",
+              "pain": "希望在打视频时能加特效。",
+              "suggestion": "开发视频通话特效功能，丰富用户体验。",
+              "source": "能不能让我打视频加特效",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_124"
+          ]
+        },
+        {
+          "cluster_id": "89",
+          "cluster_name": "照片美颜功能",
+          "canonical_issue": "希望直接给照片美颜，不用跳转快影",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_126",
+              "pain": "希望直接给照片美颜，不用跳转快影。",
+              "suggestion": "在快手APP内集成图片美颜功能，减少用户操作路径。",
+              "source": "啥时候能直接给照片美颜不用快影",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_126"
+          ]
+        },
+        {
+          "cluster_id": "90",
+          "cluster_name": "免流量服务启用时间",
+          "canonical_issue": "免流量服务启用时间不明确",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_131",
+              "pain": "免流量服务启用时间不明确",
+              "suggestion": "明确免流量服务的启用时间或规则",
+              "source": "免流量服务多久可以用啊",
+              "device": "HUAWEI Mate X6 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_131"
+          ]
+        },
+        {
+          "cluster_id": "91",
+          "cluster_name": "电脑版应用",
+          "canonical_issue": "缺少电脑版应用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_139",
+              "pain": "缺少电脑版应用",
+              "suggestion": "考虑开发电脑版应用",
+              "source": "有电脑版的吗，希望出一个电脑版的",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_139"
+          ]
+        },
+        {
+          "cluster_id": "92",
+          "cluster_name": "语音视频连麦功能",
+          "canonical_issue": "希望更新语音、视频连麦功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_273",
+              "pain": "希望更新语音、视频连麦功能",
+              "suggestion": "增加语音和视频连麦功能",
+              "source": "希望可以更新一下语音，视频连麦功能，辛苦了所有的工作人员。",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_273"
+          ]
+        },
+        {
+          "cluster_id": "93",
+          "cluster_name": "直播间抽奖活动和表情",
+          "canonical_issue": "希望更新快手直播间抽奖活动和表情",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_274",
+              "pain": "希望更新快手直播间抽奖活动和表情",
+              "suggestion": "增加直播间抽奖活动和表情功能",
+              "source": "希望能更新快手直播间抽奖活动和表情！",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_274"
+          ]
+        },
+        {
+          "cluster_id": "94",
+          "cluster_name": "快手动图功能",
+          "canonical_issue": "建议更新快手动图",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_278",
+              "pain": "建议更新快手动图",
+              "suggestion": "优化或增加快手动图功能",
+              "source": "建议更新一下，快手动图",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_278"
+          ]
+        },
+        {
+          "cluster_id": "95",
+          "cluster_name": "闪电购功能",
+          "canonical_issue": "希望增加闪电购功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_295",
+              "pain": "希望增加闪电购功能",
+              "suggestion": "评估并考虑增加闪电购功能",
+              "source": "希望下次能看到上闪电购",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_295"
+          ]
+        },
+        {
+          "cluster_id": "96",
+          "cluster_name": "查看作品IP地址",
+          "canonical_issue": "可以看到别人发作品的IP地址",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_417",
+              "pain": "可以看到别人发作品的IP地址",
+              "suggestion": "无",
+              "source": "可以看到别人发作品的ip地址",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_417"
+          ]
+        },
+        {
+          "cluster_id": "97",
+          "cluster_name": "功能更新与安卓版一致",
+          "canonical_issue": "希望积极更新新功能，与安卓版功能一致",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_444",
+              "pain": "希望积极更新新功能，与安卓版功能一致",
+              "suggestion": "持续更新功能，缩小与安卓版差距，增加如B站微信等常见功能",
+              "source": "能用，希望积极更新新功能和安卓版一样，像b站微信一样拥有更多功能",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_444"
+          ]
+        }
+      ]
+    }
+  },
+  "系统与机型适配": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "动态卡显示问题",
+          "canonical_issue": "鸿蒙版动态卡不显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_5",
+              "pain": "鸿蒙版动态卡不显示",
+              "suggestion": "修复鸿蒙版动态卡显示问题",
+              "source": "希望可以更新“动态”卡，鸿蒙版不显示",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_5"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "动图功能缺失",
+          "canonical_issue": "鸿蒙系统无法发送或发布动图",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_9",
+              "pain": "鸿蒙系统无法发动图",
+              "suggestion": "适配鸿蒙系统，支持动图发布",
+              "source": "希望华为鸿蒙系统能发动图",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_59",
+              "pain": "鸿蒙系统手机无法发送动图",
+              "suggestion": "适配鸿蒙系统，支持发送动图",
+              "source": "优化一下鸿蒙系统的手机 动图也发不了啊",
+              "device": "HUAWEI Mate X6"
+            },
+            {
+              "id": "com.kuaishou.hmapp_148",
+              "pain": "鸿蒙6.0好多东西用不了，最主要发动图",
+              "suggestion": "适配鸿蒙6.0，修复动图功能",
+              "source": "鸿蒙6.0快手好多东西都用不了 最主要就是发动图 希望快点更新",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_9",
+            "com.kuaishou.hmapp_59",
+            "com.kuaishou.hmapp_148"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "语音上麦功能异常",
+          "canonical_issue": "鸿蒙版无法语音上麦",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_10",
+              "pain": "鸿蒙版无法语音上麦",
+              "suggestion": "修复语音上麦功能",
+              "source": "鸿蒙倒退了吗，无法语音上麦",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.kuaishou.hmapp_164",
+              "pain": "鸿蒙系统不能在直播间语音发送",
+              "suggestion": "适配鸿蒙系统，支持直播间语音发送",
+              "source": "为啥鸿蒙系统不能在直播间语音发送喔",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_10",
+            "com.kuaishou.hmapp_164"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "功能适配不全",
+          "canonical_issue": "鸿蒙系统功能适配不全，仅部分功能可用",
+          "size": 6,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_24",
+              "pain": "功能适配不全，仅适配了开屏广告，其他功能未适配。",
+              "suggestion": "全面适配各项功能，确保与系统兼容。",
+              "source": "真的拉完了，功能都没适配好，这次更新就把开屏广告适配了真的老奶奶进被窝给爷整笑了",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_34",
+              "pain": "鸿蒙系统不完善",
+              "suggestion": "完善鸿蒙系统兼容性",
+              "source": "嗯，希望这个赚金币的功能和聊天功能这些都改进一点，鸿蒙系统不太完善，而且那个赚金币的功能一点都不稳定。",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_227",
+              "pain": "该手机很多功能缺失",
+              "suggestion": "适配机型，补齐缺失功能",
+              "source": "为什么我这个手机很多功能没有",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_254",
+              "pain": "看不见PK血条，部分功能用不了，怀疑与鸿蒙系统有关",
+              "suggestion": "适配鸿蒙系统，修复PK血条等缺失功能",
+              "source": "看不见pk血条，还有一些功能用不了，跟鸿蒙系统有关系吗？",
+              "device": "HUAWEI Mate 60 Pro+"
+            },
+            {
+              "id": "com.kuaishou.hmapp_255",
+              "pain": "软件适配太差，火花契约等互动不能用，无法进聊天群",
+              "suggestion": "改善鸿蒙系统适配，确保互动功能正常",
+              "source": "我真求你了。软件适配太差了。火花契约。还有别的互动都不能用。连进聊天群都不能。",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.kuaishou.hmapp_256",
+              "pain": "鸿蒙系统无法支持显示群和加群功能",
+              "suggestion": "适配鸿蒙系统，实现群功能",
+              "source": "鸿蒙系统无法支持显示群和加群功能",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_24",
+            "com.kuaishou.hmapp_34",
+            "com.kuaishou.hmapp_227",
+            "com.kuaishou.hmapp_254",
+            "com.kuaishou.hmapp_255",
+            "com.kuaishou.hmapp_256"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "后台管理问题",
+          "canonical_issue": "鸿蒙系统杀后台严重，应用切换后易被关闭",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_41",
+              "pain": "杀后台严重，切换到桌面后应用很快被关闭",
+              "suggestion": "优化后台进程管理，减少对应用的清理",
+              "source": "杀后台太严重了，切换桌面几秒钟就没了，bug太多，上个视频的音乐到下个视频还有，这是更新了什么玩意？",
+              "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_41"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "广告视频适配问题",
+          "canonical_issue": "带广告的视频无法正常刷看，需要适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_47",
+              "pain": "带广告的视频无法正常刷看，需要适配",
+              "suggestion": "适配广告视频播放功能",
+              "source": "带广告的视频刷不了，赶快适配",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_47"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "版本更新问题",
+          "canonical_issue": "当前版本太旧，希望更新",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_178",
+              "pain": "当前版本太旧，希望更新",
+              "suggestion": "建议推送最新版本更新",
+              "source": "希望能更新到最新版本",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_178"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "图片清晰度问题",
+          "canonical_issue": "用苹果拍的照片发作品看着有点糊",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_197",
+              "pain": "用苹果拍的照片发作品看着有点糊",
+              "suggestion": "建议优化图片上传处理，提高跨平台清晰度",
+              "source": "用苹果拍的照片发作品看着有点糊，希望能改进一下",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_197"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "讲解回放功能异常",
+          "canonical_issue": "系统更新后产品链接不显示讲解回放",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_290",
+              "pain": "系统更新后产品链接不显示讲解回放",
+              "suggestion": "适配新系统，确保讲解回放功能正常",
+              "source": "华为Mate80Pro系统更新6.1以后登录快手时。以前所买的产品链接现在打开以后都不显示讲解回放了。什么情况？",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_290"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "跨平台版本差异",
+          "canonical_issue": "从苹果换到华为后快手版本变低，功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_298",
+              "pain": "从苹果换到华为后快手版本变低",
+              "suggestion": "适配华为机型，提供与iOS版本一致的功能和更新",
+              "source": "从苹果换成华为快手版本就变低了直播间想刷的礼物也没了",
+              "device": "HUAWEI Mate XTs | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_298"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "直播功能缺失",
+          "canonical_issue": "华为机型直播相关功能缺失或不可用",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_298",
+              "pain": "切换设备后直播间可刷的礼物缺失",
+              "suggestion": "修复礼物功能，确保华为机型用户能看到并赠送全部礼物",
+              "source": "从苹果换成华为快手版本就变低了直播间想刷的礼物也没了",
+              "device": "HUAWEI Mate XTs | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.kuaishou.hmapp_300",
+              "pain": "更新鸿蒙6系统后直播不能发表情包",
+              "suggestion": "适配鸿蒙6系统，恢复直播中发表情包功能",
+              "source": "为什么华为p70pro更新鸿蒙6系统之后看直播就不能发表情包了",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_307",
+              "pain": "鸿蒙系统下聊天室无法观看",
+              "suggestion": "适配鸿蒙系统，修复聊天室兼容性问题",
+              "source": "最新鸿蒙系统看不了聊天室，什么时候能兼容啊。急死了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.kuaishou.hmapp_326",
+              "pain": "部分直播显示此版本暂不支持",
+              "suggestion": "加快直播功能的适配更新",
+              "source": "有的直播看不见 显示此版本暂不支持 努力开发中",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_424",
+              "pain": "华为手机无法观看聊天室画面。",
+              "suggestion": "修复华为设备上聊天室画面显示问题。",
+              "source": "华为手机看不了聊天室画面",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_298",
+            "com.kuaishou.hmapp_300",
+            "com.kuaishou.hmapp_307",
+            "com.kuaishou.hmapp_326",
+            "com.kuaishou.hmapp_424"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "系统升级兼容性问题",
+          "canonical_issue": "鸿蒙系统升级后功能异常或数据丢失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_320",
+              "pain": "升级鸿蒙6后账号丢失",
+              "suggestion": "优化系统升级后的账号迁移机制，提供账号找回方案",
+              "source": "我升级鸿蒙6后连账号都没了，有没有办法弄回来",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.kuaishou.hmapp_477",
+              "pain": "以前的账号怎么了？可能无法登录或使用",
+              "suggestion": "检查旧账号兼容性问题，确保账号数据正常迁移和使用",
+              "source": "块手我的以前账号怎么了？",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_320",
+            "com.kuaishou.hmapp_477"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "功能适配不全",
+          "canonical_issue": "鸿蒙系统下快手功能覆盖不全",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_327",
+              "pain": "鸿蒙系统下功能不全",
+              "suggestion": "完善鸿蒙系统下的功能覆盖",
+              "source": "希望快点儿更新 鸿蒙系统快手功能不全 还有好卡",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.kuaishou.hmapp_330",
+              "pain": "很多版本不支持某些功能",
+              "suggestion": "扩大版本适配范围",
+              "source": "添加文字功能，我评论点不了赞是什么鬼，发长图功能，还有很多版本不支持",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.kuaishou.hmapp_346",
+              "pain": "更新也更新不好",
+              "suggestion": "优化更新流程",
+              "source": "功能正在检测中是啥玩意儿？ 非常不满意 语音不能发更新也更新不好 想分享个主页和发发消息还有功能正在开发 如果说我没更新还好但是我更新了呀我还卸载重新下载了一遍 真的十分不满意 马上都不想玩这个快手了 都不知道发消息天天在发啥 检测检测还是检测 到底在干什么这是改动还是干啥 这还不如不改动呢没用的改动 太没用了说实话 非常不满意 不知道在干什么，改动还不如不改呢 学人家什么高级啊 还是用你之前的老旧版吧 用着比较舒服 你现在用的是什么玩意分享个主页还有功能暂不支持 我的号什么也没有问题 真不知道在干啥",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.kuaishou.hmapp_348",
+              "pain": "鸿蒙6.0系统下‘不给谁看’功能找不到",
+              "suggestion": "修复鸿蒙6.0系统兼容性问题",
+              "source": "鸿蒙6.0系统不给谁看找不到，音乐也不能单独开启，作品流量记录显示不了，草稿箱没有，发动态照片也只能是静态的。希望官方快点改进吧。",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.kuaishou.hmapp_422",
+              "pain": "华为备用机上功能不可用，适配存在问题。",
+              "suggestion": "优化华为设备兼容性。",
+              "source": "我在华为备用机上下载快手明明是最新版本了，还是有很多功能用不了，而且特效也都是很老的特效",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_327",
+            "com.kuaishou.hmapp_330",
+            "com.kuaishou.hmapp_346",
+            "com.kuaishou.hmapp_348",
+            "com.kuaishou.hmapp_422"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "支付与购买功能异常",
+          "canonical_issue": "鸿蒙系统下无法正常购买商品",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_360",
+              "pain": "鸿蒙系统无法购买货物",
+              "suggestion": "适配鸿蒙系统的支付与购买功能，解决兼容性问题。",
+              "source": "鸿蒙系统不能购买货物了，能快点解决吗",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_360"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "聊天功能异常",
+          "canonical_issue": "鸿蒙系统下聊天功能显示版本不支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_398",
+              "pain": "聊天功能显示版本不支持",
+              "suggestion": "解决版本兼容问题",
+              "source": "这是啥啊聊天显示版本不支持，华为啊",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_398"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "快手小店卖家版缺失",
+          "canonical_issue": "鸿蒙系统缺少快手小店卖家版入口",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_439",
+              "pain": "鸿蒙系统没有快手小店卖家版入口",
+              "suggestion": "在鸿蒙系统增加快手小店卖家版入口",
+              "source": "鸿蒙系统没有快手小店卖家版的入口，需要从客服给的链接进入，卖家的相关功能很多无法正常打开，请完善",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_439"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "设备名称显示异常",
+          "canonical_issue": "设备名称显示不全，仅显示华为在线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_448",
+              "pain": "设备名称显示不全，只显示华为在线",
+              "suggestion": "正确显示完整设备名称，适配更多机型",
+              "source": "只有华为在线，把设备名称全部弄出来",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_448"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "功能开放请求",
+          "canonical_issue": "用户请求开放更多软件或功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_309",
+              "pain": "希望官方开放所有软件或功能",
+              "suggestion": "评估用户需求，逐步开放更多应用或功能，尤其是热门应用",
+              "source": "求求官方把所有软件都打开吧，求求你了，真的拜托拜托拜托。",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_309"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "99",
+          "cluster_name": "隔空传送适配",
+          "canonical_issue": "隔空传送功能未适配鸿蒙系统",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_280",
+              "pain": "隔空传送未适配",
+              "suggestion": "适配鸿蒙系统隔空传送功能",
+              "source": "隔空传送什么时候适配",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_280"
+          ]
+        }
+      ]
+    }
+  },
+  "运营与规则": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "18",
+          "cluster_name": "审核误封问题",
+          "canonical_issue": "平台审核机制误判导致正常内容被错误封禁",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_2",
+              "pain": "正常视频被错误封禁",
+              "suggestion": "优化审核机制，减少误封",
+              "source": "拉完了 发了个正经的视频 直接乱封",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.kuaishou.hmapp_145",
+              "pain": "提了虞书欣名字就被封，审核规则不合理",
+              "suggestion": "优化审核规则，避免误封",
+              "source": "提了一个虞书欣名字就把我封了，这快手不得了，说长得像谁就把我封了，谁爱玩谁玩，这快手",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_180",
+              "pain": "发作品被违规审核",
+              "suggestion": "建议优化审核规则，避免误判",
+              "source": "一颗心都不想给  发作品发自己的美好生活也要被违规  审核有点过分了",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_2",
+            "com.kuaishou.hmapp_145",
+            "com.kuaishou.hmapp_180"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "广告干扰体验",
+          "canonical_issue": "应用内广告过多且摇一摇触发广告影响用户体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_16",
+              "pain": "进入应用有广告且摇一摇触发广告",
+              "suggestion": "减少广告干扰，优化摇一摇广告机制或提供关闭选项",
+              "source": "就在刚刚 进去居然有广告。摇一摇怎么回事",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.kuaishou.hmapp_133",
+              "pain": "广告过多影响体验",
+              "suggestion": "减少广告插入频率",
+              "source": "广告太多各两个视频一个广告，准备卸载。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_16",
+            "com.kuaishou.hmapp_133"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "营销与供应问题",
+          "canonical_issue": "预售、缺货及饥饿营销策略引发用户不满",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_48",
+              "pain": "预售、缺货、饥饿营销等问题",
+              "suggestion": "改善预售策略，保障供应，停止饥饿营销",
+              "source": "什么都落后，还整天搞预售，缺货，搞饥饿营销",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_48"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "实名认证问题",
+          "canonical_issue": "实名认证方式单一、流程繁琐且强制要求不合理",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_66",
+              "pain": "实名认证方式单一且误限制",
+              "suggestion": "增加实名认证方式，优化认证流程",
+              "source": "实名认证为什么只能用其中一种？而且我啥也没干呀。",
+              "device": "HUAWEI MatePad 11.5 S"
+            },
+            {
+              "id": "com.kuaishou.hmapp_185",
+              "pain": "操作完成后仍需实名登录，流程繁琐",
+              "suggestion": "简化实名登录流程或提供其他便捷登录方式",
+              "source": "拉完了还要实名登录",
+              "device": "HUAWEI MatePad 11.5 S"
+            },
+            {
+              "id": "com.kuaishou.hmapp_294",
+              "pain": "强制实名且不满足条件无法使用，还不给注销账号",
+              "suggestion": "优化实名认证流程，提供合理的注销账号途径",
+              "source": "强制让用户实名，啥也没干就ta，不实名就用不了也不给注销",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_66",
+            "com.kuaishou.hmapp_185",
+            "com.kuaishou.hmapp_294"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "平台内容治理",
+          "canonical_issue": "平台存在无良电商和不良网红影响社会风气",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_105",
+              "pain": "平台存在无良电商、不良网红，影响社会风气",
+              "suggestion": "加强平台内容审核与治理",
+              "source": "能不能别出来害人了，快手能不能倒闭，。。。。。一群无良电商，没长大的小孩，还有烂网红影响社会风气",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_105"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "功能更新缓慢",
+          "canonical_issue": "应用功能更新速度过慢，缺乏用户急需功能",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_144",
+              "pain": "更新的太慢",
+              "suggestion": "加快版本更新频率",
+              "source": "更新的太慢，拍照保存不了相册",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_165",
+              "pain": "功能更新速度太慢",
+              "suggestion": "加快功能更新速度",
+              "source": "直播功能没有显示 null，快手小游戏没有，团购功能没有，商城功能没有，还有很多功能都没有，希望官方更新速度能快点这也太慢了，这些需求也是刚需",
+              "device": "华为畅享 70X"
+            },
+            {
+              "id": "com.kuaishou.hmapp_287",
+              "pain": "开发团队优先加无用功能，有用功能不加",
+              "suggestion": "优化功能优先级，增加用户需求高的功能",
+              "source": "一个深色模式就这么费劲吗？整天加一些没用的功能，有用的功能是一点不加呀。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_144",
+            "com.kuaishou.hmapp_165",
+            "com.kuaishou.hmapp_287"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "金币与签到问题",
+          "canonical_issue": "金币奖励减少且活动签到入口难找",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_140",
+              "pain": "没有天天预约领金币功能",
+              "suggestion": "开发天天预约领金币功能",
+              "source": "1.博主视频的主页点亮爱心，请尽快完善。\n2.没有天天预约领金币，请尽快开发这个功能。\n3.现在没有封面编辑，请尽快添加功能。",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.kuaishou.hmapp_275",
+              "pain": "金币越来越少了",
+              "suggestion": "调整金币奖励规则或增加获取途径",
+              "source": "金币越来越少了",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_306",
+              "pain": "活动签到入口难找，签到后入口消失",
+              "suggestion": "优化签到入口位置，确保用户易于发现且签到后仍可找到",
+              "source": "活动签到入口，签到一次找不到了，说在快手小店，没有入口。没搞好不要搞",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_140",
+            "com.kuaishou.hmapp_275",
+            "com.kuaishou.hmapp_306"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "账号安全保护",
+          "canonical_issue": "账号被盗后发布违规内容导致用户账号被注销",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_234",
+              "pain": "账号被盗用于发布违规内容，导致账号被注销",
+              "suggestion": "加强账号安全保护，及时处理异常登录和违规内容",
+              "source": "号被盗了。用来发不干净视频不知道，管一下。害得我把号注销了。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_234"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "限流机制不透明",
+          "canonical_issue": "用户担心好评后仍被限流，缺乏透明机制",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_167",
+              "pain": "打了五星，别给我限流",
+              "suggestion": "承诺不因好评限流，建立透明机制",
+              "source": "打了五星，别给我限流了好吗",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_167"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "广告过多",
+          "canonical_issue": "广告展示频率过高，影响用户体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_319",
+              "pain": "广告过多，一个视频配多个广告",
+              "suggestion": "减少广告投放频率，优化广告策略",
+              "source": "最近快手广告太多了，刷视频的时候，一个视频+一个广告，一个视频+两个广告，快从商城下架吧！！！",
+              "device": "HUAWEI Mate 60 Pro+"
+            },
+            {
+              "id": "com.kuaishou.hmapp_427",
+              "pain": "摇一摇广告过多。",
+              "suggestion": "减少摇一摇广告。",
+              "source": "鸿蒙版快手有点缺德，点击打开封面摇一摇广告多，闪退，卡顿 超级耗电",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_319",
+            "com.kuaishou.hmapp_427"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "客服无人工",
+          "canonical_issue": "客服系统缺乏人工转接功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_325",
+              "pain": "客服没有转人工功能",
+              "suggestion": "提供人工客服转接功能",
+              "source": "作品莫名其妙的被私密了哈。昨天也是，我一个一个手动调回来，又被私密了今天。真是无语，而且那个客服能不能有一个转人工功能啊？",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_325"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "版本更新慢",
+          "canonical_issue": "应用版本迭代速度慢，功能落后",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_357",
+              "pain": "当前安装的版本太老，需要更新",
+              "suggestion": "加快版本迭代，向鸿蒙用户推送最新版本。",
+              "source": "更新快手版本太老",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.kuaishou.hmapp_414",
+              "pain": "版本更新速度慢",
+              "suggestion": "加快版本更新迭代速度",
+              "source": "更新版本速度快一点，现在的引用评论真不友好",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_357",
+            "com.kuaishou.hmapp_414"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "资金异常",
+          "canonical_issue": "用户资金被异常扣除",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_375",
+              "pain": "快手吞掉5.7元",
+              "suggestion": "查明吞钱原因并退还，完善资金安全机制",
+              "source": "服了，老爷快手吞我5.7元。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_375"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "操作频率限制",
+          "canonical_issue": "小黄车功能操作频繁限制不合理",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_432",
+              "pain": "小黄车显示操作频繁",
+              "suggestion": "优化操作频率限制规则",
+              "source": "小黄车，怎么显示操作频繁，点不开，买不了东西，还看不了视频讲解",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_432"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "强制登录",
+          "canonical_issue": "评论功能强制登录且登录失败",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_460",
+              "pain": "点击评论强制登录且登录失败",
+              "suggestion": "优化登录流程，允许非登录用户评论或改善登录体验",
+              "source": "不想登录，他一给我点击评论，他就立马让我登录，我插出去还显示登录失败，请重新登录。",
+              "device": "HUAWEI MatePad 11.5\"S 灵动款"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_460"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "账号封禁",
+          "canonical_issue": "账号被随意封禁，规则不透明",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_483",
+              "pain": "账号被随意封禁，封号规则不合理",
+              "suggestion": "优化封号机制，增加规则透明度和申诉渠道",
+              "source": "非常的差，差到不行，随便封号",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_483"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "反馈未解决",
+          "canonical_issue": "用户反馈问题长期未得到解决",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_492",
+              "pain": "多次反馈问题未解决",
+              "suggestion": "改进用户反馈处理机制",
+              "source": "鸿蒙系统反馈多次都不解决 就更新没用的 幸运星功能不上了吗？",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_492"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "98",
+          "cluster_name": "版本更新渠道",
+          "canonical_issue": "用户希望获得最新版本应用的更新渠道或推送",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_168",
+              "pain": "希望更新到最新版本",
+              "suggestion": "提供版本更新渠道或推送更新",
+              "source": "可以给我更新到最新版本吗",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_168"
+          ]
+        }
+      ]
+    }
+  },
+  "稳定性与性能": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "35",
+          "cluster_name": "应用卡顿与加载问题",
+          "canonical_issue": "应用卡顿、视频加载转圈、滑动重复加载",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_15",
+              "pain": "应用卡顿，刷视频转圈，刷快了重复",
+              "suggestion": "优化性能，减少卡顿和重复加载",
+              "source": "好卡，刷着刷着转圈，然后刷快了还重复🥲",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_141",
+              "pain": "退出快手后再进，上下滑第一下必卡顿",
+              "suggestion": "优化启动或滑动流畅度",
+              "source": "退出快手，然后再重新进，上下滑第一下必卡顿一下",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_15",
+            "com.kuaishou.hmapp_141"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "应用崩溃与蓝屏",
+          "canonical_issue": "应用蓝屏、闪退、崩溃",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_20",
+              "pain": "应用时不时蓝屏",
+              "suggestion": "修复蓝屏崩溃问题",
+              "source": "时不时蓝屏 没有个人小店",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_179",
+              "pain": "应用闪退",
+              "suggestion": "建议修复闪退bug",
+              "source": "闪退",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_20",
+            "com.kuaishou.hmapp_179"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "评论区功能异常",
+          "canonical_issue": "评论区发表情包不显示、图片点击延迟、卡顿",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_33",
+              "pain": "评论区发表情包不显示，无法评论",
+              "suggestion": "修复评论区发表情包不显示的问题",
+              "source": "就是能不能赶快把评论区发表情包的更新一下，发表情包不显示评论不了。",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_54",
+              "pain": "评论区图片点击延迟三秒",
+              "suggestion": "优化图片加载速度，减少延迟",
+              "source": "评论区别人发的图片，点进去延迟三秒钟。很严重影响使用体验。",
+              "device": "HUAWEI Mate 80 Pro Max 风驰版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_217",
+              "pain": "评论区卡顿，经常显示不出来",
+              "suggestion": "优化评论区性能",
+              "source": "这版本怎么评论区那么卡，经常显示不出来，我真是服了啊！",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_33",
+            "com.kuaishou.hmapp_54",
+            "com.kuaishou.hmapp_217"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "UI元素显示异常",
+          "canonical_issue": "聊天气泡不显示、设置功能无效",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_39",
+              "pain": "使用聊天气泡没显示出来",
+              "suggestion": "修复聊天气泡不显示的问题",
+              "source": "修复一下，使用聊天气泡，但是它没显示出来，连续换了好几回，一直没显示出来",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.kuaishou.hmapp_109",
+              "pain": "设置中很多功能无法生效",
+              "suggestion": "修复设置功能的可用性",
+              "source": "我也不知道怎么说反正就是设置那里很多功能都没有效果",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_39",
+            "com.kuaishou.hmapp_109"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "后台管理与Bug问题",
+          "canonical_issue": "杀后台严重、跨视频音乐残留、大量bug",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_41",
+              "pain": "应用存在大量bug",
+              "suggestion": "全面排查并修复已知bug，提升稳定性",
+              "source": "杀后台太严重了，切换桌面几秒钟就没了，bug太多，上个视频的音乐到下个视频还有，这是更新了什么玩意？",
+              "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_41"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "网络连接异常",
+          "canonical_issue": "WiFi满格却显示无网络",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_114",
+              "pain": "WiFi满格且有流量却显示无网络",
+              "suggestion": "修复网络状态检测，确保正确显示网络连接",
+              "source": "WiFi满格，流量还是开着的，居然还是显示没网络",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_114"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "消息发送失败",
+          "canonical_issue": "无法发送消息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_116",
+              "pain": "更新后仍无法发送消息",
+              "suggestion": "修复发消息功能，确保正常工作",
+              "source": "我不能发消息，快手更新了也不能发",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_116"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "视频质量与播放问题",
+          "canonical_issue": "发布作品模糊、视频播放失败、无声音",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_147",
+              "pain": "环境需要优化（可能指应用运行环境）",
+              "suggestion": "优化应用运行环境，提升稳定性",
+              "source": "快手能不能优化一下你的视频质量，还有\n你的环境",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_156",
+              "pain": "发布作品模糊不清",
+              "suggestion": "优化发布作品画质",
+              "source": "发布作品都是模糊不清楚",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.kuaishou.hmapp_158",
+              "pain": "没有声音",
+              "suggestion": "修复声音问题",
+              "source": "为啥没有声音啊？",
+              "device": "HUAWEI MatePad Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_159",
+              "pain": "视频播放失败，需重新点击才能看",
+              "suggestion": "修复播放失败问题",
+              "source": "14.3.0版本老是播放失败但是他进主页，你重新点那个视频才能看，希望官方修复一下",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_147",
+            "com.kuaishou.hmapp_156",
+            "com.kuaishou.hmapp_158",
+            "com.kuaishou.hmapp_159"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "交互响应问题",
+          "canonical_issue": "小黄车打不开需多次点击",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_222",
+              "pain": "小黄车打不开，需要多次点击",
+              "suggestion": "修复点击响应问题，提升稳定性",
+              "source": "小黄车打不开的情况你们有吗得按好几次1",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_222"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "功耗优化问题",
+          "canonical_issue": "新版本耗电严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_57",
+              "pain": "新版本耗电非常厉害",
+              "suggestion": "优化功耗，减少耗电",
+              "source": "和以前的版本比，新版本耗电非常厉害",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_57"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "购物车闪退",
+          "canonical_issue": "翻看购物车时应用频繁闪退",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_235",
+              "pain": "翻看购物车时频繁闪退",
+              "suggestion": "修复购物车闪退问题",
+              "source": "快手里翻看购物车，老出现闪退的问题，直播没有连麦功能，还有待改善啊",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_235"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "续火花延迟",
+          "canonical_issue": "续火花操作响应延迟",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_236",
+              "pain": "续火花操作有延迟",
+              "suggestion": "优化续火花的响应速度",
+              "source": "续火花能干出延迟来也是无敌了",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_236"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "视频播放卡顿",
+          "canonical_issue": "视频播放过程中卡顿或卡死",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_246",
+              "pain": "看视频卡顿，有时卡死",
+              "suggestion": "优化视频播放性能，减少卡顿和卡死现象",
+              "source": "看视频卡顿，有时还卡死",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.kuaishou.hmapp_363",
+              "pain": "直播回放非常卡",
+              "suggestion": "优化播放性能",
+              "source": "直播回放非常卡，也没有拖动进度条的预览画面",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.kuaishou.hmapp_377",
+              "pain": "三倍速视频音画不同步",
+              "suggestion": "修复三倍速视频音画不同步问题，兼容鸿蒙6.0和6.1系统",
+              "source": "能不能修复一下三倍速视频后松手了音画不同步的问题，鸿蒙6.1系统，6.0系统都有这个问题",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_246",
+            "com.kuaishou.hmapp_363",
+            "com.kuaishou.hmapp_377"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "简介修改失效",
+          "canonical_issue": "更改简介后未保存生效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_324",
+              "pain": "更改简介后不生效",
+              "suggestion": "修复简介修改后不保存的bug",
+              "source": "为啥我那个更改简介改完之后点确定，他那个简介并没有变啊，之前还好好的，怎么现在变成这样子了？",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_324"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "作品状态异常",
+          "canonical_issue": "作品状态异常变为私密",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_325",
+              "pain": "作品莫名其妙被私密，反复发生",
+              "suggestion": "修复作品状态异常变为私密的问题",
+              "source": "作品莫名其妙的被私密了哈。昨天也是，我一个一个手动调回来，又被私密了今天。真是无语，而且那个客服能不能有一个转人工功能啊？",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_325"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "应用卡顿",
+          "canonical_issue": "应用整体运行卡顿",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_327",
+              "pain": "应用卡顿",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "希望快点儿更新 鸿蒙系统快手功能不全 还有好卡",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.kuaishou.hmapp_389",
+              "pain": "评论区点开卡顿几秒",
+              "suggestion": "优化评论区加载性能",
+              "source": "你们能解决鸿蒙系统，评论区点开要卡顿几秒，还有夜间模式。",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.kuaishou.hmapp_408",
+              "pain": "团购界面卡顿",
+              "suggestion": "建议优化团购界面性能，减少卡顿",
+              "source": "团购界面太卡了",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_327",
+            "com.kuaishou.hmapp_389",
+            "com.kuaishou.hmapp_408"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "浏览记录消失",
+          "canonical_issue": "作品浏览记录或流量记录消失",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_345",
+              "pain": "作品浏览记录可看几天后消失",
+              "suggestion": "修复浏览记录消失问题",
+              "source": "自己作品里的浏览记录可以看几天  又看不到了怎么回事",
+              "device": "HUAWEI Mate 70 Air"
+            },
+            {
+              "id": "com.kuaishou.hmapp_348",
+              "pain": "作品流量记录显示不了",
+              "suggestion": "修复作品流量记录显示",
+              "source": "鸿蒙6.0系统不给谁看找不到，音乐也不能单独开启，作品流量记录显示不了，草稿箱没有，发动态照片也只能是静态的。希望官方快点改进吧。",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.kuaishou.hmapp_349",
+              "pain": "作品浏览记录突然消失",
+              "suggestion": "修复浏览记录消失bug",
+              "source": "还是有bug吧，作品浏览记录突然就没了",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.kuaishou.hmapp_387",
+              "pain": "更新后浏览记录消失",
+              "suggestion": "修复浏览记录丢失问题",
+              "source": "今天刚更新了，结果浏览记录看不见了，不更新还能看，怎么功能还倒退呢？",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_345",
+            "com.kuaishou.hmapp_348",
+            "com.kuaishou.hmapp_349",
+            "com.kuaishou.hmapp_387"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "功能检测异常",
+          "canonical_issue": "功能显示‘检测中’无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_346",
+              "pain": "功能一直显示‘检测中’无法使用",
+              "suggestion": "修复功能检测状态，确保功能可用",
+              "source": "功能正在检测中是啥玩意儿？ 非常不满意 语音不能发更新也更新不好 想分享个主页和发发消息还有功能正在开发 如果说我没更新还好但是我更新了呀我还卸载重新下载了一遍 真的十分不满意 马上都不想玩这个快手了 都不知道发消息天天在发啥 检测检测还是检测 到底在干什么这是改动还是干啥 这还不如不改动呢没用的改动 太没用了说实话 非常不满意 不知道在干什么，改动还不如不改呢 学人家什么高级啊 还是用你之前的老旧版吧 用着比较舒服 你现在用的是什么玩意分享个主页还有功能暂不支持 我的号什么也没有问题 真不知道在干啥",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_346"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "更新后信息丢失",
+          "canonical_issue": "更新后部分信息无法查看",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_358",
+              "pain": "每次更新后部分信息无法查看",
+              "suggestion": "优化更新兼容性，确保更新后所有信息正常显示。",
+              "source": "每次更新，有的信息看不了！不支持！啥时候才能支持！",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_358"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "购买功能异常",
+          "canonical_issue": "更新后无法购买商品",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_383",
+              "pain": "更新后无法购买商品，一直提示重试",
+              "suggestion": "修复购买功能异常，确保更新后稳定",
+              "source": "更新完之后今天半夜突然不能买东西了，就一直让重试",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_383"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "视频加载失败",
+          "canonical_issue": "视频无法加载或连接失败",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_397",
+              "pain": "视频无法加载或连接失败",
+              "suggestion": "修复视频加载问题",
+              "source": "视频接\n不起。",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_397"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "应用闪退与卡顿",
+          "canonical_issue": "应用频繁闪退和卡顿，影响正常使用",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_427",
+              "pain": "闪退、卡顿、超级耗电。",
+              "suggestion": "优化稳定性，减少卡顿和耗电。",
+              "source": "鸿蒙版快手有点缺德，点击打开封面摇一摇广告多，闪退，卡顿 超级耗电",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.kuaishou.hmapp_468",
+              "pain": "快手查看浏览人卡，就退出",
+              "suggestion": "修复查看浏览人时的卡顿和闪退问题",
+              "source": "鸿蒙系统快手查看浏览人卡，就退出，希望改善一下，",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_470",
+              "pain": "卡成啥了呀？这快手bug巨多",
+              "suggestion": "全面优化系统兼容性和性能",
+              "source": "不是，我真服了呀，你这HarmonyOS5以上的系统，也就是HarmonyOS6的新系统，卡成啥了呀？这快手bug巨多，没登录帐号看评论咋不行，偶尔还会一直卡，那登录界面看都不能看，还得重新进。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_427",
+            "com.kuaishou.hmapp_468",
+            "com.kuaishou.hmapp_470"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "功能漏洞与显示异常",
+          "canonical_issue": "应用存在多个功能漏洞，如粉丝团标志、连麦人员不可见",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_431",
+              "pain": "太多漏洞",
+              "suggestion": "修复漏洞，提高稳定性",
+              "source": "看不见粉丝团标志，连麦的人也看不见，太多漏洞了",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_436",
+              "pain": "有严重bug，144hz没有120hz流畅",
+              "suggestion": "修复144hz流畅度问题",
+              "source": "有严重bug！144hz没有120hz流畅希望能修复",
+              "device": "HUAWEI MatePad Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_470",
+              "pain": "偶尔还会一直卡",
+              "suggestion": "排查并修复随机卡顿问题",
+              "source": "不是，我真服了呀，你这HarmonyOS5以上的系统，也就是HarmonyOS6的新系统，卡成啥了呀？这快手bug巨多，没登录帐号看评论咋不行，偶尔还会一直卡，那登录界面看都不能看，还得重新进。",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.kuaishou.hmapp_470",
+              "pain": "登录界面看都不能看，还得重新进",
+              "suggestion": "修复登录界面卡死问题",
+              "source": "不是，我真服了呀，你这HarmonyOS5以上的系统，也就是HarmonyOS6的新系统，卡成啥了呀？这快手bug巨多，没登录帐号看评论咋不行，偶尔还会一直卡，那登录界面看都不能看，还得重新进。",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.kuaishou.hmapp_497",
+              "pain": "直播有时看不到人",
+              "suggestion": "修复直播画面显示问题",
+              "source": "直播有时候看不到人。",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_431",
+            "com.kuaishou.hmapp_436",
+            "com.kuaishou.hmapp_470",
+            "com.kuaishou.hmapp_470",
+            "com.kuaishou.hmapp_497"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "评论与互动性能问题",
+          "canonical_issue": "评论提交、点赞及刷新等互动操作存在延迟或失效",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_461",
+              "pain": "给别人发评论的时候会卡一会",
+              "suggestion": "优化评论提交性能",
+              "source": "保存不了别人私信发的视频或照片，还有分享朋友的根本找不到自己的好友，都是不熟的或者自己单方面关注的。给别人发评论的时候会卡一会，给评论点赞之后刷新一下之后自己点的赞就没了。这些是我目前发现的问题，希望能改进，立即更新。",
+              "device": "华为畅享 90 Plus"
+            },
+            {
+              "id": "com.kuaishou.hmapp_463",
+              "pain": "看个快手都感觉会慢半拍，打开评论等半天",
+              "suggestion": "优化整体运行流畅度",
+              "source": "现在鸿蒙搞什么，看个快手都感觉会慢半拍，打开评论等半天，失望透顶",
+              "device": "nova 14 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_461",
+            "com.kuaishou.hmapp_463"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "隐私与权限异常",
+          "canonical_issue": "应用存在未经授权的摄像头调用行为",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_485",
+              "pain": "应用会自动调用摄像头，存在异常行为",
+              "suggestion": "修复自动调用摄像头的问题，确保隐私安全",
+              "source": "这个会自动调用摄像头，我家小孩用手机看视频会放出动画片，而我看手机从来不会有",
+              "device": "nova 12 Ultra 星耀版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_485"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "付费内容访问故障",
+          "canonical_issue": "更新后付费内容无法正常观看",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_486",
+              "pain": "更新后所有付费内容无法观看",
+              "suggestion": "修复付费内容无法观看的bug",
+              "source": "更新以后，所有付费内容都无法观看了",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_486"
+          ]
+        },
+        {
+          "cluster_id": "61",
+          "cluster_name": "网络连接性能问题",
+          "canonical_issue": "鸿蒙系统下无线网络连接卡顿，影响应用使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_491",
+              "pain": "无线网打开卡顿慢",
+              "suggestion": "修复鸿蒙系统无线网卡顿问题",
+              "source": "可修修鸿蒙系统无线网打开卡顿慢的问题吧，同等网络下安卓系统就没有这个问题",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_491"
+          ]
+        }
+      ]
+    }
+  },
+  "UI与交互": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "62",
+          "cluster_name": "界面设计不佳",
+          "canonical_issue": "整体界面设计不符合用户习惯，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_29",
+              "pain": "界面设计奇怪，用户体验不佳。",
+              "suggestion": "优化界面设计，使其更符合用户习惯和美观。",
+              "source": "感觉快手界面很奇快 改改吧",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_29"
+          ]
+        },
+        {
+          "cluster_id": "63",
+          "cluster_name": "视频黑边问题",
+          "canonical_issue": "视频播放时底部存在无法缩大的黑边",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_53",
+              "pain": "视频下方大黑边不能缩小",
+              "suggestion": "优化视频下方黑边大小，提供缩小选项",
+              "source": "那么多功能都没有，视频下面那条大黑边什么时候可以缩小，打赏礼物里面很多礼物页面都没有，创作者中心也没有，这些问题可以快点解决吗",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_53"
+          ]
+        },
+        {
+          "cluster_id": "64",
+          "cluster_name": "私信功能简陋",
+          "canonical_issue": "私信页面功能过于简单，缺乏必要功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_76",
+              "pain": "私信页面过于简洁，功能不足",
+              "suggestion": "丰富私信页面功能",
+              "source": "群聊页面太简洁无法查找之前的聊天照片和视频，私信页面干净的比兜还干净，请尽快完善吧",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_76"
+          ]
+        },
+        {
+          "cluster_id": "65",
+          "cluster_name": "分享流程繁琐",
+          "canonical_issue": "分享视频给好友需要多步操作，流程复杂",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_119",
+              "pain": "分享视频给好友需点击更多再搜索名字，流程繁琐",
+              "suggestion": "优化分享流程，提供直接搜索或推荐好友列表",
+              "source": "能不能快点上线给好友分享视频时不用点击更多还要去搜名字",
+              "device": "HUAWEI MatePad 11.5''S"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_119"
+          ]
+        },
+        {
+          "cluster_id": "66",
+          "cluster_name": "音量调节异常",
+          "canonical_issue": "直播时音量调节控件不显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_123",
+              "pain": "看直播时加减音量不显示。",
+              "suggestion": "修复音量调节控件显示异常，确保用户可正常调节音量。",
+              "source": "看直播，加减音量，不显示了！",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_123"
+          ]
+        },
+        {
+          "cluster_id": "67",
+          "cluster_name": "UI显示异常",
+          "canonical_issue": "底部出现镂空字等UI渲染问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_129",
+              "pain": "底部出现镂空字，显示异常。",
+              "suggestion": "排查UI渲染问题，修复底部镂空字显示错误。",
+              "source": "底部镂空字什么情况？",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_129"
+          ]
+        },
+        {
+          "cluster_id": "68",
+          "cluster_name": "缺少底部悬浮tab栏适配",
+          "canonical_issue": "缺少底部悬浮tab栏适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_152",
+              "pain": "缺少底部悬浮tab栏适配",
+              "suggestion": "适配底部悬浮tab栏，深度适配鸿蒙",
+              "source": "期望快手适配底部悬浮tab栏！深度适配鸿蒙",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_152"
+          ]
+        },
+        {
+          "cluster_id": "69",
+          "cluster_name": "特效设计不佳",
+          "canonical_issue": "特效设计土气，不如其他设备上的效果",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_250",
+              "pain": "特效土，不如其他手机上的特效好看",
+              "suggestion": "优化特效设计，提升美观度",
+              "source": "我觉得其他都挺好的就是特别无语的一点就是这个特效感觉都好土啊然后别人手机上的特效都特别好看然后就我奶奶这个手机上这个特效都特别土。",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_250"
+          ]
+        },
+        {
+          "cluster_id": "70",
+          "cluster_name": "字体大小调节缺失",
+          "canonical_issue": "缺少字体大小调节功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_347",
+              "pain": "没有字体大小调节",
+              "suggestion": "增加字体大小调节功能",
+              "source": "没有字体大小调节",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_347"
+          ]
+        },
+        {
+          "cluster_id": "71",
+          "cluster_name": "夜间模式缺失",
+          "canonical_issue": "缺少夜间模式功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_389",
+              "pain": "缺少夜间模式",
+              "suggestion": "增加夜间模式功能",
+              "source": "你们能解决鸿蒙系统，评论区点开要卡顿几秒，还有夜间模式。",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_389"
+          ]
+        },
+        {
+          "cluster_id": "72",
+          "cluster_name": "引用评论交互不友好",
+          "canonical_issue": "引用评论的交互体验不佳",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_414",
+              "pain": "引用评论交互不友好",
+              "suggestion": "优化引用评论的交互体验，使其更友好",
+              "source": "更新版本速度快一点，现在的引用评论真不友好",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_414"
+          ]
+        },
+        {
+          "cluster_id": "73",
+          "cluster_name": "界面显示异常",
+          "canonical_issue": "多个界面无法正常显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_453",
+              "pain": "很多界面看不到",
+              "suggestion": "修复界面显示异常问题",
+              "source": "现在有很多看不到界面，怎么回事",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_453"
+          ]
+        },
+        {
+          "cluster_id": "74",
+          "cluster_name": "抽奖图标不显示",
+          "canonical_issue": "右上角抽奖图标无法显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_457",
+              "pain": "右上角抽奖图标不显示",
+              "suggestion": "修复抽奖图标显示问题",
+              "source": "我这里的快手看不了右上角的抽奖图标",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_457"
+          ]
+        },
+        {
+          "cluster_id": "75",
+          "cluster_name": "评论区字体大小问题",
+          "canonical_issue": "评论区字体太小且无法调节大小",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_459",
+              "pain": "评论区字体太小且不能调整大小",
+              "suggestion": "增加评论区字体大小调节功能",
+              "source": "评论区的字太小了  看别人的评论有看不清  我需要能大能小的功能  还有每次打开不要自动把声音放到最大  很不方便",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_459"
+          ]
+        }
+      ]
+    }
+  },
+  "内容生态": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "76",
+          "cluster_name": "推荐内容不精准",
+          "canonical_issue": "推荐算法未能根据用户年龄和偏好精准推荐内容，导致推荐内容不符合用户期望",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_35",
+              "pain": "推荐视频内容不精准，不符合16岁年龄段",
+              "suggestion": "优化推荐算法，根据年龄推荐合适视频",
+              "source": "挺好的，就是那个推荐的视频，给我推荐高质量的，比较符合我这个16岁年龄段的。不要给我推荐一些什么AI视频和一些老人视频！",
+              "device": "HUAWEI MatePad Air"
+            },
+            {
+              "id": "com.kuaishou.hmapp_253",
+              "pain": "希望删除AI合成视频和评分低的视频",
+              "suggestion": "优化推荐算法，减少AI合成视频和低评分视频的展示",
+              "source": "希望删除掉那些AI合成视频和一些评分低的视频。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_35",
+            "com.kuaishou.hmapp_253"
+          ]
+        },
+        {
+          "cluster_id": "77",
+          "cluster_name": "视频质量待优化",
+          "canonical_issue": "视频画质或整体内容质量需要提升",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_147",
+              "pain": "视频质量需要优化",
+              "suggestion": "优化视频质量",
+              "source": "快手能不能优化一下你的视频质量，还有\n你的环境",
+              "device": "nova 14 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_147"
+          ]
+        }
+      ]
+    }
+  },
+  "体验赞赏": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "80",
+          "cluster_name": "整体体验赞赏",
+          "canonical_issue": "用户对快手应用整体体验表示满意和赞赏",
+          "size": 13,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_67",
+              "pain": "整体体验漂亮",
+              "suggestion": "无",
+              "source": "非常的beautiful.",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.kuaishou.hmapp_71",
+              "pain": "用户整体体验很好",
+              "suggestion": "无",
+              "source": "很好",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.kuaishou.hmapp_111",
+              "pain": "观看体验不错",
+              "suggestion": "无",
+              "source": "基本上是非常好的，观看体验也不错，我听说那个打到关系到达100级，可以和养小猫咪。感觉可以降一点，因为我们才十几级。降到50级。建议听一下。谢谢，",
+              "device": "HUAWEI Pura 90"
+            },
+            {
+              "id": "com.kuaishou.hmapp_125",
+              "pain": "用户认为还可以，整体体验尚可。",
+              "suggestion": "无",
+              "source": "我觉得还可以。",
+              "device": "HUAWEI MatePad 11.5"
+            },
+            {
+              "id": "com.kuaishou.hmapp_128",
+              "pain": "用户评价挺好，满意。",
+              "suggestion": "无",
+              "source": "挺好的。",
+              "device": "nova Flip S"
+            },
+            {
+              "id": "com.kuaishou.hmapp_130",
+              "pain": "用户认为很不错，赞赏。",
+              "suggestion": "无",
+              "source": "很不错！",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.kuaishou.hmapp_137",
+              "pain": "用户表示喜欢",
+              "suggestion": "无",
+              "source": "喜欢。",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_174",
+              "pain": "体验很好",
+              "suggestion": "无",
+              "source": "很好。",
+              "device": "HUAWEI MatePad 11.5 S"
+            },
+            {
+              "id": "com.kuaishou.hmapp_193",
+              "pain": "整体体验优秀",
+              "suggestion": "无",
+              "source": "牛逼",
+              "device": "HUAWEI MatePad Air"
+            },
+            {
+              "id": "com.kuaishou.hmapp_243",
+              "pain": "快手挺好看的",
+              "suggestion": "无",
+              "source": "这快手还挺好看的，我是乐乐小号啊乐乐大号",
+              "device": "HUAWEI MatePad 11.5 S 活力版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_288",
+              "pain": "用户对应用表示赞赏",
+              "suggestion": "无",
+              "source": "好好好",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_296",
+              "pain": "用户表达对快手整体好评",
+              "suggestion": "无",
+              "source": "快手好",
+              "device": "HUAWEI Pura X 典藏版"
+            },
+            {
+              "id": "com.kuaishou.hmapp_321",
+              "pain": "用户整体评价非常好",
+              "suggestion": "无",
+              "source": "非常好！",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_67",
+            "com.kuaishou.hmapp_71",
+            "com.kuaishou.hmapp_111",
+            "com.kuaishou.hmapp_125",
+            "com.kuaishou.hmapp_128",
+            "com.kuaishou.hmapp_130",
+            "com.kuaishou.hmapp_137",
+            "com.kuaishou.hmapp_174",
+            "com.kuaishou.hmapp_193",
+            "com.kuaishou.hmapp_243",
+            "com.kuaishou.hmapp_288",
+            "com.kuaishou.hmapp_296",
+            "com.kuaishou.hmapp_321"
+          ]
+        },
+        {
+          "cluster_id": "81",
+          "cluster_name": "产品成长认可",
+          "canonical_issue": "用户认可快手产品的持续改进和成长",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_79",
+              "pain": "用户认可产品的逐步成长",
+              "suggestion": "无",
+              "source": "一点点的成长也挺不错的",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.kuaishou.hmapp_267",
+              "pain": "一直在进化，给快手团队点赞👍",
+              "suggestion": "无",
+              "source": "一直在进化，给快手团队点赞👍",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_79",
+            "com.kuaishou.hmapp_267"
+          ]
+        },
+        {
+          "cluster_id": "82",
+          "cluster_name": "平台感恩表达",
+          "canonical_issue": "用户对快手平台表示感谢和感恩",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_103",
+              "pain": "用户对平台表示感谢",
+              "suggestion": "无",
+              "source": "感恩平台",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_103"
+          ]
+        },
+        {
+          "cluster_id": "83",
+          "cluster_name": "更新态度赞赏",
+          "canonical_issue": "用户对快手积极的更新态度表示赞赏",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_428",
+              "pain": "更新态度积极，令人赞赏。",
+              "suggestion": "无",
+              "source": "更新态度积极",
+              "device": "nova 12 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_428"
+          ]
+        },
+        {
+          "cluster_id": "84",
+          "cluster_name": "功能设计赞赏",
+          "canonical_issue": "用户对快手应用的功能设计表示赞赏",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_388",
+              "pain": "没有礼物界面，省钱",
+              "suggestion": "无",
+              "source": "我这都没有礼物界面 真好省钱了",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_388"
+          ]
+        },
+        {
+          "cluster_id": "85",
+          "cluster_name": "整体体验赞赏",
+          "canonical_issue": "用户对应用整体体验表示满意",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.kuaishou.hmapp_433",
+              "pain": "很好.",
+              "suggestion": "无",
+              "source": "很好.",
+              "device": "HUAWEI MatePad 11.5 S"
+            },
+            {
+              "id": "com.kuaishou.hmapp_451",
+              "pain": "用户表示好用",
+              "suggestion": "无",
+              "source": "好用",
+              "device": "HUAWEI MatePad Pro"
+            },
+            {
+              "id": "com.kuaishou.hmapp_467",
+              "pain": "优秀",
+              "suggestion": "无",
+              "source": "优秀",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.kuaishou.hmapp_433",
+            "com.kuaishou.hmapp_451",
+            "com.kuaishou.hmapp_467"
+          ]
+        }
+      ]
+    }
+  },
+  "n_clusters": 100
+}

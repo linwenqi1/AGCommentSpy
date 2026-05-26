@@ -1,0 +1,3502 @@
+[
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 1,
+    "batch_ids": [
+      "com.amap.hmapp_1",
+      "com.amap.hmapp_2",
+      "com.amap.hmapp_3",
+      "com.amap.hmapp_4",
+      "com.amap.hmapp_5",
+      "com.amap.hmapp_6",
+      "com.amap.hmapp_7",
+      "com.amap.hmapp_8",
+      "com.amap.hmapp_9",
+      "com.amap.hmapp_10"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_1",
+        "content": "新系统下的家人地图无法运用",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_2",
+        "content": "好用",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_3",
+        "content": "超赞的地图应用",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.amap.hmapp_4",
+        "content": "路线规划可以",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_5",
+        "content": "超级好评",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_6",
+        "content": "靓！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_7",
+        "content": "好，准",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_8",
+        "content": "好用，嘎嘎牛逼",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_9",
+        "content": "准确",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.amap.hmapp_10",
+        "content": "五⭐️星好平",
+        "device": "HUAWEI Mate 60 Pro+"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_1\",\n        \"User_Pain_Point\": \"新系统下的家人地图无法运用\",\n        \"Actionable_Suggestion\": \"建议修复新系统下家人地图功能的兼容性问题\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_4\",\n        \"User_Pain_Point\": \"路线规划可以\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_7\",\n        \"User_Pain_Point\": \"好，准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_9\",\n        \"User_Pain_Point\": \"准确\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_2\",\n        \"User_Pain_Point\": \"好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_3\",\n        \"User_Pain_Point\": \"超赞的地图应用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_5\",\n        \"User_Pain_Point\": \"超级好评\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_6\",\n        \"User_Pain_Point\": \"靓！\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_8\",\n        \"User_Pain_Point\": \"好用，嘎嘎牛逼\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_10\",\n        \"User_Pain_Point\": \"五⭐️星好平\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 2,
+    "batch_ids": [
+      "com.amap.hmapp_11",
+      "com.amap.hmapp_12",
+      "com.amap.hmapp_13",
+      "com.amap.hmapp_14",
+      "com.amap.hmapp_15",
+      "com.amap.hmapp_16",
+      "com.amap.hmapp_17",
+      "com.amap.hmapp_18",
+      "com.amap.hmapp_19",
+      "com.amap.hmapp_20"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_11",
+        "content": "非常准确",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_12",
+        "content": "准确！！！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_13",
+        "content": "非常智能。",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_14",
+        "content": "位置精确，用时短！",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_15",
+        "content": "方便",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_16",
+        "content": "非常好用的，挺舒心的。",
+        "device": "HUAWEI Mate 70 Air"
+      },
+      {
+        "id": "com.amap.hmapp_17",
+        "content": "很好",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_18",
+        "content": "非常好666",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_19",
+        "content": "精准好用。",
+        "device": "nova 15 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_20",
+        "content": "挺好",
+        "device": "HUAWEI Pura 70"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_11\",\n        \"User_Pain_Point\": \"位置准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_12\",\n        \"User_Pain_Point\": \"准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_13\",\n        \"User_Pain_Point\": \"智能\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_14\",\n        \"User_Pain_Point\": \"位置精确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_14\",\n        \"User_Pain_Point\": \"用时短\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_15\",\n        \"User_Pain_Point\": \"方便\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_16\",\n        \"User_Pain_Point\": \"好用且舒心\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_17\",\n        \"User_Pain_Point\": \"很好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_18\",\n        \"User_Pain_Point\": \"非常好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_19\",\n        \"User_Pain_Point\": \"精准好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_20\",\n        \"User_Pain_Point\": \"挺好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 3,
+    "batch_ids": [
+      "com.amap.hmapp_21",
+      "com.amap.hmapp_22",
+      "com.amap.hmapp_23",
+      "com.amap.hmapp_24",
+      "com.amap.hmapp_25",
+      "com.amap.hmapp_26",
+      "com.amap.hmapp_27",
+      "com.amap.hmapp_28",
+      "com.amap.hmapp_29",
+      "com.amap.hmapp_30"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_21",
+        "content": "准",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_22",
+        "content": "位置准确",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_23",
+        "content": "在著名一些旅游景点的路",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_24",
+        "content": "非常的非常好用！所有地图都没有高德好用，高德有自己的地图机制，超级智能化，贴心服务！",
+        "device": "HUAWEI Mate 60 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_25",
+        "content": "一直使用，好用",
+        "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_26",
+        "content": "好好好",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_27",
+        "content": "精准",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_28",
+        "content": "准确。",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_29",
+        "content": "很好，很准确。",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_30",
+        "content": "很少用，感觉不错",
+        "device": "HUAWEI Pura X Max 典藏版"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_21\", \"User_Pain_Point\": \"准\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_22\", \"User_Pain_Point\": \"位置准确\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_27\", \"User_Pain_Point\": \"精准\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_28\", \"User_Pain_Point\": \"准确。\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_29\", \"User_Pain_Point\": \"很准确。\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_24\", \"User_Pain_Point\": \"非常的非常好用！所有地图都没有高德好用，高德有自己的地图机制，超级智能化，贴心服务！\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_25\", \"User_Pain_Point\": \"一直使用，好用\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_26\", \"User_Pain_Point\": \"好好好\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_29\", \"User_Pain_Point\": \"很好\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_30\", \"User_Pain_Point\": \"很少用，感觉不错\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 4,
+    "batch_ids": [
+      "com.amap.hmapp_31",
+      "com.amap.hmapp_32",
+      "com.amap.hmapp_33",
+      "com.amap.hmapp_34",
+      "com.amap.hmapp_35",
+      "com.amap.hmapp_36",
+      "com.amap.hmapp_37",
+      "com.amap.hmapp_38",
+      "com.amap.hmapp_39",
+      "com.amap.hmapp_40"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_31",
+        "content": "非常好用",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_32",
+        "content": "继续加油。",
+        "device": "nova 14 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_33",
+        "content": "蛮好的",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_34",
+        "content": "特别好。",
+        "device": "HUAWEI Mate X6 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_35",
+        "content": "一直在用",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_36",
+        "content": "非常棒",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_37",
+        "content": "非常好的导航",
+        "device": "HUAWEI Mate XT | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_38",
+        "content": "方便快捷，",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_39",
+        "content": "一直用没用过别的",
+        "device": "nova 12"
+      },
+      {
+        "id": "com.amap.hmapp_40",
+        "content": "谢谢商家，已经到达，",
+        "device": "HUAWEI Mate 70 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_31\",\n        \"User_Pain_Point\": \"用户认为非常好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_32\",\n        \"User_Pain_Point\": \"用户表达鼓励\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_33\",\n        \"User_Pain_Point\": \"用户认为蛮好的\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_34\",\n        \"User_Pain_Point\": \"用户认为特别好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_35\",\n        \"User_Pain_Point\": \"用户一直在使用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_36\",\n        \"User_Pain_Point\": \"用户认为非常棒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_37\",\n        \"User_Pain_Point\": \"用户认为导航非常好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_38\",\n        \"User_Pain_Point\": \"用户认为方便快捷\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_39\",\n        \"User_Pain_Point\": \"用户一直使用，没换过其他\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_40\",\n        \"User_Pain_Point\": \"用户感谢商家，已到达目的地\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 5,
+    "batch_ids": [
+      "com.amap.hmapp_41",
+      "com.amap.hmapp_42",
+      "com.amap.hmapp_43",
+      "com.amap.hmapp_44",
+      "com.amap.hmapp_45",
+      "com.amap.hmapp_46",
+      "com.amap.hmapp_47",
+      "com.amap.hmapp_48",
+      "com.amap.hmapp_49",
+      "com.amap.hmapp_50"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_41",
+        "content": "非常好用的导航软件啊",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_42",
+        "content": "安逸",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_43",
+        "content": "导航只用高德",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_44",
+        "content": "准确，即时。",
+        "device": "nova 13 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_45",
+        "content": "导航挺给力。",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_46",
+        "content": "不错不错，很准确",
+        "device": "nova 15 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_47",
+        "content": "非常到位。",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_48",
+        "content": "导航精准，不绕路。",
+        "device": "HUAWEI Mate 70 Air"
+      },
+      {
+        "id": "com.amap.hmapp_49",
+        "content": "很好。",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_50",
+        "content": "地址准确",
+        "device": "HUAWEI Mate X6"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_41\",\n        \"User_Pain_Point\": \"非常好用的导航软件啊\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_42\",\n        \"User_Pain_Point\": \"安逸\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_43\",\n        \"User_Pain_Point\": \"导航只用高德\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_44\",\n        \"User_Pain_Point\": \"准确，即时。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_45\",\n        \"User_Pain_Point\": \"导航挺给力。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_46\",\n        \"User_Pain_Point\": \"不错不错，很准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_47\",\n        \"User_Pain_Point\": \"非常到位。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_48\",\n        \"User_Pain_Point\": \"导航精准，不绕路。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_49\",\n        \"User_Pain_Point\": \"很好。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_50\",\n        \"User_Pain_Point\": \"地址准确\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 6,
+    "batch_ids": [
+      "com.amap.hmapp_51",
+      "com.amap.hmapp_52",
+      "com.amap.hmapp_53",
+      "com.amap.hmapp_54",
+      "com.amap.hmapp_55",
+      "com.amap.hmapp_56",
+      "com.amap.hmapp_57",
+      "com.amap.hmapp_58",
+      "com.amap.hmapp_59",
+      "com.amap.hmapp_60"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_51",
+        "content": "导航路线又快又准，播报语音清晰且温暖👍👍👍",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_52",
+        "content": "好用，线路清楚，语音清晰",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_53",
+        "content": "便捷高效",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_54",
+        "content": "准确率高！功能强大！使用方便！",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_55",
+        "content": "很好用。",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_56",
+        "content": "很好用，用多年了",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_57",
+        "content": "很方便",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.amap.hmapp_58",
+        "content": "高德一路陪伴10多年 ，导航精准 完美信任 ，出行不2选择",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_59",
+        "content": "pura X上主屏没问题，在小屏上定位朝向的箭头跟实际上对不上，应该是因为手机叠起来之后默认方向变了",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.amap.hmapp_60",
+        "content": "基本正确",
+        "device": "HUAWEI Mate 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_51\",\n        \"User_Pain_Point\": \"导航路线又快又准，播报语音清晰且温暖\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_52\",\n        \"User_Pain_Point\": \"线路清楚，语音清晰\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_53\",\n        \"User_Pain_Point\": \"便捷高效\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_54\",\n        \"User_Pain_Point\": \"准确率高！功能强大！使用方便！\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_55\",\n        \"User_Pain_Point\": \"很好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_56\",\n        \"User_Pain_Point\": \"很好用，用多年了\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_57\",\n        \"User_Pain_Point\": \"很方便\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_58\",\n        \"User_Pain_Point\": \"导航精准，完美信任，出行不二选择\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Neutral\": [\n      {\n        \"id\": \"com.amap.hmapp_60\",\n        \"User_Pain_Point\": \"基本正确\",\n        \"Actionable_Suggestion\": \"继续提升准确性，保持用户信任\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_59\",\n        \"User_Pain_Point\": \"小屏上定位朝向箭头与实际对不上，应该是折叠后默认方向变了\",\n        \"Actionable_Suggestion\": \"适配折叠屏小屏时的方向传感器，确保箭头方向与实际一致\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 7,
+    "batch_ids": [
+      "com.amap.hmapp_61",
+      "com.amap.hmapp_62",
+      "com.amap.hmapp_63",
+      "com.amap.hmapp_64",
+      "com.amap.hmapp_65",
+      "com.amap.hmapp_66",
+      "com.amap.hmapp_67",
+      "com.amap.hmapp_68",
+      "com.amap.hmapp_69",
+      "com.amap.hmapp_70"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_61",
+        "content": "位置精准",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_62",
+        "content": "发出棒",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_63",
+        "content": "很好用，很懂我",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_64",
+        "content": "导航精度非常高，界面也很棒，也很顺滑，只不过就是锁屏状态下，还是触发和更新的不够及时，可以再优化一下。",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_65",
+        "content": "一直很好用。👍",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_66",
+        "content": "很好用，一直在用高德！",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_67",
+        "content": "非常精准",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_68",
+        "content": "非常准确。",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_69",
+        "content": "非常好",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_70",
+        "content": "导航准确，路径优秀。",
+        "device": "HUAWEI Mate 60 Pro+"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_61\", \"User_Pain_Point\": \"位置精准\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_64\", \"User_Pain_Point\": \"导航精度非常高，界面也很棒，也很顺滑\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_67\", \"User_Pain_Point\": \"非常精准\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_68\", \"User_Pain_Point\": \"非常准确\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_70\", \"User_Pain_Point\": \"导航准确，路径优秀\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_62\", \"User_Pain_Point\": \"发出棒\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_63\", \"User_Pain_Point\": \"很好用，很懂我\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_65\", \"User_Pain_Point\": \"一直很好用。👍\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_66\", \"User_Pain_Point\": \"很好用，一直在用高德！\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_69\", \"User_Pain_Point\": \"非常好\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      { \"id\": \"com.amap.hmapp_64\", \"User_Pain_Point\": \"锁屏状态下，还是触发和更新的不够及时\", \"Actionable_Suggestion\": \"优化锁屏状态下的定位触发和更新机制\" }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 8,
+    "batch_ids": [
+      "com.amap.hmapp_71",
+      "com.amap.hmapp_72",
+      "com.amap.hmapp_73",
+      "com.amap.hmapp_74",
+      "com.amap.hmapp_75",
+      "com.amap.hmapp_76",
+      "com.amap.hmapp_77",
+      "com.amap.hmapp_78",
+      "com.amap.hmapp_79",
+      "com.amap.hmapp_80"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_71",
+        "content": "嘿嘿  很好",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_72",
+        "content": "非常好用的一款软件。",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_73",
+        "content": "真好啊。导航倍儿准确。",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_74",
+        "content": "不错",
+        "device": "nova 14 活力版"
+      },
+      {
+        "id": "com.amap.hmapp_75",
+        "content": "精准快捷。",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_76",
+        "content": "高德好用，导航准确",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_77",
+        "content": "高德是首选，也是唯一！",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_78",
+        "content": "好用的不得了",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_79",
+        "content": "挺好的",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_80",
+        "content": "一直很好用，鸿蒙版也很不错了",
+        "device": "HUAWEI Pura X Max 典藏版"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_71\",\n        \"User_Pain_Point\": \"用户表示很好，整体满意\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_72\",\n        \"User_Pain_Point\": \"用户称赞非常好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_73\",\n        \"User_Pain_Point\": \"导航准确，非常满意\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_74\",\n        \"User_Pain_Point\": \"整体不错，满意\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_75\",\n        \"User_Pain_Point\": \"导航精准快捷\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_76\",\n        \"User_Pain_Point\": \"好用且导航准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_77\",\n        \"User_Pain_Point\": \"高德是首选，忠诚度高\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_78\",\n        \"User_Pain_Point\": \"非常好用，体验极佳\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_79\",\n        \"User_Pain_Point\": \"整体感觉很好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_80\",\n        \"User_Pain_Point\": \"一直很好用，鸿蒙版也不错\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 9,
+    "batch_ids": [
+      "com.amap.hmapp_81",
+      "com.amap.hmapp_82",
+      "com.amap.hmapp_83",
+      "com.amap.hmapp_84",
+      "com.amap.hmapp_85",
+      "com.amap.hmapp_86",
+      "com.amap.hmapp_87",
+      "com.amap.hmapp_88",
+      "com.amap.hmapp_89",
+      "com.amap.hmapp_90"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_81",
+        "content": "清楚准确",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_82",
+        "content": "棒棒",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_83",
+        "content": "非常适合鸿蒙 非常好用",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_84",
+        "content": "非常赞👍",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_85",
+        "content": "线路很清晰！",
+        "device": "HUAWEI Pura X 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_86",
+        "content": "精准导航，细节突出",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_87",
+        "content": "淳朴的",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_88",
+        "content": "很好用，比腾讯地图好用一万倍",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_89",
+        "content": "好用实用",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_90",
+        "content": "很好用",
+        "device": "nova 14"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_85\", \"User_Pain_Point\": \"线路很清晰！\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_86\", \"User_Pain_Point\": \"精准导航，细节突出\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_83\", \"User_Pain_Point\": \"非常适合鸿蒙\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_81\", \"User_Pain_Point\": \"清楚准确\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_82\", \"User_Pain_Point\": \"棒棒\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_83\", \"User_Pain_Point\": \"非常好用\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_84\", \"User_Pain_Point\": \"非常赞👍\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_87\", \"User_Pain_Point\": \"淳朴的\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_88\", \"User_Pain_Point\": \"很好用，比腾讯地图好用一万倍\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_89\", \"User_Pain_Point\": \"好用实用\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_90\", \"User_Pain_Point\": \"很好用\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 10,
+    "batch_ids": [
+      "com.amap.hmapp_91",
+      "com.amap.hmapp_92",
+      "com.amap.hmapp_93",
+      "com.amap.hmapp_94",
+      "com.amap.hmapp_95",
+      "com.amap.hmapp_96",
+      "com.amap.hmapp_97",
+      "com.amap.hmapp_98",
+      "com.amap.hmapp_99",
+      "com.amap.hmapp_100"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_91",
+        "content": "高端大气上档次！！！",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_92",
+        "content": "路段清晰，值得推荐。",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_93",
+        "content": "导航精准",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_94",
+        "content": "好用，一直在用",
+        "device": "HUAWEI Mate X6 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_95",
+        "content": "位置准",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_96",
+        "content": "路线准确",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_97",
+        "content": "用着一点毛病没有",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_98",
+        "content": "很准确",
+        "device": "HUAWEI Pura 80 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_99",
+        "content": "非常棒，已经支持全部上实况窗了，接下来不知能否支持横屏骑行导航？",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_100",
+        "content": "一直很高，很棒",
+        "device": "HUAWEI Mate 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_92\",\n        \"User_Pain_Point\": \"路段清晰\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_93\",\n        \"User_Pain_Point\": \"导航精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_95\",\n        \"User_Pain_Point\": \"位置准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_96\",\n        \"User_Pain_Point\": \"路线准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_98\",\n        \"User_Pain_Point\": \"很准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_99\",\n        \"User_Pain_Point\": \"已经支持全部上实况窗了\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Neutral\": [\n      {\n        \"id\": \"com.amap.hmapp_99\",\n        \"User_Pain_Point\": \"希望支持横屏骑行导航\",\n        \"Actionable_Suggestion\": \"增加横屏骑行导航功能\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_97\",\n        \"User_Pain_Point\": \"用着一点毛病没有\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_91\",\n        \"User_Pain_Point\": \"高端大气上档次\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_94\",\n        \"User_Pain_Point\": \"好用，一直在用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_100\",\n        \"User_Pain_Point\": \"一直很高，很棒\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 11,
+    "batch_ids": [
+      "com.amap.hmapp_101",
+      "com.amap.hmapp_102",
+      "com.amap.hmapp_103",
+      "com.amap.hmapp_104",
+      "com.amap.hmapp_105",
+      "com.amap.hmapp_106",
+      "com.amap.hmapp_107",
+      "com.amap.hmapp_108",
+      "com.amap.hmapp_109",
+      "com.amap.hmapp_110"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_101",
+        "content": "赞👍",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_102",
+        "content": "红灯少，路线准确",
+        "device": "HUAWEI Mate X7 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_103",
+        "content": "好用好用",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_104",
+        "content": "导航清楚",
+        "device": "HUAWEI Mate X7 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_105",
+        "content": "非常棒！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_106",
+        "content": "定位精准，使用方便！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_107",
+        "content": "非常的好。",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_108",
+        "content": "导航准确准时！",
+        "device": "HUAWEI Mate X6"
+      },
+      {
+        "id": "com.amap.hmapp_109",
+        "content": "非常精准，规划合理！好评！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_110",
+        "content": "是努力导航的一天呐。",
+        "device": "HUAWEI Mate 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_101\",\n        \"User_Pain_Point\": \"用户非常满意，给出赞👍。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_102\",\n        \"User_Pain_Point\": \"用户认为红灯少，路线准确。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_103\",\n        \"User_Pain_Point\": \"用户觉得好用。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_104\",\n        \"User_Pain_Point\": \"用户认为导航清楚。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_105\",\n        \"User_Pain_Point\": \"用户认为非常棒。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_106\",\n        \"User_Pain_Point\": \"用户认为定位精准，使用方便。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_107\",\n        \"User_Pain_Point\": \"用户认为非常的好。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_108\",\n        \"User_Pain_Point\": \"用户认为导航准确准时。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_109\",\n        \"User_Pain_Point\": \"用户认为非常精准，规划合理，给予好评。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_110\",\n        \"User_Pain_Point\": \"用户认为导航努力。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 12,
+    "batch_ids": [
+      "com.amap.hmapp_111",
+      "com.amap.hmapp_112",
+      "com.amap.hmapp_113",
+      "com.amap.hmapp_114",
+      "com.amap.hmapp_115",
+      "com.amap.hmapp_116",
+      "com.amap.hmapp_117",
+      "com.amap.hmapp_118",
+      "com.amap.hmapp_119",
+      "com.amap.hmapp_120"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_111",
+        "content": "好👌",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_112",
+        "content": "一个字:准！二个字:准确完美！",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_113",
+        "content": "不错，很好用",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_114",
+        "content": "好程序值得信赖",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_115",
+        "content": "稍微有一点偏差，基本是对的",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_116",
+        "content": "还可以的，就是指导方向可以更灵活一点，有时候手机放裤兜就一直说走反了",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_117",
+        "content": "精准导航，非常好👌。",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_118",
+        "content": "准确无误",
+        "device": "HUAWEI MatePad Mini"
+      },
+      {
+        "id": "com.amap.hmapp_119",
+        "content": "完美",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_120",
+        "content": "很精准",
+        "device": "HUAWEI Mate 70 Pro+"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_115\",\n        \"User_Pain_Point\": \"用户提到导航稍微有一点偏差\",\n        \"Actionable_Suggestion\": \"优化定位算法，减少微小偏差\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_116\",\n        \"User_Pain_Point\": \"用户反馈方向指导不够灵活，手机放裤兜时一直说走反了\",\n        \"Actionable_Suggestion\": \"改进方向判断逻辑，考虑手机姿态和放置位置，避免误报\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_112\",\n        \"User_Pain_Point\": \"用户赞赏导航准确完美\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_117\",\n        \"User_Pain_Point\": \"用户称赞精准导航\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_118\",\n        \"User_Pain_Point\": \"用户认为准确无误\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_120\",\n        \"User_Pain_Point\": \"用户认为很精准\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_111\",\n        \"User_Pain_Point\": \"用户简单表达好评\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_113\",\n        \"User_Pain_Point\": \"用户认为很好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_114\",\n        \"User_Pain_Point\": \"用户认为程序值得信赖\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_119\",\n        \"User_Pain_Point\": \"用户评价完美\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 13,
+    "batch_ids": [
+      "com.amap.hmapp_121",
+      "com.amap.hmapp_122",
+      "com.amap.hmapp_123",
+      "com.amap.hmapp_124",
+      "com.amap.hmapp_125",
+      "com.amap.hmapp_126",
+      "com.amap.hmapp_127",
+      "com.amap.hmapp_128",
+      "com.amap.hmapp_129",
+      "com.amap.hmapp_130"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_121",
+        "content": "不错，很准的。",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_122",
+        "content": "店鋪很大 很舒適 專業的師傅 搞得很漂亮 頂棚翻新很專業",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_123",
+        "content": "好好",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_124",
+        "content": "使用方便快捷",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_125",
+        "content": "真好",
+        "device": "nova 13 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_126",
+        "content": "路线好👌🏻",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_127",
+        "content": "好用，准确",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_128",
+        "content": "最好用的导航，不接受反驳。",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_129",
+        "content": "很OK的。",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.amap.hmapp_130",
+        "content": "很好，加油！",
+        "device": "HUAWEI MatePad 11.5''S"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_121\",\n        \"User_Pain_Point\": \"导航准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_123\",\n        \"User_Pain_Point\": \"整体好评\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_124\",\n        \"User_Pain_Point\": \"使用方便快捷\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_125\",\n        \"User_Pain_Point\": \"整体好评\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_126\",\n        \"User_Pain_Point\": \"路线规划好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_127\",\n        \"User_Pain_Point\": \"好用，准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_128\",\n        \"User_Pain_Point\": \"最好用的导航\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_129\",\n        \"User_Pain_Point\": \"整体体验OK\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_130\",\n        \"User_Pain_Point\": \"整体很好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 14,
+    "batch_ids": [
+      "com.amap.hmapp_131",
+      "com.amap.hmapp_132",
+      "com.amap.hmapp_133",
+      "com.amap.hmapp_134",
+      "com.amap.hmapp_135",
+      "com.amap.hmapp_136",
+      "com.amap.hmapp_137",
+      "com.amap.hmapp_138",
+      "com.amap.hmapp_139",
+      "com.amap.hmapp_140"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_131",
+        "content": "推荐的路线很好，走的很快。",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_132",
+        "content": "路线清晰",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_133",
+        "content": "导航精准，棒棒哒👍",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_134",
+        "content": "导航非常准确！👍",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_135",
+        "content": "好，捧！",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_136",
+        "content": "太准确了！",
+        "device": "HUAWEI Mate X5 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_137",
+        "content": "非常好用，精度高，",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_138",
+        "content": "司机相当不错",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_139",
+        "content": "棒棒哒👍",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_140",
+        "content": "高德地图真的太好用了！导航精准，路线规划特别智能，总能帮我避开拥堵，节省了不少时间。而且功能很全面，查公交、打车、找附近美食都特别方便。界面简洁清晰，操作起来很顺手。地图数据更新也很及时，新修的路、新开的店都能很快找到。服务也很贴心，各种语音包、实时路况提醒，让出行更安心。总之，高德地图是我出行的必备神器，强烈推荐给大家！",
+        "device": "HUAWEI Mate 60 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_131\",\n        \"User_Pain_Point\": \"推荐的路线很好，走的很快\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_132\",\n        \"User_Pain_Point\": \"路线清晰\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_133\",\n        \"User_Pain_Point\": \"导航精准，棒棒哒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_134\",\n        \"User_Pain_Point\": \"导航非常准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_136\",\n        \"User_Pain_Point\": \"太准确了\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_137\",\n        \"User_Pain_Point\": \"非常好用，精度高\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_138\",\n        \"User_Pain_Point\": \"司机相当不错\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_140\",\n        \"User_Pain_Point\": \"导航精准，路线规划智能能避开拥堵节省时间，功能全面支持查公交、打车、找美食，服务贴心提供语音包和实时路况提醒\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_140\",\n        \"User_Pain_Point\": \"界面简洁清晰，操作顺手\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"内容生态\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_140\",\n        \"User_Pain_Point\": \"地图数据更新及时，新修的路、新开的店能很快找到\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_135\",\n        \"User_Pain_Point\": \"好，捧！\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_139\",\n        \"User_Pain_Point\": \"棒棒哒👍\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 15,
+    "batch_ids": [
+      "com.amap.hmapp_141",
+      "com.amap.hmapp_142",
+      "com.amap.hmapp_143",
+      "com.amap.hmapp_144",
+      "com.amap.hmapp_145",
+      "com.amap.hmapp_146",
+      "com.amap.hmapp_147",
+      "com.amap.hmapp_148",
+      "com.amap.hmapp_149",
+      "com.amap.hmapp_150"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_141",
+        "content": "高德地图实在好用",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_142",
+        "content": "很棒",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_143",
+        "content": "好用！",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_144",
+        "content": "准确无误，时间很充足，推荐高德地图",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_145",
+        "content": "准确、快速",
+        "device": "HUAWEI Mate X6 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_146",
+        "content": "非常好！",
+        "device": "HUAWEI Mate 60 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_147",
+        "content": "快准狠",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_148",
+        "content": "高德地图一直在用，非常好非常实用。",
+        "device": "HUAWEI Mate XT | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_149",
+        "content": "精准定位",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_150",
+        "content": "我出行旅行高德地图给我很大的帮助，现在在也能定制酒店，方便，优惠力度很大。",
+        "device": "HUAWEI Pura 70 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_144\",\n        \"User_Pain_Point\": \"导航准确无误，预计时间充足\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_145\",\n        \"User_Pain_Point\": \"导航准确、快速\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_147\",\n        \"User_Pain_Point\": \"定位快准狠\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_149\",\n        \"User_Pain_Point\": \"精准定位\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_150\",\n        \"User_Pain_Point\": \"可以定制酒店，方便，优惠力度大\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_141\",\n        \"User_Pain_Point\": \"高德地图实在好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_142\",\n        \"User_Pain_Point\": \"很棒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_143\",\n        \"User_Pain_Point\": \"好用！\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_144\",\n        \"User_Pain_Point\": \"推荐高德地图\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_146\",\n        \"User_Pain_Point\": \"非常好！\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_148\",\n        \"User_Pain_Point\": \"高德地图一直在用，非常好非常实用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_150\",\n        \"User_Pain_Point\": \"出行旅行高德地图给我很大的帮助\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 16,
+    "batch_ids": [
+      "com.amap.hmapp_151",
+      "com.amap.hmapp_152",
+      "com.amap.hmapp_153",
+      "com.amap.hmapp_154",
+      "com.amap.hmapp_155",
+      "com.amap.hmapp_156",
+      "com.amap.hmapp_157",
+      "com.amap.hmapp_158",
+      "com.amap.hmapp_159",
+      "com.amap.hmapp_160"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_151",
+        "content": "很准",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_152",
+        "content": "非常好非常准确",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_153",
+        "content": "路图标识清晰",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_154",
+        "content": "非常好用。",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_155",
+        "content": "准确实不错",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_156",
+        "content": "清晰",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_157",
+        "content": "几时增加流动测速位置图标，流动语音提示范围广需图标提示，怎还不更新图标提示？？？",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_158",
+        "content": "好极了！",
+        "device": "HUAWEI Pura X 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_159",
+        "content": "地点名称前方交通拥堵，提前找车位停车",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_160",
+        "content": "方便，好用！",
+        "device": "nova 14"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_151\",\n        \"User_Pain_Point\": \"导航定位准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_152\",\n        \"User_Pain_Point\": \"导航定位非常准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_155\",\n        \"User_Pain_Point\": \"准确性不错\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_157\",\n        \"User_Pain_Point\": \"缺少流动测速位置图标提示，影响驾驶安全\",\n        \"Actionable_Suggestion\": \"建议增加流动测速位置图标提示功能\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_153\",\n        \"User_Pain_Point\": \"路图标识清晰\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_156\",\n        \"User_Pain_Point\": \"地图显示清晰\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_154\",\n        \"User_Pain_Point\": \"非常好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_158\",\n        \"User_Pain_Point\": \"应用体验极佳\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_160\",\n        \"User_Pain_Point\": \"方便好用\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 17,
+    "batch_ids": [
+      "com.amap.hmapp_161",
+      "com.amap.hmapp_162",
+      "com.amap.hmapp_163",
+      "com.amap.hmapp_164",
+      "com.amap.hmapp_165",
+      "com.amap.hmapp_166",
+      "com.amap.hmapp_167",
+      "com.amap.hmapp_168",
+      "com.amap.hmapp_169",
+      "com.amap.hmapp_170"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_161",
+        "content": "准确！实用！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_162",
+        "content": "越来越好。祝越来越好",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_163",
+        "content": "很精准。",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_164",
+        "content": "真棒👍🏻👍🏻👍🏻👍🏻",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_165",
+        "content": "飞常准",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_166",
+        "content": "指示清洗，定位精准",
+        "device": "HUAWEI Pura 70 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_167",
+        "content": "非常感谢",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_168",
+        "content": "导航非常准确，很好用。",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_169",
+        "content": "体验感极好",
+        "device": "HUAWEI Mate 70 Air"
+      },
+      {
+        "id": "com.amap.hmapp_170",
+        "content": "准确！",
+        "device": "nova 15 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_161\",\n        \"User_Pain_Point\": \"准确、实用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_163\",\n        \"User_Pain_Point\": \"很精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_165\",\n        \"User_Pain_Point\": \"飞常准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_166\",\n        \"User_Pain_Point\": \"指示清洗，定位精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_168\",\n        \"User_Pain_Point\": \"导航非常准确，很好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_170\",\n        \"User_Pain_Point\": \"准确\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_162\",\n        \"User_Pain_Point\": \"越来越好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_164\",\n        \"User_Pain_Point\": \"真棒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_167\",\n        \"User_Pain_Point\": \"非常感谢\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_169\",\n        \"User_Pain_Point\": \"体验感极好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 18,
+    "batch_ids": [
+      "com.amap.hmapp_171",
+      "com.amap.hmapp_172",
+      "com.amap.hmapp_173",
+      "com.amap.hmapp_174",
+      "com.amap.hmapp_175",
+      "com.amap.hmapp_176",
+      "com.amap.hmapp_177",
+      "com.amap.hmapp_178",
+      "com.amap.hmapp_179",
+      "com.amap.hmapp_180"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_171",
+        "content": "好。",
+        "device": "HUAWEI Pura 80 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_172",
+        "content": "好用，爱用。",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_173",
+        "content": "清楚明白",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_174",
+        "content": "非常不错",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_175",
+        "content": "棒极了",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_176",
+        "content": "很不错的导航系统！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_177",
+        "content": "优秀",
+        "device": "nova 12 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_178",
+        "content": "原高德地图陪我们到老。",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_179",
+        "content": "越来越好用了",
+        "device": "HUAWEI Mate X7 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_180",
+        "content": "准确好用",
+        "device": "HUAWEI Mate 70"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_171\",\n        \"User_Pain_Point\": \"用户表达满意，认为应用好。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_172\",\n        \"User_Pain_Point\": \"用户认为应用好用并喜爱使用。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_173\",\n        \"User_Pain_Point\": \"用户认为应用信息清楚明白。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_174\",\n        \"User_Pain_Point\": \"用户认为应用非常不错。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_175\",\n        \"User_Pain_Point\": \"用户认为应用棒极了。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_176\",\n        \"User_Pain_Point\": \"用户认为导航系统很不错。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_177\",\n        \"User_Pain_Point\": \"用户评价应用优秀。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_178\",\n        \"User_Pain_Point\": \"用户表达长期使用高德地图的愿望。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_179\",\n        \"User_Pain_Point\": \"用户认为应用越来越好用。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_180\",\n        \"User_Pain_Point\": \"用户认为应用准确好用。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 19,
+    "batch_ids": [
+      "com.amap.hmapp_181",
+      "com.amap.hmapp_182",
+      "com.amap.hmapp_183",
+      "com.amap.hmapp_184",
+      "com.amap.hmapp_185",
+      "com.amap.hmapp_186",
+      "com.amap.hmapp_187",
+      "com.amap.hmapp_188",
+      "com.amap.hmapp_189",
+      "com.amap.hmapp_190"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_181",
+        "content": "很详细",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.amap.hmapp_182",
+        "content": "位置很准备",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_183",
+        "content": "目前导航里不错，希望继续优化",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_184",
+        "content": "好好好好好好好",
+        "device": "HUAWEI Mate X6 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_185",
+        "content": "非常正确",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_186",
+        "content": "很喜欢  出门必备。。。。",
+        "device": "HUAWEI Pura 80 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_187",
+        "content": "导航很不错。就是最好有显示目的地名称。",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_188",
+        "content": "丝滑",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_189",
+        "content": "高德地图车机版好用",
+        "device": "HUAWEI Mate X6 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_190",
+        "content": "方便\n准确",
+        "device": "HUAWEI Mate 80 Pro Max"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_181\", \"User_Pain_Point\": \"用户赞赏导航信息详细\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_182\", \"User_Pain_Point\": \"用户认为位置准确\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_183\", \"User_Pain_Point\": \"用户认为导航不错\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_185\", \"User_Pain_Point\": \"用户认为导航非常正确\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_187\", \"User_Pain_Point\": \"用户认为导航不错\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_189\", \"User_Pain_Point\": \"用户认为车机版好用\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_190\", \"User_Pain_Point\": \"用户认为导航方便准确\", \"Actionable_Suggestion\": \"无\"}\n    ],\n    \"Negative\": [\n      {\"id\": \"com.amap.hmapp_187\", \"User_Pain_Point\": \"缺少显示目的地名称\", \"Actionable_Suggestion\": \"增加目的地名称显示\"}\n    ],\n    \"Neutral\": [\n      {\"id\": \"com.amap.hmapp_183\", \"User_Pain_Point\": \"用户希望继续优化导航\", \"Actionable_Suggestion\": \"持续优化导航功能\"}\n    ]\n  },\n  \"UI与交互\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_188\", \"User_Pain_Point\": \"用户认为操作丝滑\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_184\", \"User_Pain_Point\": \"用户给予高度赞赏\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_186\", \"User_Pain_Point\": \"用户表示很喜欢且是出门必备\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 20,
+    "batch_ids": [
+      "com.amap.hmapp_191",
+      "com.amap.hmapp_192",
+      "com.amap.hmapp_193",
+      "com.amap.hmapp_194",
+      "com.amap.hmapp_195",
+      "com.amap.hmapp_196",
+      "com.amap.hmapp_197",
+      "com.amap.hmapp_198",
+      "com.amap.hmapp_199",
+      "com.amap.hmapp_200"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_191",
+        "content": "非常准时，导航避开拥堵了。",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_192",
+        "content": "导航太好了",
+        "device": "HUAWEI Pura 80 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_193",
+        "content": "很好用！",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_194",
+        "content": "地图选点太难用了，都烦躁了",
+        "device": "HUAWEI Mate X7 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_195",
+        "content": "不错不错",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_196",
+        "content": "好用，跟车机丝滑连接",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_197",
+        "content": "导航准确",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_198",
+        "content": "准确！巴适！",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_199",
+        "content": "路线分明精准，使用放心。",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_200",
+        "content": "不错😌，有时候旅游路线使用新能源汽车使用很好",
+        "device": "nova 13"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_191\",\n        \"User_Pain_Point\": \"导航准时，避开拥堵\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_192\",\n        \"User_Pain_Point\": \"导航很好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_193\",\n        \"User_Pain_Point\": \"很好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_197\",\n        \"User_Pain_Point\": \"导航准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_198\",\n        \"User_Pain_Point\": \"导航准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_199\",\n        \"User_Pain_Point\": \"路线分明精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_200\",\n        \"User_Pain_Point\": \"旅游路线对新能源汽车友好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_194\",\n        \"User_Pain_Point\": \"地图选点太难用\",\n        \"Actionable_Suggestion\": \"优化地图选点功能，提高易用性\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_196\",\n        \"User_Pain_Point\": \"跟车机丝滑连接\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_195\",\n        \"User_Pain_Point\": \"整体体验不错\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_200\",\n        \"User_Pain_Point\": \"整体体验不错\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 21,
+    "batch_ids": [
+      "com.amap.hmapp_201",
+      "com.amap.hmapp_202",
+      "com.amap.hmapp_203",
+      "com.amap.hmapp_204",
+      "com.amap.hmapp_205",
+      "com.amap.hmapp_206",
+      "com.amap.hmapp_207",
+      "com.amap.hmapp_208",
+      "com.amap.hmapp_209",
+      "com.amap.hmapp_210"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_201",
+        "content": "出行必备，第一选择。",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_202",
+        "content": "不错，位置准确",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_203",
+        "content": "好，准，反应快",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_204",
+        "content": "新版本更新的页面显示，不错",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_205",
+        "content": "精准推送",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_206",
+        "content": "非常准确到达目的地",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_207",
+        "content": "导的非常棒",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_208",
+        "content": "高效便捷准确",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_209",
+        "content": "清晰，明朗，好用，加油！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_210",
+        "content": "准时",
+        "device": "nova 13"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_202\", \"User_Pain_Point\": \"位置准确\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_203\", \"User_Pain_Point\": \"准\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_205\", \"User_Pain_Point\": \"精准推送\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_206\", \"User_Pain_Point\": \"非常准确到达目的地\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_207\", \"User_Pain_Point\": \"导的非常棒\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_208\", \"User_Pain_Point\": \"高效便捷准确\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_210\", \"User_Pain_Point\": \"准时\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_203\", \"User_Pain_Point\": \"反应快\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  },\n  \"UI与交互\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_204\", \"User_Pain_Point\": \"新版本更新的页面显示不错\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_209\", \"User_Pain_Point\": \"清晰，明朗\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_201\", \"User_Pain_Point\": \"出行必备，第一选择\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_209\", \"User_Pain_Point\": \"好用，加油\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 22,
+    "batch_ids": [
+      "com.amap.hmapp_211",
+      "com.amap.hmapp_212",
+      "com.amap.hmapp_213",
+      "com.amap.hmapp_214",
+      "com.amap.hmapp_215",
+      "com.amap.hmapp_216",
+      "com.amap.hmapp_217",
+      "com.amap.hmapp_218",
+      "com.amap.hmapp_219",
+      "com.amap.hmapp_220"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_211",
+        "content": "非常感谢开发地图的团队成员！",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.amap.hmapp_212",
+        "content": "很好，很强大",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_213",
+        "content": "还不错 实时路况基本不差",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_214",
+        "content": "更新速度还挺快的，今天导航就走的一条刚修好的高架。",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_215",
+        "content": "下次不要给我导到小路上了",
+        "device": "nova 13 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_216",
+        "content": "高德值得信赖",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.amap.hmapp_217",
+        "content": "精准定位，语音播报及时",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_218",
+        "content": "非常准确！",
+        "device": "HUAWEI Mate X5 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_219",
+        "content": "实用",
+        "device": "HUAWEI Mate 70 Air"
+      },
+      {
+        "id": "com.amap.hmapp_220",
+        "content": "位置准确，道路信息明确。",
+        "device": "nova 15 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_213\",\n        \"User_Pain_Point\": \"实时路况基本准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_214\",\n        \"User_Pain_Point\": \"地图更新速度快，新路及时收录\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_217\",\n        \"User_Pain_Point\": \"定位精准，语音播报及时\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_218\",\n        \"User_Pain_Point\": \"导航位置非常准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_220\",\n        \"User_Pain_Point\": \"位置准确，道路信息明确\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_215\",\n        \"User_Pain_Point\": \"导航经常导到小路\",\n        \"Actionable_Suggestion\": \"优化路线规划算法，优先选择大路或用户偏好路线\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_211\",\n        \"User_Pain_Point\": \"对开发团队表示非常感谢\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_212\",\n        \"User_Pain_Point\": \"整体体验很好很强大\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_216\",\n        \"User_Pain_Point\": \"值得信赖的品牌\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_219\",\n        \"User_Pain_Point\": \"实用性强\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 23,
+    "batch_ids": [
+      "com.amap.hmapp_221",
+      "com.amap.hmapp_222",
+      "com.amap.hmapp_223",
+      "com.amap.hmapp_224",
+      "com.amap.hmapp_225",
+      "com.amap.hmapp_226",
+      "com.amap.hmapp_227",
+      "com.amap.hmapp_228",
+      "com.amap.hmapp_229",
+      "com.amap.hmapp_230"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_221",
+        "content": "好！",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_222",
+        "content": "用了很多次，比百度地图准。",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_223",
+        "content": "准确率高",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_224",
+        "content": "非常满意，非常棒棒哒",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_225",
+        "content": "哈哈哈好好好",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_226",
+        "content": "非常满意",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_227",
+        "content": "很正确。",
+        "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_228",
+        "content": "很不错，喜欢",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_229",
+        "content": "爽",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_230",
+        "content": "导航非常精准，合理避免了拥堵和封路。",
+        "device": "HUAWEI Mate 70"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_221\",\n        \"User_Pain_Point\": \"用户整体体验很好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_222\",\n        \"User_Pain_Point\": \"导航准确性高，比百度地图准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_223\",\n        \"User_Pain_Point\": \"准确率高\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_224\",\n        \"User_Pain_Point\": \"非常满意\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_225\",\n        \"User_Pain_Point\": \"整体体验好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_226\",\n        \"User_Pain_Point\": \"非常满意\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_227\",\n        \"User_Pain_Point\": \"导航正确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_228\",\n        \"User_Pain_Point\": \"很不错，喜欢\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_229\",\n        \"User_Pain_Point\": \"使用流畅，体验好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_230\",\n        \"User_Pain_Point\": \"导航精准，合理避免拥堵和封路\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 24,
+    "batch_ids": [
+      "com.amap.hmapp_231",
+      "com.amap.hmapp_232",
+      "com.amap.hmapp_233",
+      "com.amap.hmapp_234",
+      "com.amap.hmapp_235",
+      "com.amap.hmapp_236",
+      "com.amap.hmapp_237",
+      "com.amap.hmapp_238",
+      "com.amap.hmapp_239",
+      "com.amap.hmapp_240"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_231",
+        "content": "精准到达",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_232",
+        "content": "好好好好好好",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_233",
+        "content": "太好了",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.amap.hmapp_234",
+        "content": "依然稳定.",
+        "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_235",
+        "content": "简单好用",
+        "device": "nova 13 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_236",
+        "content": "太棒了",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_237",
+        "content": "又快又准",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_238",
+        "content": "非常准",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_239",
+        "content": "很精准！",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_240",
+        "content": "有很多语音包和车标，还能点亮地图，非常有成就感",
+        "device": "HUAWEI Mate 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_231\", \"User_Pain_Point\": \"精准到达\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_237\", \"User_Pain_Point\": \"准\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_238\", \"User_Pain_Point\": \"非常准\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_239\", \"User_Pain_Point\": \"很精准\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_240\", \"User_Pain_Point\": \"能点亮地图，有成就感\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_234\", \"User_Pain_Point\": \"依然稳定\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_237\", \"User_Pain_Point\": \"快\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"UI与交互\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_235\", \"User_Pain_Point\": \"简单好用\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"内容生态\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_240\", \"User_Pain_Point\": \"有很多语音包和车标\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_232\", \"User_Pain_Point\": \"好好好好好好\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_233\", \"User_Pain_Point\": \"太好了\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_236\", \"User_Pain_Point\": \"太棒了\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 25,
+    "batch_ids": [
+      "com.amap.hmapp_241",
+      "com.amap.hmapp_242",
+      "com.amap.hmapp_243",
+      "com.amap.hmapp_244",
+      "com.amap.hmapp_245",
+      "com.amap.hmapp_246",
+      "com.amap.hmapp_247",
+      "com.amap.hmapp_248",
+      "com.amap.hmapp_249",
+      "com.amap.hmapp_250"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_241",
+        "content": "不能自动进入巡航。",
+        "device": "HUAWEI Mate X7 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_242",
+        "content": "导航提醒及时，地点精准",
+        "device": "nova 12 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_243",
+        "content": "哈拉少",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_244",
+        "content": "导航非常精准",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_245",
+        "content": "高德 值得信赖！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_246",
+        "content": "挺好的，加油",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_247",
+        "content": "位置准确，指令准确，使用方便",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_248",
+        "content": "目的地非常准确",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_249",
+        "content": "很好的",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_250",
+        "content": "指引精准。",
+        "device": "HUAWEI Pura 70 Ultra"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_241\",\n        \"User_Pain_Point\": \"不能自动进入巡航模式\",\n        \"Actionable_Suggestion\": \"建议增加自动进入巡航模式的功能\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_242\",\n        \"User_Pain_Point\": \"无\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_244\",\n        \"User_Pain_Point\": \"无\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_247\",\n        \"User_Pain_Point\": \"无\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_248\",\n        \"User_Pain_Point\": \"无\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_250\",\n        \"User_Pain_Point\": \"无\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_245\",\n        \"User_Pain_Point\": \"无\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_246\",\n        \"User_Pain_Point\": \"无\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_249\",\n        \"User_Pain_Point\": \"无\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 26,
+    "batch_ids": [
+      "com.amap.hmapp_251",
+      "com.amap.hmapp_252",
+      "com.amap.hmapp_253",
+      "com.amap.hmapp_254",
+      "com.amap.hmapp_255",
+      "com.amap.hmapp_256",
+      "com.amap.hmapp_257",
+      "com.amap.hmapp_258",
+      "com.amap.hmapp_259",
+      "com.amap.hmapp_260"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_251",
+        "content": "非常好的性价比合适的地方。",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_252",
+        "content": "唯一可靠的大地图啊",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_253",
+        "content": "喜欢高德地图导航，正确率很高",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_254",
+        "content": "好用，定位精准",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_255",
+        "content": "越来越好呀",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_256",
+        "content": "很准确！",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_257",
+        "content": "相当准确。",
+        "device": "HUAWEI Mate X6"
+      },
+      {
+        "id": "com.amap.hmapp_258",
+        "content": "准确，准时",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_259",
+        "content": "精准无敌",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_260",
+        "content": "特别好。很棒",
+        "device": "HUAWEI Mate 80 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_253\", \"User_Pain_Point\": \"喜欢高德地图导航，正确率很高\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_254\", \"User_Pain_Point\": \"好用，定位精准\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_256\", \"User_Pain_Point\": \"很准确！\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_257\", \"User_Pain_Point\": \"相当准确。\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_258\", \"User_Pain_Point\": \"准确，准时\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_259\", \"User_Pain_Point\": \"精准无敌\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_251\", \"User_Pain_Point\": \"非常好的性价比合适的地方。\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_252\", \"User_Pain_Point\": \"唯一可靠的大地图啊\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_255\", \"User_Pain_Point\": \"越来越好呀\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_260\", \"User_Pain_Point\": \"特别好。很棒\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 27,
+    "batch_ids": [
+      "com.amap.hmapp_261",
+      "com.amap.hmapp_262",
+      "com.amap.hmapp_263",
+      "com.amap.hmapp_264",
+      "com.amap.hmapp_265",
+      "com.amap.hmapp_266",
+      "com.amap.hmapp_267",
+      "com.amap.hmapp_268",
+      "com.amap.hmapp_269",
+      "com.amap.hmapp_270"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_261",
+        "content": "非常哇塞",
+        "device": "nova 12 Ultra 星耀版"
+      },
+      {
+        "id": "com.amap.hmapp_262",
+        "content": "多年来一直用高德导航，非常不错。",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_263",
+        "content": "准好",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_264",
+        "content": "目的地精准👍",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_265",
+        "content": "播报声音好听，路径\n很准确",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_266",
+        "content": "一切很好。",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_267",
+        "content": "非常好。",
+        "device": "HUAWEI Pura 70 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_268",
+        "content": "很好！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_269",
+        "content": "非常准确，便利！",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_270",
+        "content": "每次导航都非常精确",
+        "device": "HUAWEI Mate 60 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_263\",\n        \"User_Pain_Point\": \"用户认可准确性\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_264\",\n        \"User_Pain_Point\": \"用户赞赏目的地精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_265\",\n        \"User_Pain_Point\": \"播报声音好听\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_265\",\n        \"User_Pain_Point\": \"路径很准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_269\",\n        \"User_Pain_Point\": \"非常准确且便利\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_270\",\n        \"User_Pain_Point\": \"每次导航都非常精确\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_261\",\n        \"User_Pain_Point\": \"非常哇塞，表示极度满意\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_262\",\n        \"User_Pain_Point\": \"多年来一直使用且评价不错\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_266\",\n        \"User_Pain_Point\": \"一切很好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_267\",\n        \"User_Pain_Point\": \"非常好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_268\",\n        \"User_Pain_Point\": \"很好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 28,
+    "batch_ids": [
+      "com.amap.hmapp_271",
+      "com.amap.hmapp_272",
+      "com.amap.hmapp_273",
+      "com.amap.hmapp_274",
+      "com.amap.hmapp_275",
+      "com.amap.hmapp_276",
+      "com.amap.hmapp_277",
+      "com.amap.hmapp_278",
+      "com.amap.hmapp_279",
+      "com.amap.hmapp_280"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_271",
+        "content": "满意",
+        "device": "nova 14 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_272",
+        "content": "真棒",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_273",
+        "content": "日常使用",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_274",
+        "content": "棒棒哒",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_275",
+        "content": "导航精确度较高，高德值得信赖",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.amap.hmapp_276",
+        "content": "导航很好很及时，加油，共赢！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_277",
+        "content": "导航显示准确，提示语音提前及时",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_278",
+        "content": "导航非常准确无误，谢谢🙏",
+        "device": "nova 14 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_279",
+        "content": "非常好用的一个软件  几乎天天都在用  太方便了",
+        "device": "HUAWEI Mate 60 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_280",
+        "content": "准确到达",
+        "device": "nova 13"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_271\",\n        \"User_Pain_Point\": \"整体使用满意\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_272\",\n        \"User_Pain_Point\": \"应用很棒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_274\",\n        \"User_Pain_Point\": \"应用很棒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_275\",\n        \"User_Pain_Point\": \"导航精确度高，值得信赖\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_276\",\n        \"User_Pain_Point\": \"导航很好很及时\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_277\",\n        \"User_Pain_Point\": \"导航显示准确，语音提示及时\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_278\",\n        \"User_Pain_Point\": \"导航非常准确无误\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_279\",\n        \"User_Pain_Point\": \"非常好用，方便每日使用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_280\",\n        \"User_Pain_Point\": \"导航准确到达\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 29,
+    "batch_ids": [
+      "com.amap.hmapp_281",
+      "com.amap.hmapp_282",
+      "com.amap.hmapp_283",
+      "com.amap.hmapp_284",
+      "com.amap.hmapp_285",
+      "com.amap.hmapp_286",
+      "com.amap.hmapp_287",
+      "com.amap.hmapp_288",
+      "com.amap.hmapp_289",
+      "com.amap.hmapp_290"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_281",
+        "content": "路线准，播报清晰",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_282",
+        "content": "真好用。",
+        "device": "HUAWEI Mate XT | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_283",
+        "content": "Good",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_284",
+        "content": "方便 准确",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_285",
+        "content": "很不错",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_286",
+        "content": "厉害👍",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_287",
+        "content": "精准导行",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_288",
+        "content": "精准导航，反应灵敏",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_289",
+        "content": "好用，一直在用。",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_290",
+        "content": "很好，很不错。",
+        "device": "HUAWEI Mate 80 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_281\", \"User_Pain_Point\": \"路线准，播报清晰\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_282\", \"User_Pain_Point\": \"真好用。\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_283\", \"User_Pain_Point\": \"Good\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_284\", \"User_Pain_Point\": \"方便 准确\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_285\", \"User_Pain_Point\": \"很不错\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_286\", \"User_Pain_Point\": \"厉害👍\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_287\", \"User_Pain_Point\": \"精准导行\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_288\", \"User_Pain_Point\": \"精准导航，反应灵敏\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_289\", \"User_Pain_Point\": \"好用，一直在用。\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_290\", \"User_Pain_Point\": \"很好，很不错。\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 30,
+    "batch_ids": [
+      "com.amap.hmapp_291",
+      "com.amap.hmapp_292",
+      "com.amap.hmapp_293",
+      "com.amap.hmapp_294",
+      "com.amap.hmapp_295",
+      "com.amap.hmapp_296",
+      "com.amap.hmapp_297",
+      "com.amap.hmapp_298",
+      "com.amap.hmapp_299",
+      "com.amap.hmapp_300"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_291",
+        "content": "无误准确",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_292",
+        "content": "Perfect",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_293",
+        "content": "很好用！！时间准确，道路清晰，提醒及时。",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_294",
+        "content": "good",
+        "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_295",
+        "content": "用了好多年了，和凯立德相比，方便好多。",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_296",
+        "content": "一直用他，导航很精准。",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_297",
+        "content": "方便好用，",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_298",
+        "content": "一直用高德，值得拥有",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_299",
+        "content": "20年使用，好用",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_300",
+        "content": "播报清晰，提示详细，目的地准确。",
+        "device": "HUAWEI Mate 60 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_291\",\n        \"User_Pain_Point\": \"用户赞赏功能准确无误\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_293\",\n        \"User_Pain_Point\": \"用户赞赏时间准确、道路清晰、提醒及时\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_295\",\n        \"User_Pain_Point\": \"用户赞赏比凯立德更方便\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_296\",\n        \"User_Pain_Point\": \"用户赞赏导航精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_297\",\n        \"User_Pain_Point\": \"用户赞赏方便好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_300\",\n        \"User_Pain_Point\": \"用户赞赏播报清晰、提示详细、目的地准确\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_292\",\n        \"User_Pain_Point\": \"用户整体体验完美\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_294\",\n        \"User_Pain_Point\": \"用户认为很好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_298\",\n        \"User_Pain_Point\": \"用户赞赏值得拥有\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_299\",\n        \"User_Pain_Point\": \"用户长期使用认为好用\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 31,
+    "batch_ids": [
+      "com.amap.hmapp_301",
+      "com.amap.hmapp_302",
+      "com.amap.hmapp_303",
+      "com.amap.hmapp_304",
+      "com.amap.hmapp_305",
+      "com.amap.hmapp_306",
+      "com.amap.hmapp_307",
+      "com.amap.hmapp_308",
+      "com.amap.hmapp_309",
+      "com.amap.hmapp_310"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_301",
+        "content": "时间估算准时，道路规划满意。",
+        "device": "nova 12 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_302",
+        "content": "杠杠的赞一个",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_303",
+        "content": "功能全，操作简单，位置准确",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_304",
+        "content": "好，鸿蒙平板版本数据不准",
+        "device": "HUAWEI MatePad Mini"
+      },
+      {
+        "id": "com.amap.hmapp_305",
+        "content": "路线清晰度很高",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_306",
+        "content": "快捷准确",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_307",
+        "content": "高德地图在鸿蒙6.0系统上，没有语音通话时接听语音播报功能如何解决",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_308",
+        "content": "语音清晰，指示明确，很好。",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_309",
+        "content": "稳准狠",
+        "device": "HUAWEI Pura 90 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_310",
+        "content": "全程0K",
+        "device": "HUAWEI Mate 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_301\", \"User_Pain_Point\": \"时间估算准时，道路规划满意\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_303\", \"User_Pain_Point\": \"功能全，位置准确\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_306\", \"User_Pain_Point\": \"快捷准确\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_308\", \"User_Pain_Point\": \"语音清晰，指示明确\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_309\", \"User_Pain_Point\": \"稳准狠\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  },\n  \"UI与交互\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_303\", \"User_Pain_Point\": \"操作简单\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_305\", \"User_Pain_Point\": \"路线清晰度很高\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      { \"id\": \"com.amap.hmapp_302\", \"User_Pain_Point\": \"杠杠的赞一个\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_304\", \"User_Pain_Point\": \"好\", \"Actionable_Suggestion\": \"无\" },\n      { \"id\": \"com.amap.hmapp_310\", \"User_Pain_Point\": \"全程0K\", \"Actionable_Suggestion\": \"无\" }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      { \"id\": \"com.amap.hmapp_304\", \"User_Pain_Point\": \"鸿蒙平板版本数据不准\", \"Actionable_Suggestion\": \"优化鸿蒙平板版本的数据准确性\" },\n      { \"id\": \"com.amap.hmapp_307\", \"User_Pain_Point\": \"在鸿蒙6.0系统上，没有语音通话时接听语音播报功能\", \"Actionable_Suggestion\": \"建议在鸿蒙6.0系统中增加语音通话时接听语音播报功能\" }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 32,
+    "batch_ids": [
+      "com.amap.hmapp_311",
+      "com.amap.hmapp_312",
+      "com.amap.hmapp_313",
+      "com.amap.hmapp_314",
+      "com.amap.hmapp_315",
+      "com.amap.hmapp_316",
+      "com.amap.hmapp_317",
+      "com.amap.hmapp_318",
+      "com.amap.hmapp_319",
+      "com.amap.hmapp_320"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_311",
+        "content": "太精准了 👍",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_312",
+        "content": "准确无误，界面清晰",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_313",
+        "content": "赞👍，准确到达",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_314",
+        "content": "准确性高",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_315",
+        "content": "定位精准，非常棒",
+        "device": "HUAWEI Mate X6"
+      },
+      {
+        "id": "com.amap.hmapp_316",
+        "content": "一直在用高德地图，总体感觉不错，好用，还会继续用下去，",
+        "device": "HUAWEI Mate X7"
+      },
+      {
+        "id": "com.amap.hmapp_317",
+        "content": "路程导航准确  村道都能准确标识   可用性很强。",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_318",
+        "content": "不错哦",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_319",
+        "content": "准确率很高",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_320",
+        "content": "高德地图不错。点赞",
+        "device": "nova 14"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_311\",\n        \"User_Pain_Point\": \"定位精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_312\",\n        \"User_Pain_Point\": \"准确无误\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_313\",\n        \"User_Pain_Point\": \"准确到达\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_314\",\n        \"User_Pain_Point\": \"准确性高\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_315\",\n        \"User_Pain_Point\": \"定位精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_317\",\n        \"User_Pain_Point\": \"路程导航准确，村道标识准确，可用性强\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_319\",\n        \"User_Pain_Point\": \"准确率很高\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_312\",\n        \"User_Pain_Point\": \"界面清晰\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_316\",\n        \"User_Pain_Point\": \"总体感觉不错，好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_318\",\n        \"User_Pain_Point\": \"不错哦\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_320\",\n        \"User_Pain_Point\": \"高德地图不错\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 33,
+    "batch_ids": [
+      "com.amap.hmapp_321",
+      "com.amap.hmapp_322",
+      "com.amap.hmapp_323",
+      "com.amap.hmapp_324",
+      "com.amap.hmapp_325",
+      "com.amap.hmapp_326",
+      "com.amap.hmapp_327",
+      "com.amap.hmapp_328",
+      "com.amap.hmapp_329",
+      "com.amap.hmapp_330"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_321",
+        "content": "太棒啦",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_322",
+        "content": "多年使用，一如既往，🌹👍",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_323",
+        "content": "出行必备，无可替代。",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_324",
+        "content": "精准高效",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_325",
+        "content": "导航精准，点赞！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_326",
+        "content": "方便好用",
+        "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_327",
+        "content": "GoodGoodGoodGood",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_328",
+        "content": "满意！",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_329",
+        "content": "数据很准",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_330",
+        "content": "非常不错！",
+        "device": "HUAWEI Mate 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_321\",\n        \"User_Pain_Point\": \"太棒啦\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_322\",\n        \"User_Pain_Point\": \"多年使用，一如既往，🌹👍\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_323\",\n        \"User_Pain_Point\": \"出行必备，无可替代。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_324\",\n        \"User_Pain_Point\": \"精准高效\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_325\",\n        \"User_Pain_Point\": \"导航精准，点赞！\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_326\",\n        \"User_Pain_Point\": \"方便好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_327\",\n        \"User_Pain_Point\": \"GoodGoodGoodGood\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_328\",\n        \"User_Pain_Point\": \"满意！\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_329\",\n        \"User_Pain_Point\": \"数据很准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_330\",\n        \"User_Pain_Point\": \"非常不错！\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 34,
+    "batch_ids": [
+      "com.amap.hmapp_331",
+      "com.amap.hmapp_332",
+      "com.amap.hmapp_333",
+      "com.amap.hmapp_334",
+      "com.amap.hmapp_335",
+      "com.amap.hmapp_336",
+      "com.amap.hmapp_337",
+      "com.amap.hmapp_338",
+      "com.amap.hmapp_339",
+      "com.amap.hmapp_340"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_331",
+        "content": "稳定高效！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_332",
+        "content": "好用。比百度地图好用。前几天找一家manner咖啡店，百度上没标，高德就有。",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_333",
+        "content": "环境好",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_334",
+        "content": "很精确导航",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_335",
+        "content": "一直以来都用高德，绝对好用",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_336",
+        "content": "鸿蒙系统的好用，很满意！",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_337",
+        "content": "准确无误，很流畅，很好很好",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_338",
+        "content": "导航准，语音美，方便用！",
+        "device": "HUAWEI Pura 90"
+      },
+      {
+        "id": "com.amap.hmapp_339",
+        "content": "导航真好。非常准确。",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_340",
+        "content": "导航精准，自己经常使用。",
+        "device": "nova 15 Ultra"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_332\",\n        \"User_Pain_Point\": \"比百度地图好用，数据更全，能找到百度没有的咖啡店\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_334\",\n        \"User_Pain_Point\": \"导航很精确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_337\",\n        \"User_Pain_Point\": \"导航准确无误\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_338\",\n        \"User_Pain_Point\": \"导航准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_339\",\n        \"User_Pain_Point\": \"导航非常好，非常准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_340\",\n        \"User_Pain_Point\": \"导航精准\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_331\",\n        \"User_Pain_Point\": \"稳定高效\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_337\",\n        \"User_Pain_Point\": \"很流畅\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_336\",\n        \"User_Pain_Point\": \"鸿蒙系统上表现好，很满意\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_338\",\n        \"User_Pain_Point\": \"语音美\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_335\",\n        \"User_Pain_Point\": \"一直以来都用高德，绝对好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_338\",\n        \"User_Pain_Point\": \"方便用\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 35,
+    "batch_ids": [
+      "com.amap.hmapp_341",
+      "com.amap.hmapp_342",
+      "com.amap.hmapp_343",
+      "com.amap.hmapp_344",
+      "com.amap.hmapp_345",
+      "com.amap.hmapp_346",
+      "com.amap.hmapp_347",
+      "com.amap.hmapp_348",
+      "com.amap.hmapp_349",
+      "com.amap.hmapp_350"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_341",
+        "content": "带劲儿",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_342",
+        "content": "非常奥利给！！！",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_343",
+        "content": "导航细致入微，安全可控。",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_344",
+        "content": "感谢小德",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.amap.hmapp_345",
+        "content": "very nice",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_346",
+        "content": "高德地图导航用了很久了，非常不错，方便，清晰",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_347",
+        "content": "值得拥有",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_348",
+        "content": "很棒哦谢谢",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_349",
+        "content": "越来越好",
+        "device": "HUAWEI Mate X7 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_350",
+        "content": "很厉害",
+        "device": "nova 15 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_343\",\n        \"User_Pain_Point\": \"导航细致入微，安全可控。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_346\",\n        \"User_Pain_Point\": \"高德地图导航用了很久了，非常不错，方便，清晰\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_341\",\n        \"User_Pain_Point\": \"带劲儿\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_342\",\n        \"User_Pain_Point\": \"非常奥利给！！！\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_344\",\n        \"User_Pain_Point\": \"感谢小德\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_345\",\n        \"User_Pain_Point\": \"very nice\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_347\",\n        \"User_Pain_Point\": \"值得拥有\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_348\",\n        \"User_Pain_Point\": \"很棒哦谢谢\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_349\",\n        \"User_Pain_Point\": \"越来越好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_350\",\n        \"User_Pain_Point\": \"很厉害\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 36,
+    "batch_ids": [
+      "com.amap.hmapp_351",
+      "com.amap.hmapp_352",
+      "com.amap.hmapp_353",
+      "com.amap.hmapp_354",
+      "com.amap.hmapp_355",
+      "com.amap.hmapp_356",
+      "com.amap.hmapp_357",
+      "com.amap.hmapp_358",
+      "com.amap.hmapp_359",
+      "com.amap.hmapp_360"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_351",
+        "content": "好准",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_352",
+        "content": "导航比较准确。但最好在行车过程中，随时将最优方案及时推荐。",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_353",
+        "content": "非常准确好用的良心工具！",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_354",
+        "content": "使用很方便",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_355",
+        "content": "是我出门的好帮手。",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_356",
+        "content": "10分",
+        "device": "nova 14 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_357",
+        "content": "准时，精确，高效",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_358",
+        "content": "非常完美",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.amap.hmapp_359",
+        "content": "一直用的挺好",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_360",
+        "content": "好评好评。一直在用，看着你的成长伴随我越来越老。",
+        "device": "nova 14"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_351\", \"User_Pain_Point\": \"导航准确\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_352\", \"User_Pain_Point\": \"导航比较准确\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_353\", \"User_Pain_Point\": \"非常准确好用\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_354\", \"User_Pain_Point\": \"使用方便\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_355\", \"User_Pain_Point\": \"是出门的好帮手\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_357\", \"User_Pain_Point\": \"准时、精确、高效\", \"Actionable_Suggestion\": \"无\"}\n    ],\n    \"Negative\": [\n      {\"id\": \"com.amap.hmapp_352\", \"User_Pain_Point\": \"行车过程中没有随时推荐最优方案\", \"Actionable_Suggestion\": \"在行车过程中，动态监测路况并主动推荐最优方案\"}\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_356\", \"User_Pain_Point\": \"10分\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_358\", \"User_Pain_Point\": \"非常完美\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_359\", \"User_Pain_Point\": \"一直用的挺好\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_360\", \"User_Pain_Point\": \"好评，一直在用\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 37,
+    "batch_ids": [
+      "com.amap.hmapp_361",
+      "com.amap.hmapp_362",
+      "com.amap.hmapp_363",
+      "com.amap.hmapp_364",
+      "com.amap.hmapp_365",
+      "com.amap.hmapp_366",
+      "com.amap.hmapp_367",
+      "com.amap.hmapp_368",
+      "com.amap.hmapp_369",
+      "com.amap.hmapp_370"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_361",
+        "content": "用高德好多年了 很好用",
+        "device": "nova 14 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_362",
+        "content": "为什么从微信打开别人分享的目的地并导航后，搜索的历史记录不显示？非要用户再打字搜索一遍目的地然后导航才写进历史记录？这很反直觉",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_363",
+        "content": "很及时",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_364",
+        "content": "谢谢一路陪伴",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.amap.hmapp_365",
+        "content": "很好啊！",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_366",
+        "content": "一直用高德地图，一个字好",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_367",
+        "content": "非常详细，好用",
+        "device": "HUAWEI MatePad Mini"
+      },
+      {
+        "id": "com.amap.hmapp_368",
+        "content": "非常实用",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_369",
+        "content": "准确高",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_370",
+        "content": "使用方便，导航准确",
+        "device": "HUAWEI Mate 60 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_362\",\n        \"User_Pain_Point\": \"从微信打开别人分享的目的地并导航后，搜索历史记录不显示，需要用户重新搜索才能记录，反直觉。\",\n        \"Actionable_Suggestion\": \"修复从微信跳转导航后历史记录不显示的问题，确保自动记录跳转导航的目的地。\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_369\",\n        \"User_Pain_Point\": \"导航准确度高。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_370\",\n        \"User_Pain_Point\": \"使用方便，导航准确。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_361\",\n        \"User_Pain_Point\": \"多年使用体验好，好用。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_363\",\n        \"User_Pain_Point\": \"提醒或更新及时，很及时。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_364\",\n        \"User_Pain_Point\": \"感谢一路陪伴，表达对产品的喜爱。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_365\",\n        \"User_Pain_Point\": \"整体评价很好。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_366\",\n        \"User_Pain_Point\": \"一直使用，认为好。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_367\",\n        \"User_Pain_Point\": \"地图信息非常详细，好用。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_368\",\n        \"User_Pain_Point\": \"非常实用。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 38,
+    "batch_ids": [
+      "com.amap.hmapp_371",
+      "com.amap.hmapp_372",
+      "com.amap.hmapp_373",
+      "com.amap.hmapp_374",
+      "com.amap.hmapp_375",
+      "com.amap.hmapp_376",
+      "com.amap.hmapp_377",
+      "com.amap.hmapp_378",
+      "com.amap.hmapp_379",
+      "com.amap.hmapp_380"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_371",
+        "content": "精准 田间小路都有",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_372",
+        "content": "导航非常棒。定位准确",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_373",
+        "content": "好，真好。",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_374",
+        "content": "方便快捷，定位准确，语音清新，指向明确。",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_375",
+        "content": "期待适配其他的功能",
+        "device": "HUAWEI Mate 60 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_376",
+        "content": "精致",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_377",
+        "content": "精准定位，安全到家。",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_378",
+        "content": "路线准，用时准，超赞！",
+        "device": "nova 13 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_379",
+        "content": "十年如一日，精准导航",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_380",
+        "content": "好用。人性化",
+        "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_371\",\n        \"User_Pain_Point\": \"定位精准，田间小路都有覆盖\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_372\",\n        \"User_Pain_Point\": \"导航非常棒，定位准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_374\",\n        \"User_Pain_Point\": \"定位准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_374\",\n        \"User_Pain_Point\": \"方便快捷\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_377\",\n        \"User_Pain_Point\": \"定位精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_378\",\n        \"User_Pain_Point\": \"路线准，用时准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_379\",\n        \"User_Pain_Point\": \"精准导航\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_380\",\n        \"User_Pain_Point\": \"好用\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_375\",\n        \"User_Pain_Point\": \"缺少其他功能适配\",\n        \"Actionable_Suggestion\": \"建议增加更多功能适配\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_374\",\n        \"User_Pain_Point\": \"语音清新\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_374\",\n        \"User_Pain_Point\": \"指向明确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_376\",\n        \"User_Pain_Point\": \"界面精致\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_380\",\n        \"User_Pain_Point\": \"人性化\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_373\",\n        \"User_Pain_Point\": \"整体体验好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_377\",\n        \"User_Pain_Point\": \"安全到家\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 39,
+    "batch_ids": [
+      "com.amap.hmapp_381",
+      "com.amap.hmapp_382",
+      "com.amap.hmapp_383",
+      "com.amap.hmapp_384",
+      "com.amap.hmapp_385",
+      "com.amap.hmapp_386",
+      "com.amap.hmapp_387",
+      "com.amap.hmapp_388",
+      "com.amap.hmapp_389",
+      "com.amap.hmapp_390"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_381",
+        "content": "路况非常详细",
+        "device": "nova 13 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_382",
+        "content": "用的很习惯",
+        "device": "HUAWEI Pura 70 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_383",
+        "content": "高德导航，棒棒哒。",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_384",
+        "content": "非常好，精准",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_385",
+        "content": "鸿蒙版本都出了这么久了，旺铺功能还没有完善",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_386",
+        "content": "快",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.amap.hmapp_387",
+        "content": "比较好用，特别是鸿蒙系统，适配更新快。",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_388",
+        "content": "很好的软件，点赞",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_389",
+        "content": "播报清晰简单明确",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_390",
+        "content": "很喜欢，很好用！谢谢？",
+        "device": "HUAWEI Mate 70 Pro+"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_381\",\n        \"User_Pain_Point\": \"路况非常详细\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_382\",\n        \"User_Pain_Point\": \"用的很习惯\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_383\",\n        \"User_Pain_Point\": \"高德导航，棒棒哒。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_384\",\n        \"User_Pain_Point\": \"非常好，精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_386\",\n        \"User_Pain_Point\": \"快\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_388\",\n        \"User_Pain_Point\": \"很好的软件，点赞\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_389\",\n        \"User_Pain_Point\": \"播报清晰简单明确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_390\",\n        \"User_Pain_Point\": \"很喜欢，很好用！谢谢？\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_385\",\n        \"User_Pain_Point\": \"鸿蒙版本都出了这么久了，旺铺功能还没有完善\",\n        \"Actionable_Suggestion\": \"建议尽快完善旺铺功能\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_387\",\n        \"User_Pain_Point\": \"比较好用，特别是鸿蒙系统，适配更新快。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 40,
+    "batch_ids": [
+      "com.amap.hmapp_391",
+      "com.amap.hmapp_392",
+      "com.amap.hmapp_393",
+      "com.amap.hmapp_394",
+      "com.amap.hmapp_395",
+      "com.amap.hmapp_396",
+      "com.amap.hmapp_397",
+      "com.amap.hmapp_398",
+      "com.amap.hmapp_399",
+      "com.amap.hmapp_400"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_391",
+        "content": "精准定位，全方位呵护",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_392",
+        "content": "超级棒",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_393",
+        "content": "非常精准，感谢一路付出！",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_394",
+        "content": "很好很好，很不错，很不错。哎",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_395",
+        "content": "非常优秀，使用起来很方便",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_396",
+        "content": "地点准确，时间准确",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_397",
+        "content": "应用非常方便，导航显示非常准确，是不错的选择",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_398",
+        "content": "希望高德越来越好",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_399",
+        "content": "定位准确",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_400",
+        "content": "很准时准确",
+        "device": "HUAWEI Mate 70 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [],\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_391\", \"User_Pain_Point\": \"定位精准，全方位呵护\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_393\", \"User_Pain_Point\": \"定位非常精准\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_395\", \"User_Pain_Point\": \"使用方便\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_396\", \"User_Pain_Point\": \"地点和时间准确\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_397\", \"User_Pain_Point\": \"应用使用方便，导航显示准确\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_399\", \"User_Pain_Point\": \"定位准确\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_400\", \"User_Pain_Point\": \"准时准确\", \"Actionable_Suggestion\": \"无\"}\n    ],\n    \"Neutral\": []\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"UI与交互\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"运营与规则\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"体验赞赏\": {\n    \"Negative\": [],\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_392\", \"User_Pain_Point\": \"超级棒\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_394\", \"User_Pain_Point\": \"很好，很不错\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_395\", \"User_Pain_Point\": \"非常优秀\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_397\", \"User_Pain_Point\": \"是不错的选择\", \"Actionable_Suggestion\": \"无\"}\n    ],\n    \"Neutral\": [\n      {\"id\": \"com.amap.hmapp_398\", \"User_Pain_Point\": \"希望高德越来越好\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"内容生态\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 41,
+    "batch_ids": [
+      "com.amap.hmapp_401",
+      "com.amap.hmapp_402",
+      "com.amap.hmapp_403",
+      "com.amap.hmapp_404",
+      "com.amap.hmapp_405",
+      "com.amap.hmapp_406",
+      "com.amap.hmapp_407",
+      "com.amap.hmapp_408",
+      "com.amap.hmapp_409",
+      "com.amap.hmapp_410"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_401",
+        "content": "以前一直用百度地图，换了新手机之后，系统自带的高德地图，用起来挺顺，感觉比百度地图更精准，赞一个。",
+        "device": "nova 15"
+      },
+      {
+        "id": "com.amap.hmapp_402",
+        "content": "高德就是高啊连我堵车多久都算好了🌚",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_403",
+        "content": "导航非常的专业，每次都能把我带到想要去的地方。",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_404",
+        "content": "道路很近",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_405",
+        "content": "非常棒👍👍👍👍👍",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_406",
+        "content": "服务杠杠的",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_407",
+        "content": "导航服务非常好",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_408",
+        "content": "地图标记很准，习惯用这个打车，出行也很放心。点击周边，可以查看所有衣食住行。店铺在这个APP里面，如果能有一个高德认证标志，那我会更信任那个店铺，就不用试水了",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_409",
+        "content": "导航技术领先，方便实用，值得推荐。",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_410",
+        "content": "导航精准 使用方便",
+        "device": "HUAWEI Mate 70 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_401\",\n        \"User_Pain_Point\": \"导航精准，使用顺畅\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_402\",\n        \"User_Pain_Point\": \"能够准确预测堵车时间\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_403\",\n        \"User_Pain_Point\": \"导航专业，能准确带到目的地\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_404\",\n        \"User_Pain_Point\": \"道路规划近，路线合理\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_408\",\n        \"User_Pain_Point\": \"地图标记准确，打车功能放心，周边信息丰富\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_409\",\n        \"User_Pain_Point\": \"导航技术领先，方便实用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_410\",\n        \"User_Pain_Point\": \"导航精准，使用方便\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_401\",\n        \"User_Pain_Point\": \"系统自带，无额外安装步骤\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_408\",\n        \"User_Pain_Point\": \"缺少店铺认证标志，用户难以判断店铺可信度\",\n        \"Actionable_Suggestion\": \"建议增加高德认证标志，帮助用户信任店铺\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_405\",\n        \"User_Pain_Point\": \"整体使用体验非常棒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_406\",\n        \"User_Pain_Point\": \"服务优秀\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_407\",\n        \"User_Pain_Point\": \"导航服务非常好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 42,
+    "batch_ids": [
+      "com.amap.hmapp_411",
+      "com.amap.hmapp_412",
+      "com.amap.hmapp_413",
+      "com.amap.hmapp_414",
+      "com.amap.hmapp_415",
+      "com.amap.hmapp_416",
+      "com.amap.hmapp_417",
+      "com.amap.hmapp_418",
+      "com.amap.hmapp_419",
+      "com.amap.hmapp_420"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_411",
+        "content": "导航很好的！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_412",
+        "content": "不错，不错",
+        "device": "nova 12 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_413",
+        "content": "很棒的软件",
+        "device": "HUAWEI Pura 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_414",
+        "content": "用这个十几年 一如既往的好",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_415",
+        "content": "非常棒哈",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_416",
+        "content": "很好用，一直都用高德",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_417",
+        "content": "很好的一款导航，用了好多年啦，只是在鸿蒙系统中语音播报总是晚于实际位置，滞后，从而导致在越过了路口或转弯处才听到播报，给我这个路盲的人带来很大困挠，希望改进一下！",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_418",
+        "content": "好精准的一次导航",
+        "device": "nova 12 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_419",
+        "content": "很好，",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.amap.hmapp_420",
+        "content": "定位准",
+        "device": "nova 14"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_411\", \"User_Pain_Point\": \"导航功能很好\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_418\", \"User_Pain_Point\": \"导航精准\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_420\", \"User_Pain_Point\": \"定位准确\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_412\", \"User_Pain_Point\": \"整体体验不错\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_413\", \"User_Pain_Point\": \"软件很棒\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_414\", \"User_Pain_Point\": \"长期使用体验好\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_415\", \"User_Pain_Point\": \"非常棒\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_416\", \"User_Pain_Point\": \"很好用，一直使用\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_417\", \"User_Pain_Point\": \"很好的一款导航\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_419\", \"User_Pain_Point\": \"很好\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\"id\": \"com.amap.hmapp_417\", \"User_Pain_Point\": \"语音播报滞后于实际位置，影响导航准确性\", \"Actionable_Suggestion\": \"优化语音播报与位置的同步，减少延迟，确保在路口或转弯前及时播报。\"}\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 43,
+    "batch_ids": [
+      "com.amap.hmapp_421",
+      "com.amap.hmapp_422",
+      "com.amap.hmapp_423",
+      "com.amap.hmapp_424",
+      "com.amap.hmapp_425",
+      "com.amap.hmapp_426",
+      "com.amap.hmapp_427",
+      "com.amap.hmapp_428",
+      "com.amap.hmapp_429",
+      "com.amap.hmapp_430"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_421",
+        "content": "经常使用，非常不错",
+        "device": "HUAWEI Pura 70 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_422",
+        "content": "牛逼👍",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_423",
+        "content": "很舒服，导航精确",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_424",
+        "content": "好，很好用！",
+        "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_425",
+        "content": "挺好的，用挺久了。",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_426",
+        "content": "顺利到达一个小目标\n棒棒的",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_427",
+        "content": "Verygood good",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_428",
+        "content": "精准又幽默，旅途真快乐。",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_429",
+        "content": "天不生我高德帝，行车万古如长夜",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_430",
+        "content": "高德地图真的很好用，应该是最好用的地图到了吧",
+        "device": "HUAWEI Mate 80 Pro Max"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_421\",\n        \"User_Pain_Point\": \"用户表示经常使用，认为非常不错。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_422\",\n        \"User_Pain_Point\": \"用户用“牛逼”赞赏应用。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_423\",\n        \"User_Pain_Point\": \"用户觉得使用很舒服，导航精确。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_424\",\n        \"User_Pain_Point\": \"用户称赞“好，很好用！”。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_425\",\n        \"User_Pain_Point\": \"用户表示“挺好的，用挺久了”，长期使用满意。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_426\",\n        \"User_Pain_Point\": \"用户表示“顺利到达一个小目标，棒棒的”，肯定导航效果。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_427\",\n        \"User_Pain_Point\": \"用户用英文“Verygood good”赞赏。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_428\",\n        \"User_Pain_Point\": \"用户赞赏导航精准且语音幽默，带来快乐旅途。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_429\",\n        \"User_Pain_Point\": \"用户用夸张语气赞赏高德地图的重要性和优秀。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_430\",\n        \"User_Pain_Point\": \"用户认为高德地图很好用，甚至是最好的地图。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 44,
+    "batch_ids": [
+      "com.amap.hmapp_431",
+      "com.amap.hmapp_432",
+      "com.amap.hmapp_433",
+      "com.amap.hmapp_434",
+      "com.amap.hmapp_435",
+      "com.amap.hmapp_436",
+      "com.amap.hmapp_437",
+      "com.amap.hmapp_438",
+      "com.amap.hmapp_439",
+      "com.amap.hmapp_440"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_431",
+        "content": "导航的很好，方案也多种",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_432",
+        "content": "语音加上",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_433",
+        "content": "非常不错，一直在用。",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_434",
+        "content": "还行",
+        "device": "HUAWEI Pura 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_435",
+        "content": "非常好用的软件",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_436",
+        "content": "棒，无敌",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_437",
+        "content": "非常好，辅路都有，感谢🙏🏻",
+        "device": "nova 15 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_438",
+        "content": "位置准确信号好",
+        "device": "华为畅享 70X"
+      },
+      {
+        "id": "com.amap.hmapp_439",
+        "content": "微信分享的位置 打开后收藏提示成功，但是收藏里面没有",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_440",
+        "content": "非常不错，非常的好用",
+        "device": "nova 14 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_431\",\n        \"User_Pain_Point\": \"导航很好，方案多种\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_437\",\n        \"User_Pain_Point\": \"辅路都有，非常好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_438\",\n        \"User_Pain_Point\": \"位置准确信号好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_432\",\n        \"User_Pain_Point\": \"缺少语音功能\",\n        \"Actionable_Suggestion\": \"增加语音导航或语音输入功能\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_439\",\n        \"User_Pain_Point\": \"微信分享位置收藏后实际未保存\",\n        \"Actionable_Suggestion\": \"修复收藏功能，确保提示成功时实际保存\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_433\",\n        \"User_Pain_Point\": \"非常不错，一直在用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_435\",\n        \"User_Pain_Point\": \"非常好用的软件\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_436\",\n        \"User_Pain_Point\": \"棒，无敌\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_440\",\n        \"User_Pain_Point\": \"非常不错，非常的好用\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 45,
+    "batch_ids": [
+      "com.amap.hmapp_441",
+      "com.amap.hmapp_442",
+      "com.amap.hmapp_443",
+      "com.amap.hmapp_444",
+      "com.amap.hmapp_445",
+      "com.amap.hmapp_446",
+      "com.amap.hmapp_447",
+      "com.amap.hmapp_448",
+      "com.amap.hmapp_449",
+      "com.amap.hmapp_450"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_441",
+        "content": "不错，鸿蒙版更新快，功能完善",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.amap.hmapp_442",
+        "content": "华为Hicar里面，高德地图的自动巡航功能去哪里了？删了？昨天还好好的几天没了？设置入口也没了？",
+        "device": "nova 12 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_443",
+        "content": "好的很",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_444",
+        "content": "非常准确的位置，五星好评噢\n推荐都选择髙德噢",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_445",
+        "content": "高德方便了我每次出行，打车订酒店一步到位，路线提前规划，选择最优方案",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_446",
+        "content": "非常棒的导航",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_447",
+        "content": "很好用，导航精准，方便快捷！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_448",
+        "content": "就是喜欢跟着小德走",
+        "device": "HUAWEI Pura 80 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_449",
+        "content": "准确，预判，红灯读秒。",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_450",
+        "content": "导航准确，语报清晰，值得推荐使用",
+        "device": "nova 15 Ultra"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_442\",\n        \"User_Pain_Point\": \"华为Hicar中自动巡航功能消失，设置入口也没了\",\n        \"Actionable_Suggestion\": \"恢复自动巡航功能，并确保在Hicar中设置入口可见\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_444\",\n        \"User_Pain_Point\": \"位置非常准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_445\",\n        \"User_Pain_Point\": \"方便出行，打车订酒店一步到位，路线提前规划，选择最优方案\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_447\",\n        \"User_Pain_Point\": \"导航精准，方便快捷\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_449\",\n        \"User_Pain_Point\": \"准确，预判，红灯读秒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_450\",\n        \"User_Pain_Point\": \"导航准确，语报清晰\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_441\",\n        \"User_Pain_Point\": \"鸿蒙版更新快，功能完善\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_443\",\n        \"User_Pain_Point\": \"好的很\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_446\",\n        \"User_Pain_Point\": \"非常棒的导航\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_448\",\n        \"User_Pain_Point\": \"就是喜欢跟着小德走\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 46,
+    "batch_ids": [
+      "com.amap.hmapp_451",
+      "com.amap.hmapp_452",
+      "com.amap.hmapp_453",
+      "com.amap.hmapp_454",
+      "com.amap.hmapp_455",
+      "com.amap.hmapp_456",
+      "com.amap.hmapp_457",
+      "com.amap.hmapp_458",
+      "com.amap.hmapp_459",
+      "com.amap.hmapp_460"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_451",
+        "content": "鸿蒙系统导航软件，高德最给力。",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_452",
+        "content": "高德最贴心",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.amap.hmapp_453",
+        "content": "高德地图指引我游遍祖国的大好河山！",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_454",
+        "content": "导航精准靠谱，推荐的都是最优路线",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_455",
+        "content": "很棒的嘞",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_456",
+        "content": "越来越好了",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_457",
+        "content": "值得信赖",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.amap.hmapp_458",
+        "content": "非常感谢每天给我指向正确的方向，希望陪着我一辈子周游世界",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_459",
+        "content": "完美地图我喜欢",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_460",
+        "content": "出游好帮手，远行无烦忧！",
+        "device": "HUAWEI Pura X"
+      }
+    ],
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_451\",\n        \"User_Pain_Point\": \"鸿蒙系统导航软件，高德最给力\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_452\",\n        \"User_Pain_Point\": \"高德最贴心\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_453\",\n        \"User_Pain_Point\": \"高德地图指引我游遍祖国的大好河山\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_454\",\n        \"User_Pain_Point\": \"导航精准靠谱，推荐的都是最优路线\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_455\",\n        \"User_Pain_Point\": \"很棒的嘞\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_456\",\n        \"User_Pain_Point\": \"越来越好了\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_457\",\n        \"User_Pain_Point\": \"值得信赖\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_458\",\n        \"User_Pain_Point\": \"非常感谢每天给我指向正确的方向，希望陪着我一辈子周游世界\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_459\",\n        \"User_Pain_Point\": \"完美地图我喜欢\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_460\",\n        \"User_Pain_Point\": \"出游好帮手，远行无烦忧\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 47,
+    "batch_ids": [
+      "com.amap.hmapp_461",
+      "com.amap.hmapp_462",
+      "com.amap.hmapp_463",
+      "com.amap.hmapp_464",
+      "com.amap.hmapp_465",
+      "com.amap.hmapp_466",
+      "com.amap.hmapp_467",
+      "com.amap.hmapp_468",
+      "com.amap.hmapp_469",
+      "com.amap.hmapp_470"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_461",
+        "content": "司机师傅人特别好，定位错了地方还给送到位置，必须好评",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_462",
+        "content": "线路准",
+        "device": "HUAWEI Mate X5"
+      },
+      {
+        "id": "com.amap.hmapp_463",
+        "content": "五星好评。",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_464",
+        "content": "定位非常准确",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_465",
+        "content": "道路指引很准确",
+        "device": "nova 12 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_466",
+        "content": "导航很好的体验，点赞👍",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_467",
+        "content": "很棒很牛",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_468",
+        "content": "停车位置安卓版会显示一个小车图标的，一开始就反馈了，这么久了都没搞定",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_469",
+        "content": "非常好用的导航软件，功能实用强大。生活中找店，找商家都非常方便。",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_470",
+        "content": "一路顺畅，马踏平川。",
+        "device": "nova 15 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_468\",\n        \"User_Pain_Point\": \"停车位置安卓版会显示小车图标，但鸿蒙版没有，反馈后长期未修复\",\n        \"Actionable_Suggestion\": \"增加停车位置小车图标显示功能\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_462\",\n        \"User_Pain_Point\": \"线路准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_464\",\n        \"User_Pain_Point\": \"定位非常准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_465\",\n        \"User_Pain_Point\": \"道路指引很准确\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_466\",\n        \"User_Pain_Point\": \"导航体验很好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_469\",\n        \"User_Pain_Point\": \"功能实用强大，找店找商家方便\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_461\",\n        \"User_Pain_Point\": \"司机服务好，定位错误仍送达，好评\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_463\",\n        \"User_Pain_Point\": \"五星好评\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_467\",\n        \"User_Pain_Point\": \"很棒很牛\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_470\",\n        \"User_Pain_Point\": \"一路顺畅，马踏平川\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 48,
+    "batch_ids": [
+      "com.amap.hmapp_471",
+      "com.amap.hmapp_472",
+      "com.amap.hmapp_473",
+      "com.amap.hmapp_474",
+      "com.amap.hmapp_475",
+      "com.amap.hmapp_476",
+      "com.amap.hmapp_477",
+      "com.amap.hmapp_478",
+      "com.amap.hmapp_479",
+      "com.amap.hmapp_480"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_471",
+        "content": "实时更新，吃喝玩乐样样方便",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.amap.hmapp_472",
+        "content": "很好用，也很精准。",
+        "device": "HUAWEI Pura X Max"
+      },
+      {
+        "id": "com.amap.hmapp_473",
+        "content": "准确高效！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_474",
+        "content": "准确，幽默，安静，非常棒。啊？",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_475",
+        "content": "高德地图就是好哦，自从用了它我没一个违章",
+        "device": "HUAWEI Mate 60 RS | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_476",
+        "content": "谢谢你让我我们找到了厕所",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_477",
+        "content": "总体感觉不错",
+        "device": "nova 14 活力版"
+      },
+      {
+        "id": "com.amap.hmapp_478",
+        "content": "这个版本连家人地图都不支持",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_479",
+        "content": "一直陪伴",
+        "device": "HUAWEI Mate X5 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_480",
+        "content": "路况准、到达时间准，不错",
+        "device": "nova 15"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_471\", \"User_Pain_Point\": \"实时更新，吃喝玩乐样样方便\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_472\", \"User_Pain_Point\": \"很好用，也很精准。\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_473\", \"User_Pain_Point\": \"准确高效！\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_474\", \"User_Pain_Point\": \"准确，幽默，安静，非常棒。啊？\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_475\", \"User_Pain_Point\": \"高德地图就是好哦，自从用了它我没一个违章\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_476\", \"User_Pain_Point\": \"谢谢你让我我们找到了厕所\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_480\", \"User_Pain_Point\": \"路况准、到达时间准，不错\", \"Actionable_Suggestion\": \"无\"}\n    ],\n    \"Negative\": [\n      {\"id\": \"com.amap.hmapp_478\", \"User_Pain_Point\": \"这个版本连家人地图都不支持\", \"Actionable_Suggestion\": \"建议增加家人地图功能或支持现有版本\"}\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\"id\": \"com.amap.hmapp_477\", \"User_Pain_Point\": \"总体感觉不错\", \"Actionable_Suggestion\": \"无\"},\n      {\"id\": \"com.amap.hmapp_479\", \"User_Pain_Point\": \"一直陪伴\", \"Actionable_Suggestion\": \"无\"}\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 49,
+    "batch_ids": [
+      "com.amap.hmapp_481",
+      "com.amap.hmapp_482",
+      "com.amap.hmapp_483",
+      "com.amap.hmapp_484",
+      "com.amap.hmapp_485",
+      "com.amap.hmapp_486",
+      "com.amap.hmapp_487",
+      "com.amap.hmapp_488",
+      "com.amap.hmapp_489",
+      "com.amap.hmapp_490"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_481",
+        "content": "高德地图是我一直在使用的导航软件，这个导航软件相当准确。是我非常值得为大家推荐的一个软件。",
+        "device": "HUAWEI MatePad 11.5''S"
+      },
+      {
+        "id": "com.amap.hmapp_482",
+        "content": "高德地图车机版，一直都不错。",
+        "device": "HUAWEI Pura 80 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_483",
+        "content": "导航精准！",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.amap.hmapp_484",
+        "content": "方向辨别不如以前好了",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.amap.hmapp_485",
+        "content": "高德地图无论是步行指引还是汽车驾驶导航，非常好用。具有智能化，人性化，方便化，精准化和实用化。我使用高德导航十几年了，伴随着高德的不断完善，已经越来越离不开它了。愿高德越来越好！👍👍👍",
+        "device": "HUAWEI Pura 70 Ultra"
+      },
+      {
+        "id": "com.amap.hmapp_486",
+        "content": "一直用，觉得简单实用，非常棒",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.amap.hmapp_487",
+        "content": "准确及时高效快捷",
+        "device": "HUAWEI Mate XT | ULTIMATE DESIGN"
+      },
+      {
+        "id": "com.amap.hmapp_488",
+        "content": "德行天下高德地图！！",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_489",
+        "content": "特别好",
+        "device": "HUAWEI Mate X7"
+      },
+      {
+        "id": "com.amap.hmapp_490",
+        "content": "非常好用，出门旅游必备软件！",
+        "device": "HUAWEI Mate X7"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_481\",\n        \"User_Pain_Point\": \"导航准确，值得推荐\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_482\",\n        \"User_Pain_Point\": \"一直不错，使用体验好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_483\",\n        \"User_Pain_Point\": \"导航精准\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_485\",\n        \"User_Pain_Point\": \"步行指引和驾驶导航非常好用，智能化、人性化、方便化、精准化、实用化\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_486\",\n        \"User_Pain_Point\": \"简单实用，非常棒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_487\",\n        \"User_Pain_Point\": \"准确及时高效快捷\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_490\",\n        \"User_Pain_Point\": \"非常好用，出门旅游必备\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_484\",\n        \"User_Pain_Point\": \"方向辨别不如以前好了\",\n        \"Actionable_Suggestion\": \"优化方向辨别功能，提升准确性\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_488\",\n        \"User_Pain_Point\": \"德行天下高德地图！！（赞赏品牌）\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_489\",\n        \"User_Pain_Point\": \"特别好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.amap.hmapp",
+    "batch_index": 50,
+    "batch_ids": [
+      "com.amap.hmapp_491",
+      "com.amap.hmapp_492",
+      "com.amap.hmapp_493",
+      "com.amap.hmapp_494",
+      "com.amap.hmapp_495",
+      "com.amap.hmapp_496",
+      "com.amap.hmapp_497",
+      "com.amap.hmapp_498",
+      "com.amap.hmapp_499",
+      "com.amap.hmapp_500"
+    ],
+    "request_comments": [
+      {
+        "id": "com.amap.hmapp_491",
+        "content": "好评。",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_492",
+        "content": "离不开他了！我亲爱的高德",
+        "device": "HUAWEI Pura 80 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_493",
+        "content": "一直在用，非常满意",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_494",
+        "content": "越来越好用",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_495",
+        "content": "红绿灯读秒偶尔还是有误差",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.amap.hmapp_496",
+        "content": "棒棒棒哒",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.amap.hmapp_497",
+        "content": "高德很好用。",
+        "device": "nova 12"
+      },
+      {
+        "id": "com.amap.hmapp_498",
+        "content": "好，很好，非常好哦",
+        "device": "HUAWEI Mate X6 典藏版"
+      },
+      {
+        "id": "com.amap.hmapp_499",
+        "content": "挺好，定位比较准",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.amap.hmapp_500",
+        "content": "为啥我的版本不支持组队功能？跟鸿蒙系统有冲突？",
+        "device": "nova 14"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_495\",\n        \"User_Pain_Point\": \"红绿灯读秒偶尔有误差\",\n        \"Actionable_Suggestion\": \"优化红绿灯读秒算法，提高准确性\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_499\",\n        \"User_Pain_Point\": \"定位比较准\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.amap.hmapp_500\",\n        \"User_Pain_Point\": \"版本不支持组队功能，怀疑与鸿蒙系统有冲突\",\n        \"Actionable_Suggestion\": \"适配鸿蒙系统，支持组队功能\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.amap.hmapp_491\",\n        \"User_Pain_Point\": \"用户给出好评\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_492\",\n        \"User_Pain_Point\": \"用户表达喜爱和依赖\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_493\",\n        \"User_Pain_Point\": \"用户一直使用且非常满意\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_494\",\n        \"User_Pain_Point\": \"用户认为越来越好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_496\",\n        \"User_Pain_Point\": \"用户表示棒棒棒哒\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_497\",\n        \"User_Pain_Point\": \"用户认为高德很好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.amap.hmapp_498\",\n        \"User_Pain_Point\": \"用户给出高度好评\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  }
+]

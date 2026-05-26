@@ -1,0 +1,3853 @@
+{
+  "n_items": 568,
+  "n_items_deduped": 536,
+  "稳定性与性能": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "应用卡顿问题",
+          "canonical_issue": "应用运行卡顿，包括操作不流畅、掉帧、响应慢等问题",
+          "size": 14,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_1",
+              "pain": "操作非常不顺畅",
+              "suggestion": "优化操作流畅度，减少卡顿。",
+              "source": "操作非常不顺畅，要加快改进。",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_6",
+              "pain": "之前一路升级，后来卡顿严重，卸载，重新安装后，正常",
+              "suggestion": "优化升级后的性能，避免卡顿问题。",
+              "source": "之前一路升级，后来卡顿严重，卸载，重新安装后，正常",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_9",
+              "pain": "触控响应慢或者干脆无响应，画面掉帧卡顿，体验极差",
+              "suggestion": "优化触控响应速度和画面流畅度。",
+              "source": "触控响应慢或者干脆无响应，画面掉帧卡顿，体验极差",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_10",
+              "pain": "客服界面卡顿",
+              "suggestion": "优化客服界面流畅度。",
+              "source": "客服界面卡顿",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_12",
+              "pain": "软件太卡，掉帧严重",
+              "suggestion": "优化性能，减少卡顿和掉帧",
+              "source": "这软件太卡了，掉帧严重，能不能好好做个软件。\n就没用过这么卡的软件。",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_15",
+              "pain": "卡顿",
+              "suggestion": "优化性能，解决卡顿问题",
+              "source": "逛一会手机发热，工程师干啥的，卡顿发热",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_16",
+              "pain": "最近应用卡顿严重",
+              "suggestion": "优化应用性能，解决卡顿问题",
+              "source": "最近应用卡成了",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_25",
+              "pain": "鸿蒙加载最卡，卡顿严重",
+              "suggestion": "优化应用启动和页面加载速度",
+              "source": "为什么鸿蒙加载最卡的就是京东",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_28",
+              "pain": "很卡，鸿蒙最卡的App",
+              "suggestion": "全面优化性能，减少卡顿",
+              "source": "是真的卡，鸿蒙最卡的App，没有之一。",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_30",
+              "pain": "更新后非常卡",
+              "suggestion": "优化更新后的性能，修复卡顿问题",
+              "source": "更新后，非常卡！非必要不要更新",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_31",
+              "pain": "应用卡顿，其他软件正常，京东超级慢",
+              "suggestion": "优化应用性能，特别是加载和响应速度",
+              "source": "太卡顿了，其他软件不卡，京东超级慢，望优化！",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.jd.hm.mall_33",
+              "pain": "安卓版和鸿蒙版均存在卡顿问题",
+              "suggestion": "全面优化性能，减少卡顿",
+              "source": "安卓版卡，鸿蒙版也卡，狗东不愧是你",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_37",
+              "pain": "京东APP卡顿严重",
+              "suggestion": "优化应用性能，提升流畅度",
+              "source": "京东APP真是卡哭了",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_38",
+              "pain": "使用不丝滑，卡顿，体验差",
+              "suggestion": "优化动画和交互流畅度",
+              "source": "用着不丝滑，卡顿，体验很差劲！",
+              "device": "HUAWEI Mate X6 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_1",
+            "com.jd.hm.mall_6",
+            "com.jd.hm.mall_9",
+            "com.jd.hm.mall_10",
+            "com.jd.hm.mall_12",
+            "com.jd.hm.mall_15",
+            "com.jd.hm.mall_16",
+            "com.jd.hm.mall_25",
+            "com.jd.hm.mall_28",
+            "com.jd.hm.mall_30",
+            "com.jd.hm.mall_31",
+            "com.jd.hm.mall_33",
+            "com.jd.hm.mall_37",
+            "com.jd.hm.mall_38"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "存储占用过大",
+          "canonical_issue": "应用占用存储空间过大，包括固定占用和缓存问题",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_2",
+              "pain": "App占用存储过大，固定占用3.5G",
+              "suggestion": "优化存储占用，减少缓存或允许用户清理。",
+              "source": "App占用存储过大，固定占用3.5G",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.jd.hm.mall_11",
+              "pain": "内存占用高达23个G，占用空间过大",
+              "suggestion": "优化内存占用，减少存储空间消耗",
+              "source": "不是你一个购物APP  内存占用23个G？",
+              "device": "HUAWEI Pura 70 Ultra"
+            },
+            {
+              "id": "com.jd.hm.mall_23",
+              "pain": "软件占用空间很大，堪比3A大作",
+              "suggestion": "优化软件体积，减少存储占用",
+              "source": "软件占用空间堪比3A大作",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_2",
+            "com.jd.hm.mall_11",
+            "com.jd.hm.mall_23"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "设备发热问题",
+          "canonical_issue": "使用过程中设备发热严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_15",
+              "pain": "手机发热严重",
+              "suggestion": "优化功耗，降低发热",
+              "source": "逛一会手机发热，工程师干啥的，卡顿发热",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_15"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "整体卡顿",
+          "canonical_issue": "应用整体运行卡顿，响应缓慢",
+          "size": 10,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_39",
+              "pain": "应用太卡",
+              "suggestion": "整体性能优化",
+              "source": "太卡了",
+              "device": "nova 12 Ultra 星耀版"
+            },
+            {
+              "id": "com.jd.hm.mall_42",
+              "pain": "卡",
+              "suggestion": "优化应用性能，减少卡顿问题。",
+              "source": "卡",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_43",
+              "pain": "有点卡，刚开始用的时候物流非常快，现在越来越慢了",
+              "suggestion": "优化应用性能，解决卡顿问题。",
+              "source": "有点卡，刚开始用的时候物流非常快，现在越来越慢了",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_44",
+              "pain": "卡的很",
+              "suggestion": "优化性能，减少卡顿。",
+              "source": "卡的很，能不能不要用网页套壳",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_45",
+              "pain": "卡顿严重，反应特别慢。",
+              "suggestion": "优化性能，提高响应速度。",
+              "source": "卡顿严重，反应特别慢。",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.jd.hm.mall_48",
+              "pain": "好卡，越往下划越卡，是所有购物app中最卡的",
+              "suggestion": "优化列表滑动性能。",
+              "source": "好卡，越往下划越卡，是所有购物app中最卡的",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_53",
+              "pain": "应用卡顿",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "为什么总是卡卡的呢？就不能做流畅了吗",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_56",
+              "pain": "应用卡出天际",
+              "suggestion": "优化性能，提升流畅度",
+              "source": "卡出天际，是在嫌弃客户太多吗？",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_63",
+              "pain": "App卡顿",
+              "suggestion": "优化整体性能",
+              "source": "App太卡了",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.jd.hm.mall_66",
+              "pain": "卡顿严重",
+              "suggestion": "优化性能",
+              "source": "卡的不行",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_39",
+            "com.jd.hm.mall_42",
+            "com.jd.hm.mall_43",
+            "com.jd.hm.mall_44",
+            "com.jd.hm.mall_45",
+            "com.jd.hm.mall_48",
+            "com.jd.hm.mall_53",
+            "com.jd.hm.mall_56",
+            "com.jd.hm.mall_63",
+            "com.jd.hm.mall_66"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "发热问题",
+          "canonical_issue": "应用运行时设备发热严重",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_47",
+              "pain": "打开软件发热严重",
+              "suggestion": "优化功耗管理，减少发热。",
+              "source": "优化有问题，打开软件发热严重",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_57",
+              "pain": "应用卡顿和发热",
+              "suggestion": "优化性能和功耗管理",
+              "source": "特别卡还会发热，体验极差",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_47",
+            "com.jd.hm.mall_57"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "点击响应慢",
+          "canonical_issue": "点击操作后响应延迟明显",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_49",
+              "pain": "点击里边的内容反应慢，点我的订单 4 秒才能出来。最近才是这样的",
+              "suggestion": "优化点击响应速度，排查最近更新导致的问题。",
+              "source": "华为 鸿蒙系统 117SP6 ，京东 APP 点击里边的内容反应慢，点我的订单 4 秒才能出来。最近才是这样的",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_49"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "小游戏卡顿",
+          "canonical_issue": "内置小游戏及页面跳转卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_50",
+              "pain": "玩里面的小游戏或者跳转页面，卡的很，尤其是小游戏有时候卡的还没十年前流畅",
+              "suggestion": "优化小游戏性能，提升跳转页面流畅度。",
+              "source": "玩里面的小游戏或者跳转页面，卡的很，尤其是小游戏有时候卡的还没十年前流畅",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_50"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "滑动卡顿",
+          "canonical_issue": "上下滑动页面时卡顿明显",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_58",
+              "pain": "上下滑动卡顿",
+              "suggestion": "优化渲染和列表性能",
+              "source": "你们的京东app上下滑动卡顿吗？已经在加载出来的商品信息流都特别卡，怎么京东的产品经理和质检都被开除了吗？没人把关吗？",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_58"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "搜索白页",
+          "canonical_issue": "搜索及订单页面加载白页或卡顿",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_59",
+              "pain": "搜索和订单页面卡成白页",
+              "suggestion": "修复白页问题，优化加载速度",
+              "source": "现在根本就没办法用嘛。搜索物品基本上一弄就卡成白页，半天都出不来，然后再查订单查所有东西都是卡在那，卡成白页出不来。",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.jd.hm.mall_62",
+              "pain": "搜索点进去卡顿未解决",
+              "suggestion": "优化搜索页面性能",
+              "source": "京东搜索点进去卡顿还没解决么\n？",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_68",
+              "pain": "严重卡顿，首页搜索白屏",
+              "suggestion": "修复搜索白屏并优化性能",
+              "source": "严重卡顿，首页搜索白屏白天才出来搜索栏",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_59",
+            "com.jd.hm.mall_62",
+            "com.jd.hm.mall_68"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "整体卡顿问题",
+          "canonical_issue": "应用整体运行卡顿严重，影响用户体验",
+          "size": 8,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_73",
+              "pain": "鸿蒙中最卡的App，所有功能模块都卡顿",
+              "suggestion": "进行全面性能优化，重点解决卡顿问题",
+              "source": "鸿蒙里最卡的app。什么功能模块都卡。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.jd.hm.mall_76",
+              "pain": "应用程序整体运行卡顿严重",
+              "suggestion": "整体性能优化，解决卡顿问题",
+              "source": "太卡了太卡了，赶紧优化！",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.jd.hm.mall_87",
+              "pain": "刷京东有点卡顿",
+              "suggestion": "优化整体流畅度",
+              "source": "刷京东有点卡顿",
+              "device": "HUAWEI Mate 60 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_90",
+              "pain": "太卡太卡，要求优化流畅",
+              "suggestion": "优化流畅度",
+              "source": "太卡太卡了！要求优化流畅！",
+              "device": "nova 12"
+            },
+            {
+              "id": "com.jd.hm.mall_92",
+              "pain": "越更新越卡，不流畅",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "丝滑流畅吗？工程师自己有没有用过？？？！！！！越更新越卡，咋搞的？？？",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_95",
+              "pain": "APP卡顿严重",
+              "suggestion": "优化流畅度",
+              "source": "APP卡顿严重。APP使用期间发热严重。体验极差。",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_96",
+              "pain": "手机变得很卡",
+              "suggestion": "优化流畅度",
+              "source": "非常难用 每次打开都严重发热 掉电很快 手机也变得很卡 用了很久一点优化都没有",
+              "device": "HUAWEI Mate X6"
+            },
+            {
+              "id": "com.jd.hm.mall_98",
+              "pain": "太卡了",
+              "suggestion": "优化流畅度",
+              "source": "太卡了太卡了",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_73",
+            "com.jd.hm.mall_76",
+            "com.jd.hm.mall_87",
+            "com.jd.hm.mall_90",
+            "com.jd.hm.mall_92",
+            "com.jd.hm.mall_95",
+            "com.jd.hm.mall_96",
+            "com.jd.hm.mall_98"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "界面滑动卡顿",
+          "canonical_issue": "特定界面滑动时出现卡顿现象",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_71",
+              "pain": "主页向下滑动时掉帧严重",
+              "suggestion": "优化主页列表滑动性能，减少掉帧现象",
+              "source": "主页流畅度有待提高，向下滑动时掉帧严重",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_77",
+              "pain": "搜索界面和购物车界面滑动卡顿",
+              "suggestion": "优化搜索界面和购物车界面的滑动流畅度",
+              "source": "京东搜索界面，和购物车等界面卡卡的",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_85",
+              "pain": "切换界面第一下滑动必卡",
+              "suggestion": "优化滑动切换界面的流畅度",
+              "source": "切换界面第一下滑动必卡，能不能优化一下阿",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_71",
+            "com.jd.hm.mall_77",
+            "com.jd.hm.mall_85"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "更新后性能下降",
+          "canonical_issue": "应用更新后性能变差，未达预期流畅度",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_72",
+              "pain": "更新后体验不流畅，声称的全面升级未体现",
+              "suggestion": "重新评估性能优化方案，确保实际体验与宣传一致",
+              "source": "这个全面升级，体验更流畅是个客套话吗！？",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_72"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "客服界面加载慢",
+          "canonical_issue": "客服聊天界面加载延迟高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_75",
+              "pain": "每次打开客服聊天界面都需要加载，延迟高",
+              "suggestion": "优化客服聊天界面加载速度，实现预加载或缓存",
+              "source": "我就想知道为毛每次打开客服聊天界面还得加载？哪个 app 是这样的？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_75"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "存储占用异常",
+          "canonical_issue": "应用存储占用过高，疑似后台异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_79",
+              "pain": "存储占用高达8GB，怀疑后台异常占用",
+              "suggestion": "优化存储管理，降低App存储占用",
+              "source": "卡爆了，打开存储一看京东具体用了8g，这是在干嘛？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_79"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "截屏时卡顿发热",
+          "canonical_issue": "截屏操作时出现卡顿和发热",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_81",
+              "pain": "截屏时异常卡顿和发热",
+              "suggestion": "优化截屏时的性能和功耗",
+              "source": "截屏的时候会出现异常卡顿，发热情况",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_81"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "发热严重",
+          "canonical_issue": "应用使用期间设备发热严重",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_95",
+              "pain": "APP使用期间发热严重",
+              "suggestion": "优化功耗，减少发热",
+              "source": "APP卡顿严重。APP使用期间发热严重。体验极差。",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_96",
+              "pain": "打开APP严重发热",
+              "suggestion": "优化启动功耗",
+              "source": "非常难用 每次打开都严重发热 掉电很快 手机也变得很卡 用了很久一点优化都没有",
+              "device": "HUAWEI Mate X6"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_95",
+            "com.jd.hm.mall_96"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "电池消耗快",
+          "canonical_issue": "应用导致设备电池消耗过快",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_96",
+              "pain": "掉电很快",
+              "suggestion": "优化电池续航",
+              "source": "非常难用 每次打开都严重发热 掉电很快 手机也变得很卡 用了很久一点优化都没有",
+              "device": "HUAWEI Mate X6"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_96"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "应用卡顿严重",
+          "canonical_issue": "京东APP在鸿蒙系统下普遍存在卡顿问题，影响用户体验",
+          "size": 14,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_101",
+              "pain": "应用卡顿严重，影响京东购物和点外卖使用体验",
+              "suggestion": "优化应用性能，减少卡顿，参考淘宝流畅度",
+              "source": "卡的我不愿意用京东购物点外卖。能不能去看看淘宝。是多么流畅",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_102",
+              "pain": "应用卡顿严重",
+              "suggestion": "优化性能",
+              "source": "卡的要死",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_103",
+              "pain": "经常有小卡顿，流畅度不如竞品",
+              "suggestion": "优化卡顿问题，提升流畅度至竞品水平",
+              "source": "好好优化一下吧，经常有小卡顿，拼多多和淘宝都没有这种卡顿，感觉京东技术不如淘宝和拼多多。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_104",
+              "pain": "应用非常卡顿",
+              "suggestion": "优化性能",
+              "source": "非常难用，卡的要死",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_106",
+              "pain": "鸿蒙系统下京东APP卡顿，流畅度不如其他购物软件",
+              "suggestion": "针对鸿蒙系统进行性能优化",
+              "source": "鸿蒙系统京东APP卡顿 流程度开发不如另外几家购物软件",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_111",
+              "pain": "App卡顿，性能下降",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "京东真是越更新越卡。",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.jd.hm.mall_115",
+              "pain": "反应迟钝，不流畅",
+              "suggestion": "提升流畅度",
+              "source": "反应很迟钝，像卡了一样，不如别的APP流畅",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_119",
+              "pain": "启动卡顿，响应慢",
+              "suggestion": "优化启动速度",
+              "source": "京东打开后太卡了，要反应半天才点的东动",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.jd.hm.mall_121",
+              "pain": "应用非常卡顿，是鸿蒙上最卡的app",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "鸿蒙上最卡的app",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_124",
+              "pain": "应用感觉很卡，存在普遍卡顿现象",
+              "suggestion": "排查并修复卡顿问题",
+              "source": "感觉京东这个很卡的感觉，不知道大家有没有这种情况。",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_125",
+              "pain": "更新后依然卡顿，未改善",
+              "suggestion": "持续优化性能，确保更新后流畅",
+              "source": "更新了之后还是卡。",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.jd.hm.mall_128",
+              "pain": "应用卡顿严重，卡到头疼",
+              "suggestion": "紧急优化性能，解决严重卡顿",
+              "source": "怎么就你京东这么卡？卡到爆了，卡的头疼",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_129",
+              "pain": "鸿蒙京东APP太卡，需要好好优化",
+              "suggestion": "针对鸿蒙系统进行深度优化",
+              "source": "太卡了，鸿蒙京东APP需要好好优化啊",
+              "device": "HUAWEI Mate X7 典藏版"
+            },
+            {
+              "id": "com.jd.hm.mall_130",
+              "pain": "订单页面、二级菜单、进入app时都卡顿掉帧",
+              "suggestion": "优化页面加载和动画流畅度",
+              "source": "也太卡了，订单页面，二级菜单，刚进入京东的时候，都会卡和掉帧，新平台还能干成这个鸟样子啊，优化优化吧，真是醉了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_101",
+            "com.jd.hm.mall_102",
+            "com.jd.hm.mall_103",
+            "com.jd.hm.mall_104",
+            "com.jd.hm.mall_106",
+            "com.jd.hm.mall_111",
+            "com.jd.hm.mall_115",
+            "com.jd.hm.mall_119",
+            "com.jd.hm.mall_121",
+            "com.jd.hm.mall_124",
+            "com.jd.hm.mall_125",
+            "com.jd.hm.mall_128",
+            "com.jd.hm.mall_129",
+            "com.jd.hm.mall_130"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "升级后卡顿",
+          "canonical_issue": "升级到鸿蒙6.0后京东APP出现卡顿问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_109",
+              "pain": "升级到6.0后出现卡顿",
+              "suggestion": "排查并修复升级后的卡顿问题",
+              "source": "你们不觉得京东卡吗？升6.0后",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_109"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "特定场景卡顿",
+          "canonical_issue": "在特定操作场景下（如选择商品规格）出现严重卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_131",
+              "pain": "选择商品规格时卡顿约1分钟无响应",
+              "suggestion": "优化商品规格选择页面的性能，减少卡顿现象",
+              "source": "只要一选商品规格就卡1分钟左右没反应。什么玩意儿？",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_131"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "白屏问题",
+          "canonical_issue": "应用卡顿导致半截白屏现象",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_100",
+              "pain": "卡顿导致半截白屏",
+              "suggestion": "完善代码，防止白屏",
+              "source": "一卡就半截白屏，请完善一下",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_100"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "存储占用过大",
+          "canonical_issue": "应用占用存储空间过大，几天内占用8GB以上",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_126",
+              "pain": "应用占用存储空间过大，几天就占8个多G",
+              "suggestion": "优化存储管理，减少缓存占用",
+              "source": "用个几天就要占8个多g空间，快超过微信了。",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_126"
+          ]
+        }
+      ]
+    }
+  },
+  "功能体验": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "外卖地址定位",
+          "canonical_issue": "外卖地址不能根据当前定位自动调整送货地址",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_3",
+              "pain": "外卖地址不能根据当前定位自动调整送货地址，而是优先选择默认地址",
+              "suggestion": "增加根据当前定位自动调整送货地址的功能。",
+              "source": "非常差，外卖地址不能根据当前定位自动调整送货地质，而是优先选择默认地址",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_3"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "换购商品搜索",
+          "canonical_issue": "换购商品页面缺少搜索功能",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_7",
+              "pain": "换购商品没有搜索功能，太不方便了",
+              "suggestion": "在换购商品页面添加搜索功能。",
+              "source": "换购商品没有搜索功能，太不方便了，请添加此功能，谢谢",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_24",
+              "pain": "换购界面无法搜索，缺少这个功能",
+              "suggestion": "在换购界面增加搜索功能",
+              "source": "鸿蒙版本的京东不好用，换购界面无法搜索🔍，缺少这个功能",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_7",
+            "com.jd.hm.mall_24"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "商品图片放大",
+          "canonical_issue": "商品页面图片无法放大查看",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_8",
+              "pain": "点了商品页面图片还不能放大看，图片模糊一点都看不清",
+              "suggestion": "添加商品图片放大查看功能。",
+              "source": "点了商品页面图片还不能放大看，图片模糊一点都看不清，什么玩意，以后转其它平台买东西了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_8"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "满额加购搜索",
+          "canonical_issue": "满额加购页面缺少搜索功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_13",
+              "pain": "满额加购没有搜索功能，不好用，不如安卓版功能全",
+              "suggestion": "建议在满额加购页面增加搜索功能，以提升用户体验",
+              "source": "鸿蒙版的京东满额加购没有搜索功能，不好用，不如安卓版，望改善，好多都不如安卓版功能全",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_13"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "竞拍出价功能",
+          "canonical_issue": "竞拍功能无法正常出价",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_14",
+              "pain": "竞拍没法出价格",
+              "suggestion": "修复竞拍出价功能，确保用户能正常参与竞拍",
+              "source": "竞拍没法出价格",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_14"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "深色模式支持",
+          "canonical_issue": "应用缺少深色模式支持",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_18",
+              "pain": "不支持深色模式",
+              "suggestion": "建议增加深色模式支持",
+              "source": "什么时候支持深色模式呢？",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_64",
+              "pain": "缺少暗黑模式，夜晚使用亮眼",
+              "suggestion": "添加暗黑模式",
+              "source": "还是没有暗黑模式，夜晚使用亮瞎眼，多次反馈依旧没有加入实在想不通是为什么",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_18",
+            "com.jd.hm.mall_64"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "直播间连麦",
+          "canonical_issue": "直播间缺少连麦功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_19",
+              "pain": "直播间没有连麦功能",
+              "suggestion": "建议开启直播间连麦功能，提升互动体验",
+              "source": "直播间连麦功能开一下吧！急急急等618中奖呢",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_19"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "面容支付支持",
+          "canonical_issue": "应用不支持面容支付",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_20",
+              "pain": "不支持面容支付",
+              "suggestion": "建议增加面容支付功能",
+              "source": "居然不支持面容支付",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_20"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "支付宝支付支持",
+          "canonical_issue": "应用缺少支付宝支付方式",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_27",
+              "pain": "缺少支付宝支付",
+              "suggestion": "增加支付宝支付方式",
+              "source": "啥时候能接支付宝",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_29",
+              "pain": "缺少华为支付和支付宝支付，且没有支付顺序设置",
+              "suggestion": "增加华为支付和支付宝支付，并提供支付顺序设置选项",
+              "source": "建议1增加华为支付和支付宝支付，希望能采纳。建议2增加支付顺序设置，可以设置自己喜欢的支付顺序",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_27",
+            "com.jd.hm.mall_29"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "密码输入框限制",
+          "canonical_issue": "付款时密码输入框无法输入英文字母",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_32",
+              "pain": "付款时密码输入框无法输入英文字母，仅能输入数字，京东自营付款异常而京东惊喜正常",
+              "suggestion": "修复密码输入框对英文字母的支持",
+              "source": "最新版是不是有问题，购买付款输入密码时输入的英文字母无法输入到密码框，只能输入数字而已，京东自营付款有问题，京东惊喜付款就正常可以输入",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_32"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "换肤功能开发",
+          "canonical_issue": "换肤功能长期未开发",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_34",
+              "pain": "换肤功能长期未开发，用户多次反馈无果",
+              "suggestion": "开发并上线换肤功能",
+              "source": "换肤功能就那么难开发吗？都已经反馈多少次了，还是搞不定？",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_34"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "网页套壳性能",
+          "canonical_issue": "应用使用网页套壳导致卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_44",
+              "pain": "能不能不要用网页套壳",
+              "suggestion": "采用原生开发，提升用户体验。",
+              "source": "卡的很，能不能不要用网页套壳",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_44"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "应用安装问题",
+          "canonical_issue": "应用无法正常安装",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_46",
+              "pain": "不能安装",
+              "suggestion": "修复安装问题，确保兼容性。",
+              "source": "不能安装，一安装，京东金融就天天打电话推销贷款。",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_46"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "外卖订单拆分",
+          "canonical_issue": "外卖下单后订单被不合理拆分",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_52",
+              "pain": "下单外卖后一单变多单，评价繁琐",
+              "suggestion": "优化下单流程，合并订单，简化评价操作",
+              "source": "我下单外卖，点了三杯奶茶。下完单，一单变三单。我得评价三次，每次操作都很繁琐。真反人类",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_52"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "视频播放功能",
+          "canonical_issue": "应用内视频无法播放",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_61",
+              "pain": "视频无法播放",
+              "suggestion": "修复视频播放功能",
+              "source": "什么破玩意 连个视频都播放不了",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_61"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "京东E卡功能缺失",
+          "canonical_issue": "应用不支持京东E卡功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_65",
+              "pain": "不支持京东E卡功能",
+              "suggestion": "添加京东E卡支持",
+              "source": "不支持京东E卡功能",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_65"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "暗黑模式缺失",
+          "canonical_issue": "应用缺少暗黑模式或深色模式支持",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_70",
+              "pain": "缺少暗黑模式",
+              "suggestion": "添加暗黑模式",
+              "source": "暗黑模式赶紧上吧",
+              "device": "HUAWEI Pura X Max"
+            },
+            {
+              "id": "com.jd.hm.mall_141",
+              "pain": "没有深夜（深黑）模式",
+              "suggestion": "增加深色模式支持",
+              "source": "没有深夜（深黑）模式",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_70",
+            "com.jd.hm.mall_141"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "订单日期选择Bug",
+          "canonical_issue": "修改订单时日期选择滑动逻辑异常，无法选择最后两个日期",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_74",
+              "pain": "修改订单时选择时间滑动到最后一个日期会返回第一个，无法选择最后两个日期",
+              "suggestion": "修复日期选择滑动逻辑Bug，确保所有日期可选",
+              "source": "修改订单那里选择时间滑到最后一个日期会返回第一个 无法选择最后的两个日期 那么久了还不修复？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_74"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "购买页面体验差",
+          "canonical_issue": "购买页面性能差、加载慢，界面为网页版体验不佳",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_82",
+              "pain": "购买页面体验非常差",
+              "suggestion": "优化购买页面性能与加载速度",
+              "source": "非常非常差，购买页面都非常啦，就像评论区说的，这里面很多界面都是网页版",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_82"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "直播间领京豆图标需优化",
+          "canonical_issue": "京东直播间领京豆图标设计或交互需要优化",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_86",
+              "pain": "京东直播间领京豆图标需要优化",
+              "suggestion": "优化直播间领京豆图标的设计或交互",
+              "source": "希望能优化一下，京东直播间领京豆图标",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_86"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "医保支付未适配",
+          "canonical_issue": "支付方式中缺少医保支付功能适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_88",
+              "pain": "医保支付功能未适配",
+              "suggestion": "尽快适配医保支付功能",
+              "source": "支付方式-医保支付，怎么还没适配呀",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_88"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "3D人脸功能未适配",
+          "canonical_issue": "应用未适配3D人脸功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_91",
+              "pain": "需要适配3D人脸功能",
+              "suggestion": "适配3D人脸功能",
+              "source": "赶紧适配3D人脸",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_91"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "保险功能白屏未更新",
+          "canonical_issue": "购买的保险功能页面白屏，内容未更新",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_99",
+              "pain": "购买的保险功能点进去白屏，未更新",
+              "suggestion": "修复保险功能，更新内容",
+              "source": "买的保险到现在都没更新此功能点进去白色页面是不想兑现承诺吗",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_99"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "字体大小调整缺失",
+          "canonical_issue": "设置中缺少字体大小调整功能，对视力不佳用户不友好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_108",
+              "pain": "设置中缺少字体大小调整功能，对视力不佳者不友好",
+              "suggestion": "在设置中添加字体大小调整功能",
+              "source": "设置缺少字体大小调整功能，对花眼的人不是很友好。",
+              "device": "HUAWEI Pura 90 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_108"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "商家小额收款不支持",
+          "canonical_issue": "暂不支持商家小额收款功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_110",
+              "pain": "暂不支持商家小额收款功能",
+              "suggestion": "开发并接入商家小额收款功能",
+              "source": "希望持续完善功能，暂不支持商家小额收款",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_110"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "存储占用过大",
+          "canonical_issue": "应用存储占用过大（10G），影响设备性能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_114",
+              "pain": "存储占用过大（10G）",
+              "suggestion": "优化存储占用，减少不必要数据缓存",
+              "source": "越来越卡了，打开一看一个购物软件占了10个G的储存！！！有必要吗？",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_114"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "外卖配送慢",
+          "canonical_issue": "外卖配送速度慢，等待时间过长",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_122",
+              "pain": "外卖配送极慢，等待时间过长",
+              "suggestion": "优化配送流程，提高配送效率",
+              "source": "同类产品，对比其他平台，价格高太多，外卖配送极慢，等他的外卖送到，人都饿死了",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_122"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "准时宝机制失效",
+          "canonical_issue": "准时宝未发挥作用，配送迟到且售后处理不当",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_127",
+              "pain": "外卖配送迟到半个多小时，准时宝未发挥作用",
+              "suggestion": "完善准时宝机制，确保配送时效",
+              "source": "京东的准时宝是干什么吃的？点个外卖迟到半个多小时，送不了别送行吗，从11∶30等到12∶05我的时间就不是时间了？那个客服也是一直在那踢皮球跟听不懂中国话是的，完事啥售后也没有，就这样还给骑手算的准时送达，完事自己给自己打已完成售后，你完成啥了啊？京东你就一直这样吧",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_127"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "商家红包无法领取",
+          "canonical_issue": "商家红包显示异常，无法领取",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_135",
+              "pain": "商家红包显示不出，无法领取",
+              "suggestion": "修复红包显示领取功能",
+              "source": "功能不全，商家给发的红包，显示不出，不能领取",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_135"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "商品排序筛选缺失",
+          "canonical_issue": "缺少商品列表的排序和筛选功能（销量、评价、价格、品牌、物流）",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_136",
+              "pain": "缺少排序和筛选功能（销量、评价、价格排序，品牌、物流筛选）",
+              "suggestion": "增加商品列表的排序和筛选功能",
+              "source": "需要排序和筛选功能，现在只能一个个往下翻，没法选择销量排序，评价排序，价格排序，还有筛选品牌，筛选物流这些，那一整行功能都没有",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_136"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "消息已读状态不同步",
+          "canonical_issue": "消息显示未读但实际对方已读，状态同步异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_137",
+              "pain": "消息一直显示未读，即使对方已读",
+              "suggestion": "修复消息已读状态同步问题",
+              "source": "消息一直显示未读（实际对方已读）",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_137"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "换购商品无法搜索",
+          "canonical_issue": "换购商品缺少搜索功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_139",
+              "pain": "换购商品无法搜索",
+              "suggestion": "增加换购商品搜索功能",
+              "source": "换购商品无法搜索",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_139"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "外卖功能异常",
+          "canonical_issue": "外卖下单排队机制异常，无法完成点单",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_144",
+              "pain": "外卖无法点单，一直显示排队",
+              "suggestion": "优化外卖下单排队机制，提高成功率",
+              "source": "不知道为什么，外卖都没法点，一直显示排队，一直排不进去",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_144"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "应用未适配深色模式，用户",
+          "canonical_issue": "应用未适配深色模式，用户无法切换",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_147",
+              "pain": "深色模式未上线",
+              "suggestion": "尽快开发并上线深色模式",
+              "source": "深色模式什么时候上",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_171",
+              "pain": "没有深色模式",
+              "suggestion": "建议增加深色模式",
+              "source": "没有深色模式",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_172",
+              "pain": "适配深色模式了吗？",
+              "suggestion": "建议增加深色模式",
+              "source": "卡卡卡，还有适配深色模式了吗？？？",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_147",
+            "com.jd.hm.mall_171",
+            "com.jd.hm.mall_172"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "图片保存异常",
+          "canonical_issue": "客服聊天中保存的图片在图库中不显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_150",
+              "pain": "客服聊天中保存的图片在图库中不显示",
+              "suggestion": "修复图片保存到图库的功能",
+              "source": "客服聊天界面发的图片长按虽然显示保存，但在图库中不显示",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_150"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "支付方式缺失",
+          "canonical_issue": "应用不支持支付宝支付",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_153",
+              "pain": "不支持支付宝支付",
+              "suggestion": "增加支付宝支付接口",
+              "source": "什么时候能用支付宝支付",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_153"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "评论图片上传失败",
+          "canonical_issue": "评论时上传图片失败，无法显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_155",
+              "pain": "评论时上传图片失败，无法显示",
+              "suggestion": "修复评论图片上传功能",
+              "source": "评论带图发出去没有\n支付不调用手机结构光，是那种摇摇头张张嘴的刷脸，高亮度放闪光弹配上双层 OLED 直接给我闪瞎了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_155"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "支付刷脸体验差",
+          "canonical_issue": "支付时不支持结构光刷脸，强制使用低安全级别的刷脸方式且亮度过高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_155",
+              "pain": "支付时不支持结构光刷脸，强制使用低安全级别的刷脸方式且亮度过高",
+              "suggestion": "优化支付刷脸体验，支持结构光识别并控制屏幕亮度",
+              "source": "评论带图发出去没有\n支付不调用手机结构光，是那种摇摇头张张嘴的刷脸，高亮度放闪光弹配上双层 OLED 直接给我闪瞎了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_155"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "医保支付缺失",
+          "canonical_issue": "应用不支持医保个人账户订单支付",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_156",
+              "pain": "不支持医保个人账户订单支付",
+              "suggestion": "增加医保个账支付功能",
+              "source": "不支持医保个账订单，快修复！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_173",
+              "pain": "什么时候支持医保买药",
+              "suggestion": "建议增加医保买药功能",
+              "source": "什么时候支持医保买药",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_156",
+            "com.jd.hm.mall_173"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "功能冗余",
+          "canonical_issue": "应用功能繁琐无用，缺乏优化",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_164",
+              "pain": "功能繁琐无用",
+              "suggestion": "简化功能，去除冗余或低频功能",
+              "source": "开屏广告做的好。app臃肿不堪，优化完全没有。功能繁琐无用。",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_164"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "商品页面加载失败",
+          "canonical_issue": "很多商品页面无法打开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_168",
+              "pain": "很多商品页面无法打开",
+              "suggestion": "修复商品页面加载问题，确保链接可访问",
+              "source": "很多商品页面无法打开",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_168"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "抖音编辑功能缺失",
+          "canonical_issue": "应用未提供抖音编辑作品功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_169",
+              "pain": "期待抖音编辑作品功能但未提供",
+              "suggestion": "评估增加抖音编辑作品功能或引导用户使用抖音",
+              "source": "什么时候把抖音编辑作品升级出来",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_169"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "主题选择缺失",
+          "canonical_issue": "应用主题没有选择，用户无法自定义",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_175",
+              "pain": "主题没有选择",
+              "suggestion": "建议增加主题选择功能",
+              "source": "鸿蒙版京东app适配有待提高，写评价看不到写的什么，主题没有选择等等我还没有发现的问题。",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_175"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "字体设置不全",
+          "canonical_issue": "字体改不全，APP优化差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_181",
+              "pain": "字体改不全",
+              "suggestion": "优化字体设置功能，确保所有界面字体统一可修改",
+              "source": "字体改不全，APP优化差",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_181"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "加购响应慢",
+          "canonical_issue": "选商品加购物车时反应慢导致下错单",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_183",
+              "pain": "选商品加购物车时反应慢导致下错单",
+              "suggestion": "优化加购响应速度，增加操作确认环节防止误触",
+              "source": "选商品加购物车时反应慢，好几次导致下错单，七鲜APP也是一样",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_183"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "外卖评价照片选择异常",
+          "canonical_issue": "外卖评价时没法选中照片",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_186",
+              "pain": "外卖评价时没法选中照片",
+              "suggestion": "修复外卖评价照片选择功能，确保相册访问正常",
+              "source": "外卖评价的时候没法选中照片。",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_186"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "搜索结果不准确",
+          "canonical_issue": "搜索结果不准确，搜荣耀出现杂牌机",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_187",
+              "pain": "搜索结果不准确，搜荣耀出现杂牌机",
+              "suggestion": "改进搜索算法，确保关键词匹配准确，过滤无关商品",
+              "source": "京东越来越差劲了，搜索的东西给我疯狂推广告，搜荣耀出来很多杂牌机，之前就上过一次当，真的服了，这是在搞要买雪碧买成雷碧的套路吗？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_187"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "价格显示不一致",
+          "canonical_issue": "列表页显示价格与付款页不一致，差异几百元，影响下单决策",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_207",
+              "pain": "列表页显示价格与付款页不一致，差异几百元，影响下单决策",
+              "suggestion": "修复价格显示不一致问题，确保列表页价格与最终支付价格一致",
+              "source": "买东西显示的价格跟其他手机显示的差几百块，实际点进去付款才是准的价格，才跟其他系统手机一样，很影响下单啊，看这么贵都去别的平台买了。",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_207"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "评论功能异常",
+          "canonical_issue": "无法写评论或评论加载失败",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_215",
+              "pain": "无法写评论",
+              "suggestion": "修复评论功能",
+              "source": "无法写评论",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_262",
+              "pain": "打开评论时提示无网络，无法加载评论内容",
+              "suggestion": "优化评论加载机制，确保网络正常时能正确加载",
+              "source": "一点开评论就显示无网络加载不出来评论？",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_215",
+            "com.jd.hm.mall_262"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "网页套壳体验差",
+          "canonical_issue": "网页套壳体验，每次需要验证，且部分功能无法正常使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_223",
+              "pain": "网页套壳体验，每次需要验证",
+              "suggestion": "优化验证流程或采用原生实现",
+              "source": "网页套壳，每次都要我验证。\n然后鸿蒙的京东外卖点击进入店铺显示访问人数过多，安卓就能正常进入。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_223"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "客服功能不完善",
+          "canonical_issue": "客服对话无法发送相册照片，聊天信息发送后不主动点击客服聊天看不到消息",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_229",
+              "pain": "客服对话无法发送相册照片",
+              "suggestion": "增加相册照片选择功能",
+              "source": "客服对话，提供一个相册照片选择功能很难吗？为啥这么简单的都没有！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_232",
+              "pain": "聊天信息发送后不主动点击客服聊天看不到消息，但有提示，疑似bug",
+              "suggestion": "修复聊天消息显示bug",
+              "source": "店铺的聊天信息发送后（如收货注意事项的机器人信息)，如果不主动点击客服聊天，看不到聊天消息，但是系统会提示有信息，应该是bug。",
+              "device": "HUAWEI Mate X7 典藏版"
+            },
+            {
+              "id": "com.jd.hm.mall_254",
+              "pain": "客服功能不完善",
+              "suggestion": "完善客服功能，提升用户体验",
+              "source": "感觉卡顿，而且客服功能也没完善",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_229",
+            "com.jd.hm.mall_232",
+            "com.jd.hm.mall_254"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "数据存储问题",
+          "canonical_issue": "数据存储有问题，需卸载重装才正常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_233",
+              "pain": "数据存储有问题，需卸载重装才正常",
+              "suggestion": "修复数据存储bug",
+              "source": "京东的数据存储有问题，先卸载了再重新安装最新版的，就会正常了。我服了，真的离谱",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_233"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "缺少深色模式适配",
+          "canonical_issue": "缺少深色模式适配",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_234",
+              "pain": "缺少深色模式适配",
+              "suggestion": "尽快适配深色模式",
+              "source": "赶紧适配深色模式啊😦",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_251",
+              "pain": "缺少深色模式",
+              "suggestion": "建议增加深色模式功能",
+              "source": "不知道一直在更新什么，深色模式都没有，能把实况照片识别成视频还不让发的应用我是头一次见",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_268",
+              "pain": "缺少黑暗模式，希望添加",
+              "suggestion": "开发并上线黑暗模式功能",
+              "source": "黑暗模式什么时候添加",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_276",
+              "pain": "缺少夜间模式",
+              "suggestion": "增加夜间模式功能",
+              "source": "夜间模式什么时候上",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_234",
+            "com.jd.hm.mall_251",
+            "com.jd.hm.mall_268",
+            "com.jd.hm.mall_276"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "评价图片上传错误",
+          "canonical_issue": "评价添加图片时提示视频时长不能少于3秒，逻辑错误",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_237",
+              "pain": "评价添加图片时提示视频时长不能少于3秒，逻辑错误",
+              "suggestion": "修复评价图片上传的错误提示逻辑",
+              "source": "评价想添加一个图片，然后提示我视频时长不能少于3秒，真把我气笑了🤣",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_237"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "实况照片识别错误",
+          "canonical_issue": "实况照片被错误识别为视频且无法发送",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_251",
+              "pain": "实况照片被错误识别为视频且无法发送",
+              "suggestion": "修复实况照片识别问题，允许正常发送",
+              "source": "不知道一直在更新什么，深色模式都没有，能把实况照片识别成视频还不让发的应用我是头一次见",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_251"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "实况窗功能消失",
+          "canonical_issue": "实况窗功能消失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_260",
+              "pain": "实况窗功能消失",
+              "suggestion": "恢复实况窗功能或提供替代方案",
+              "source": "实况窗怎么没有了",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_260"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "App占用存储空间过大",
+          "canonical_issue": "App占用存储空间达19GB，过大",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_264",
+              "pain": "App占用存储空间达19GB，过大",
+              "suggestion": "优化存储管理，减少缓存占用，提供清理功能",
+              "source": "70rs 总是卡，我的京东竟然有19G 你敢信",
+              "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_264"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "字体大小无法调节",
+          "canonical_issue": "无法调节字体大小，导致看不到物流通知",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_265",
+              "pain": "无法调节字体大小，导致看不到物流通知",
+              "suggestion": "添加字体大小调节功能，并确保物流通知正常显示",
+              "source": "字体大小不能调，看不到物流通知",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_265"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "面容支付功能缺失",
+          "canonical_issue": "面容支付功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_280",
+              "pain": "面容支付功能缺失",
+              "suggestion": "开发并上线面容支付功能",
+              "source": "每次升级就是那几句话，能不能搞点实际的，比如面容支付什么时候到位，这么大个公司开发的app评分这么低是有原因的。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_280"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "67",
+          "cluster_name": "夜间模式缺失",
+          "canonical_issue": "应用缺少夜间模式功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_491",
+              "pain": "缺少夜间模式",
+              "suggestion": "增加夜间模式功能",
+              "source": "啥时候有夜间模式",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_491"
+          ]
+        }
+      ]
+    }
+  },
+  "体验赞赏": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "物流与配送效率",
+          "canonical_issue": "用户对京东物流速度和配送效率表示赞赏",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_4",
+              "pain": "发货速度快，商品是正品质量好",
+              "suggestion": "无",
+              "source": "平台登录新户有一分购优惠，逢年过节还有京豆抽奖、优惠券、红包派发热闹活动。发货速度快，商品是正品质量好。",
+              "device": "HUAWEI Mate 70 Air"
+            },
+            {
+              "id": "com.jd.hm.mall_5",
+              "pain": "物流给力，又好又便宜",
+              "suggestion": "无",
+              "source": "产品丰富，物流给力，又好又便宜。",
+              "device": "华为畅享 70X"
+            },
+            {
+              "id": "com.jd.hm.mall_80",
+              "pain": "大平台购物方便，物流超级快",
+              "suggestion": "无",
+              "source": "京东大平台，购物很方便，物流超级快",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_134",
+              "pain": "软件好用，点外卖购物方便，快递快，价格实惠",
+              "suggestion": "无",
+              "source": "很好用的软件 点外卖购物什么都方便 快递速度也很快 商品价格便宜实惠",
+              "device": "HUAWEI Pocket 2"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_4",
+            "com.jd.hm.mall_5",
+            "com.jd.hm.mall_80",
+            "com.jd.hm.mall_134"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "平台整体体验",
+          "canonical_issue": "用户对京东作为购物平台的整体体验表示满意",
+          "size": 11,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_21",
+              "pain": "京东应该是我最喜欢的购物平台了",
+              "suggestion": "无",
+              "source": "京东应该是我最喜欢的购物平台了",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.jd.hm.mall_22",
+              "pain": "京东是我用过最好的软件",
+              "suggestion": "无",
+              "source": "京东是我用过最好的软件",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.jd.hm.mall_41",
+              "pain": "不错",
+              "suggestion": "无",
+              "source": "不错",
+              "device": "HUAWEI Mate X6 典藏版"
+            },
+            {
+              "id": "com.jd.hm.mall_67",
+              "pain": "使用感受还可以，希望继续完善",
+              "suggestion": "无",
+              "source": "我用起来感觉还可以，希望继续完善",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.jd.hm.mall_78",
+              "pain": "功能齐全，越来越好用",
+              "suggestion": "无",
+              "source": "不错，功能齐全，越来越好用了",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_83",
+              "pain": "比较良心的购物软件，用了很多年，不错",
+              "suggestion": "无",
+              "source": "比较良心的购物软件，用了很多年了，不错的",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_84",
+              "pain": "非常好的购物APP",
+              "suggestion": "无",
+              "source": "非常好的购物APP",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_94",
+              "pain": "京东大平台值得信赖，商品齐全价格合理售后有保障",
+              "suggestion": "无",
+              "source": "京东大平台值得信赖商品齐全价格合理售后有保障。",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_112",
+              "pain": "用户认为是最好的购物软件",
+              "suggestion": "无",
+              "source": "用过最好的购物软件了，家电什么只认京东。",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_148",
+              "pain": "京东很好用",
+              "suggestion": "无",
+              "source": "京东很好用",
+              "device": "HUAWEI Mate 70 Air"
+            },
+            {
+              "id": "com.jd.hm.mall_149",
+              "pain": "京东在手机、鸿蒙、PC端都有，功能基本齐全",
+              "suggestion": "无",
+              "source": "不错，京东在手机鸿蒙PC都上架，基本的功能都有，缺的很少",
+              "device": "HUAWEI MateBook Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_21",
+            "com.jd.hm.mall_22",
+            "com.jd.hm.mall_41",
+            "com.jd.hm.mall_67",
+            "com.jd.hm.mall_78",
+            "com.jd.hm.mall_83",
+            "com.jd.hm.mall_84",
+            "com.jd.hm.mall_94",
+            "com.jd.hm.mall_112",
+            "com.jd.hm.mall_148",
+            "com.jd.hm.mall_149"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "功能优化与修复",
+          "canonical_issue": "用户对京东新版本的功能优化和问题修复表示赞赏",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_26",
+              "pain": "爱4.3版本的流畅的多，没有广告，优惠还不少",
+              "suggestion": "无",
+              "source": "爱4.3版本的流畅的多，没有广告，优惠还不少",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_55",
+              "pain": "新版本有页面打断功能",
+              "suggestion": "无",
+              "source": "这版本终于有页面打断了",
+              "device": "HUAWEI Mate 70 Air"
+            },
+            {
+              "id": "com.jd.hm.mall_60",
+              "pain": "立即购买不能选品类问题已修复",
+              "suggestion": "无",
+              "source": "立即购买不能选品类问题终于修复了！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_26",
+            "com.jd.hm.mall_55",
+            "com.jd.hm.mall_60"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "整体体验赞赏",
+          "canonical_issue": "用户对京东APP整体使用体验表示高度赞赏",
+          "size": 7,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_160",
+              "pain": "认为京东值得信赖，非常好用",
+              "suggestion": "无",
+              "source": "京东值得信赖，非常好用！！！！！",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.jd.hm.mall_163",
+              "pain": "用户赞赏京东为优质软件",
+              "suggestion": "无",
+              "source": "京东是非常优质的软件，值得推荐",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_188",
+              "pain": "京东是最好用的购物平台",
+              "suggestion": "无",
+              "source": "京东是我用的最好的购物平台。",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.jd.hm.mall_206",
+              "pain": "用户认为软件非常好用",
+              "suggestion": "无",
+              "source": "这辈子没用过这么好用的软件，推荐给大家！！！！",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_224",
+              "pain": "购物体验很好，值得信赖",
+              "suggestion": "无",
+              "source": "京东app买东西值得信赖，购物体验很好",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_238",
+              "pain": "用户称赞APP非常棒",
+              "suggestion": "无",
+              "source": "非常棒哦",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_261",
+              "pain": "整体使用体验很好，很喜欢并推荐",
+              "suggestion": "无",
+              "source": "很好的APP 爱了 爱了  推荐",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_160",
+            "com.jd.hm.mall_163",
+            "com.jd.hm.mall_188",
+            "com.jd.hm.mall_206",
+            "com.jd.hm.mall_224",
+            "com.jd.hm.mall_238",
+            "com.jd.hm.mall_261"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "物流与商品质量",
+          "canonical_issue": "用户赞赏京东物流速度快、商品质量有保障",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_189",
+              "pain": "物流速度快，商品丰富，质量好",
+              "suggestion": "无",
+              "source": "物流速度很快！商品丰富，质量杠杠滴！！",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_190",
+              "pain": "物流快，质量好，售后服务态度好",
+              "suggestion": "无",
+              "source": "京东购物物流快，质量好，售后服务态度好",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.jd.hm.mall_319",
+              "pain": "购物体验超棒，物流快，商品正品，客服响应及时，售后无忧",
+              "suggestion": "无",
+              "source": "京东购物体验超棒，物流快，商品正品有保障，客服响应及时，售后无忧，五星好评！",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_327",
+              "pain": "商品种类齐全，正品保证，物流速度快",
+              "suggestion": "无",
+              "source": "非常不错的购物软件，商品种类齐全，正品有保证，物流速度快，强烈推荐。",
+              "device": "华为畅享 90 Plus"
+            },
+            {
+              "id": "com.jd.hm.mall_325",
+              "pain": "购物平台靠谱，商品质量有保障",
+              "suggestion": "无",
+              "source": "非常靠谱的购物平台软件，质量很好有保障",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_189",
+            "com.jd.hm.mall_190",
+            "com.jd.hm.mall_319",
+            "com.jd.hm.mall_327",
+            "com.jd.hm.mall_325"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "售后服务与操作体验",
+          "canonical_issue": "用户赞赏京东售后服务好、操作流畅、退换货便捷",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_323",
+              "pain": "售后服务好，分类清晰，操作流畅，退换货便捷，优惠活动多",
+              "suggestion": "无",
+              "source": "非常好用的购物软件，售后服务好，分类清晰、操作流畅，退换货便捷、优惠活动多。",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_323"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "平台诚信与平价",
+          "canonical_issue": "用户赞赏京东平台诚信公平、货真价实",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_290",
+              "pain": "诚信公平，平价交易！百姓生活需要京东。",
+              "suggestion": "无",
+              "source": "诚信公平，平价交易！百姓生活需要京东。",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_309",
+              "pain": "京东的平台货真价实",
+              "suggestion": "无",
+              "source": "京东的平台货真价实",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_290",
+            "com.jd.hm.mall_309"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "外卖配送速度",
+          "canonical_issue": "用户赞赏京东外卖配送速度快",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_239",
+              "pain": "用户认为京东非常好用，外卖配送快",
+              "suggestion": "无",
+              "source": "京东非常好用，外卖也送的很快",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_239"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "开屏广告",
+          "canonical_issue": "用户赞赏京东开屏广告做得好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_164",
+              "pain": "开屏广告做得好",
+              "suggestion": "无",
+              "source": "开屏广告做的好。app臃肿不堪，优化完全没有。功能繁琐无用。",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_164"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "主APP速度",
+          "canonical_issue": "用户赞赏京东主APP速度快",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_250",
+              "pain": "主APP速度快一点",
+              "suggestion": "无",
+              "source": "太差了，在京东上面买东西选择性少，价格又偏贵，唯一的优点就是速度快一点。京东的外卖速度很慢，种类又少。而且点单系统不完善，用起来不顺手。",
+              "device": "nova 12"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_250"
+          ]
+        }
+      ]
+    }
+  },
+  "运营与规则": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "新户优惠与活动",
+          "canonical_issue": "平台登录新户有一分购优惠，逢年过节还有京豆抽奖、优惠券、红包派发热闹活动",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_4",
+              "pain": "平台登录新户有一分购优惠，逢年过节还有京豆抽奖、优惠券、红包派发热闹活动",
+              "suggestion": "无",
+              "source": "平台登录新户有一分购优惠，逢年过节还有京豆抽奖、优惠券、红包派发热闹活动。发货速度快，商品是正品质量好。",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_4"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "物流与正品保障",
+          "canonical_issue": "物流速度快，商品为正品",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_143",
+              "pain": "物流速度快，商品为正品",
+              "suggestion": "无",
+              "source": "物流速度很快，都是正品",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_143"
+          ]
+        }
+      ]
+    },
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "17",
+          "cluster_name": "优惠券难抢",
+          "canonical_issue": "618活动优惠券发放机制不合理，用户难以抢到",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_35",
+              "pain": "618活动优惠券难以抢到",
+              "suggestion": "优化优惠券发放机制或增加抢券成功率",
+              "source": "京东618很多活动优惠券都抢不到啊啊啊",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_35"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "物流速度下降",
+          "canonical_issue": "物流配送速度变慢，用户体验下降",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_43",
+              "pain": "刚开始用的时候物流非常快，现在越来越慢了",
+              "suggestion": "改善物流配送速度。",
+              "source": "有点卡，刚开始用的时候物流非常快，现在越来越慢了",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_43"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "金融推销电话骚扰",
+          "canonical_issue": "安装应用后频繁接到金融产品推销电话",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_46",
+              "pain": "一安装，京东金融就天天打电话推销贷款。",
+              "suggestion": "停止或允许用户关闭安装后推销电话。",
+              "source": "不能安装，一安装，京东金融就天天打电话推销贷款。",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_178",
+              "pain": "一直给我打电话",
+              "suggestion": "建议减少电话骚扰或提供关闭选项",
+              "source": "一直给我打电话",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_46",
+            "com.jd.hm.mall_178"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "自营商品定价与配送问题",
+          "canonical_issue": "自营商品价格高、另收快递费且不送货上门",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_51",
+              "pain": "自营商品价格贵，另收快递费，不送货上门",
+              "suggestion": "优化定价策略，考虑免运费或包邮，改善配送服务",
+              "source": "买自营，价格贵，还另收快递费，还不送货上门。吃8头钱",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_51"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "赚金币任务不稳定",
+          "canonical_issue": "逛频道赚金币任务经常消失，导致任务中断需重新签到",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_54",
+              "pain": "逛频道赚金币任务经常消失，任务中断需重新签到",
+              "suggestion": "修复任务规则，确保任务持续稳定，避免中断",
+              "source": "逛频道没有赚金币任务，昨天都有，今天找不到，经常做十几天任务就突然消失了，等一周左右又出现，任务被迫中断，等出现又要重新开始签到。折腾的很哦",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_54"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "付款诱导金融产品",
+          "canonical_issue": "付款时诱导使用金融付款（如白条），缺乏明确提示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_116",
+              "pain": "付款时诱导使用金融付款（白条等），缺乏明确提示",
+              "suggestion": "优化付款流程，明确提示用户选择支付方式，不得默认跳转到金融付款",
+              "source": "为了做金融真是不择手段，付钱时一不小心他就给你跳到金融付款(白条等)，一点提示都没，合约内容也不弹出，等你输过密码，金融产品也帮你做好了，劝各位付款时多看一眼付款方式。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_116"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "退款流程慢",
+          "canonical_issue": "退款流程拖延，效率低下",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_117",
+              "pain": "退款流程慢，拖延",
+              "suggestion": "优化退款流程，提高效率",
+              "source": "京喜自营商店退款非常费劲，总是一拖再拖，商家收到货三天了还没退款",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_117"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "价格过高",
+          "canonical_issue": "同类产品价格明显高于其他平台",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_122",
+              "pain": "同类产品中价格过高",
+              "suggestion": "调整定价策略，提升性价比",
+              "source": "同类产品，对比其他平台，价格高太多，外卖配送极慢，等他的外卖送到，人都饿死了",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_122"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "客服推诿与售后问题",
+          "canonical_issue": "客服推诿责任、售后不处理或自行标记已完成",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_127",
+              "pain": "客服推诿、售后不处理，自行标记已完成",
+              "suggestion": "加强客服培训，优化售后流程",
+              "source": "京东的准时宝是干什么吃的？点个外卖迟到半个多小时，送不了别送行吗，从11∶30等到12∶05我的时间就不是时间了？那个客服也是一直在那踢皮球跟听不懂中国话是的，完事啥售后也没有，就这样还给骑手算的准时送达，完事自己给自己打已完成售后，你完成啥了啊？京东你就一直这样吧",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.jd.hm.mall_158",
+              "pain": "客服推卸责任，服务态度差",
+              "suggestion": "提升客服服务质量，加强投诉处理",
+              "source": "投诉京东平台运费太高给我退回来买一箱水运费快比水贵了申请全额退款，最后只退了1/4商家也推卸责任当找客服，客服也不咋地。",
+              "device": "HUAWEI Mate X5"
+            },
+            {
+              "id": "com.jd.hm.mall_211",
+              "pain": "客服配合拖延流程并污蔑客户未接听电话",
+              "suggestion": "优化客服流程，加强培训，杜绝推诿和污蔑",
+              "source": "虚空造牌，京东客服配合拖延流程还能可以污蔑客户没有接听电话",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_213",
+              "pain": "服务差，售后无人理会",
+              "suggestion": "改善售后服务质量，增加客服响应",
+              "source": "京东服务太差了，一言难尽，千万别买摩托车，售后服务太差了，真心话，谁买谁知道，没有人打理你",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_127",
+            "com.jd.hm.mall_158",
+            "com.jd.hm.mall_211",
+            "com.jd.hm.mall_213"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "运费过高与退款争议",
+          "canonical_issue": "运费过高且申请全额退款仅退部分金额",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_158",
+              "pain": "购买商品运费过高，申请全额退款只退了1/4",
+              "suggestion": "优化运费规则和退款政策",
+              "source": "投诉京东平台运费太高给我退回来买一箱水运费快比水贵了申请全额退款，最后只退了1/4商家也推卸责任当找客服，客服也不咋地。",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_158"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "用户待遇不一致",
+          "canonical_issue": "相同购买方式下用户获得权益不一致",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_161",
+              "pain": "相同购买方式下待遇不一致",
+              "suggestion": "检查活动规则一致性，确保同等条件用户获得相同权益",
+              "source": "讨厌，明明一样的买法，我跟别人就不一样",
+              "device": "HUAWEI MatePad Air"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_161"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "搜索结果广告与误导",
+          "canonical_issue": "搜索时推送大量广告且结果存在误导性",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_187",
+              "pain": "搜索时疯狂推广告",
+              "suggestion": "控制广告展示频率，避免过度干扰用户搜索",
+              "source": "京东越来越差劲了，搜索的东西给我疯狂推广告，搜荣耀出来很多杂牌机，之前就上过一次当，真的服了，这是在搞要买雪碧买成雷碧的套路吗？",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_187",
+              "pain": "搜索结果诱导误导，类似'买雪碧得雷碧'",
+              "suggestion": "严格审核搜索推荐逻辑，杜绝误导性结果",
+              "source": "京东越来越差劲了，搜索的东西给我疯狂推广告，搜荣耀出来很多杂牌机，之前就上过一次当，真的服了，这是在搞要买雪碧买成雷碧的套路吗？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_187",
+            "com.jd.hm.mall_187"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "广告弹窗过多",
+          "canonical_issue": "应用内广告弹窗频繁干扰用户",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_193",
+              "pain": "广告弹窗多。",
+              "suggestion": "减少广告弹窗频率或优化展示时机。",
+              "source": "很卡 越来越卡 广告弹窗多",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_193"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "开屏广告泛滥",
+          "canonical_issue": "应用更新后强制插入开屏广告，严重影响用户体验",
+          "size": 7,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_221",
+              "pain": "更新后出现开屏广告",
+              "suggestion": "提供关闭开屏广告的选项或减少广告打扰",
+              "source": "优化的不行，比较卡，pura80p+……近期更新后有开屏广告了",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_330",
+              "pain": "存在开屏广告",
+              "suggestion": "减少或移除开屏广告，提升用户体验",
+              "source": "购物App只有你有开屏广告",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_335",
+              "pain": "更新后出现广告",
+              "suggestion": "减少或去除更新后的广告",
+              "source": "差评，更新有广告",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.jd.hm.mall_336",
+              "pain": "应用内有广告",
+              "suggestion": "减少或去除广告",
+              "source": "有广告",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_342",
+              "pain": "今天打开京东有广告了",
+              "suggestion": "减少或取消广告",
+              "source": "🥲今天打开京东有广告了，别搞啊",
+              "device": "HUAWEI MatePad Mini 悦读版"
+            },
+            {
+              "id": "com.jd.hm.mall_345",
+              "pain": "有开屏广告",
+              "suggestion": "减少或取消开屏广告",
+              "source": "基本够用。有开屏广告，支付界面没有华为支付选项。占用空间越来越大，好多G",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_348",
+              "pain": "功能还没上全就开始整上开屏广告",
+              "suggestion": "减少或取消广告，先完善功能",
+              "source": "功能还没上全就开始整上开屏广告了，点个外卖还得看你广告，去别的平台点单不好吗",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_221",
+            "com.jd.hm.mall_330",
+            "com.jd.hm.mall_335",
+            "com.jd.hm.mall_336",
+            "com.jd.hm.mall_342",
+            "com.jd.hm.mall_345",
+            "com.jd.hm.mall_348"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "应用内广告干扰",
+          "canonical_issue": "应用内存在大量广告，缺乏关闭选项",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_228",
+              "pain": "应用出现广告",
+              "suggestion": "提供广告关闭选项或减少广告数量",
+              "source": "有广告了，真烦",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_228"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "支付流程繁琐",
+          "canonical_issue": "支付过程要求过多绑定，操作复杂",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_226",
+              "pain": "支付过程要求过多绑定，体验繁琐",
+              "suggestion": "简化支付流程，减少不必要的绑定步骤",
+              "source": "真是缺钱了，付个钱绑定这绑定那",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_226"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "商品价格偏高",
+          "canonical_issue": "商品价格相比其他平台偏贵，性价比低",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_250",
+              "pain": "商品价格偏贵",
+              "suggestion": "调整定价策略或提供更多优惠",
+              "source": "太差了，在京东上面买东西选择性少，价格又偏贵，唯一的优点就是速度快一点。京东的外卖速度很慢，种类又少。而且点单系统不完善，用起来不顺手。",
+              "device": "nova 12"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_250"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "平台偏袒商家",
+          "canonical_issue": "平台在处理纠纷时偏袒商家，不保护消费者权益",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_256",
+              "pain": "商家存在割韭菜行为",
+              "suggestion": "加强商家监管，杜绝不公平规则",
+              "source": "ysl出现割韭菜行为，京东帮商家不管消费者，客服沟通时强行抢话，态度非常恶劣。",
+              "device": "nova 12 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_256",
+              "pain": "平台偏袒商家，不保护消费者",
+              "suggestion": "完善消费者保护机制，平衡商家与用户权益",
+              "source": "ysl出现割韭菜行为，京东帮商家不管消费者，客服沟通时强行抢话，态度非常恶劣。",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_256",
+            "com.jd.hm.mall_256"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "客服态度恶劣",
+          "canonical_issue": "客服沟通时态度差，强行抢话，缺乏专业性",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_256",
+              "pain": "客服态度恶劣，强行抢话",
+              "suggestion": "加强客服培训，改善服务态度",
+              "source": "ysl出现割韭菜行为，京东帮商家不管消费者，客服沟通时强行抢话，态度非常恶劣。",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_256"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "更新内容空洞",
+          "canonical_issue": "应用更新缺乏实质性改进，未解决用户痛点",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_280",
+              "pain": "每次更新内容空洞，未解决实际问题",
+              "suggestion": "优化更新策略，聚焦用户痛点改进",
+              "source": "每次升级就是那几句话，能不能搞点实际的，比如面容支付什么时候到位，这么大个公司开发的app评分这么低是有原因的。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_280"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "客服投诉渠道缺失",
+          "canonical_issue": "缺乏有效的客服投诉渠道，用户反馈无门",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_324",
+              "pain": "缺少客服投诉渠道",
+              "suggestion": "增加客服投诉渠道，方便用户反馈问题",
+              "source": "外卖功能真的是一言难尽啊，也没有客服可以投诉",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_324"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "外卖超时处理不当",
+          "canonical_issue": "外卖超时后无通知、无赔偿，系统随意修改送达时间",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_347",
+              "pain": "超时无通知、无赔偿，随意改送达时间",
+              "suggestion": "完善超时处理机制，提供通知和赔偿",
+              "source": "点了一份饭， 7.04点的，然后他7:45超时了，系统没有给我任何通知消息，直接把送达时间改到了7:59。然后也没有任何说是超时了给赔偿，然后7:59他又超时了，系统还是没有通知，直接给我改到了8:13。他改就改吧，他下面写了一句，预计7:45送达，稍有超时，感谢理解，什么赔偿都没有，就一句感谢理解。",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_347"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "售后效率低下",
+          "canonical_issue": "售后处理效率极低，退货流程复杂耗时",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_353",
+              "pain": "售后效率极低，退货花了五个小时，半个月无法售后",
+              "suggestion": "建议提升售后处理效率，简化退货流程",
+              "source": "售后效率极低，你就看吧，我以后不会在这上面买一个东西，退货让我花了五个小时去周转，整整半个月都无法售后，牛逼👍",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_353"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "白条功能无法关闭",
+          "canonical_issue": "白条功能强制开启，用户无法关闭",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_358",
+              "pain": "白条无法关闭，黑白通吃",
+              "suggestion": "建议提供关闭白条的选项",
+              "source": "购物点外卖是不错的，就是你能把白条关了吗，你还真是黑白通吃啊",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_358"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "售假与商家管理",
+          "canonical_issue": "平台售假严重且商家存在刷单、隐私泄露等违规行为",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_366",
+              "pain": "京东售假太严重，且客服喜欢踢皮球",
+              "suggestion": "加强商品审核和供应商管理，建立有效的投诉和退赔机制，提升客服服务质量。",
+              "source": "京东售假太严重，而且客服喜欢踢皮球",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.jd.hm.mall_439",
+              "pain": "官方旗舰店存在刷单行为，盗取用户地址并发送不明物品，隐私安全受威胁",
+              "suggestion": "建议加强商家审核，保护用户隐私",
+              "source": "这么大个平台，竟然允许你们官方旗舰店刷单行为，盗取我的地址，直接给我发不明不白的东西，多吓人呢。地址还是我只用过一次的外卖地址，怎么窃取到的呢。",
+              "device": "HUAWEI Mate X6"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_366",
+            "com.jd.hm.mall_439"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "诱导开通功能",
+          "canonical_issue": "频繁诱导用户开通先尝后付等付费功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_403",
+              "pain": "频繁诱导开通先尝后付功能，不尊重用户",
+              "suggestion": "取消强制诱导，改为用户主动选择开通",
+              "source": "最近点外卖总量诱导我开通先尝后付功能，烦死了！就很不尊重人！",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_403"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "开屏广告泛滥",
+          "canonical_issue": "应用内开屏广告严重影响用户体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_411",
+              "pain": "有开屏广告，严重影响体验",
+              "suggestion": "建议取消或减少开屏广告",
+              "source": "有开屏广告了，体验拉低十个档次。",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.jd.hm.mall_494",
+              "pain": "新版新增广告",
+              "suggestion": "减少广告数量或优化广告展示方式",
+              "source": "最新版有打开广告了。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_411",
+            "com.jd.hm.mall_494"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "电话骚扰问题",
+          "canonical_issue": "京东金融通过平台获取用户电话并频繁骚扰",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_419",
+              "pain": "京东金融通过京东获取电话并频繁骚扰",
+              "suggestion": "建议停止电话骚扰或提供关闭选项",
+              "source": "服了这个破京东金融，天天给我打电话，我没有京东金融这个软件，那就只能是从京东获取的电话，天天骚扰，拉黑了五六个电话号了，也没个正事儿，天天就是个打，人家在那上课，电话就是个响，锲而不舍啊，烦不烦，谁允许这么不停骚扰别人的，我留给你的电话是给你这么用的嘛！！！！！",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_419"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "客服与售后体系",
+          "canonical_issue": "客服服务质量差、售后渠道不畅、无法转人工",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_443",
+              "pain": "客服服务不好，售后不行，商家和骑手服务不行",
+              "suggestion": "提升客服和售后服务质量，加强商家与骑手管理",
+              "source": "客服服务不好，售后不行。商家服务不行，骑手服务不行。",
+              "device": "HUAWEI Mate 60 Pro+"
+            },
+            {
+              "id": "com.jd.hm.mall_470",
+              "pain": "客服无法转接人工服务，问题得不到解决。",
+              "suggestion": "优化客服转人工流程，确保用户能联系到人工客服。",
+              "source": "我真是一颗心都不想给，配送员素质怎么这么低下，撞了人连道歉都不道，还反咬一口，还不给转人工",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_490",
+              "pain": "购买灯具不到半年损坏，联系售后无渠道处理，感觉维权无门。",
+              "suggestion": "完善售后服务体系，明确保修政策和投诉渠道，确保问题能得到响应。",
+              "source": "我在京东买的灯具用了不到半年就坏了，找哪儿都不给处理，难道京东没有王法吗？中国管不了它吗",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_443",
+            "com.jd.hm.mall_470",
+            "com.jd.hm.mall_490"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "配送员服务素质",
+          "canonical_issue": "配送员服务态度差、缺乏基本职业素养",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_470",
+              "pain": "配送员素质低下，撞人后不道歉反咬一口。",
+              "suggestion": "加强配送员培训，提高服务意识。",
+              "source": "我真是一颗心都不想给，配送员素质怎么这么低下，撞了人连道歉都不道，还反咬一口，还不给转人工",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_470"
+          ]
+        }
+      ]
+    }
+  },
+  "内容生态": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "2",
+          "cluster_name": "内容丰富",
+          "canonical_issue": "产品丰富",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_5",
+              "pain": "产品丰富",
+              "suggestion": "无",
+              "source": "产品丰富，物流给力，又好又便宜。",
+              "device": "华为畅享 70X"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_5"
+          ]
+        }
+      ]
+    },
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "65",
+          "cluster_name": "商品种类不足",
+          "canonical_issue": "平台商品和外卖品类选择少，无法满足用户需求",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_250",
+              "pain": "买东西选择性少",
+              "suggestion": "丰富商品种类",
+              "source": "太差了，在京东上面买东西选择性少，价格又偏贵，唯一的优点就是速度快一点。京东的外卖速度很慢，种类又少。而且点单系统不完善，用起来不顺手。",
+              "device": "nova 12"
+            },
+            {
+              "id": "com.jd.hm.mall_250",
+              "pain": "外卖种类少",
+              "suggestion": "增加外卖商家和品类",
+              "source": "太差了，在京东上面买东西选择性少，价格又偏贵，唯一的优点就是速度快一点。京东的外卖速度很慢，种类又少。而且点单系统不完善，用起来不顺手。",
+              "device": "nova 12"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_250",
+            "com.jd.hm.mall_250"
+          ]
+        },
+        {
+          "cluster_id": "66",
+          "cluster_name": "假货问题",
+          "canonical_issue": "平台存在销售假冒史密斯净水器和滤芯的情况",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_488",
+              "pain": "平台存在销售假冒史密斯净水器和滤芯的情况。",
+              "suggestion": "加强商家审核和商品抽检，建立假货举报机制。",
+              "source": "卖假史密斯净水器和假滤芯",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_488"
+          ]
+        }
+      ]
+    }
+  },
+  "UI与交互": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "3",
+          "cluster_name": "滑动卡顿",
+          "canonical_issue": "应用滑动操作卡顿，动画不流畅",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_17",
+              "pain": "滑动很不流畅",
+              "suggestion": "优化滑动动画和交互流畅度",
+              "source": "很卡有么有觉得，滑动很不流畅。",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_197",
+              "pain": "评论侧滑返回到商品页功能异常。",
+              "suggestion": "修复侧滑返回逻辑，确保操作一致性。",
+              "source": "2026年05月04日更新后首页下滑流畅多了。\n2026年03月04日真的难用，看评论，目前和数月前几乎没有改进，卡，评论侧滑返回到商品页问题依然没改。",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_17",
+            "com.jd.hm.mall_197"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "弹窗无法关闭",
+          "canonical_issue": "进入店铺后弹出抽奖页面无法关闭",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_36",
+              "pain": "进入店铺弹出抽奖页面无法关闭",
+              "suggestion": "允许用户关闭弹窗，或优化弹窗交互",
+              "source": "农夫山泉旗舰店，直接进去弹出抽奖页面都没法关",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_36"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "折叠屏适配问题",
+          "canonical_issue": "折叠屏内屏显示仅为简单放大，未做适配",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_40",
+              "pain": "折叠屏内屏使用仅为简单放大，未做适配",
+              "suggestion": "适配折叠屏内屏显示，提供更好的布局体验",
+              "source": "为啥用内屏就是纯放大？",
+              "device": "HUAWEI Pura X Max"
+            },
+            {
+              "id": "com.jd.hm.mall_69",
+              "pain": "双折和三折展开后UI字体超大，不和谐",
+              "suggestion": "优化折叠屏展开后的字体大小和UI适配",
+              "source": "能不能好好优化下双折和三折展开后的UI字体超大，很不和谐。",
+              "device": "HUAWEI Mate X6 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_40",
+            "com.jd.hm.mall_69"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "网页版界面体验差",
+          "canonical_issue": "部分界面为网页版，体验差",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_82",
+              "pain": "很多界面是网页版，体验差",
+              "suggestion": "将网页版界面替换为原生界面",
+              "source": "非常非常差，购买页面都非常啦，就像评论区说的，这里面很多界面都是网页版",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.jd.hm.mall_288",
+              "pain": "和商家聊天界面的体验太差了，和网页一样。",
+              "suggestion": "优化聊天界面体验，使其更接近原生应用",
+              "source": "和商家聊天界面的体验太差了，和网页一样。",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_82",
+            "com.jd.hm.mall_288"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "购物车界面布局不合理",
+          "canonical_issue": "购物车界面太大，一页显示商品少",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_89",
+              "pain": "购物车界面太大，一页显示商品少",
+              "suggestion": "优化购物车界面布局，增加商品密度",
+              "source": "购物车界面好大，一页都显示不了几个商品，看着好难受",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_89"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "无夜间模式",
+          "canonical_issue": "应用无夜间模式或暗黑模式",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_123",
+              "pain": "无夜间模式，也不支持换肤",
+              "suggestion": "增加夜间模式和换肤功能",
+              "source": "无夜间模式，也不支持换肤",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_157",
+              "pain": "鸿蒙版京东无暗黑模式",
+              "suggestion": "增加暗黑模式适配",
+              "source": "鸿蒙系统的手机客户端没有暗黑模式啊，开发快点加一个啊，安卓和ios都支持",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.jd.hm.mall_217",
+              "pain": "未适配深色模式",
+              "suggestion": "适配深色模式",
+              "source": "卡到爆，用没多久就占很大空间，而且一直没适配黑色模式，还有什么时候能把图标上的牛皮癣去掉，一年多了就没有纯净的图标",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.jd.hm.mall_329",
+              "pain": "缺少暗黑模式，夜间使用眼睛疲劳",
+              "suggestion": "增加暗黑模式，保护用户视力",
+              "source": "没有暗黑模式，晚上眼睛累呀",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_123",
+            "com.jd.hm.mall_157",
+            "com.jd.hm.mall_217",
+            "com.jd.hm.mall_329"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "图标更改不满意",
+          "canonical_issue": "图标更改后用户不满意",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_165",
+              "pain": "图标更改不满意",
+              "suggestion": "考虑提供图标风格切换选项或恢复原图标",
+              "source": "图标能不能改回来",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_165"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "评价输入不可见",
+          "canonical_issue": "写评价时看不到输入内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_175",
+              "pain": "写评价看不到写的什么",
+              "suggestion": "建议显示评价输入内容",
+              "source": "鸿蒙版京东app适配有待提高，写评价看不到写的什么，主题没有选择等等我还没有发现的问题。",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_175"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "图标广告标识",
+          "canonical_issue": "图标上有广告标识，影响美观",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_217",
+              "pain": "图标上有牛皮癣（广告标识）",
+              "suggestion": "去除图标上的广告元素，提供纯净图标",
+              "source": "卡到爆，用没多久就占很大空间，而且一直没适配黑色模式，还有什么时候能把图标上的牛皮癣去掉，一年多了就没有纯净的图标",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_217"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "点单系统不完善",
+          "canonical_issue": "点单系统不完善，操作不顺手",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_250",
+              "pain": "点单系统不完善，操作不顺手",
+              "suggestion": "优化点单系统的界面和交互逻辑，提升易用性",
+              "source": "太差了，在京东上面买东西选择性少，价格又偏贵，唯一的优点就是速度快一点。京东的外卖速度很慢，种类又少。而且点单系统不完善，用起来不顺手。",
+              "device": "nova 12"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_250"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "相机界面设计差",
+          "canonical_issue": "调用相机界面设计差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_287",
+              "pain": "调用相机界面太丑了",
+              "suggestion": "优化相机界面设计",
+              "source": "啥时候能适配面容支付界面，调用相机界面太丑了",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_287"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "过渡动画加载慢",
+          "canonical_issue": "商品结算和点击进入时加载过渡动画导致等待时间长",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_370",
+              "pain": "商品结算和点击进入时首先加载过渡动画才跳转，导致等待时间长",
+              "suggestion": "优化动画加载逻辑，让页面内容与动画同步加载或减少动画等待，提升交互流畅性。",
+              "source": "这个是商品结算页面和点击商品进去加载的一个过渡画面，能否工程师把这个动画砍掉或者商品加载出来同步加载这个过渡动画，现在鸿蒙版本都是点击商品进去或结算，首先加载这个动画页面，才跳转结算页面或商品页面，恳求尽快优化",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_370"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "聊天界面体验差",
+          "canonical_issue": "聊天界面设计类似网页版，缺乏原生应用体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_390",
+              "pain": "聊天界面像网页版，体验差",
+              "suggestion": "优化聊天界面交互，提升原生应用体验",
+              "source": "能不能聊天界面优化一下，感觉和网页版一样，商家让用APP聊天。😅😅",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_390"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "网页套壳体验",
+          "canonical_issue": "应用整体体验像网页套壳，缺乏原生交互感",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_448",
+              "pain": "网页套壳体验，感觉不是原生应用",
+              "suggestion": "优化原生交互体验，减少网页套壳感",
+              "source": "网页套壳，不能代付。应用体积巨大，一个购物网站居然能占这么多空间。",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_448"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "64",
+          "cluster_name": "暗黑模式缺失",
+          "canonical_issue": "应用缺少暗黑模式支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_118",
+              "pain": "缺少暗黑模式",
+              "suggestion": "增加暗黑模式",
+              "source": "麻烦更新个暗黑模式啊！！！！！！",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_118"
+          ]
+        }
+      ]
+    }
+  },
+  "系统与机型适配": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "47",
+          "cluster_name": "折叠屏适配问题",
+          "canonical_issue": "折叠屏设备未适配左右屏显示或仅简单放大，缺乏针对性优化",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_93",
+              "pain": "折叠屏未适配左右屏",
+              "suggestion": "适配折叠屏左右屏显示",
+              "source": "折叠屏还不适配左右屏",
+              "device": "HUAWEI Mate X7"
+            },
+            {
+              "id": "com.jd.hm.mall_97",
+              "pain": "折叠屏仅放大显示，未做适配优化",
+              "suggestion": "优化折叠屏显示，避免纯放大",
+              "source": "华为这么多折叠机，竟然对折叠机就是放大。还不如别做。",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_93",
+            "com.jd.hm.mall_97"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "鸿蒙系统优惠券异常",
+          "canonical_issue": "鸿蒙系统下优惠券弹窗功能失效，与其他系统表现不一致",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_105",
+              "pain": "鸿蒙系统下不弹出9.4折优惠券，而其他手机正常",
+              "suggestion": "检查并修复鸿蒙系统下的优惠券弹出逻辑",
+              "source": "怎么不弹9.4折券了啊？其他手机都弹",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_105"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "鸿蒙版功耗优化不足",
+          "canonical_issue": "鸿蒙系统下应用耗电过快，影响使用体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_113",
+              "pain": "在鸿蒙手机上耗电快",
+              "suggestion": "优化鸿蒙版本的功耗",
+              "source": "最近在纯鸿蒙手机使用京东频次和时长高了，发觉京东APP的使用过程中掉电特别快，大家有同感吗？",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_113"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "鸿蒙版滑动卡顿",
+          "canonical_issue": "鸿蒙系统下应用滑动操作卡顿，流畅性差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_120",
+              "pain": "鸿蒙版滑动卡顿",
+              "suggestion": "优化鸿蒙版本的滑动流畅性",
+              "source": "鸿蒙版的滑动那个效果老是一卡一卡的真心难受啊，以前安卓版从来没有这个感觉啊",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_120"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "深色模式适配延迟",
+          "canonical_issue": "鸿蒙系统深色模式适配进度滞后，影响夜间使用体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_170",
+              "pain": "深色模式适配延迟",
+              "suggestion": "尽快适配深色模式以提升夜间使用体验",
+              "source": "这么久了深色模式还没适配...",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_170"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "鸿蒙版功能异常",
+          "canonical_issue": "鸿蒙系统下特定功能（如进店访问）异常，与安卓版本不一致",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_223",
+              "pain": "鸿蒙版京东外卖点击进店显示访问人数过多，而安卓正常",
+              "suggestion": "排查鸿蒙版与安卓服务端差异，确保功能一致",
+              "source": "网页套壳，每次都要我验证。\n然后鸿蒙的京东外卖点击进入店铺显示访问人数过多，安卓就能正常进入。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_223"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "平板横屏适配问题",
+          "canonical_issue": "平板设备横屏显示未适配，无法全屏显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_246",
+              "pain": "平板端是手机移植版，横屏不能全屏显示",
+              "suggestion": "优化平板适配，支持横屏全屏显示",
+              "source": "竟然是移植手机上的，平板的就那么难适配吗？横屏都不是全屏。",
+              "device": "HUAWEI MatePad Mini 悦读版"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_246"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "面容支付适配缺失",
+          "canonical_issue": "面容支付功能未适配，调用相机界面体验差",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_285",
+              "pain": "什么时候支持面容",
+              "suggestion": "适配面容支付功能",
+              "source": "什么时候支持面容",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.jd.hm.mall_287",
+              "pain": "啥时候能适配面容支付界面",
+              "suggestion": "适配面容支付界面",
+              "source": "啥时候能适配面容支付界面，调用相机界面太丑了",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_285",
+            "com.jd.hm.mall_287"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "鸿蒙系统卡顿问题",
+          "canonical_issue": "鸿蒙系统下应用卡顿严重，响应延迟",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_304",
+              "pain": "适配有问题，京东打开后非常卡",
+              "suggestion": "优化不同机型的适配，减少卡顿",
+              "source": "适配有啥问题吗？为什么京东打开之后这么卡啊！！！",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.jd.hm.mall_321",
+              "pain": "鸿蒙系统兼容性不佳导致卡顿",
+              "suggestion": "优化鸿蒙系统兼容性，提升适配表现",
+              "source": "是鸿蒙系统兼容没做好吗？从下载到现在使用一年多，卡得要命，经常点击不响应，加载页面加载半天",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_304",
+            "com.jd.hm.mall_321"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "支付键盘适配问题",
+          "canonical_issue": "支付密码输入无法调用加密键盘，仅支持输入法键盘",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_349",
+              "pain": "支付密码不能调用加密键盘，只能调起输入法键盘，不能支持英文字符输入",
+              "suggestion": "适配鸿蒙系统，支持加密键盘",
+              "source": "当前应用版本在6.1版本鸿蒙系统上，支付密码不能调用加密键盘，只能调起输入法键盘，因此不能支持英文字符输入。",
+              "device": "nova 12 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_349"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "平板分屏功能缺失",
+          "canonical_issue": "平板设备不支持分屏功能，与手机功能不一致",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_417",
+              "pain": "MatePad不支持分屏功能",
+              "suggestion": "建议适配平板分屏功能",
+              "source": "挺好的，就是有一个问题，手机已经能分屏了，但是MatePad 还不能。",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_417"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "非原生套壳应用",
+          "canonical_issue": "应用为网页套壳，非鸿蒙原生开发，导致性能问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_424",
+              "pain": "不是原生app,套壳",
+              "suggestion": "采用鸿蒙原生开发，避免套壳导致的性能问题",
+              "source": "体积太大了将近20个g！还特别卡！！！不是原生app,套壳！！",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_424"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "机型适配差",
+          "canonical_issue": "特定机型适配不佳，出现掉帧或功能异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_427",
+              "pain": "软件适配太差劲了",
+              "suggestion": "优化不同机型的适配，确保各设备流畅运行",
+              "source": "软件适配太差劲了，看商品掉帧",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_427"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "跳转功能异常",
+          "canonical_issue": "特定机型在第三方应用中无法正常跳转至京东",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_450",
+              "pain": "华为X6在抖音中不能打开京东，跳转功能异常",
+              "suggestion": "适配华为X6机型在抖音中的跳转功能",
+              "source": "我的华为X6，在抖音中不能打开京东，咋回事呀？",
+              "device": "HUAWEI Mate X6"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_450"
+          ]
+        },
+        {
+          "cluster_id": "61",
+          "cluster_name": "相册访问权限问题",
+          "canonical_issue": "客服沟通时无法调取系统相册中的照片或视频",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_454",
+              "pain": "与客服沟通时无法调取系统相册中的照片或视频",
+              "suggestion": "适配系统相册访问权限，支持在客服聊天中发送图片/视频",
+              "source": "跟客服两个沟通的时候，居然调取不了系统相册里面的照片或者视频，赶紧适配，别太拖拉了。",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_454"
+          ]
+        },
+        {
+          "cluster_id": "62",
+          "cluster_name": "平板模式适配不全",
+          "canonical_issue": "应用在华为平板设备上未适配横屏和全屏显示模式",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_457",
+              "pain": "未适配平板电脑模式，不能全屏显示",
+              "suggestion": "适配平板电脑全屏显示模式",
+              "source": "未适配平板电脑模式，不能全屏显示?",
+              "device": "HUAWEI MatePad Edge"
+            },
+            {
+              "id": "com.jd.hm.mall_472",
+              "pain": "平板横屏模式下完全未适配",
+              "suggestion": "针对平板进行横屏适配优化",
+              "source": "能不能适配一下平板，横屏完全没适配",
+              "device": "HUAWEI MatePad Edge"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_457",
+            "com.jd.hm.mall_472"
+          ]
+        },
+        {
+          "cluster_id": "63",
+          "cluster_name": "特定机型兼容性差",
+          "canonical_issue": "应用在华为Mate 60 Pro+上存在兼容性问题和性能卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.jd.hm.mall_473",
+              "pain": "应用在华为Mate 60 Pro+上不兼容，导致卡顿发烫",
+              "suggestion": "优化兼容性，解决特定机型的卡顿发烫问题",
+              "source": "每次打开京东，浏览商品的时候，手机就开始变卡发烫，也太不兼容了吧",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.jd.hm.mall_473"
+          ]
+        }
+      ]
+    }
+  },
+  "n_clusters": 68
+}

@@ -1,0 +1,4065 @@
+{
+  "n_items": 560,
+  "n_items_deduped": 539,
+  "功能体验": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "点赞功能缺失",
+          "canonical_issue": "点赞功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_1",
+              "pain": "点赞功能缺失",
+              "suggestion": "增加点赞功能",
+              "source": "点赞功能都没有了",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_1"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "屏幕背景设置缺失",
+          "canonical_issue": "无法设置屏幕背景",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_2",
+              "pain": "无法设置屏幕背景",
+              "suggestion": "增加设置屏幕背景功能",
+              "source": "啥时候上设置屏幕背景😑",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_2"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "小程序功能缺失",
+          "canonical_issue": "小程序功能缺失，影响抽签等操作",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_3",
+              "pain": "缺少小程序功能，无法参与抽签",
+              "suggestion": "上线小程序功能，支持抽签等操作",
+              "source": "小程序！我要小程序！我要参与抽签啊！！谁懂换了新手机，抽签还得用旧手机登录QQ，我真的没招了！",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_8",
+              "pain": "小程序缺失",
+              "suggestion": "上线小程序功能",
+              "source": "我想问小程序哪去了",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_9",
+              "pain": "小程序缺失，用户不满",
+              "suggestion": "尽快上线QQ小程序功能",
+              "source": "我问你QQ小程序呢？中国超5000万的鸿蒙系统用户，就被你们QQ团队这么对待是吧！\n（QQ小程序上线我绝对给好评）",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.tencent.mqq_11",
+              "pain": "小程序功能缺失，无法查看在线表",
+              "suggestion": "尽快更新小程序，支持在线表查看功能",
+              "source": "快更新小程序啊发通知看不了在线表真的要命",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_3",
+            "com.tencent.mqq_8",
+            "com.tencent.mqq_9",
+            "com.tencent.mqq_11"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "@功能异常",
+          "canonical_issue": "无法@他人",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_4",
+              "pain": "无法@他人",
+              "suggestion": "修复@功能",
+              "source": "为什么艾特不了？",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_4"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "主页背景图功能缺失",
+          "canonical_issue": "主页背景图功能缺失或未更新",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_5",
+              "pain": "主页背景图功能缺失或未更新",
+              "suggestion": "更新主页背景图功能",
+              "source": "加油 把我主页背景图更新出来",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.tencent.mqq_19",
+              "pain": "无法查看个人主页背景图",
+              "suggestion": "实现个人主页背景图查看功能",
+              "source": "到底什么时候可以看个人主页背景图啊，我真服了。。。qq给我一种活在原始时代的感觉。。",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_5",
+            "com.tencent.mqq_19"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "账号切换功能异常",
+          "canonical_issue": "账号切换功能有问题或未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_6",
+              "pain": "账号切换功能有问题或未上线",
+              "suggestion": "完善账号切换功能",
+              "source": "希望快点把账号切换弄好",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_6"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "QQ农场功能缺失",
+          "canonical_issue": "QQ农场功能缺失，影响朋友互动",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_7",
+              "pain": "QQ农场功能缺失",
+              "suggestion": "恢复QQ农场功能或提供替代方案",
+              "source": "我的QQ农场在哪儿去了！！！！",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_13",
+              "pain": "缺少QQ农场等互动功能，导致朋友互动减少",
+              "suggestion": "尽快更新QQ农场等社交互动功能",
+              "source": "请尽快把QQ农场更新出来哈，都不能朋友互动，QQ用的就很少了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_7",
+            "com.tencent.mqq_13"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "链接跳转异常",
+          "canonical_issue": "QQ群分享的哔哩哔哩视频无法跳转APP打开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_12",
+              "pain": "QQ群分享的哔哩哔哩视频无法跳转APP打开",
+              "suggestion": "优化链接跳转逻辑，支持调用系统应用或默认浏览器打开",
+              "source": "QQ群友分享的哔哩哔哩视频，无法转跳APP打开。鸿蒙版哔哩哔哩或者卓易通下载的普通版都不行。快点优化，别天天给我添麻烦。",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_12"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "好友在线状态显示缺失",
+          "canonical_issue": "需要显示好友在线状态（WiFi/5G）",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_14",
+              "pain": "需要显示好友在线状态（WiFi/5G）",
+              "suggestion": "恢复好友在线状态显示功能",
+              "source": "需要好友在线Wifi，5G在线",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_14"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "功能不完整",
+          "canonical_issue": "功能不完整，要求补齐",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_15",
+              "pain": "功能不完整，要求补齐",
+              "suggestion": "全面检查并补齐缺失的功能模块",
+              "source": "快把功能补齐",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_15"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "特效显示异常",
+          "canonical_issue": "购买的特效显示异常，自己看不见但别人看得见",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_16",
+              "pain": "购买的特效显示异常，自己看不见但别人看得见",
+              "suggestion": "修复特效显示问题，确保用户本人可见",
+              "source": "我感觉有点不行，因为我之前买的特效\n不见了。没看到了，而别人看得到我的特效。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_16"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "编辑资料入口不可见",
+          "canonical_issue": "编辑资料入口和查看等级权限入口不可见",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_17",
+              "pain": "编辑资料入口和查看等级权限入口不可见",
+              "suggestion": "恢复编辑资料入口和等级查看权限",
+              "source": "编辑资料入口和查看等级那些权限都看不见了",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_18",
+              "pain": "鸿蒙系统QQ无法查看等级",
+              "suggestion": "适配鸿蒙系统，实现等级查看功能",
+              "source": "鸿蒙系统的qq为什么看不了等级？",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_17",
+            "com.tencent.mqq_18"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "QQ邮箱功能缺失",
+          "canonical_issue": "QQ邮箱功能未同步，无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_20",
+              "pain": "QQ邮箱功能未同步，无法使用",
+              "suggestion": "尽快同步QQ邮箱功能",
+              "source": "请QQ邮箱能尽快同步使用",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_20"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "在线状态功能异常",
+          "canonical_issue": "在线状态功能缺失或无法设置",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_21",
+              "pain": "在线状态未更新，鸿蒙版不完善",
+              "suggestion": "完善在线状态功能，加快鸿蒙版适配",
+              "source": "在线状态更新一下，请好好完善鸿蒙版",
+              "device": "HUAWEI MatePad Air"
+            },
+            {
+              "id": "com.tencent.mqq_27",
+              "pain": "状态功能消失，无法显示",
+              "suggestion": "恢复状态显示功能",
+              "source": "现在状态没了，不能显示了",
+              "device": "HUAWEI MatePad Air"
+            },
+            {
+              "id": "com.tencent.mqq_33",
+              "pain": "设置不了在线状态",
+              "suggestion": "增加在线状态设置功能",
+              "source": "设置不了在线状态",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_21",
+            "com.tencent.mqq_27",
+            "com.tencent.mqq_33"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "隐身状态设置缺失",
+          "canonical_issue": "无法设置隐身状态",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_22",
+              "pain": "无法设置隐身状态",
+              "suggestion": "增加隐身状态设置功能",
+              "source": "无法设置隐身状态，还需改进",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_22"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "群课堂功能缺失",
+          "canonical_issue": "群聊缺少群课堂功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_23",
+              "pain": "群聊缺少群课堂功能",
+              "suggestion": "添加群课堂功能",
+              "source": "鸿蒙系统6.0以上版QQ群聊里为什么没有“群课堂”功能",
+              "device": "HUAWEI MatePad 11.5 S 灵动款"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_23"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "屏幕共享与闪图功能缺失",
+          "canonical_issue": "缺少屏幕共享和闪图功能",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_24",
+              "pain": "缺少屏幕共享和闪图功能",
+              "suggestion": "添加屏幕共享和闪图功能",
+              "source": "屏幕共享，闪图，谢谢。",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_35",
+              "pain": "闪照看不了",
+              "suggestion": "支持查看闪照",
+              "source": "闪照看不了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_24",
+            "com.tencent.mqq_35"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "QQ等级与好友排名查看缺失",
+          "canonical_issue": "无法查看QQ等级和好友排名",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_25",
+              "pain": "无法查看QQ等级和好友排名",
+              "suggestion": "恢复QQ等级和好友排名查看功能",
+              "source": "这个版本QQ等级和好友排名无法查看",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_37",
+              "pain": "等级看不到，群组删不掉，少了太多功能",
+              "suggestion": "补全等级显示、群组删除等缺失功能",
+              "source": "等级看不到，群组删不掉，少了太多功能。关键还不让装安卓版的。感觉回到千禧年前的oicq了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_25",
+            "com.tencent.mqq_37"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "频道功能缺失",
+          "canonical_issue": "缺少频道功能，信息交流不便",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_28",
+              "pain": "缺少频道功能，信息交流不便",
+              "suggestion": "添加频道功能",
+              "source": "能不能把频道添加进来，有些消息都只能问同学，好不方便的嘛",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_28"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "QB充值功能异常",
+          "canonical_issue": "QB无法充值",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_30",
+              "pain": "QB无法充值",
+              "suggestion": "修复QB充值功能",
+              "source": "完善的太慢了，QB没法充值，玩游戏受限制。反馈了三个月还没上线个性化，本来开了SVIP回复我7月中旬才抬上来，约等于浪费半年超会时间，什么都不显示。协商补偿点华为的主题或者表盘会员也不可行，抠搜的。对于我这种爱好花里胡哨的人来说体验感真的很不好。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_30"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "游戏功能限制",
+          "canonical_issue": "玩游戏受限制",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_30",
+              "pain": "玩游戏受限制",
+              "suggestion": "优化游戏相关功能限制",
+              "source": "完善的太慢了，QB没法充值，玩游戏受限制。反馈了三个月还没上线个性化，本来开了SVIP回复我7月中旬才抬上来，约等于浪费半年超会时间，什么都不显示。协商补偿点华为的主题或者表盘会员也不可行，抠搜的。对于我这种爱好花里胡哨的人来说体验感真的很不好。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_30"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "多账号登录限制",
+          "canonical_issue": "腾讯游戏QQ登录只能登录当前账号，无法保存更多账号",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_31",
+              "pain": "腾讯游戏qq登录只能登录当前的qq账号,无法保存更多账号",
+              "suggestion": "支持多账号保存和切换",
+              "source": "腾讯游戏qq登录只能登录当前的qq账号,无法保存更多账号",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_31"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "小程序功能未开放",
+          "canonical_issue": "小程序功能未开放",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_32",
+              "pain": "小程序什么时候开放，跟老年人一样什么都干不了",
+              "suggestion": "尽快开放小程序功能",
+              "source": "小程序什么时候开放，跟老年人一样什么都干不了",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_32"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "QQ年限查询功能缺失",
+          "canonical_issue": "无法查询QQ年限",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_34",
+              "pain": "看别人都在炫QQ年龄，我的怎么查不了呢？鸿蒙的怎么查询QQ年限",
+              "suggestion": "添加查询QQ年限功能",
+              "source": "看别人都在炫QQ年龄，我的怎么查不了呢？鸿蒙的怎么查询QQ年限",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_34"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "回车键发送消息功能缺失",
+          "canonical_issue": "回车键发送消息功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_36",
+              "pain": "回车键发送消息，回车键发送消息，回车键发送消息。希望尽快改进",
+              "suggestion": "增加回车键发送消息的选项",
+              "source": "回车键发送消息，回车键发送消息，回车键发送消息。希望尽快改进",
+              "device": "HUAWEI MatePad Edge"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_36"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "个性化功能缺失",
+          "canonical_issue": "个性化设置功能缺失，包括主题、气泡、装扮及QQ空间黄钻功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_38",
+              "pain": "我想要个性化个性化，设置背景，有主题有气泡有各种装扮，QQ空间要有黄钻",
+              "suggestion": "增加个性化设置，包括主题、气泡、装扮及QQ空间黄钻功能",
+              "source": "我想要个性化个性化，设置背景，有主题有气泡有各种装扮，QQ空间要有黄钻",
+              "device": "HUAWEI MatePad Mini 悦读版"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_38"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "聊天背景设置",
+          "canonical_issue": "聊天背景设置入口不明确或功能缺失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_39",
+              "pain": "聊天背景在哪里设置？",
+              "suggestion": "明确聊天背景设置入口或添加该功能",
+              "source": "聊天背景在哪里设置？",
+              "device": "HUAWEI Mate X5"
+            },
+            {
+              "id": "com.tencent.mqq_40",
+              "pain": "弄一下聊天背景😭",
+              "suggestion": "增加聊天背景设置功能",
+              "source": "弄一下聊天背景😭",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_39",
+            "com.tencent.mqq_40"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "QQ小程序缺失",
+          "canonical_issue": "QQ小程序功能未上线或不可用",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_41",
+              "pain": "没有QQ小程序",
+              "suggestion": "上线QQ小程序",
+              "source": "没有qq小程序，快点上线",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_51",
+              "pain": "QQ小程序没有，QQ邮箱无法查看",
+              "suggestion": "尽快支持QQ小程序和QQ邮箱功能",
+              "source": "QQ小程序没有\nQQ邮箱无法查看",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_41",
+            "com.tencent.mqq_51"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "加群功能异常",
+          "canonical_issue": "无法通过分享链接或二维码加入群聊",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_42",
+              "pain": "无法加分享群",
+              "suggestion": "修复加群功能",
+              "source": "无法加分享群",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_42"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "访客功能无法关闭",
+          "canonical_issue": "访客记录功能无法关闭，隐私控制不足",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_44",
+              "pain": "无法关闭访客功能",
+              "suggestion": "提供关闭访客的选项",
+              "source": "鸿蒙版怎么关闭不了访客呀？就是别人惦记我的访客就可以看见谁访客了我，真服了，拍一拍功能什么都没有",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_44"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "拍一拍功能缺失",
+          "canonical_issue": "拍一拍互动功能未实现或不可用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_44",
+              "pain": "拍一拍功能缺失",
+              "suggestion": "添加拍一拍功能",
+              "source": "鸿蒙版怎么关闭不了访客呀？就是别人惦记我的访客就可以看见谁访客了我，真服了，拍一拍功能什么都没有",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_44"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "主页背景设置",
+          "canonical_issue": "无法设置或自定义主页背景",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_46",
+              "pain": "不能设置主页背景",
+              "suggestion": "恢复主页背景设置功能",
+              "source": "怎么不可以设置主页背景了哇，会员权限也没有内容，我钱还充着呢",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_46"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "会员权限内容缺失",
+          "canonical_issue": "会员特权内容未展示或功能不完整",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_46",
+              "pain": "会员权限无内容",
+              "suggestion": "完善会员特权内容",
+              "source": "怎么不可以设置主页背景了哇，会员权限也没有内容，我钱还充着呢",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_46"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "版本更新与游戏分享",
+          "canonical_issue": "版本更新缓慢，游戏分享功能不可见或失效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_47",
+              "pain": "版本更新慢，游戏分享不可见",
+              "suggestion": "加快更新进度，修复游戏分享功能",
+              "source": "我真的不想说了，到底什么时候更新到最新，我的QQ像老年机的一样，游戏分享都看不到，我真的服了",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_47"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "QQ空间@人功能",
+          "canonical_issue": "QQ空间动态中无法@其他用户",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_48",
+              "pain": "QQ空间无法@人",
+              "suggestion": "添加@人功能",
+              "source": "QQ空间能不能让我艾特人麻烦了",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_48"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "国外定位支持",
+          "canonical_issue": "在国外无法为说说添加地理位置",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_49",
+              "pain": "国外无法加定位",
+              "suggestion": "支持国外定位",
+              "source": "有进步，但是QQ空间发说说在国外没办法加定位，希望改进一下",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_49"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "等级系统不完善",
+          "canonical_issue": "等级无法提升，升级进度不透明",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_52",
+              "pain": "不能升等级",
+              "suggestion": "完善等级系统，明确升级规则",
+              "source": "不能升等级，什么时候完善",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.tencent.mqq_58",
+              "pain": "不知道自己还有多少天升级（等级）",
+              "suggestion": "在等级界面显示剩余天数或进度",
+              "source": "不知道自己还有多少天升级 （等级）就算开会员也不知道",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_52",
+            "com.tencent.mqq_58"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "QQ经典农场缺失",
+          "canonical_issue": "QQ经典农场游戏功能未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_53",
+              "pain": "没有QQ经典农场",
+              "suggestion": "增加QQ经典农场功能",
+              "source": "没有QQ经典农场  难受",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_53"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "闪照与共同好友推荐",
+          "canonical_issue": "闪照功能和共同好友推荐功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_55",
+              "pain": "缺少闪照功能和共同好友推荐功能",
+              "suggestion": "尽快添加闪照和共同好友推荐功能",
+              "source": "什么时候更新闪照功能，让后更新共同好友推荐功能就好了",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_55"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "深度清理聊天记录",
+          "canonical_issue": "缺乏深度清理聊天记录的功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_56",
+              "pain": "不能深度清理聊天记录",
+              "suggestion": "增加深度清理聊天记录功能",
+              "source": "什么时候能深度清理聊天记录 什么时候给5星",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_56"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "共享屏幕等功能缺失",
+          "canonical_issue": "共享屏幕、黑名单、匿名提问等功能不可见或不可用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_57",
+              "pain": "共享屏幕看不到，黑名单找不到，匿名提问看不到",
+              "suggestion": "修复并补齐共享屏幕、黑名单、匿名提问等功能",
+              "source": "更新太慢了 好多内容看不到 共享屏幕还是看不到 黑名单也找不到 匿名提问也看不到了",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_57"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "功能缺失",
+          "canonical_issue": "鸿蒙QQ缺少多项基础功能",
+          "size": 18,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_60",
+              "pain": "当前版本功能不完善",
+              "suggestion": "持续迭代完善各项功能",
+              "source": "我就想问啥时候能完全完善",
+              "device": "HUAWEI Mate XT | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.tencent.mqq_61",
+              "pain": "缺少好友权限设置功能",
+              "suggestion": "增加好友权限设置功能，如允许/禁止特定好友查看动态、资料等",
+              "source": "很多功能都不完善，最基本的好友权限设置都没有；还有加了多个群之后，群内发起的私聊看不到来自哪个群，经常给搞得一头雾水。鸿蒙QQ是打算连最基本都社交功能都放弃了吗？还有小程序、群文件转发、群功能管理等等等等直接影响到应用使用的功能也都没有。如果要放弃鸿蒙用户不用搞这种膈应人的方式，开放卓易通下载大家就都走了😅😅😅",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_61",
+              "pain": "群内发起的私聊无法查看来源群，导致混淆",
+              "suggestion": "在私聊界面增加来源群标识，例如显示群名称或群头像",
+              "source": "很多功能都不完善，最基本的好友权限设置都没有；还有加了多个群之后，群内发起的私聊看不到来自哪个群，经常给搞得一头雾水。鸿蒙QQ是打算连最基本都社交功能都放弃了吗？还有小程序、群文件转发、群功能管理等等等等直接影响到应用使用的功能也都没有。如果要放弃鸿蒙用户不用搞这种膈应人的方式，开放卓易通下载大家就都走了😅😅😅",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_61",
+              "pain": "缺少小程序、群文件转发、群功能管理等基本功能",
+              "suggestion": "逐步补齐小程序、群文件转发、群管理等功能，提升基础社交体验",
+              "source": "很多功能都不完善，最基本的好友权限设置都没有；还有加了多个群之后，群内发起的私聊看不到来自哪个群，经常给搞得一头雾水。鸿蒙QQ是打算连最基本都社交功能都放弃了吗？还有小程序、群文件转发、群功能管理等等等等直接影响到应用使用的功能也都没有。如果要放弃鸿蒙用户不用搞这种膈应人的方式，开放卓易通下载大家就都走了😅😅😅",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_62",
+              "pain": "无法进行高校认证",
+              "suggestion": "增加高校认证功能，支持学生或教师身份验证",
+              "source": "我的QQ不能高校认证",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_63",
+              "pain": "缺少单独清理聊天记录功能，QQ存储过大影响手机使用",
+              "suggestion": "增加单独清理聊天记录的功能，允许用户按对话或时间清理",
+              "source": "马上上线单独清理聊天记录功能，QQ储存过大，已经严重影响到手机使用了",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_64",
+              "pain": "无法接听语音通话",
+              "suggestion": "增加接听语音通话功能，支持即时通讯中的语音呼叫",
+              "source": "可以增加可以接听语音通话的功能吗，导员每次给我打电话都不能接",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_66",
+              "pain": "缺少群内屏蔽功能",
+              "suggestion": "增加群内屏蔽成员或消息的功能，避免干扰",
+              "source": "qq啥时候能更新，qq群内屏蔽功能？？",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.tencent.mqq_68",
+              "pain": "还没有QQ农场",
+              "suggestion": "尽快适配或开发QQ农场功能，满足用户需求",
+              "source": "还没有qq农场？",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_69",
+              "pain": "彩签悬浮窗功能需要更新",
+              "suggestion": "优化彩签悬浮窗功能，提升使用流畅度和交互体验",
+              "source": "彩签悬浮窗希望更新一下！！！！",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_81",
+              "pain": "qq红包领不了，实名认证扫不了二维码",
+              "suggestion": "修复红包领取和实名认证扫码功能",
+              "source": "qq红包领不了，实名认证扫不了二维码",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_83",
+              "pain": "什么时候能有图片闪照功能？特别刚需",
+              "suggestion": "增加图片闪照功能",
+              "source": "什么时候能有图片闪照功能？特别刚需",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_84",
+              "pain": "视频通话无美颜功能。",
+              "suggestion": "增加视频通话美颜功能",
+              "source": "视频通话无美颜功能。",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_87",
+              "pain": "QQ经典农场小程序不能用",
+              "suggestion": "修复农场小程序",
+              "source": "QQ经典农场小程序不能用",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_88",
+              "pain": "把看图还有小程序搞一下呀",
+              "suggestion": "优化看图功能和小程序",
+              "source": "把看图还有小程序搞一下呀",
+              "device": "HUAWEI Pura X 典藏版"
+            },
+            {
+              "id": "com.tencent.mqq_89",
+              "pain": "我从来没见过一个app，新手机登陆账号先密码在电话号码在身份证在人脸也登不上去的，QQ防盗号连我也要防吗？",
+              "suggestion": "简化登录流程，减少不必要的验证",
+              "source": "我从来没见过一个app，新手机登陆账号先密码在电话号码在身份证在人脸也登不上去的，QQ防盗号连我也要防吗？",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.tencent.mqq_90",
+              "pain": "农场没有了，也没有黑名单了，抓紧更新吧。",
+              "suggestion": "恢复农场功能和黑名单功能",
+              "source": "农场没有了，也没有黑名单了，抓紧更新吧。",
+              "device": "HUAWEI Pura 90 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_91",
+              "pain": "QQ农场不可用，别人能玩我不能玩",
+              "suggestion": "尽快适配QQ农场功能，确保所有用户均可使用",
+              "source": "我要QQ农场，为啥别人能玩我不能玩",
+              "device": "HUAWEI Pura 90 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_60",
+            "com.tencent.mqq_61",
+            "com.tencent.mqq_61",
+            "com.tencent.mqq_61",
+            "com.tencent.mqq_62",
+            "com.tencent.mqq_63",
+            "com.tencent.mqq_64",
+            "com.tencent.mqq_66",
+            "com.tencent.mqq_68",
+            "com.tencent.mqq_69",
+            "com.tencent.mqq_81",
+            "com.tencent.mqq_83",
+            "com.tencent.mqq_84",
+            "com.tencent.mqq_87",
+            "com.tencent.mqq_88",
+            "com.tencent.mqq_89",
+            "com.tencent.mqq_90",
+            "com.tencent.mqq_91"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "群聊私信接收问题",
+          "canonical_issue": "群聊私信消息无法接收",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_92",
+              "pain": "一年了还接收不到群聊私信",
+              "suggestion": "修复群聊私信接收问题，确保消息及时送达",
+              "source": "都一年了还接收不到群聊私信",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_92"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "历史头像与群相册功能缺失",
+          "canonical_issue": "无法查看历史头像且群相册功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_94",
+              "pain": "无法查看历史头像，且群相册功能缺失",
+              "suggestion": "增加历史头像查看功能及群相册功能",
+              "source": "看不了历史头像，群相册也没，希望赶快更进吧！",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_94"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "QQ农场功能不可用",
+          "canonical_issue": "QQ农场功能在鸿蒙系统下无法使用",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_95",
+              "pain": "更新到20版本后QQ农场仍无法使用",
+              "suggestion": "彻底解决QQ农场兼容性问题，确保版本更新后可用",
+              "source": "不是说QQ农场可以用了吗？我更新到20版本了还是用不了╥﹏╥",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_98",
+              "pain": "无法玩QQ农场",
+              "suggestion": "尽快适配QQ农场，解决鸿蒙系统兼容问题",
+              "source": "如何让鸿蒙系统p80能够发表QQ说说，还能玩QQ农场？\n这两个问题困扰我许久",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.tencent.mqq_100",
+              "pain": "QQ农场仍然无法玩",
+              "suggestion": "尽快解决QQ农场兼容性问题",
+              "source": "qq农场还是不能玩",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "没有QQ农场功能",
+              "suggestion": "开发鸿蒙版QQ农场",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_95",
+            "com.tencent.mqq_98",
+            "com.tencent.mqq_100",
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "空间相册编辑功能失效",
+          "canonical_issue": "换机后空间相册照片无法移动和编辑",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_97",
+              "pain": "换手机后空间相册内照片无法移动和编辑",
+              "suggestion": "恢复空间相册的照片移动和编辑功能",
+              "source": "我换了个手机，打开新QQ，原来一些功能没有了！如空间相册，里面文件夹之问照片不能互相移动，不能编辑了。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_97"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "QQ说说发表功能异常",
+          "canonical_issue": "鸿蒙系统下无法发表QQ说说",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_98",
+              "pain": "无法发表QQ说说",
+              "suggestion": "修复鸿蒙系统下发表说说的功能",
+              "source": "如何让鸿蒙系统p80能够发表QQ说说，还能玩QQ农场？\n这两个问题困扰我许久",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_98"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "视频美颜与聊天背景设置缺失",
+          "canonical_issue": "视频美颜功能和聊天背景自定义功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_99",
+              "pain": "视频美颜功能缺失，聊天背景无法设置",
+              "suggestion": "增加视频美颜和聊天背景自定义功能",
+              "source": "QQ里的功能也太少了，视频美颜加上呗、聊天背景都不能设",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_99"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "群链接查看与点赞功能缺失",
+          "canonical_issue": "群链接无法查看、点赞功能缺失、主页内容空白",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_111",
+              "pain": "QQ功能缺失，群链接无法查看、点赞功能没有、主页基本空白",
+              "suggestion": "尽快补齐群链接查看、点赞功能及主页内容显示",
+              "source": "啥功能都没有，QQ会员先更新了招不招笑，群链接看不了，点赞没有，主页基本空白",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_111"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "第三方登录账号选择限制",
+          "canonical_issue": "QQ登录第三方应用时无法切换账号",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_113",
+              "pain": "QQ登录第三方应用时只能选择一个账号，无法切换其他账号",
+              "suggestion": "支持多账号选择功能，在登录时提供账号切换选项",
+              "source": "在进一些需要QQ登陆的软件时，如全民K歌，王者等，只能选择一个QQ号，无法选择QQ上的其它账号，希望尽快适配",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_113"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "键盘回车发送消息不支持",
+          "canonical_issue": "不支持键盘回车发送消息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_114",
+              "pain": "不支持键盘回车发送消息",
+              "suggestion": "增加键盘回车发送消息的选项",
+              "source": "什么时候支持键盘回车发送？这都几年了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_114"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "个性装扮功能缺失",
+          "canonical_issue": "个性装扮（主题、气泡、好友动态、空间等）功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "缺少个性装扮更新，如主题、气泡、好友动态、空间等",
+              "suggestion": "更新个性装扮功能，支持主题、气泡、好友动态和空间装扮",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "气泡交互功能缺失",
+          "canonical_issue": "气泡无法双击放大消息查看装扮信息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "气泡无法双击放大消息查看装扮信息",
+              "suggestion": "优化气泡交互，支持双击放大消息查看详情",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "消息左滑功能缺失",
+          "canonical_issue": "不支持消息左滑引用和左滑浏览对方空间",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "不支持消息左滑引用和聊天窗口左滑浏览对方空间",
+              "suggestion": "增加左滑引用消息和左滑浏览空间功能",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "聊天挂件与相册选择功能缺失",
+          "canonical_issue": "缺少字符聊天挂件和半屏相册选择功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "缺少字符聊天挂件和半屏相册选择功能",
+              "suggestion": "添加字符挂件和聊天窗口半屏相册选择",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "空间说说功能不完善",
+          "canonical_issue": "空间原创说说和转发无法艾特别人，说说不能收藏",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "空间原创说说和转发无法艾特别人，说说不能收藏",
+              "suggestion": "完善空间功能，支持艾特和收藏说说",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "群聊+1按钮与在线状态缺失",
+          "canonical_issue": "群聊中相同消息没有+1按钮，缺少好友在线状态显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "群聊中相同消息没有+1按钮，需要好友在线状态",
+              "suggestion": "增加群聊消息+1按钮和好友在线状态显示",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "小程序功能缺失",
+          "canonical_issue": "小程序功能尚未上线或缺失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "小程序尚未上线",
+              "suggestion": "尽快上线小程序功能，支持接龙投票等常用场景",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_122",
+              "pain": "小程序功能缺失",
+              "suggestion": "尽快上线小程序功能",
+              "source": "小程序什么时候才能上线",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115",
+            "com.tencent.mqq_122"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "闪照功能缺失",
+          "canonical_issue": "聊天不支持闪照功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "聊天不支持闪照",
+              "suggestion": "增加闪照功能",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "历史头像功能缺失",
+          "canonical_issue": "无法查看及选择历史头像",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "无法查看及选择历史头像",
+              "suggestion": "支持历史头像查看和选择",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "群助手功能缺失",
+          "canonical_issue": "缺少群助手统一收纳群消息且不提醒功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "需要群助手统一收纳群消息且不提醒",
+              "suggestion": "增加群助手功能，支持收纳群消息并静音",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115"
+          ]
+        },
+        {
+          "cluster_id": "61",
+          "cluster_name": "黑名单和背景设置缺失",
+          "canonical_issue": "无法查看黑名单和设置背景",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_116",
+              "pain": "无法查看黑名单和设置背景",
+              "suggestion": "增加黑名单查看和背景设置功能",
+              "source": "没有办法查看黑名单，没办法设置背景，一大堆问题，就不能解决吗，支持国产就是这个态度吗？",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_116"
+          ]
+        },
+        {
+          "cluster_id": "62",
+          "cluster_name": "基础功能缺失",
+          "canonical_issue": "缺少等级和出生证明等基础功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_117",
+              "pain": "缺少等级和出生证明功能",
+              "suggestion": "尽快补齐等级和出生证明等基础功能",
+              "source": "把安卓的功能都弄过了来吧，基本的等级，出生证明都没有",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_117"
+          ]
+        },
+        {
+          "cluster_id": "63",
+          "cluster_name": "相册年份查看功能缺失",
+          "canonical_issue": "QQ相册不能直接查看年份照片",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_118",
+              "pain": "QQ相册不能直接查看年份照片",
+              "suggestion": "优化相册按年份查看功能",
+              "source": "QQ相册不能直接查看年份的照片，很多功能缺失。",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_118"
+          ]
+        },
+        {
+          "cluster_id": "64",
+          "cluster_name": "天气功能缺失",
+          "canonical_issue": "缺少天气功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_119",
+              "pain": "缺少天气功能",
+              "suggestion": "增加天气功能",
+              "source": "麻烦更新下好吗？和别人差太多了，天气功能支持一下好吗？？",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_119"
+          ]
+        },
+        {
+          "cluster_id": "65",
+          "cluster_name": "群课堂功能缺失",
+          "canonical_issue": "缺少群课堂功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_120",
+              "pain": "缺少群课堂功能",
+              "suggestion": "尽快开发群课堂功能",
+              "source": "我要看群课堂烦死了",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_120"
+          ]
+        },
+        {
+          "cluster_id": "66",
+          "cluster_name": "存储空间清理功能缺失",
+          "canonical_issue": "无法清理存储空间",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_121",
+              "pain": "无法清理存储空间",
+              "suggestion": "增加清理存储空间的功能",
+              "source": "为何不能清理存储空间？？？",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_121"
+          ]
+        },
+        {
+          "cluster_id": "67",
+          "cluster_name": "QQ邮箱功能异常",
+          "canonical_issue": "QQ邮箱无法查看或缺少通知功能",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_123",
+              "pain": "QQ邮箱无法查看",
+              "suggestion": "修复QQ邮箱显示问题",
+              "source": "我的QQ邮箱都看不到了",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.tencent.mqq_124",
+              "pain": "缺少邮箱通知功能",
+              "suggestion": "增加邮箱通知功能",
+              "source": "能不能先把邮箱通知功能加上啊，上steam是真的费劲",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_123",
+            "com.tencent.mqq_124"
+          ]
+        },
+        {
+          "cluster_id": "68",
+          "cluster_name": "关联QQ功能缺失",
+          "canonical_issue": "缺少关联QQ功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_125",
+              "pain": "缺少关联QQ功能",
+              "suggestion": "尽快上线关联QQ功能",
+              "source": "上线关联QQ功能",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_125"
+          ]
+        },
+        {
+          "cluster_id": "69",
+          "cluster_name": "整体功能适配不足",
+          "canonical_issue": "QQ功能过于基础，缺少更多功能，适配进度慢",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_126",
+              "pain": "QQ功能过于基础，缺少更多功能，适配进度慢",
+              "suggestion": "加快QQ适配，增加更多功能",
+              "source": "啥时候升级QQ，现在那啥也没有只能聊天\n微信都升级了和之前一样的，\nQQ快点适配",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_126"
+          ]
+        },
+        {
+          "cluster_id": "70",
+          "cluster_name": "农场模式功能缺失",
+          "canonical_issue": "缺少农场模式功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_128",
+              "pain": "缺少农场模式功能",
+              "suggestion": "尽快上线农场模式",
+              "source": "快点上农场模式啊",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_128"
+          ]
+        },
+        {
+          "cluster_id": "71",
+          "cluster_name": "签到功能缺失",
+          "canonical_issue": "缺少签到功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_129",
+              "pain": "缺少签到功能",
+              "suggestion": "增加签到功能",
+              "source": "已经很不错了，就是签到还没有。",
+              "device": "HUAWEI MatePad 11.5 S 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_129"
+          ]
+        },
+        {
+          "cluster_id": "72",
+          "cluster_name": "禁言功能缺失",
+          "canonical_issue": "缺少禁言功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_131",
+              "pain": "缺少禁言功能",
+              "suggestion": "开发禁言功能",
+              "source": "一个禁言，多久了都没有",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_131"
+          ]
+        },
+        {
+          "cluster_id": "73",
+          "cluster_name": "QQ红包功能缺失",
+          "canonical_issue": "QQ红包功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_132",
+              "pain": "QQ红包功能缺失",
+              "suggestion": "恢复或开发QQ红包功能",
+              "source": "QQ红包咋没了",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_132"
+          ]
+        },
+        {
+          "cluster_id": "74",
+          "cluster_name": "转发消息搜索功能需优化",
+          "canonical_issue": "转发消息搜索转发对象功能需优化",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_133",
+              "pain": "转发消息搜索转发对象功能需优化",
+              "suggestion": "优化转发对象搜索功能",
+              "source": "转发消息搜索转发对象的功能还需优化，微信，QQ文件互转功能还需开发。",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_133"
+          ]
+        },
+        {
+          "cluster_id": "75",
+          "cluster_name": "微信QQ文件互转功能缺失",
+          "canonical_issue": "微信QQ文件互转功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_133",
+              "pain": "微信QQ文件互转功能缺失",
+              "suggestion": "开发微信QQ文件互转功能",
+              "source": "转发消息搜索转发对象的功能还需优化，微信，QQ文件互转功能还需开发。",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_133"
+          ]
+        },
+        {
+          "cluster_id": "76",
+          "cluster_name": "变声功能缺失",
+          "canonical_issue": "版本不是新版，缺少变声功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_134",
+              "pain": "版本不是新版，缺少变声功能",
+              "suggestion": "更新至新版并添加变声功能",
+              "source": "现在QQ都不是新版的，连哪个变声功能都没有。能不能更新一下？",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_134"
+          ]
+        },
+        {
+          "cluster_id": "77",
+          "cluster_name": "QQ关联功能缺失",
+          "canonical_issue": "QQ关联功能缺失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_135",
+              "pain": "QQ关联功能缺失",
+              "suggestion": "开发QQ关联账号功能",
+              "source": "好些消息直接接收不到，QQ关联也没有，希望大哥加把劲更新下",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.tencent.mqq_139",
+              "pain": "不能关联账号",
+              "suggestion": "开发关联账号功能",
+              "source": "应该只有基础功能，设置不了在线状态，隐身还是在线这些都不能设置，还不能关联账号",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_135",
+            "com.tencent.mqq_139"
+          ]
+        },
+        {
+          "cluster_id": "78",
+          "cluster_name": "等级天数和个性介绍显示缺失",
+          "canonical_issue": "等级天数、个性介绍等显示缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_136",
+              "pain": "等级天数、个性介绍等显示缺失",
+              "suggestion": "显示等级天数和个性介绍",
+              "source": "不好用啊，等级天数看不见，个性介绍也看不见",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_136"
+          ]
+        },
+        {
+          "cluster_id": "79",
+          "cluster_name": "结伴功能无法使用",
+          "canonical_issue": "结伴功能无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_137",
+              "pain": "结伴功能无法使用",
+              "suggestion": "修复或开发结伴功能",
+              "source": "结伴还是玩不了吗",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_137"
+          ]
+        },
+        {
+          "cluster_id": "80",
+          "cluster_name": "连续在线天数显示缺失",
+          "canonical_issue": "缺少连续在线天数显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_138",
+              "pain": "缺少连续在线天数显示",
+              "suggestion": "添加连续在线天数显示",
+              "source": "没有连续在线多少天，功能不完善",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_138"
+          ]
+        },
+        {
+          "cluster_id": "81",
+          "cluster_name": "在线状态设置功能缺失",
+          "canonical_issue": "无法设置在线状态（隐身/在线）",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_139",
+              "pain": "无法设置在线状态（隐身/在线）",
+              "suggestion": "增加在线状态设置功能",
+              "source": "应该只有基础功能，设置不了在线状态，隐身还是在线这些都不能设置，还不能关联账号",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_139"
+          ]
+        },
+        {
+          "cluster_id": "82",
+          "cluster_name": "勋章功能无法打开",
+          "canonical_issue": "勋章功能无法打开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_140",
+              "pain": "勋章功能无法打开",
+              "suggestion": "修复勋章功能",
+              "source": "差评，勋章都打不开",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_140"
+          ]
+        },
+        {
+          "cluster_id": "83",
+          "cluster_name": "充值功能缺失",
+          "canonical_issue": "无法进行充值操作，用户希望尽快开放充值功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_141",
+              "pain": "无法进行充值操作，用户希望尽快开放充值功能。",
+              "suggestion": "尽快开发并开放充值功能，确保用户能够正常进行付费操作。",
+              "source": "啥时候能充钱",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_141"
+          ]
+        },
+        {
+          "cluster_id": "84",
+          "cluster_name": "会员标签显示问题",
+          "canonical_issue": "会员标签显示不全、无法点击、无法查看Q龄",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_142",
+              "pain": "会员标签显示不全、无法点击、无法查看Q龄，存在多项显示问题。",
+              "suggestion": "修复会员标签显示和点击功能，确保用户能够正常查看和操作。",
+              "source": "会员标签都显示不全  点不开  查看不到Q龄 还有很多",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_142"
+          ]
+        },
+        {
+          "cluster_id": "85",
+          "cluster_name": "QQ空间评论功能缺失",
+          "canonical_issue": "在QQ空间评论时无法添加图片或表情包",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_143",
+              "pain": "在QQ空间评论时无法添加图片或表情包，功能缺失。",
+              "suggestion": "在QQ空间评论功能中增加图片和表情包的插入支持。",
+              "source": "QQ空间里,给别人评论的时候，希望能增加图片或者表情包的功能。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_143"
+          ]
+        },
+        {
+          "cluster_id": "86",
+          "cluster_name": "群聊邀请好友功能异常",
+          "canonical_issue": "群聊邀请好友功能无法正常显示和邀请",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_144",
+              "pain": "群聊邀请好友功能无法正常显示和邀请，一直失败。",
+              "suggestion": "修复群聊邀请好友功能，确保邀请流程正常。",
+              "source": "群聊邀请好友无法显示，一直邀请不成功",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_144"
+          ]
+        },
+        {
+          "cluster_id": "87",
+          "cluster_name": "游戏和VIP装扮功能不完善",
+          "canonical_issue": "游戏类功能和VIP装扮功能尚未完善",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_145",
+              "pain": "游戏类功能和VIP装扮功能尚未完善，用户认为无装扮开VIP无意义。",
+              "suggestion": "加快游戏类功能和VIP装扮的开发进度，完善VIP权益。",
+              "source": "能不能快点把游戏类做好 还有vip装扮 没装扮开啥VIP😅",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_145"
+          ]
+        },
+        {
+          "cluster_id": "88",
+          "cluster_name": "QQ农场功能缺失",
+          "canonical_issue": "QQ农场功能（种菜）尚未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_146",
+              "pain": "QQ农场功能（种菜）尚未上线，用户期待该功能。",
+              "suggestion": "尽快开发并上线QQ农场功能。",
+              "source": "啥时候可以种菜",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_146"
+          ]
+        },
+        {
+          "cluster_id": "89",
+          "cluster_name": "QQ运动功能缺失",
+          "canonical_issue": "QQ运动功能尚未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_147",
+              "pain": "QQ运动功能尚未上线，用户期待该功能。",
+              "suggestion": "尽快开发并上线QQ运动功能。",
+              "source": "什么时候上QQ运动",
+              "device": "HUAWEI Pura 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_147"
+          ]
+        },
+        {
+          "cluster_id": "90",
+          "cluster_name": "QQ农场功能未适配开发或",
+          "canonical_issue": "QQ农场功能未适配开发或上线",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_148",
+              "pain": "QQ农场功能未适配开发，用户希望尽快适配。",
+              "suggestion": "尽快适配并开发QQ农场功能。",
+              "source": "能不能把QQ农场功能适配开发出来",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_149",
+              "pain": "QQ农场功能尚未上线，用户询问上线时间。",
+              "suggestion": "尽快开发并上线QQ农场功能，明确上线时间。",
+              "source": "QQ农场 什么时候上线",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.tencent.mqq_153",
+              "pain": "不能种菜",
+              "suggestion": "更新支持种菜功能",
+              "source": "不能种菜，什么时候更新呀☹️",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_164",
+              "pain": "缺少小程序，无法玩农场游戏",
+              "suggestion": "建议开发小程序功能",
+              "source": "什么时候能把小程序开发出来呀，农场的菜都被偷完了",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_148",
+            "com.tencent.mqq_149",
+            "com.tencent.mqq_153",
+            "com.tencent.mqq_164"
+          ]
+        },
+        {
+          "cluster_id": "91",
+          "cluster_name": "结伴功能缺失",
+          "canonical_issue": "结伴功能尚未上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_150",
+              "pain": "结伴功能尚未上线，用户希望尽快添加。",
+              "suggestion": "尽快开发并上线结伴功能。",
+              "source": "什么时候把结伴功能加上呀",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_150"
+          ]
+        },
+        {
+          "cluster_id": "92",
+          "cluster_name": "听歌状态栏缺失",
+          "canonical_issue": "缺少听歌状态栏功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_151",
+              "pain": "缺少听歌状态栏",
+              "suggestion": "增加听歌状态栏功能",
+              "source": "支持鸿蒙！我想要状态栏😽😽听歌的那个状态栏！",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_151"
+          ]
+        },
+        {
+          "cluster_id": "93",
+          "cluster_name": "情侣空间功能缺失",
+          "canonical_issue": "缺少情侣空间和背景设置功能",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_152",
+              "pain": "缺少情侣空间和背景设置功能",
+              "suggestion": "添加情侣空间和背景设置选项",
+              "source": "更新的时候加入情侣空间吧，还有背景设置什么的",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_167",
+              "pain": "情侣空间模块迟迟未优化推出",
+              "suggestion": "建议优化并推出情侣空间模块",
+              "source": "情侣空间模块什么时候优化出来啊，等了一年了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_152",
+            "com.tencent.mqq_167"
+          ]
+        },
+        {
+          "cluster_id": "94",
+          "cluster_name": "站外链接跳转问题",
+          "canonical_issue": "站外链接无法跳转",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_155",
+              "pain": "站外链接无法跳转",
+              "suggestion": "优化站外链接跳转功能",
+              "source": "快点更新快点更新，鸿蒙快点跟上版本。站外链接都没办法跳转，微信老早可以了做啥呢",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_155"
+          ]
+        },
+        {
+          "cluster_id": "95",
+          "cluster_name": "QQ小程序功能缺失",
+          "canonical_issue": "QQ小程序功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_156",
+              "pain": "QQ小程序功能缺失",
+              "suggestion": "尽快上线QQ小程序功能",
+              "source": "QQ小程序功能快快上线，大学生需要填表格",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_156"
+          ]
+        },
+        {
+          "cluster_id": "96",
+          "cluster_name": "QQ明信片功能缺失",
+          "canonical_issue": "缺少QQ明信片功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_157",
+              "pain": "缺少QQ明信片功能",
+              "suggestion": "更新增加QQ明信片功能",
+              "source": "QQ明信片可以更新一下吗，特别需要，新功能，q仔…",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_157"
+          ]
+        },
+        {
+          "cluster_id": "97",
+          "cluster_name": "QQ装扮显示问题",
+          "canonical_issue": "无法显示QQ装扮",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_158",
+              "pain": "无法显示QQ装扮",
+              "suggestion": "支持显示QQ装扮",
+              "source": "什么时候出一个可以显示装扮的 QQ开了会员用鸿蒙等于白开 什么装扮都显示不了",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_158"
+          ]
+        },
+        {
+          "cluster_id": "98",
+          "cluster_name": "接龙工具无法使用",
+          "canonical_issue": "接龙工具无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_159",
+              "pain": "接龙工具无法使用",
+              "suggestion": "修复接龙工具功能",
+              "source": "鸿蒙系统的QQ宝妈接龙工具啥时候能用啊，大学生要抢志愿活动呀😭😭😭",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_159"
+          ]
+        },
+        {
+          "cluster_id": "99",
+          "cluster_name": "闪图功能缺失",
+          "canonical_issue": "无法发送和接收闪图",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_160",
+              "pain": "无法发送和接收闪图，没有好友推介",
+              "suggestion": "增加闪图收发功能及好友推介",
+              "source": "不能发闪图，接收不到闪图，好友推介，也没有。",
+              "device": "HUAWEI Mate 70 Air"
+            },
+            {
+              "id": "com.tencent.mqq_161",
+              "pain": "缺少闪图功能，体验感差",
+              "suggestion": "建议恢复闪图功能",
+              "source": "闪图功能呢！体验感太差了！",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_166",
+              "pain": "闪照功能被移除",
+              "suggestion": "建议恢复闪照功能",
+              "source": "什么时候能把闪照恢复了啊。",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_160",
+            "com.tencent.mqq_161",
+            "com.tencent.mqq_166"
+          ]
+        },
+        {
+          "cluster_id": "100",
+          "cluster_name": "火花和标识功能缺失",
+          "canonical_issue": "缺少火花和标识功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_163",
+              "pain": "缺少火花和标识功能，功能太少",
+              "suggestion": "建议增加火花和标识等功能",
+              "source": "火花和标识什么时候有 目前只能聊天和发动态 功能太少了",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_163"
+          ]
+        },
+        {
+          "cluster_id": "101",
+          "cluster_name": "抽签功能缺失",
+          "canonical_issue": "缺少抽签功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_168",
+              "pain": "缺少抽签功能",
+              "suggestion": "建议增加抽签功能",
+              "source": "抽签呢。怎么没有。快点呀",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_168"
+          ]
+        },
+        {
+          "cluster_id": "102",
+          "cluster_name": "QQ农场功能无法使用或未",
+          "canonical_issue": "QQ农场功能无法使用或未适配",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_170",
+              "pain": "QQ农场打不开，迭代更新慢",
+              "suggestion": "建议修复QQ农场并加快迭代",
+              "source": "为什么QQ农场打不开，迭代更新慢",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.tencent.mqq_171",
+              "pain": "QQ农场功能缺失，无法使用",
+              "suggestion": "尽快适配并上线QQ农场功能",
+              "source": "快点支持qq农场，急急急",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_183",
+              "pain": "QQ经典农场功能未开发",
+              "suggestion": "考虑开发或恢复QQ经典农场功能",
+              "source": "能不能把Qq经典农场开发出来",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_170",
+            "com.tencent.mqq_171",
+            "com.tencent.mqq_183"
+          ]
+        },
+        {
+          "cluster_id": "103",
+          "cluster_name": "小程序功能不完善",
+          "canonical_issue": "小程序功能缺失或无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_172",
+              "pain": "小程序功能不完善，无法使用火影签到领取逆转卡",
+              "suggestion": "加快小程序功能开发和适配",
+              "source": "什么时候更新小程序啊，我的火影签到都没法领逆转卡",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_172"
+          ]
+        },
+        {
+          "cluster_id": "104",
+          "cluster_name": "QQ空间相册功能缺失",
+          "canonical_issue": "QQ空间相册功能不完善，无法选定日期时间",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_173",
+              "pain": "QQ空间相册无法选定日期时间",
+              "suggestion": "优化相册功能，添加选定日期时间的选项",
+              "source": "QQ空间的相册功能，不能选定日期时间，而且目前QQ功能非常不完善",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_173"
+          ]
+        },
+        {
+          "cluster_id": "105",
+          "cluster_name": "QQ整体功能不完善",
+          "canonical_issue": "QQ整体功能缺失或不完善",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_169",
+              "pain": "很多功能无法使用",
+              "suggestion": "建议加快更新，修复缺失功能",
+              "source": "QQ快更新啊，我好多功能用不了",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_173",
+              "pain": "QQ整体功能非常不完善",
+              "suggestion": "持续完善QQ的各项功能，提升用户体验",
+              "source": "QQ空间的相册功能，不能选定日期时间，而且目前QQ功能非常不完善",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_169",
+            "com.tencent.mqq_173"
+          ]
+        },
+        {
+          "cluster_id": "106",
+          "cluster_name": "QQ空间个性化设置缺失",
+          "canonical_issue": "QQ空间个性化设置功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_174",
+              "pain": "QQ空间个性化设置（背景、点赞）功能缺失",
+              "suggestion": "恢复QQ空间的个性化设置功能",
+              "source": "难道就我一个人看不到以前QQ空间的个性化设置了嘛，什么背景什么点赞功能全没了",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_174"
+          ]
+        },
+        {
+          "cluster_id": "107",
+          "cluster_name": "隐身设置功能无法使用",
+          "canonical_issue": "隐身设置功能无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_176",
+              "pain": "隐身设置功能无法使用",
+              "suggestion": "修复隐身设置功能",
+              "source": "隐身设置不了?",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_176"
+          ]
+        },
+        {
+          "cluster_id": "108",
+          "cluster_name": "个性装扮丢失",
+          "canonical_issue": "已购买的个性装扮丢失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_177",
+              "pain": "已购买的个性装扮丢失",
+              "suggestion": "修复数据，恢复用户已购买的装扮",
+              "source": "我QQ上买的个性装扮一个都没了 而且也不能给别人主页点赞 一点都不好用",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_185",
+              "pain": "购买的个性装扮和气泡丢失，功能缺失",
+              "suggestion": "恢复用户已购买的个性装扮和气泡，并排查数据丢失原因",
+              "source": "我的妈呀，我下的不是官方qq吗？老娘的个性装扮去哪儿了？我花三块钱买的气泡去哪儿了？为什么什么功能都没有了",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_177",
+            "com.tencent.mqq_185"
+          ]
+        },
+        {
+          "cluster_id": "109",
+          "cluster_name": "无法给别人主页点赞",
+          "canonical_issue": "无法给别人主页点赞",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_177",
+              "pain": "无法给别人主页点赞",
+              "suggestion": "修复点赞功能",
+              "source": "我QQ上买的个性装扮一个都没了 而且也不能给别人主页点赞 一点都不好用",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_177"
+          ]
+        },
+        {
+          "cluster_id": "110",
+          "cluster_name": "缺少查看历史头像功能",
+          "canonical_issue": "缺少查看历史头像的功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_178",
+              "pain": "缺少查看历史头像的功能",
+              "suggestion": "增加查看历史头像的功能",
+              "source": "我需要查看历史头像",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_178"
+          ]
+        },
+        {
+          "cluster_id": "111",
+          "cluster_name": "SVIP付费装扮无法使用",
+          "canonical_issue": "SVIP付费装扮无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_179",
+              "pain": "SVIP付费装扮无法使用",
+              "suggestion": "尽快适配并支持SVIP装扮功能",
+              "source": "我花钱充的SVIP.装扮都装扮不了 什么时候更新完成啊",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_179"
+          ]
+        },
+        {
+          "cluster_id": "112",
+          "cluster_name": "视频通话中无法文字聊天",
+          "canonical_issue": "视频通话时无法同时进行文字聊天",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_180",
+              "pain": "视频通话时无法同时进行文字聊天（鸿蒙升级后功能消失）",
+              "suggestion": "恢复视频通话中的文字聊天功能",
+              "source": "鸿蒙版本的QQ，打视频的时候不能在视频里聊天了，之前鸿蒙4可以，但升级到6之后这个功能消失了，希望可以尽快适配",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_180"
+          ]
+        },
+        {
+          "cluster_id": "113",
+          "cluster_name": "QQ装扮界面气泡无法体验",
+          "canonical_issue": "QQ装扮界面更新后无法体验购买的气泡",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_181",
+              "pain": "QQ装扮界面更新后无法体验购买的气泡",
+              "suggestion": "修复装扮界面中气泡的购买体验，确保用户能正常预览和购买",
+              "source": "QQ装扮界面请继续更新一个然无法\n体验购买的气泡",
+              "device": "HUAWEI MatePad Air"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_181"
+          ]
+        },
+        {
+          "cluster_id": "114",
+          "cluster_name": "每日签到功能缺失",
+          "canonical_issue": "每日签到功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_182",
+              "pain": "每日签到功能缺失",
+              "suggestion": "增加每日签到功能，并修复相关bug",
+              "source": "我要每日签到！！！\n还有快点更新吧 更新到能适配所有游戏的登录 不然很影响体验感！",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_182"
+          ]
+        },
+        {
+          "cluster_id": "115",
+          "cluster_name": "无法查看QQ等级",
+          "canonical_issue": "无法查看QQ等级",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_184",
+              "pain": "无法查看QQ等级",
+              "suggestion": "修复等级显示问题，确保用户能正常查看等级",
+              "source": "看不了，等级",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_184"
+          ]
+        },
+        {
+          "cluster_id": "116",
+          "cluster_name": "情侣空间功能缺失",
+          "canonical_issue": "情侣空间功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_187",
+              "pain": "情侣空间功能缺失",
+              "suggestion": "增加情侣空间功能",
+              "source": "我的情侣空间呢",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_187"
+          ]
+        },
+        {
+          "cluster_id": "117",
+          "cluster_name": "QQ等级无法升级",
+          "canonical_issue": "QQ等级无法升级",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_188",
+              "pain": "QQ等级无法升级",
+              "suggestion": "修复等级升级机制，确保等级正常增长",
+              "source": "什么时候QQ等级可以升级啊",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_188"
+          ]
+        },
+        {
+          "cluster_id": "118",
+          "cluster_name": "小程序功能缺失或无法使用",
+          "canonical_issue": "小程序功能缺失或无法使用",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_189",
+              "pain": "缺少小程序功能，导致无法使用金山文档",
+              "suggestion": "增加小程序功能，或优化与金山文档的兼容性",
+              "source": "可以有小程序吗，我金山文档填不了",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.tencent.mqq_197",
+              "pain": "小程序打不开，影响使用体验。",
+              "suggestion": "建议修复小程序兼容性问题，确保所有小程序能正常加载。",
+              "source": "已经完善得不错了，但是小程序打不开，希望能补齐",
+              "device": "nova 13 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_198",
+              "pain": "小程序都用不了，急需更新。",
+              "suggestion": "建议尽快更新版本，修复小程序无法使用的问题。",
+              "source": "快更新啊，小程序都用不了",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_207",
+              "pain": "不能玩农场小程序",
+              "suggestion": "修复小程序的兼容性问题，确保农场等小程序可正常使用",
+              "source": "不能玩农场小程序",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.tencent.mqq_209",
+              "pain": "小程序打不开",
+              "suggestion": "修复小程序打开问题",
+              "source": "所有应用里优化做的最差的！！到现在连小程序都打不开，不知道腾讯是不是放弃QQ这个软件了🤷🏻‍♀️",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_189",
+            "com.tencent.mqq_197",
+            "com.tencent.mqq_198",
+            "com.tencent.mqq_207",
+            "com.tencent.mqq_209"
+          ]
+        },
+        {
+          "cluster_id": "119",
+          "cluster_name": "相册时间轴功能缺失",
+          "canonical_issue": "相册中找不到时间轴功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_190",
+              "pain": "相册中找不到时间轴功能",
+              "suggestion": "恢复相册的时间轴功能",
+              "source": "相册为什么找不到时间轴啊？？？",
+              "device": "HUAWEI Pura 90 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_190"
+          ]
+        },
+        {
+          "cluster_id": "120",
+          "cluster_name": "个性化功能缺失",
+          "canonical_issue": "QQ的个性化功能在鸿蒙系统上缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_193",
+              "pain": "QQ的个性化功能在鸿蒙系统上缺失，安卓版本有而鸿蒙版本没有。",
+              "suggestion": "建议在鸿蒙版本中同步添加个性化功能设置。",
+              "source": "QQ的个性化安卓有鸿蒙这边怎么看不到了",
+              "device": "HUAWEI Pura 90 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_193"
+          ]
+        },
+        {
+          "cluster_id": "121",
+          "cluster_name": "扩列和好友推荐功能缺失",
+          "canonical_issue": "缺少扩列和可能认识的好友功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_200",
+              "pain": "缺少扩列和可能认识的好友功能。",
+              "suggestion": "建议增加扩列和可能认识的好友推荐功能。",
+              "source": "啥时候增加那个扩列还有可能认识的好友功能呀！",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_200"
+          ]
+        },
+        {
+          "cluster_id": "122",
+          "cluster_name": "闪传功能缺失",
+          "canonical_issue": "缺少闪传功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_201",
+              "pain": "缺少闪传功能",
+              "suggestion": "建议增加闪传功能",
+              "source": "能不能上闪传功能啊，救命啊，服了",
+              "device": "HUAWEI Pura 90 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_201"
+          ]
+        },
+        {
+          "cluster_id": "123",
+          "cluster_name": "版本检测错误",
+          "canonical_issue": "版本检测错误导致无法填写在线表格",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_203",
+              "pain": "版本检测错误导致无法填写在线表格",
+              "suggestion": "优化版本检测逻辑，确保正确识别版本并允许填写在线表格",
+              "source": "明明已经是在新版本！！还要说我版本低！连在线表格都填不了！",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_203"
+          ]
+        },
+        {
+          "cluster_id": "124",
+          "cluster_name": "群公告链接无法打开",
+          "canonical_issue": "群公告里的链接打不开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_204",
+              "pain": "群公告里的链接打不开",
+              "suggestion": "修复群公告中链接无法打开的问题",
+              "source": "群公告里的链接打不开",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_204"
+          ]
+        },
+        {
+          "cluster_id": "125",
+          "cluster_name": "每日打卡功能缺失",
+          "canonical_issue": "缺少每日打卡功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_205",
+              "pain": "缺少每日打卡功能",
+              "suggestion": "考虑增加每日打卡功能",
+              "source": "什么时候有每日打卡功能啊",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_205"
+          ]
+        },
+        {
+          "cluster_id": "126",
+          "cluster_name": "动态浏览人显示问题",
+          "canonical_issue": "自己发的QQ动态里照片或视频下浏览人看不到",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_206",
+              "pain": "自己发的QQ动态里照片或视频下浏览人看不到",
+              "suggestion": "修复动态浏览人显示问题",
+              "source": "自己发的QQ动态里照片或视频下浏览人看不到",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_206"
+          ]
+        },
+        {
+          "cluster_id": "127",
+          "cluster_name": "群待办表格无法填写",
+          "canonical_issue": "群待办表格无法填写",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_208",
+              "pain": "群待办表格无法填写",
+              "suggestion": "升级群待办功能，修复表格填写问题",
+              "source": "群待办群待办群待办群待办群待办，我真的每次都填不了表格！！！！！！！群待办赶紧升级",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_208"
+          ]
+        },
+        {
+          "cluster_id": "128",
+          "cluster_name": "在线文档填写功能缺失",
+          "canonical_issue": "无法填写腾讯文档等在线文档",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_210",
+              "pain": "无法填写腾讯文档等在线文档",
+              "suggestion": "支持在线文档的填写功能",
+              "source": "什么时候腾讯文档or各种在线文档可以填写啊🥹",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_210"
+          ]
+        },
+        {
+          "cluster_id": "129",
+          "cluster_name": "王者荣耀快捷换号功能缺失",
+          "canonical_issue": "缺少王者荣耀内快捷换号功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_211",
+              "pain": "缺少王者荣耀内快捷换号功能",
+              "suggestion": "尽快开发并上线王者荣耀内快捷换号功能",
+              "source": "到底什么时候能上王者荣耀内快捷换号功能",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_211"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "45",
+          "cluster_name": "自定义铃声功能",
+          "canonical_issue": "希望支持自定义铃声功能，包括文字、语音、通话铃声",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_348",
+              "pain": "希望有自定义铃声功能，包括文字、语音、通话铃声",
+              "suggestion": "开发并支持自定义铃声功能",
+              "source": "希望QQ有自己的铃声，方便用户更改文字和语音铃声，还有语音通话和视频通话铃声",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_348"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "小游戏内容不足",
+          "canonical_issue": "希望更多小游戏回归，丰富游戏生态",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_485",
+              "pain": "希望更多小游戏回归，目前小游戏数量不足。",
+              "suggestion": "逐步恢复并增加小游戏内容，丰富游戏生态。",
+              "source": "希望更多小游戏能回来，功能越来越完善。",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_485"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "气泡功能上架",
+          "canonical_issue": "期待气泡功能上架",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_492",
+              "pain": "期待气泡功能上架",
+              "suggestion": "加速气泡功能的开发与上架",
+              "source": "气泡什么时候上架。。。",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_492"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "群外音视频通知",
+          "canonical_issue": "群外音视频通知功能缺失或询问何时有",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_496",
+              "pain": "群外音视频通知功能缺失或询问何时有",
+              "suggestion": "增加群外音视频通知功能",
+              "source": "群外音视频通知什么有",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_496"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "单独复制文字消息",
+          "canonical_issue": "无法单独复制文字消息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_499",
+              "pain": "无法单独复制文字消息",
+              "suggestion": "增加长按消息可单独复制文字的功能",
+              "source": "什么时候能单独复制文字消息？？？",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_499"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "50",
+          "cluster_name": "文件管理功能增强",
+          "canonical_issue": "文件管理功能增强，支持微云网盘和我的电脑分享",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_385",
+              "pain": "文件里面终于有微云网盘了",
+              "suggestion": "无",
+              "source": "文件里面终于有微云网盘了",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.tencent.mqq_411",
+              "pain": "这次更新，分享文件可以选择我的电脑了",
+              "suggestion": "无",
+              "source": "这次更新，分享文件可以选择我的电脑了",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_385",
+            "com.tencent.mqq_411"
+          ]
+        }
+      ]
+    }
+  },
+  "稳定性与性能": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "图片预览不一致",
+          "canonical_issue": "聊天记录中图片预览与实际显示不一致",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_10",
+              "pain": "指定图片查找聊天记录功能出现预览与实际显示不一致的bug",
+              "suggestion": "修复图片查找聊天记录中预览与实际显示图片不一致的bug",
+              "source": "这次更新后，指定图片查找聊天记录，会出现预览图和实际点开显示图片不一样的问题，不知道是以什么顺序错乱的，影响查看。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_448",
+              "pain": "消息记录中图片点进去显示不一致",
+              "suggestion": "修复图片预览Bug，确保点击后的图片与列表显示一致",
+              "source": "先不说我花钱买的装扮用不了，消息记录里的图片点进去发现和外面显示的不是同一张，真的很难受",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_10",
+            "com.tencent.mqq_448"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "等级查看异常",
+          "canonical_issue": "用户等级及好友等级无法点击查看",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_45",
+              "pain": "点击等级无反应",
+              "suggestion": "修复等级显示点击问题",
+              "source": "为啥我的扣扣看不到等级呀点进去都没反应点都点不进去，别说点了。不明白，是系统原因还是这个手机原因？",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.tencent.mqq_387",
+              "pain": "无法查看等级和朋友等级（点不开）",
+              "suggestion": "修复等级查看功能",
+              "source": "这QQ更新之后怎么这么难用呀？我想看一下我的等级和我朋友的等级，怎么看不了呀，点不开呀",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_45",
+            "com.tencent.mqq_387"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "消息发送卡顿",
+          "canonical_issue": "消息发送过程中出现卡顿及加载图标残留",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_115",
+              "pain": "发消息偶尔卡顿，加载图标有时不消失",
+              "suggestion": "优化消息发送性能，修复加载图标异常残留问题",
+              "source": "1.更新个性装扮（主题、气泡、好友动态、空间等）不要让大家的会员和黄钻浪费呀\n2.更新QQ农场，鸿蒙6也想继续和好友激情偷菜\n3.气泡无法双击放大消息从而查看装扮信息什么的（虽然现在也没有装扮）不过可以双击选择部分文字粘贴\n4. 聊天界面消息左滑引用，聊天窗口左滑浏览对方空间\n5.字符等聊天挂件，聊天窗口半屏相册选择\n6.空间原创说说和转发都无法艾特别人，空间说说还不能收藏\n7.群聊里一样的消息，还没有+1按钮，需要好友在线状态\n8.小程序目前还没有上线，希望能够尽快完善，很需要小程序（例如接龙投票）\n9.聊天的时候没有闪照，发消息有时候会卡顿，加载图标偶尔会不消失，有时候消息已经发出去了退出窗口的时候看见列表还有编辑符号\n10.无法查看及选择历史头像\n11.需要群助手同一收纳“群消息归于群助手且不提醒”\n以上功能希望尽快完善，QQ你要知道你的用户其实很多的.jpg",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_252",
+              "pain": "消息发送流畅度差",
+              "suggestion": "优化消息发送流畅度",
+              "source": "抓紧将通用里面的功能完善了，改善发送消息的流畅度",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_115",
+            "com.tencent.mqq_252"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "内存占用过高",
+          "canonical_issue": "应用占用手机内存空间过大",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_130",
+              "pain": "应用占用内存空间过大",
+              "suggestion": "优化应用内存占用",
+              "source": "侵占手机内存空间过大",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_130"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "消息接收失败",
+          "canonical_issue": "部分消息无法正常接收",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_135",
+              "pain": "消息接收不到",
+              "suggestion": "修复消息接收问题",
+              "source": "好些消息直接接收不到，QQ关联也没有，希望大哥加把劲更新下",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_135"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "应用优化差",
+          "canonical_issue": "整体应用性能优化不足，功能缺失严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_209",
+              "pain": "应用优化差，在所有应用中表现最差",
+              "suggestion": "全面优化应用性能",
+              "source": "所有应用里优化做的最差的！！到现在连小程序都打不开，不知道腾讯是不是放弃QQ这个软件了🤷🏻‍♀️",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_209"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "语音电话异常",
+          "canonical_issue": "语音电话点击后无显示或功能异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_257",
+              "pain": "语音电话功能有BUG，点进去无显示",
+              "suggestion": "修复语音电话接收显示的BUG",
+              "source": "我真服了，每次有语音电话打过来，点进去就没有了，我不会有显示，能不能用点心呀！这么重要的的功能都有BUG",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_257"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "语音发送失败",
+          "canonical_issue": "语音消息无法正常发送",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_263",
+              "pain": "语音功能异常，无法发送语音。",
+              "suggestion": "修复语音发送功能，确保稳定。",
+              "source": "为什么语音发不出去了？",
+              "device": "HUAWEI Mate X6 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_263"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "登录失败",
+          "canonical_issue": "用户无法正常登录账号",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_309",
+              "pain": "无法登录账号",
+              "suggestion": "建议修复登录问题",
+              "source": "都上不了号",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_309"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "小程序无法使用",
+          "canonical_issue": "群抽签、打卡等小程序功能无法打开或使用",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_320",
+              "pain": "群抽签小程序无法使用",
+              "suggestion": "修复群抽签小程序，确保功能正常可用",
+              "source": "群抽签小程序无法使用",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_384",
+              "pain": "QQ打卡小程序无法打开",
+              "suggestion": "修复打卡小程序打开问题",
+              "source": "每周给娃打卡英语作业需要上传视频，图片到QQ小程序上。但是每周QQ群里面打卡小程序都无法打开，都买机子快1年了，希望能早日解决，每次都要到处借手机打卡好奔溃。。。",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_320",
+            "com.tencent.mqq_384"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "视频通话质量差",
+          "canonical_issue": "视频通话画面模糊或连接不稳定",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_328",
+              "pain": "视频通话画面模糊",
+              "suggestion": "优化视频通话质量，提高清晰度",
+              "source": "打视频很糊",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.tencent.mqq_368",
+              "pain": "视频通话不稳定。",
+              "suggestion": "建议优化视频通话稳定性。",
+              "source": "我先看我的历史头像啊，还有小程序也都没有，打视频也不稳定",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_328",
+            "com.tencent.mqq_368"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "QQ空间评论异常",
+          "canonical_issue": "QQ空间无法评论图片",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_388",
+              "pain": "QQ空间评论不了图片",
+              "suggestion": "修复QQ空间评论图片功能",
+              "source": "是不打算更新qq了吗\n\n666一年多了 依旧qq空间评论不了图片",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_388"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "功能无法打开",
+          "canonical_issue": "种菜等应用内功能无法打开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_420",
+              "pain": "种菜都打不开，很多功能也用不了",
+              "suggestion": "建议修复种菜及其他功能无法打开的问题",
+              "source": "种菜都打不开，很多功能也用不了😅",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_420"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "Tim应用通知异常",
+          "canonical_issue": "Tim应用消息通知机制存在缺陷，导致与华为手表联动时经常收不到消息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_449",
+              "pain": "Tim应用通知收不到消息",
+              "suggestion": "优化Tim应用的通知机制，确保与华为手表联动正常",
+              "source": "还行，能改几点最好了。一是加上qq邮箱订阅号或者直接内置个qq邮箱提醒的小程序。二是聊天记录无法引用回复。三是微信转发的哔哩哔哩视频链接可以直接跳转，但是qq不行。四是回复操作未优化，不能对象回复的消息滑动回复。五是没法长按群聊对话添加小表情。六是qq内编辑图片只有涂鸦一个功能，裁剪或者马赛克贴纸都没有。七是务必务必务必加上聊天记录清理和图片视频清理！期待后续。以上说的缺点都可以通过下载tim解决，但是tim是通过卓易通下载的应用，在消息通知以及联动华为手表消息通知方便有问题，经常收不到消息，最终没办法还得用qq。期待速速解决以上问题，对华为总体还是持期待态度",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_449"
+          ]
+        }
+      ]
+    }
+  },
+  "系统与机型适配": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "14",
+          "cluster_name": "鸿蒙版本更新缓慢",
+          "canonical_issue": "鸿蒙系统QQ版本更新滞后，功能与安卓版本不一致",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_26",
+              "pain": "华为手机上的QQ版本更新慢",
+              "suggestion": "加快华为手机上的版本更新和适配",
+              "source": "我这个是华为手机，能不能更新一下呀？",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.tencent.mqq_86",
+              "pain": "为啥鸿蒙系统和其他手机系统的QQ不一样呢，QQ能不能抓点紧更新",
+              "suggestion": "加速鸿蒙系统版本更新，与安卓版本对齐功能",
+              "source": "为啥鸿蒙系统和其他手机系统的QQ不一样呢，QQ能不能抓点紧更新",
+              "device": "HUAWEI Mate X5"
+            },
+            {
+              "id": "com.tencent.mqq_440",
+              "pain": "鸿蒙系统适配进度慢",
+              "suggestion": "加快鸿蒙系统适配工作",
+              "source": "快点升级鸿蒙适配，求求了，主体什么的什么都没有，用QQ就是图花式多，而且视频也没有美颜，啊啊啊啊啊，加油呀！",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_26",
+            "com.tencent.mqq_86",
+            "com.tencent.mqq_440"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "功能缺失与阉割",
+          "canonical_issue": "鸿蒙系统QQ缺失多项基础功能，如等级查看、录屏、微云下载等",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_37",
+              "pain": "关键还不让装安卓版的",
+              "suggestion": "允许用户安装安卓版作为过渡或提供功能完整的鸿蒙版",
+              "source": "等级看不到，群组删不掉，少了太多功能。关键还不让装安卓版的。感觉回到千禧年前的oicq了",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_162",
+              "pain": "鸿蒙系统上无法查看等级和会员状况",
+              "suggestion": "建议适配鸿蒙系统，支持查看等级和会员状况",
+              "source": "能不能更新下，查看等级，会员状况，鸿蒙系统的看不了这些，期待更新",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.tencent.mqq_278",
+              "pain": "鸿蒙系统QQ微云下载功能缺失",
+              "suggestion": "适配鸿蒙系统，恢复微云下载功能",
+              "source": "鸿蒙系统QQ微云下载怎么没有了",
+              "device": "HUAWEI Mate 60"
+            },
+            {
+              "id": "com.tencent.mqq_290",
+              "pain": "鸿蒙系统录屏功能被阉割",
+              "suggestion": "适配鸿蒙系统，恢复录屏功能",
+              "source": "录屏功能，鸿蒙系统给阉割了，腾讯团队能不能尽快搞一下，感谢感谢",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_378",
+              "pain": "安卓端基础功能适配缓慢",
+              "suggestion": "加快适配进度，使功能与安卓端一致",
+              "source": "尽快把安卓端的基础功能适配吧……装扮功能还有群功能缺失太多了",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_37",
+            "com.tencent.mqq_162",
+            "com.tencent.mqq_278",
+            "com.tencent.mqq_290",
+            "com.tencent.mqq_378"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "鸿蒙系统QQ登录游戏时兼",
+          "canonical_issue": "鸿蒙系统QQ登录游戏时兼容性差，无法适配所有游戏",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_182",
+              "pain": "游戏登录无法适配所有游戏，影响体验",
+              "suggestion": "优化QQ登录适配，确保支持所有游戏的登录",
+              "source": "我要每日签到！！！\n还有快点更新吧 更新到能适配所有游戏的登录 不然很影响体验感！",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_186",
+              "pain": "很多应用绑定QQ登录后无法直接登录",
+              "suggestion": "改进登录适配，修复第三方应用QQ登录兼容性问题",
+              "source": "能不能改进一下适配，很多app绑定qq登录的都无法直接登录了。。。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_202",
+              "pain": "华为手机登录游戏时无法换头像",
+              "suggestion": "修复华为设备上游戏登录时头像更换问题",
+              "source": "唯一的一个缺点就是华为手机登录游戏的时候，我换不了头像",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_222",
+              "pain": "游戏登录不兼容鸿蒙系统，与安卓系统差异导致麻烦",
+              "suggestion": "优化鸿蒙系统下的游戏登录适配，确保兼容性",
+              "source": "登其他游戏不太行。鸿蒙系统和安卓系统跟本不一样。很麻烦。",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_395",
+              "pain": "许多游戏无法正常登录，兼容性差",
+              "suggestion": "优化游戏登录兼容性，与游戏厂商协同修复",
+              "source": "赶紧更新啊，好多游戏都不能正常登入，太难了",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_182",
+            "com.tencent.mqq_186",
+            "com.tencent.mqq_202",
+            "com.tencent.mqq_222",
+            "com.tencent.mqq_395"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "平板模式未适配",
+          "canonical_issue": "鸿蒙系统QQ未适配平板模式界面",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_54",
+              "pain": "没有适配平板模式界面",
+              "suggestion": "进行平板模式界面适配",
+              "source": "没有适配平板模式界面",
+              "device": "HUAWEI MatePad Air"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_54"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "系统升级后兼容性问题",
+          "canonical_issue": "手机系统升级后QQ无法正常使用，功能异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_165",
+              "pain": "手机升级后QQ无法使用，加群失败",
+              "suggestion": "建议修复升级后QQ兼容性问题",
+              "source": "为什手机升级过后  QQ就用不了了  加群都不能加入",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_165"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "小程序无法打开",
+          "canonical_issue": "鸿蒙系统QQ小程序加载失败，无法打开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_399",
+              "pain": "小程序无法打开",
+              "suggestion": "修复小程序加载机制，确保在鸿蒙系统正常运行",
+              "source": "连小程序都打不开",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_399"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "Steam应用使用困难",
+          "canonical_issue": "鸿蒙系统QQ在Steam应用中使用困难，邮箱通知功能缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_124",
+              "pain": "使用Steam应用困难",
+              "suggestion": "优化Steam应用在鸿蒙系统上的兼容性和体验",
+              "source": "能不能先把邮箱通知功能加上啊，上steam是真的费劲",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_124"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "PuraX机型情侣空间无法进入",
+          "canonical_issue": "PuraX机型QQ无法进入情侣空间",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_474",
+              "pain": "PuraX机型无法进入情侣空间",
+              "suggestion": "适配PuraX机型，支持进入情侣空间",
+              "source": "PuraX没办法进入情侣空间呢",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_474"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "版本过低导致功能受限",
+          "canonical_issue": "应用版本过低导致无法登录游戏及无法使用会员功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_476",
+              "pain": "本版本无法登录游戏，提示版本太低",
+              "suggestion": "适配或提示用户升级版本以支持游戏登录",
+              "source": "我QQ大会员功能依然不能使用，也不能直接用这版本登陆游戏，提示版本太低",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_476"
+          ]
+        }
+      ]
+    }
+  },
+  "UI与交互": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "23",
+          "cluster_name": "个性化功能缺失",
+          "canonical_issue": "个性化功能缺失，界面显示空白，体验不好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_30",
+              "pain": "个性化功能缺失，界面显示空白，体验不好",
+              "suggestion": "尽快上线个性化功能，确保界面正常显示",
+              "source": "完善的太慢了，QB没法充值，玩游戏受限制。反馈了三个月还没上线个性化，本来开了SVIP回复我7月中旬才抬上来，约等于浪费半年超会时间，什么都不显示。协商补偿点华为的主题或者表盘会员也不可行，抠搜的。对于我这种爱好花里胡哨的人来说体验感真的很不好。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_30"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "黑名单入口缺失",
+          "canonical_issue": "黑名单找不到",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_43",
+              "pain": "黑名单找不到",
+              "suggestion": "增加黑名单入口或优化引导",
+              "source": "怎么找不到黑名单啊，按照百度上说的都无法找到黑名单",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_43"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "好友在线离线状态显示不清晰",
+          "canonical_issue": "好友在线离线状态显示不清晰，彩色头像难以区分",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_274",
+              "pain": "好友在线离线状态显示不清晰，彩色头像难以区分",
+              "suggestion": "优化在线离线状态显示，使用更明显的图标或文字区分",
+              "source": "抓紧更新吧  尤其是好友在线离线状态   看着太费劲了   消息界面看好友在线离线都是彩色头像   还没0几年的QQ看着方便呢   闪照呢 闪照呢",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_274"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "小白条区域沉浸问题",
+          "canonical_issue": "小白条区域沉浸问题，iOS和鸿蒙版本都存在",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_357",
+              "pain": "小白条区域沉浸问题，iOS和鸿蒙版本都存在",
+              "suggestion": "修复小白条区域沉浸问题",
+              "source": "QQ底层更新以后前端界面小毛病很多，特别是小白条区域沉浸问题，ios和鸿蒙版本都有问题，另外鸿蒙版本什么时候上线拍一拍功能，还有b站分享无法跳转，没有QQ小程序导致b站分享的是链接",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_357"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "状态设置入口不明确",
+          "canonical_issue": "不清楚如何设置状态",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_382",
+              "pain": "不清楚如何设置状态",
+              "suggestion": "优化状态设置入口和引导",
+              "source": "怎么设置状态",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_382"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "回车发消息功能不可用",
+          "canonical_issue": "回车发消息功能不可用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_390",
+              "pain": "回车发消息功能不可用",
+              "suggestion": "修复回车发送消息功能",
+              "source": "在？我svip的皮肤呢？回车发消息也不行是吧",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_390"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "界面图标对PuraX不友好",
+          "canonical_issue": "更新后界面图标对PuraX不友好，图标过大",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_429",
+              "pain": "更新后界面图标对PuraX不友好，图标过大",
+              "suggestion": "建议优化PuraX机型的图标大小和界面布局",
+              "source": "这次更新后的界面对puraX很不友好，图标太大了。",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_429"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "回复操作未优化",
+          "canonical_issue": "回复操作未优化，不能滑动回复",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_449",
+              "pain": "回复操作未优化，不能滑动回复",
+              "suggestion": "优化回复交互，支持在消息上滑动快速回复",
+              "source": "还行，能改几点最好了。一是加上qq邮箱订阅号或者直接内置个qq邮箱提醒的小程序。二是聊天记录无法引用回复。三是微信转发的哔哩哔哩视频链接可以直接跳转，但是qq不行。四是回复操作未优化，不能对象回复的消息滑动回复。五是没法长按群聊对话添加小表情。六是qq内编辑图片只有涂鸦一个功能，裁剪或者马赛克贴纸都没有。七是务必务必务必加上聊天记录清理和图片视频清理！期待后续。以上说的缺点都可以通过下载tim解决，但是tim是通过卓易通下载的应用，在消息通知以及联动华为手表消息通知方便有问题，经常收不到消息，最终没办法还得用qq。期待速速解决以上问题，对华为总体还是持期待态度",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_449"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "字体大小调节问题",
+          "canonical_issue": "之前设置的特大号字体无法关闭",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_473",
+              "pain": "之前设置的特大号字体无法关闭",
+              "suggestion": "提供字体大小调节选项并修复无法关闭的问题",
+              "source": "VIP功能上了，可以查看和购买VIP，但是VIP特权系统没上线，一个功能没有，何意味啊。还有我之前用安卓手机调的特大号字体，现在关都关不掉，何意味啊",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_473"
+          ]
+        }
+      ]
+    }
+  },
+  "运营与规则": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "32",
+          "cluster_name": "功能更新缓慢",
+          "canonical_issue": "鸿蒙版QQ功能更新速度慢，导致用户无法及时使用新功能",
+          "size": 11,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_30",
+              "pain": "完善速度慢，反馈三个月未上线个性化",
+              "suggestion": "加快迭代速度，及时响应用户反馈",
+              "source": "完善的太慢了，QB没法充值，玩游戏受限制。反馈了三个月还没上线个性化，本来开了SVIP回复我7月中旬才抬上来，约等于浪费半年超会时间，什么都不显示。协商补偿点华为的主题或者表盘会员也不可行，抠搜的。对于我这种爱好花里胡哨的人来说体验感真的很不好。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_30",
+              "pain": "SVIP超会时间浪费，未及时获得权益",
+              "suggestion": "合理补偿用户损失，确保权益及时兑现",
+              "source": "完善的太慢了，QB没法充值，玩游戏受限制。反馈了三个月还没上线个性化，本来开了SVIP回复我7月中旬才抬上来，约等于浪费半年超会时间，什么都不显示。协商补偿点华为的主题或者表盘会员也不可行，抠搜的。对于我这种爱好花里胡哨的人来说体验感真的很不好。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_30",
+              "pain": "协商补偿方案不可行，态度抠搜",
+              "suggestion": "提供可行的补偿方案，改善服务态度",
+              "source": "完善的太慢了，QB没法充值，玩游戏受限制。反馈了三个月还没上线个性化，本来开了SVIP回复我7月中旬才抬上来，约等于浪费半年超会时间，什么都不显示。协商补偿点华为的主题或者表盘会员也不可行，抠搜的。对于我这种爱好花里胡哨的人来说体验感真的很不好。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_50",
+              "pain": "小程序不更新而会员先更新，优先级不合理",
+              "suggestion": "平衡更新优先级",
+              "source": "小程序什么的不更新，要收费的会员倒是先更新了，差评",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_57",
+              "pain": "更新太慢，好多内容看不到",
+              "suggestion": "加快更新频率，补齐缺失内容",
+              "source": "更新太慢了 好多内容看不到 共享屏幕还是看不到 黑名单也找不到 匿名提问也看不到了",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.tencent.mqq_59",
+              "pain": "更新太慢，很多功能一直拖着",
+              "suggestion": "加快更新速度，尽快上线缺失功能",
+              "source": "为什么更新那么慢，很多功能一直拖着？",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.tencent.mqq_85",
+              "pain": "想要玩QQ农场，但是一直在灰度测试 🥹🥹",
+              "suggestion": "加快灰度测试进度，尽快全量开放农场功能",
+              "source": "想要玩QQ农场，但是一直在灰度测试 🥹🥹",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.tencent.mqq_247",
+              "pain": "版本更新太慢，导致游戏授权问题",
+              "suggestion": "加快更新频率，及时跟进最新版本",
+              "source": "更新太慢 都9.2.85了 有些游戏QQ都没有最新版本都授权不了上不去",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_249",
+              "pain": "更新缓慢，游戏小程序缺失",
+              "suggestion": "制定更快的更新计划，缩小与安卓版本的差异",
+              "source": "好久没更新了，很多安卓的游戏小程序都没有，加油更新啊！",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.tencent.mqq_253",
+              "pain": "问题反馈未得到回复和解决",
+              "suggestion": "及时回复用户反馈并解决问题",
+              "source": "qq农场反应这么久了，也没一个回复，也不解决",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_332",
+              "pain": "还不让下载新版本 不会更新吗？？？",
+              "suggestion": "允许用户下载新版本",
+              "source": "我的气泡呢主题内头像框呢聊天框呢 不给就退钱 归还vipsvip权益 还不让下载新版本 不会更新吗？？？",
+              "device": "HUAWEI Pura 80 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_30",
+            "com.tencent.mqq_30",
+            "com.tencent.mqq_30",
+            "com.tencent.mqq_50",
+            "com.tencent.mqq_57",
+            "com.tencent.mqq_59",
+            "com.tencent.mqq_85",
+            "com.tencent.mqq_247",
+            "com.tencent.mqq_249",
+            "com.tencent.mqq_253",
+            "com.tencent.mqq_332"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "会员权益未兑现",
+          "canonical_issue": "会员用户充值后未获得应有的功能权益",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_191",
+              "pain": "访客记录删除功能需要开通会员，但开通会员后依然无法删除，功能无效。",
+              "suggestion": "建议修复访客记录删除功能，确保会员用户能够正常使用，或调整功能规则。",
+              "source": "差评  访客记录什么的都不可以删除了  说要开会员才能删  开了也没用",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_217",
+              "pain": "VIP特权未体现，充值无感",
+              "suggestion": "增强VIP权益，确保充值后有明显功能提升",
+              "source": "想要个性装扮，跪了▄█▀█●速速端上好吗😭😭😭😭😭😭😭😭vip充了跟没充一样，求你了求你了求你了 朋友给我分享网易云音乐网页看不到她分享了什么",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_191",
+            "com.tencent.mqq_217"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "账号恢复支持",
+          "canonical_issue": "用户需要恢复QQ账号或数据，但缺乏有效支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_256",
+              "pain": "需要恢复QQ账号或数据",
+              "suggestion": "提供账号恢复支持服务",
+              "source": "帮我恢复QQ.",
+              "device": "nova 14 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_256"
+          ]
+        }
+      ]
+    }
+  },
+  "体验赞赏": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "35",
+          "cluster_name": "QQ农场适配完成",
+          "canonical_issue": "经典QQ农场功能在鸿蒙系统上完成适配",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_65",
+              "pain": "经典农场总算是适配好了",
+              "suggestion": "无",
+              "source": "可以经典农场总算是适配好了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_82",
+              "pain": "QQ农场已经适配了",
+              "suggestion": "无",
+              "source": "QQ农场已经适配了",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_65",
+            "com.tencent.mqq_82"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "整体体验满意",
+          "canonical_issue": "用户对鸿蒙版QQ整体使用体验表示满意",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_93",
+              "pain": "功能很全，界面简洁",
+              "suggestion": "无",
+              "source": "非常好，功能很全，界面简洁",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.tencent.mqq_129",
+              "pain": "用户对整体体验表示满意",
+              "suggestion": "无",
+              "source": "已经很不错了，就是签到还没有。",
+              "device": "HUAWEI MatePad 11.5 S 活力版"
+            },
+            {
+              "id": "com.tencent.mqq_197",
+              "pain": "已经完善得不错了，整体体验较好。",
+              "suggestion": "无",
+              "source": "已经完善得不错了，但是小程序打不开，希望能补齐",
+              "device": "nova 13 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_298",
+              "pain": "整体满意，给予五星好评",
+              "suggestion": "无",
+              "source": "这个要给五星，希望早点完善个性装扮相关的功能吧。",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_453",
+              "pain": "整体适应很好，体验不错",
+              "suggestion": "无",
+              "source": "还是不错的。适应的很好。不过期待个人装扮上线。很希望在鸿蒙系统也有自己的QQ会员小装扮搭配",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_93",
+            "com.tencent.mqq_129",
+            "com.tencent.mqq_197",
+            "com.tencent.mqq_298",
+            "com.tencent.mqq_453"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "更新迭代积极",
+          "canonical_issue": "用户对鸿蒙版QQ的更新速度和功能完善表示认可",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_154",
+              "pain": "适配加速，体验好",
+              "suggestion": "无",
+              "source": "适配加速了，厉害",
+              "device": "HUAWEI Pura 90 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_255",
+              "pain": "更新速度一个月一更，可以接受",
+              "suggestion": "无",
+              "source": "太老了这QQ还在远古时期呢，这闪照功能什么时候完善，也就更新速度开可以一个月一更",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.tencent.mqq_299",
+              "pain": "更新速度快，体验良好",
+              "suggestion": "无",
+              "source": "更新速度很快，想要快点出屏幕共享，这个真的非常有用",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_154",
+            "com.tencent.mqq_255",
+            "com.tencent.mqq_299"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "功能优化赞赏",
+          "canonical_issue": "用户对特定功能优化（如富文本渲染、群语音显示等）表示赞赏",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_335",
+              "pain": "agent支持markdown渲染了",
+              "suggestion": "无",
+              "source": "就因为agent支持markdown渲染了都得给个5星！",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.tencent.mqq_342",
+              "pain": "群语音通话显示功能上线了，用户表示赞赏",
+              "suggestion": "无",
+              "source": "终于支持群语音通话显示了，加油",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_405",
+              "pain": "富文本格式渲染更新，机器人回答文字不再拥挤",
+              "suggestion": "无",
+              "source": "上个月许愿的富文本格式渲染这个版本就更新上啦，机器人的回答终于不会文字挤在一起了，谢谢开发！",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_335",
+            "com.tencent.mqq_342",
+            "com.tencent.mqq_405"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "系统适配优势",
+          "canonical_issue": "用户赞赏鸿蒙版QQ在系统适配和安全性方面的优势",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_127",
+              "pain": "鸿蒙系统因未适配微信而避免了诈骗风险，用户对此表示赞赏",
+              "suggestion": "无",
+              "source": "真的多亏了鸿蒙系统，今天我朋友被盗号了用QQ绑定微信对我进行诈骗，但是鸿蒙系统很好的帮我阻挡了这次巨大的损失，QQ没有第三方微信适配，真的做的太好了，像我这种警惕意识不高真的很适合啊！希望不要更新一些大风险的容易被诈骗的功能，再次感谢鸿蒙研发人员以及官方测试的仔细审核！谢谢你们辛苦啦！",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.tencent.mqq_424",
+              "pain": "用户赞赏鸿蒙版QQ简洁流畅，对低端处理器友好",
+              "suggestion": "无",
+              "source": "国产软件终于不臃肿了，鸿蒙版QQ就像10年前安卓版IOS版QQ那样简洁好用。再看看现在的安卓版IOS版QQ，简直是3A大作，性能弱一点都带不动。而鸿蒙版，连麒麟8000这种处理器都能流畅带的动，可想而知。",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_127",
+            "com.tencent.mqq_424"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "鸿蒙系统支持",
+          "canonical_issue": "用户表达对鸿蒙系统的支持及功能期待",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_151",
+              "pain": "支持鸿蒙系统",
+              "suggestion": "无",
+              "source": "支持鸿蒙！我想要状态栏😽😽听歌的那个状态栏！",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_151"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "进步认可",
+          "canonical_issue": "用户认可鸿蒙版QQ的持续进步",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_49",
+              "pain": "有进步",
+              "suggestion": "无",
+              "source": "有进步，但是QQ空间发说说在国外没办法加定位，希望改进一下",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_49"
+          ]
+        }
+      ]
+    }
+  },
+  "内容生态": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "42",
+          "cluster_name": "QQ农场功能缺失",
+          "canonical_issue": "移动端QQ缺少QQ农场功能，用户无法在手机上使用",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_192",
+              "pain": "QQ农场功能缺失，无法在手机上使用。",
+              "suggestion": "建议尽快将QQ农场加入到移动端QQ中，提供与电脑端一致的功能。",
+              "source": "QQ农场呢？我的QQ农场呢？",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_196",
+              "pain": "需要农场功能，用电脑偷菜不方便。",
+              "suggestion": "建议在手机端QQ中加入农场功能，方便移动操作。",
+              "source": "需要农场，现在一直用电脑偷菜太费劲了",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_199",
+              "pain": "华为手机下载的QQ没有QQ农场。",
+              "suggestion": "建议确保所有手机型号的QQ都包含QQ农场功能。",
+              "source": "为什么华为手机下载的qq里面连qq农场都没有啊",
+              "device": "HUAWEI Pura 90 Pro Max"
+            },
+            {
+              "id": "com.tencent.mqq_415",
+              "pain": "我要偷菜",
+              "suggestion": "建议加入QQ农场偷菜功能",
+              "source": "我要偷菜 我要偷菜",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.tencent.mqq_417",
+              "pain": "QQ农场搞快点",
+              "suggestion": "建议尽快上线QQ农场",
+              "source": "QQ农场搞快点",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_192",
+            "com.tencent.mqq_196",
+            "com.tencent.mqq_199",
+            "com.tencent.mqq_415",
+            "com.tencent.mqq_417"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "QQ经典农场灰度测试过长",
+          "canonical_issue": "QQ经典农场灰度测试时间过长，用户无法正式使用",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_194",
+              "pain": "QQ经典农场灰度测试时间过长，用户无法正式使用。",
+              "suggestion": "建议加快QQ经典农场的正式上线进度，减少灰度测试时间。",
+              "source": "QQ经典农场灰度测试一辈子吧，哎，",
+              "device": "HUAWEI MatePad Mini 悦读版"
+            },
+            {
+              "id": "com.tencent.mqq_195",
+              "pain": "想要玩QQ经典农场，但目前无法升级获得。",
+              "suggestion": "建议提供升级或直接开放QQ经典农场的途径。",
+              "source": "想升级玩QQ经典农场",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_194",
+            "com.tencent.mqq_195"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "QQ经典农场未上线",
+          "canonical_issue": "QQ经典农场功能尚未正式上线，用户无法体验",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.tencent.mqq_366",
+              "pain": "QQ经典农场未上线。",
+              "suggestion": "建议引入QQ经典农场玩法。",
+              "source": "希望能早日出来QQ经典农场",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.tencent.mqq_367",
+              "pain": "QQ经典农场未上线，用户担心菜被偷。",
+              "suggestion": "建议引入QQ经典农场玩法。",
+              "source": "想要QQ农场，菜都被偷完了",
+              "device": "HUAWEI Pura 90 Pro"
+            },
+            {
+              "id": "com.tencent.mqq_369",
+              "pain": "没有QQ经典农场。",
+              "suggestion": "建议引入QQ经典农场玩法。",
+              "source": "没有QQ经典农场",
+              "device": "HUAWEI Mate X7"
+            }
+          ],
+          "member_ids": [
+            "com.tencent.mqq_366",
+            "com.tencent.mqq_367",
+            "com.tencent.mqq_369"
+          ]
+        }
+      ]
+    }
+  },
+  "n_clusters": 51
+}

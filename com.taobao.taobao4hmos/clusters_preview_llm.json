@@ -1,0 +1,4247 @@
+{
+  "n_items": 555,
+  "n_items_deduped": 547,
+  "功能体验": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "鸿蒙系统兼容性",
+          "canonical_issue": "鸿蒙系统手机无法显示淘宝新功能火花",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_1",
+              "pain": "鸿蒙系统手机无法显示淘宝新功能火花",
+              "suggestion": "兼容鸿蒙系统以正确显示新功能",
+              "source": "鸿蒙系统手机无法显示淘宝新功能~火花",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_1"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "产品页功能缺失",
+          "canonical_issue": "产品页无法下拉进入达人直播间",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_2",
+              "pain": "产品页无法下拉进入达人直播间",
+              "suggestion": "添加产品页下拉进入达人直播间的功能",
+              "source": "产品页还是没法下拉进入达人直播间，希望能尽快添加这个功能。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_2"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "深色模式问题",
+          "canonical_issue": "缺少深色模式或深色模式灰度不放开",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_3",
+              "pain": "缺少深色模式",
+              "suggestion": "尽快推出深色模式",
+              "source": "希望赶紧出深色模式！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_4",
+              "pain": "深色模式一直灰度不放开，影响体验",
+              "suggestion": "全量放开深色模式",
+              "source": "深色模式一直灰度，不放开，严重影响体验。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_3",
+            "com.taobao.taobao4hmos_4"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "直播锁屏播放问题",
+          "canonical_issue": "直播锁屏后停止播放",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_5",
+              "pain": "直播锁屏后停止播放",
+              "suggestion": "支持锁屏后继续播放直播",
+              "source": "直播锁屏就不能播了，开启小窗口经常消失或者没声音",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_5"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "首页频道管理缺失",
+          "canonical_issue": "首页没有频道管理功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_10",
+              "pain": "首页没有频道管理功能",
+              "suggestion": "添加首页频道管理功能",
+              "source": "首页没有频道管理功能！",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_10"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "新品预览链接缺失",
+          "canonical_issue": "不能查看新品预览链接",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_12",
+              "pain": "不能查看新品预览链接",
+              "suggestion": "增加新品预览链接功能",
+              "source": "1️⃣不能查看新品预览链接，反应多次了\n2️⃣现在还发现店铺正在直播，也看不到3️⃣反应很久没，这么久基本信息都还不完善",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_12"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "店铺直播显示问题",
+          "canonical_issue": "店铺正在直播也看不到",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_12",
+              "pain": "店铺正在直播也看不到",
+              "suggestion": "增加店铺直播显示功能",
+              "source": "1️⃣不能查看新品预览链接，反应多次了\n2️⃣现在还发现店铺正在直播，也看不到3️⃣反应很久没，这么久基本信息都还不完善",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_12"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "基本信息不完善",
+          "canonical_issue": "基本信息不完善",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_12",
+              "pain": "基本信息不完善",
+              "suggestion": "完善基础功能",
+              "source": "1️⃣不能查看新品预览链接，反应多次了\n2️⃣现在还发现店铺正在直播，也看不到3️⃣反应很久没，这么久基本信息都还不完善",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_12"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "支付方式缺失",
+          "canonical_issue": "不支持微信支付",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_15",
+              "pain": "不支持微信支付",
+              "suggestion": "接入微信支付",
+              "source": "不好微信不能支付",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_21",
+              "pain": "淘宝无法使用微信支付",
+              "suggestion": "建议增加微信支付方式",
+              "source": "为什么淘宝买东西不能用微信支付，然后支付宝支付也不能用个人余额",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_15",
+            "com.taobao.taobao4hmos_21"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "香港地址物流支付问题",
+          "canonical_issue": "收货地址为香港时出现商品无可支持的运送方式，不能付款",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_17",
+              "pain": "收货地址为香港时出现商品无可支持的运送方式，不能付款",
+              "suggestion": "修复香港地址物流及支付问题",
+              "source": "鴻蒙版本與其他平臺不一致，收貨地址為香港時出現商品无可支持的運送方式的訊息，不能付款，另外在集運時付款按鈕沒反應。這是2個非常嚴重的Bug，請盡快解決。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_17"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "支付宝余额支付问题",
+          "canonical_issue": "支付宝支付不能使用个人余额",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_21",
+              "pain": "支付宝支付不能使用个人余额",
+              "suggestion": "建议恢复支付宝个人余额支付功能",
+              "source": "为什么淘宝买东西不能用微信支付，然后支付宝支付也不能用个人余额",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_21"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "直播间回放返回按钮缺失",
+          "canonical_issue": "直播间回放商品后缺少返回当前直播间的按钮",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_24",
+              "pain": "直播间回放商品后缺少返回当前直播间的按钮",
+              "suggestion": "在回放界面增加返回当前直播间的按钮",
+              "source": "里面的淘宝直播间观看回放商品后，手机下发的回到当前直播间按钮没有了。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_24"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "评价拍照功能问题",
+          "canonical_issue": "评价拍照功能存在问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_25",
+              "pain": "评价拍照功能存在问题",
+              "suggestion": "优化评价拍照功能",
+              "source": "希望可以改善一下评价拍照问题。。。。。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_25"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "商品界面静音问题",
+          "canonical_issue": "进入商品界面默认静音但视频仍有声音",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_26",
+              "pain": "进入商品界面默认静音但视频仍有声音",
+              "suggestion": "修复静音模式与视频声音不一致的问题",
+              "source": "进入商品界面，默认静音但视频播放是有声音的。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_26"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "发货日期选择问题",
+          "canonical_issue": "最新版本无法选择发货日期",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_27",
+              "pain": "最新版本无法选择发货日期",
+              "suggestion": "修复发货日期选择功能",
+              "source": "最新版本不能选发货日期，尽快修复",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_27"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "快捷操作功能缺失",
+          "canonical_issue": "缺少许多方便快捷操作方式",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_28",
+              "pain": "缺少许多方便快捷操作方式",
+              "suggestion": "增加常用快捷操作功能",
+              "source": "这个纯鸿蒙版不怎么样，字体大小选择不了，芭芭农场施肥少了许多内容。许多方便快捷手法也没有。自己也选择不了版本更新。网购凑合用。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_28"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "批量确认收货功能取消",
+          "canonical_issue": "取消了批量确认收货功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_29",
+              "pain": "取消了批量确认收货功能",
+              "suggestion": "建议恢复批量确认收货功能",
+              "source": "1.经常付款回直播间的时候卡住。\n2.取消了10.59.40版本的批量确认收货，体验感不好。\n3.直播间里的马上抢，点击了之后，主播的声音就不见了。感觉版本越升，好的功能被取消的就越多。",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_29"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "直播间点击马上抢后声音消失",
+          "canonical_issue": "直播间点击马上抢后主播声音消失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_29",
+              "pain": "直播间点击马上抢后主播声音消失",
+              "suggestion": "修复点击马上抢后声音丢失的bug",
+              "source": "1.经常付款回直播间的时候卡住。\n2.取消了10.59.40版本的批量确认收货，体验感不好。\n3.直播间里的马上抢，点击了之后，主播的声音就不见了。感觉版本越升，好的功能被取消的就越多。",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_29"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "平板端直播功能异常",
+          "canonical_issue": "平板无法看到直播间，也进不去",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_31",
+              "pain": "平板无法看到直播间，也进不去。",
+              "suggestion": "修复平板端直播功能，确保平板用户能正常查看和进入直播间。",
+              "source": "平板看不到直播间，也进不去。",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_31"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "功能缺失或未上线",
+          "canonical_issue": "好多功能不在线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_35",
+              "pain": "好多功能不在线。",
+              "suggestion": "检查并上线缺失的功能，确保完整性。",
+              "source": "太卡了，好多功能不在线，什么时候更新啊！😦",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_35"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "收货地址乡镇归类自动变更",
+          "canonical_issue": "收货地址的乡镇归类会自动变更，令人困惑",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_38",
+              "pain": "收货地址的乡镇归类会自动变更，令人困惑。",
+              "suggestion": "修复地址归类逻辑，防止自动变更。",
+              "source": "收货地址的乡镇归类  会自己变 我特别不理解",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_38"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "首页图标不能调整",
+          "canonical_issue": "首页图标不能调整，非常不方便",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_39",
+              "pain": "首页图标不能调整，非常不方便。",
+              "suggestion": "增加首页图标自定义排列功能，提升用户体验。",
+              "source": "首页图标不能调整真的是好不方便啊，这么重要的功能居然没有做，无语 支付宝就很好，升级以后首页完全一样",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_39"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "618活动任务缺失",
+          "canonical_issue": "缺少618活动任务",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_41",
+              "pain": "缺少618活动任务",
+              "suggestion": "尽快补齐618活动任务，确保与其它版本一致",
+              "source": "淘宝618的任务都没有",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_44",
+              "pain": "缺少福利机制，618活动页面任务比别的版本少",
+              "suggestion": "增加福利机制和活动任务，与其它版本保持一致",
+              "source": "跟别的版本相比，缺少各种福利机制，618活动页面比别的版本缺少好多任务",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_41",
+            "com.taobao.taobao4hmos_44"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "闪购购物车多个订单不能一起支付",
+          "canonical_issue": "闪购购物车多个订单不能一起支付",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_45",
+              "pain": "闪购购物车多个订单不能一起支付",
+              "suggestion": "支持购物车多个订单合并支付",
+              "source": "闪购购物车多个订单不能一起支付",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_45"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "不能扫二维码加群聊",
+          "canonical_issue": "不能扫二维码加群聊",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_46",
+              "pain": "不能扫二维码加群聊",
+              "suggestion": "增加扫码加群聊功能",
+              "source": "不能扫二维码加群聊，能不能推荐，不要再推乱七八糟的东西，一堆不感兴趣的非得推荐点，不感兴趣还推。切换账号，回来之后皮肤不显示，恢复默认，一刷新就拥挤，深色模式，试吃优惠，活动鸿蒙版区别对待，不给参与",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_46"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "直播分屏时暂停",
+          "canonical_issue": "直播分屏时暂停，希望不暂停",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_47",
+              "pain": "直播分屏时暂停，希望不暂停",
+              "suggestion": "支持直播分屏时保持播放不暂停",
+              "source": "万能的淘宝！直播要是分屏不暂停就好了",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_47"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "618金币任务分享链接不能直接在淘宝内聊天发",
+          "canonical_issue": "鸿蒙版的618金币任务分享链接不能直接在淘宝内聊天发，需要复制到微信",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_51",
+              "pain": "鸿蒙版的618金币任务分享链接不能直接在淘宝内聊天发，需要复制到微信",
+              "suggestion": "允许在淘宝内直接分享链接",
+              "source": "鸿蒙版的618金币任务分享链接为什么不能直接在淘宝内聊天发，要复制出来在微信里面发，差评",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_51"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "点收藏选不了分类",
+          "canonical_issue": "点收藏选不了分类",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_54",
+              "pain": "点收藏选不了分类",
+              "suggestion": "修复收藏分类选择功能",
+              "source": "点收藏选不了分类",
+              "device": "HUAWEI Pura 90 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_54"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "外卖服务差",
+          "canonical_issue": "外卖服务差，平台与骑手互相推诿，导致餐品体验差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_55",
+              "pain": "外卖服务差，平台与骑手互相推诿，导致餐品体验差",
+              "suggestion": "提升外卖服务质量，明确责任归属",
+              "source": "说实话，如果平台做不了外卖就不要硬上，把问题推给骑手，骑手又把问题推给平台，真的…我不知道啥！平台你说，我这个餐吃还是不吃？不吃吧我又花了钱，吃吧又不好吃了！真是体验感越来越差…",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_55"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "淘宝购物无法使用微信支付",
+          "canonical_issue": "淘宝购物无法使用微信支付",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_56",
+              "pain": "淘宝购物无法使用微信支付",
+              "suggestion": "增加微信支付支持",
+              "source": "为什么淘宝购物微信付不了款",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_56"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "缺少AI试穿功能",
+          "canonical_issue": "缺少AI试穿功能，别的手机都有",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_58",
+              "pain": "缺少AI试穿功能，别的手机都有",
+              "suggestion": "增加AI试穿功能",
+              "source": "差评，没有ai试穿，别的手机都有。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_58"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "缺少新品预览功能",
+          "canonical_issue": "缺少新品预览功能，影响购买现货决策",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_61",
+              "pain": "缺少新品预览功能，影响购买现货决策",
+              "suggestion": "尽快上线新品预览功能",
+              "source": "为啥还是没有新品预览啊 能不能快点啊 影响人买现货啊",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_61"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "缺少AI购物助手",
+          "canonical_issue": "缺少AI购物助手",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_63",
+              "pain": "缺少AI购物助手",
+              "suggestion": "添加AI购物助手功能",
+              "source": "为什么没有AI购物助手",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_63"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "62",
+          "cluster_name": "整体体验良好",
+          "canonical_issue": "用户对应用整体功能体验持正面评价",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_36",
+              "pain": "用户整体评价挺好。",
+              "suggestion": "无",
+              "source": "除了里面东西都要钱，其他挺好",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_36"
+          ]
+        },
+        {
+          "cluster_id": "63",
+          "cluster_name": "退货方式多样化",
+          "canonical_issue": "新增快递柜自寄退货方式，提升退货灵活性",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_240",
+              "pain": "新增快递柜自寄退货方式，丰富了退货选择",
+              "suggestion": "无",
+              "source": "今天突然发现淘宝退货居然也可以选择快递柜自寄了，这个必须上大分！以前淘宝虽然有退货宝，但是只有上门取件，这个选择不太灵活。也是因为这个，经常在某多上买东西，现在淘宝的退货方式可以说叫多样化了。",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_240"
+          ]
+        },
+        {
+          "cluster_id": "64",
+          "cluster_name": "消息集成界面优化",
+          "canonical_issue": "消息集成界面功能清晰，便于查看快递信息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_398",
+              "pain": "消息集成一起的界面功能很好，一眼能看到都有哪些快递。",
+              "suggestion": "无",
+              "source": "消息集成一起的界面功能很好，一眼能看到都有哪些快递，但是有个“官方客服”无法删除。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_398"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "65",
+          "cluster_name": "深色模式支持",
+          "canonical_issue": "应用尚未支持深色模式，用户询问上线时间",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_83",
+              "pain": "询问深色模式何时推出",
+              "suggestion": "确认当前版本是否已支持深色模式，若已支持则在应用内引导用户开启；若未支持则加速开发并公布上线时间",
+              "source": "什么时候出深色模式？",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_83"
+          ]
+        }
+      ]
+    }
+  },
+  "稳定性与性能": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "直播小窗口异常",
+          "canonical_issue": "直播小窗口功能不稳定，常消失或无声音",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_5",
+              "pain": "开启小窗口后经常消失或没声音",
+              "suggestion": "优化小窗口直播的稳定性和音频播放",
+              "source": "直播锁屏就不能播了，开启小窗口经常消失或者没声音",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_29",
+              "pain": "付款后返回直播间时卡住",
+              "suggestion": "优化付款后页面跳转性能",
+              "source": "1.经常付款回直播间的时候卡住。\n2.取消了10.59.40版本的批量确认收货，体验感不好。\n3.直播间里的马上抢，点击了之后，主播的声音就不见了。感觉版本越升，好的功能被取消的就越多。",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_5",
+            "com.taobao.taobao4hmos_29"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "页面加载缓慢",
+          "canonical_issue": "页面加载缓慢，常出现转圈或白屏",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_7",
+              "pain": "一直转圈圈，加载缓慢",
+              "suggestion": "优化页面加载速度，减少等待时间",
+              "source": "一直转圈圈",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_37",
+              "pain": "进入应用总是白板页面，需重新进几次才正常。",
+              "suggestion": "修复页面加载失败问题，确保应用稳定打开。",
+              "source": "能不能适配好？进去总是白板页面，重新进几次才好",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_50",
+              "pain": "下单页面选择更改发货时间后白屏不显示",
+              "suggestion": "修复更改发货时间导致的白屏bug",
+              "source": "下单页面选择更改发货时间，然后就白了，不显示，真无语",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_7",
+            "com.taobao.taobao4hmos_37",
+            "com.taobao.taobao4hmos_50"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "操作卡顿",
+          "canonical_issue": "应用操作卡顿，点击后卡住或响应慢",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_8",
+              "pain": "很多地方点击后直接卡住",
+              "suggestion": "修复点击卡顿问题，提升操作流畅性",
+              "source": "很多地方点了直接卡住，和商家交流那一小行开票中心一会显示一会不显示",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_35",
+              "pain": "应用太卡了。",
+              "suggestion": "优化性能，解决卡顿问题。",
+              "source": "太卡了，好多功能不在线，什么时候更新啊！😦",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_62",
+              "pain": "运行非常卡顿",
+              "suggestion": "优化运行流畅度",
+              "source": "运行非常卡顿。",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_69",
+              "pain": "搜索商品10次9次卡顿，安卓和苹果正常",
+              "suggestion": "优化搜索性能，参考安卓和苹果体验",
+              "source": "为什么你们这种级别的公司，能做出来这样的产品，搜索商品10次9次都是卡的，安卓和苹果就没事",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_8",
+            "com.taobao.taobao4hmos_35",
+            "com.taobao.taobao4hmos_62",
+            "com.taobao.taobao4hmos_69"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "功能不稳定",
+          "canonical_issue": "特定功能不稳定，时好时坏",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_11",
+              "pain": "先用后付功能不稳定，能用两天后又不能用了",
+              "suggestion": "修复先用后付功能",
+              "source": "为何先用后付，能用个两天，现在又不能用了。",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_13",
+              "pain": "斗地主功能无法使用",
+              "suggestion": "修复斗地主功能",
+              "source": "斗地主，斗不了了，什么玩意！",
+              "device": "HUAWEI Mate 60"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_42",
+              "pain": "视频领金币太卡，有时打不开",
+              "suggestion": "优化视频领金币功能的性能和稳定性",
+              "source": "视频领金币太卡，有时还打不开",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_11",
+            "com.taobao.taobao4hmos_13",
+            "com.taobao.taobao4hmos_42"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "按钮无响应",
+          "canonical_issue": "关键按钮无响应，无法完成操作",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_17",
+              "pain": "集运时付款按钮没反应",
+              "suggestion": "修复集运付款按钮Bug",
+              "source": "鴻蒙版本與其他平臺不一致，收貨地址為香港時出現商品无可支持的運送方式的訊息，不能付款，另外在集運時付款按鈕沒反應。這是2個非常嚴重的Bug，請盡快解決。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_53",
+              "pain": "收到淘宝信息打开对话框无显示，需关闭再打开才能显示",
+              "suggestion": "修复消息显示bug",
+              "source": "系统收到的淘宝信息 比如商家发来的 打开对话框 没任何信息显示。需要关闭再打开app的信息对话框才能显示 希望尽快修复",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_17",
+            "com.taobao.taobao4hmos_53"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "访问异常",
+          "canonical_issue": "应用访问异常，无法正常使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_19",
+              "pain": "桌面客户端和手机端访问异常",
+              "suggestion": "修复访问异常问题",
+              "source": "只用桌面客户端和手机端，怎么就访问异常了？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_19"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "聊天记录滚动异常",
+          "canonical_issue": "聊天记录翻阅时滚动不稳定",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_30",
+              "pain": "聊天记录翻阅时不断乱跳",
+              "suggestion": "修复聊天记录滚动稳定性问题",
+              "source": "跟卖家的聊天记录翻阅的时候不停乱跳，什么时候修复好",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_30"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "界面刷新异常",
+          "canonical_issue": "界面刷新时布局拥挤或显示异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_46",
+              "pain": "一刷新就拥挤",
+              "suggestion": "优化刷新时的界面布局和性能",
+              "source": "不能扫二维码加群聊，能不能推荐，不要再推乱七八糟的东西，一堆不感兴趣的非得推荐点，不感兴趣还推。切换账号，回来之后皮肤不显示，恢复默认，一刷新就拥挤，深色模式，试吃优惠，活动鸿蒙版区别对待，不给参与",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_46"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "账号切换异常",
+          "canonical_issue": "切换账号后皮肤状态丢失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_46",
+              "pain": "切换账号后皮肤不显示恢复默认",
+              "suggestion": "修复账号切换后皮肤状态丢失问题",
+              "source": "不能扫二维码加群聊，能不能推荐，不要再推乱七八糟的东西，一堆不感兴趣的非得推荐点，不感兴趣还推。切换账号，回来之后皮肤不显示，恢复默认，一刷新就拥挤，深色模式，试吃优惠，活动鸿蒙版区别对待，不给参与",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_46"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "图片加载失败",
+          "canonical_issue": "搜索后首页图片无法加载显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_79",
+              "pain": "搜索宝贝后首页图片加载不出",
+              "suggestion": "优化图片加载性能，确保首页图片正常显示",
+              "source": "搜索宝贝点击进去后，首先映入眼帘的是黑漆漆的（无图）首页，死活显示不出来那种",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_79"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "应用卡顿",
+          "canonical_issue": "应用运行卡顿，影响用户体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_86",
+              "pain": "更新后应用运行超级卡顿",
+              "suggestion": "优化性能，排查卡顿原因并发布修复版本",
+              "source": "这次更新，超级卡",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_150",
+              "pain": "應用非常卡頓。",
+              "suggestion": "進行性能優化，減少卡頓。",
+              "source": "非常卡",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_86",
+            "com.taobao.taobao4hmos_150"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "消息滑动卡顿",
+          "canonical_issue": "消息列表滑动时卡顿、掉帧、不连续",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_103",
+              "pain": "与卖家交流窗口向上滑消息时卡顿、掉帧、滑动不连续",
+              "suggestion": "优化消息列表滑动性能，提升流畅度",
+              "source": "能不能更新一下，和卖家交流的窗口向上滑消息的时候，当超出一页的时候，就会卡，掉帧，并且消息滑动不连续",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_104",
+              "pain": "往上翻记录卡顿严重且突然回退很多",
+              "suggestion": "优化消息记录滑动和加载逻辑，避免回退",
+              "source": "你们有没有产品经理用过鸿蒙版的消息功能，往上翻记录卡的要死！突然就往上回退特别多！使用回复功能的话，如果消息内容行数比较多，会把键盘卡得出不来！",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_103",
+            "com.taobao.taobao4hmos_104"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "键盘弹出异常",
+          "canonical_issue": "回复功能中键盘无法正常弹出",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_104",
+              "pain": "回复功能中消息内容行数多时键盘卡得出不来",
+              "suggestion": "修复键盘弹出问题，确保输入框与键盘交互流畅",
+              "source": "你们有没有产品经理用过鸿蒙版的消息功能，往上翻记录卡的要死！突然就往上回退特别多！使用回复功能的话，如果消息内容行数比较多，会把键盘卡得出不来！",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_104"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "直播回放缺失",
+          "canonical_issue": "部分店铺缺少直播回放功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_125",
+              "pain": "鸿蒙6.0部分店铺没有直播回放功能",
+              "suggestion": "修复直播回放功能",
+              "source": "鸿蒙6.0部分店铺没有直播回放功能，赶紧修复这个bug！",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_125"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "斗地主加载慢",
+          "canonical_issue": "斗地主游戏最后时刻加载缓慢",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_126",
+              "pain": "斗地主很卡，最后时刻加载慢",
+              "suggestion": "优化斗地主性能，减少加载时间",
+              "source": "nova14在直播间点赞看不到没有数据，在查看红包使用情况，根本查看不到，太差的，该有的功能，鸿蒙系统都没有达到，斗地主很卡，每次最后时刻都要加载很慢，",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_126"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "应用闪退",
+          "canonical_issue": "应用频繁闪退，影响使用",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_133",
+              "pain": "应用频繁闪退。",
+              "suggestion": "定位并修复闪退原因，提升应用稳定性。",
+              "source": "咋老闪退",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_189",
+              "pain": "闪退问题",
+              "suggestion": "修复闪退问题，提升稳定性",
+              "source": "闪退问题多久解决啊",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_133",
+            "com.taobao.taobao4hmos_189"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "滑动断触",
+          "canonical_issue": "百亿补贴页面滑动不跟手，断触严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_149",
+              "pain": "百億補貼頁面滑動不跟手，斷觸嚴重，反饋一年未解決。",
+              "suggestion": "優化滑動響應和觸控算法，解決斷觸問題。",
+              "source": "鸿蒙版淘宝APP百亿补贴页面，滑动屏幕不跟手，断触严重！！！！！！反馈一年没解决！不是手机问题，APP问题！",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_149"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "定位不准",
+          "canonical_issue": "定位不准确导致外卖送错",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_167",
+              "pain": "定位不准确导致外卖送错",
+              "suggestion": "优化定位精准度",
+              "source": "经常给我定错位，导致外卖送错",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_167"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "重复下载",
+          "canonical_issue": "内容重复下载，逻辑混乱",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_171",
+              "pain": "重复下载内容",
+              "suggestion": "修复重复下载bug，优化下载管理逻辑",
+              "source": "太繁琐，有点儿乱。重复下载。不知道什么原因？",
+              "device": "nova 14 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_171"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "足迹加载失败",
+          "canonical_issue": "我的足迹页面无法加载",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_197",
+              "pain": "我的足迹页面无法加载，持续一周以上",
+              "suggestion": "修复足迹功能加载问题，保证功能稳定可用",
+              "source": "我的足迹老是刷不出来 一周都不行 别提一个月了🙃",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_197"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "应用发热",
+          "canonical_issue": "使用芭芭农场等功能时设备发烫",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_204",
+              "pain": "跟支付宝一样逛个芭芭农场的商品就发烫",
+              "suggestion": "优化芭芭农场等页面的功耗，减少发热",
+              "source": "跟支付宝一样逛个芭芭农场的商品就发烫",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_204"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "冷启动慢",
+          "canonical_issue": "应用冷启动加载缓慢",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_219",
+              "pain": "冷启动加载慢，需要等待刷新。",
+              "suggestion": "优化冷启动加载速度，减少不必要的刷新，提升应用启动性能。",
+              "source": "冷启动进去总是要等再刷新一下，还很慢",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_219"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "耗电增加",
+          "canonical_issue": "相比旧版本耗电明显增加",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_229",
+              "pain": "相比鸿蒙4.2版本，当前版本耗电明显更大。",
+              "suggestion": "优化耗电问题，降低应用功耗。",
+              "source": "比鸿蒙系统4.2版本的耗电大",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_229"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "页面报错",
+          "canonical_issue": "闪购页面频繁报错",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_230",
+              "pain": "闪购页面频繁报错。",
+              "suggestion": "修复页面错误，提升稳定性。",
+              "source": "闪购好多页面报错，也没人管",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_230"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "三折叠展开卡顿",
+          "canonical_issue": "三折叠设备展开时应用卡顿严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_238",
+              "pain": "三折叠展开时卡顿严重",
+              "suggestion": "优化三折叠展开时的性能表现",
+              "source": "三折叠展开卡爆了。。。",
+              "device": "HUAWEI Mate XTs | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_238"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "冷启动推荐页刷新慢",
+          "canonical_issue": "冷启动后推荐页二次刷新速度慢，影响操作响应",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_243",
+              "pain": "冷启动推荐页二次刷新太慢",
+              "suggestion": "优化推荐页加载速度",
+              "source": "淘宝冷启动推荐页二次刷新太慢了，刷新之前点淘宝闪购没反应，或者点了闪购又跳回去推荐页，很烦",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_243"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "使用卡顿与发热",
+          "canonical_issue": "应用使用过程中出现卡顿和手机发热问题",
+          "size": 6,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_246",
+              "pain": "使用过程中出现卡顿和发热",
+              "suggestion": "优化性能和功耗管理",
+              "source": "逛一会就有卡又烫，体验好差",
+              "device": "HUAWEI Pura X 典藏版"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_262",
+              "pain": "应用卡顿严重",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "卡的要死为什么",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_264",
+              "pain": "点快了就卡",
+              "suggestion": "优化响应速度，减少操作卡顿",
+              "source": "点快了就卡，显示访问太频繁",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_297",
+              "pain": "使用十分钟后手机后壳发热严重",
+              "suggestion": "优化性能，降低发热",
+              "source": "为啥鸿蒙6逛淘宝十分钟手机后壳非常烫，发热严重",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_325",
+              "pain": "使用APP后手机发热严重，功耗控制较旧版本差",
+              "suggestion": "优化应用功耗管理，减少发热问题，提升性能稳定性",
+              "source": "进入app使用一会儿就让手机发热特别严重，功耗控制没前面的版本好用",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_331",
+              "pain": "特别卡",
+              "suggestion": "优化性能，减少卡顿现象，提升流畅度",
+              "source": "特别卡",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_246",
+            "com.taobao.taobao4hmos_262",
+            "com.taobao.taobao4hmos_264",
+            "com.taobao.taobao4hmos_297",
+            "com.taobao.taobao4hmos_325",
+            "com.taobao.taobao4hmos_331"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "新机新系统卡顿",
+          "canonical_issue": "新设备或新系统下应用启动和运行卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_257",
+              "pain": "新机新系统进入淘宝总会卡顿，影响使用体验。",
+              "suggestion": "优化新系统下的应用启动及运行性能，减少卡顿现象，提升流畅度。",
+              "source": "本来想给4分，但是4分是还不错，看文字只能给到3星还可以。新机新系统，进淘宝总会卡诶，希望还能尽快解决。",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_257"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "搜索耗资源",
+          "canonical_issue": "搜索功能占用内存大、耗电严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_272",
+              "pain": "搜索占用内存大、耗电严重",
+              "suggestion": "优化内存管理和功耗，减少搜索时的资源占用",
+              "source": "深色模式没有吗？\n搜个东西占用内存那么大吗，耗电严重",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_272"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "视频播放异常",
+          "canonical_issue": "视频播放时出现无画面、卡顿或声画不同步",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_279",
+              "pain": "看视频有声音无画面",
+              "suggestion": "修复视频播放问题，确保声画同步",
+              "source": "看视频有声音没画面！鸿蒙系统！",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_280",
+              "pain": "刷视频时卡屏定屏",
+              "suggestion": "优化视频滑动性能，解决卡顿问题",
+              "source": "淘宝使用刷视频时会卡屏定屏卡顿，麻烦尽快优化处理。",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_349",
+              "pain": "视频卡顿，长时间卡住，有声音",
+              "suggestion": "优化视频播放性能，修复卡顿问题",
+              "source": "视频卡顿，长时间就卡住，有声音",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_279",
+            "com.taobao.taobao4hmos_280",
+            "com.taobao.taobao4hmos_349"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "帧率限制",
+          "canonical_issue": "应用帧率被限制在90fps，影响流畅度",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_287",
+              "pain": "帧率被锁在90fps",
+              "suggestion": "解除帧率限制或提供更高帧率选项",
+              "source": "锁90帧率",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_287"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "消息提示异常",
+          "canonical_issue": "消息通知逻辑错误，无新消息却持续提示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_307",
+              "pain": "消息提示异常，没有新消息却始终提示",
+              "suggestion": "修复消息通知逻辑，消除虚假提示",
+              "source": "消息提示不正常，没有新消息始终提示",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_307"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "复制链接跳转失效",
+          "canonical_issue": "复制链接后无法自动弹开或跳转",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_308",
+              "pain": "复制链接无法自动弹开链接",
+              "suggestion": "修复剪贴板监听与跳转逻辑",
+              "source": "鸿蒙系统的淘宝app复制链接无法自动弹开链接，什么时候能修复这个bug呀",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_308"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "闪购功能卡顿",
+          "canonical_issue": "淘宝闪购功能使用过程中卡顿严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_344",
+              "pain": "使用淘宝闪购卡得要命",
+              "suggestion": "优化闪购功能的性能，减少卡顿",
+              "source": "用个淘宝闪购卡的要命",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_344"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "页面加载慢",
+          "canonical_issue": "从淘宝跳转天猫超市等页面加载时间过长",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_350",
+              "pain": "从淘宝打开天猫超市需要5秒，加载太慢",
+              "suggestion": "优化页面加载速度，缩短启动时间",
+              "source": "我从你淘宝里面点天猫超市打开要5秒，你别太离谱好吧",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_350"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "飞猪模块卡顿",
+          "canonical_issue": "飞猪模块响应速度慢，点击城市需等待十几秒",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_352",
+              "pain": "飞猪模块卡顿，点城市要十几秒",
+              "suggestion": "优化飞猪模块的响应速度",
+              "source": "太卡了，尤其是飞猪，点个城市要十几秒",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_352"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "闪购界面掉帧",
+          "canonical_issue": "闪购界面存在掉帧问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_356",
+              "pain": "闪购界面掉帧",
+              "suggestion": "优化闪购界面性能，修复掉帧问题",
+              "source": "闪购界面掉帧什么时候能修复？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_356"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "淘宝视频卡顿",
+          "canonical_issue": "淘宝视频播放时卡顿，声音与画面不同步",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_373",
+              "pain": "淘宝视频卡顿，声音画面不同步。",
+              "suggestion": "优化视频播放性能，解决卡顿和音画不同步。",
+              "source": "淘宝视频卡顿，声音画面不同步",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_374",
+              "pain": "观看淘宝视频卡顿，声音画面不同步。",
+              "suggestion": "优化视频播放性能，解决卡顿和音画不同步。",
+              "source": "观看淘宝视频卡顿，声音画面不同步，希望解决",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_417",
+              "pain": "淘宝视频卡顿，图像不动声音可以继续",
+              "suggestion": "修复视频播放卡顿问题",
+              "source": "淘宝视频卡顿图像不动声音可以继续",
+              "device": "nova Flip"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_373",
+            "com.taobao.taobao4hmos_374",
+            "com.taobao.taobao4hmos_417"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "消息状态同步异常",
+          "canonical_issue": "清除未读消息后，消息仍重复出现",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_375",
+              "pain": "点击清除未读后，过些时候又出现之前的消息。",
+              "suggestion": "修复消息状态同步问题，确保清除未读后不再重复显示。",
+              "source": "怎么越更新越不好用，链接都转发不了，转发就停留在“正在加载最近联系人”，点击消息“清除未读”了，过些时候又出来之前的那些消息",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_375"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "应用发热严重",
+          "canonical_issue": "使用淘宝应用后手机发烫严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_380",
+              "pain": "使用淘宝后手机发烫严重。",
+              "suggestion": "优化功耗，减少发热。",
+              "source": "打开刷了一会淘宝，手机发烫严重！华为nova13Pro，鸿蒙6.0版本。盼改进，谢谢！",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_380"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "密码活动界面加载异常",
+          "canonical_issue": "淘宝密码活动界面加载异常，之前版本正常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_384",
+              "pain": "淘宝密码活动界面加载异常，之前版本正常。",
+              "suggestion": "修复密码活动界面加载异常问题。",
+              "source": "淘宝密码活动界面加载异常，之前版本是没问题的",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_384"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "WiFi环境下卡顿",
+          "canonical_issue": "WiFi环境下使用淘宝应用非常卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_385",
+              "pain": "WiFi环境下使用非常卡顿。",
+              "suggestion": "优化WiFi环境下的性能，减少卡顿。",
+              "source": "WiFi环境下使用很卡",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_385"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "应用卡顿掉帧",
+          "canonical_issue": "淘宝应用整体卡顿，多处出现掉帧现象",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_387",
+              "pain": "应用非常卡顿，四处掉帧。",
+              "suggestion": "优化应用流畅度，减少掉帧。",
+              "source": "淘宝闲鱼跳转支付宝支付不能用指纹或面部识别，明明在设置中已经开了\n\n非常卡顿，四处掉帧",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_390",
+              "pain": "查看商品评论时出现卡顿掉帧。",
+              "suggestion": "优化评论页面的性能。",
+              "source": "商品评论看着看着就卡顿掉帧了，咋回事",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_395",
+              "pain": "打开淘宝明显卡顿，信息流卡顿。",
+              "suggestion": "优化启动速度和信息流加载性能。",
+              "source": "打开淘宝明显卡顿，信息流卡顿",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_416",
+              "pain": "卡",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "卡",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_387",
+            "com.taobao.taobao4hmos_390",
+            "com.taobao.taobao4hmos_395",
+            "com.taobao.taobao4hmos_416"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "系统错误无法购买",
+          "canonical_issue": "系统错误导致无法购买商品",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_389",
+              "pain": "系统错误导致无法购买商品。",
+              "suggestion": "修复系统错误，确保购买流程正常。",
+              "source": "系统错误，买不了东西",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_389"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "物流信息闪退",
+          "canonical_issue": "同一商家物流信息分两个包裹时，点击包裹2导致应用闪退",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_402",
+              "pain": "同一商家物流信息分两个包裹时，点包裹2闪退",
+              "suggestion": "修复分包裹查看时的闪退问题",
+              "source": "总体还行，但在同一商家物流信息里，如果是分二个包裹发货，点包裹2就闪退。",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_402"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "消息通知不及时",
+          "canonical_issue": "消息通知不及时，用户无法及时收到消息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_437",
+              "pain": "消息通知不及时，用户无法及时收到消息。",
+              "suggestion": "优化消息推送机制，提高推送及时性。",
+              "source": "不能及时收到消息",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_437"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "直播画面闪烁",
+          "canonical_issue": "观看淘宝直播时，画面中间会闪过黑色方块",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_446",
+              "pain": "直播时中间闪过黑色方块",
+              "suggestion": "修复直播画面闪烁黑色方块的问题",
+              "source": "看淘宝直播时，中间会一闪而过黑色方块，请尽快适配。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_446"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "签到功能异常",
+          "canonical_issue": "签到功能出现异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_448",
+              "pain": "签到功能异常",
+              "suggestion": "修复签到功能异常",
+              "source": "签到功能异常",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_448"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "应用卡顿",
+          "canonical_issue": "应用整体卡顿、反应迟钝、掉帧",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_460",
+              "pain": "应用太卡顿",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "太卡顿了。看视频签到有红包，现在看不着了。打不开了。",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_465",
+              "pain": "某些页面卡顿、不流畅、掉帧",
+              "suggestion": "优化页面性能，减少卡顿和掉帧",
+              "source": "某些页面卡顿、不流畅、掉帧",
+              "device": "nova 12 Ultra"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_479",
+              "pain": "这个版本太卡了",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "这个版本太卡了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_495",
+              "pain": "鸿蒙版淘宝反应迟钝，卡顿明显。",
+              "suggestion": "优化应用性能，减少卡顿，提升响应速度。",
+              "source": "鸿蒙版反应很迟钝，比较卡",
+              "device": "nova 12 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_499",
+              "pain": "应用卡顿严重，影响使用体验。",
+              "suggestion": "进行性能优化，排查卡顿原因，提升流畅度。",
+              "source": "太卡了！",
+              "device": "HUAWEI MatePad 11.5''S"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_460",
+            "com.taobao.taobao4hmos_465",
+            "com.taobao.taobao4hmos_479",
+            "com.taobao.taobao4hmos_495",
+            "com.taobao.taobao4hmos_499"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "应用无法启动",
+          "canonical_issue": "应用打不开或崩溃",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_460",
+              "pain": "应用打不开",
+              "suggestion": "修复应用崩溃或无法启动的问题",
+              "source": "太卡顿了。看视频签到有红包，现在看不着了。打不开了。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_460"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "商品详情页图片显示异常",
+          "canonical_issue": "商品详情页图片显示两张或半边显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_470",
+              "pain": "商品点进去后图片显示两张，第一页显示第二张图片的半边",
+              "suggestion": "修复商品详情页图片显示异常问题",
+              "source": "Pura x商品点进去后图片会显示两张，第一页会显示第二张图片的半边",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_470"
+          ]
+        }
+      ]
+    }
+  },
+  "UI与交互": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "51",
+          "cluster_name": "字体大小问题",
+          "canonical_issue": "字体大小不可调节或过小，影响阅读体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_22",
+              "pain": "字体太小",
+              "suggestion": "增加字体大小调节选项或增大默认字体",
+              "source": "字太小。太小。",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_28",
+              "pain": "无法选择字体大小",
+              "suggestion": "提供字体大小调节功能",
+              "source": "这个纯鸿蒙版不怎么样，字体大小选择不了，芭芭农场施肥少了许多内容。许多方便快捷手法也没有。自己也选择不了版本更新。网购凑合用。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_22",
+            "com.taobao.taobao4hmos_28"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "底部沉浸光感适配不全",
+          "canonical_issue": "底部小白条未做沉浸式适配，出现白条遮挡",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_138",
+              "pain": "底部小白条未做沉浸式适配，影响视觉体验。",
+              "suggestion": "适配底部导航栏沉浸式，使UI更好地融合。",
+              "source": "底部小白条沉浸去哪儿了？？？",
+              "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_142",
+              "pain": "界面底部小橫條非沉浸式，出現白條遮擋。",
+              "suggestion": "修復沉浸式布局，消除白條遮擋。",
+              "source": "淘宝现在很多界面底部小横条已经不是沉浸式了，出现了很宽的白条遮挡，越更新越往回走，越更新越烂。",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_138",
+            "com.taobao.taobao4hmos_142"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "图标广告与节日元素干扰",
+          "canonical_issue": "桌面图标强制添加节日活动或广告贴纸，用户反感",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_48",
+              "pain": "桌面图标添加节日活动，用户反感",
+              "suggestion": "避免在桌面图标上强制添加节日活动，提供关闭选项",
+              "source": "更新就更新，为什么桌面图标还弄些节日，谁会因为你弄个节日会特意去买啥嘛？我看到弄些倒洋不土节日在上面真想卸载了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_154",
+              "pain": "应用名称显示为'万能的淘宝'并带感叹号，用户认为多余",
+              "suggestion": "优化应用名称展示，减少不必要的修饰",
+              "source": "淘宝就淘宝，为什么名字要写万能的淘宝，还要加上感叹号‼",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_176",
+              "pain": "图标上添加了广告贴纸",
+              "suggestion": "移除图标上的广告元素",
+              "source": "图标别加狗皮膏药行不行啊",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_203",
+              "pain": "不需要加个后缀“万能的淘宝”，还以为是个山寨淘宝呢！",
+              "suggestion": "移除或弱化“万能的淘宝”后缀，避免用户混淆",
+              "source": "不需要加个后缀“万能的淘宝”，还以为是个山寨淘宝呢！",
+              "device": "HUAWEI Mate 60"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_208",
+              "pain": "牛皮癣图标又来了。",
+              "suggestion": "优化图标设计，避免类似牛皮癣的视觉效果",
+              "source": "牛皮癣图标又来了。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_48",
+            "com.taobao.taobao4hmos_154",
+            "com.taobao.taobao4hmos_176",
+            "com.taobao.taobao4hmos_203",
+            "com.taobao.taobao4hmos_208"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "深色模式搜索栏异常",
+          "canonical_issue": "深色模式下搜索栏背景与字体颜色冲突，导致输入内容不可见",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_81",
+              "pain": "深色模式下搜索栏背景变白，输入字体白色，导致输入内容不可见",
+              "suggestion": "修复深色模式搜索栏颜色方案，确保输入文字与背景对比度足够",
+              "source": "深度模式，我的淘宝，全部，搜索栏一点，就变白变成半深度模式，输入的字体也是白色，然后就看不到输入什么了，严重 bug",
+              "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_81"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "外卖实况窗位置偏移",
+          "canonical_issue": "外卖实况窗显示偏左，未居中",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_99",
+              "pain": "外卖实况窗显示偏左，未居中",
+              "suggestion": "调整实况窗位置为居中显示",
+              "source": "把外卖的实况窗居中显示啊，一直都是偏左",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_99"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "搜索框消失",
+          "canonical_issue": "新版本搜索框消失，影响用户操作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_169",
+              "pain": "新版本搜索框消失",
+              "suggestion": "恢复搜索框并检查UI变更是否合理",
+              "source": "新版本怎么连顶头那个搜索框都不见了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_169"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "页面布局混乱",
+          "canonical_issue": "页面布局繁琐混乱，影响视觉体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_171",
+              "pain": "页面布局有点乱",
+              "suggestion": "优化页面布局，提高视觉整洁度",
+              "source": "太繁琐，有点儿乱。重复下载。不知道什么原因？",
+              "device": "nova 14 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_171"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "退货入口难找",
+          "canonical_issue": "退货入口位置不明确，用户难以找到",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_177",
+              "pain": "找不到退货入口",
+              "suggestion": "优化退货入口位置，增加提示",
+              "source": "找不到退货入口",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_177"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "缺少夜间模式",
+          "canonical_issue": "缺少夜间模式，晚上使用刺眼",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_213",
+              "pain": "缺少夜间模式，晚上使用刺眼。",
+              "suggestion": "增加夜间模式功能，提供深色主题，降低屏幕亮度对眼睛的刺激。",
+              "source": "能不能出夜间模式版本，好难用，晚上逛刺眼",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_213"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "下拉菜单遮挡底部选项",
+          "canonical_issue": "下拉菜单遮挡底部选项，影响操作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_214",
+              "pain": "下拉菜单遮挡底部选项，影响操作。",
+              "suggestion": "优化下拉菜单的交互逻辑，避免遮挡底部内容，可考虑滚动或动态调整位置。",
+              "source": "下拉菜单把最下面的选项挡住了，能优化一下不，一年了",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_214"
+          ]
+        },
+        {
+          "cluster_id": "61",
+          "cluster_name": "店铺分类底部内容无法点击",
+          "canonical_issue": "店铺分类屏幕最下方内容无法点击操作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_225",
+              "pain": "界面设计不合理，店铺分类屏幕最下方内容无法点击操作。",
+              "suggestion": "优化界面布局，确保所有交互元素可点击。",
+              "source": "店铺分类屏幕最下的内容点不了啊，设计的太反人类了",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_225"
+          ]
+        },
+        {
+          "cluster_id": "62",
+          "cluster_name": "开票中心显示不稳定",
+          "canonical_issue": "与商家交流时开票中心显示不稳定",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_8",
+              "pain": "与商家交流那一小行开票中心一会显示一会不显示",
+              "suggestion": "修复开票中心显示不稳定的问题",
+              "source": "很多地方点了直接卡住，和商家交流那一小行开票中心一会显示一会不显示",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_8"
+          ]
+        },
+        {
+          "cluster_id": "63",
+          "cluster_name": "深色模式缺失",
+          "canonical_issue": "应用缺少深色模式开关，用户无法自主切换深色/浅色模式",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_256",
+              "pain": "缺少深色模式开关，用户无法自主切换深色/浅色模式。",
+              "suggestion": "增加深色模式开关设置，允许用户手动开启或关闭深色模式。",
+              "source": "为什么没有打开关深色模式？",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_338",
+              "pain": "没有暗色模式",
+              "suggestion": "增加暗色模式开关，适配系统深色主题",
+              "source": "没有暗色模式！！",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_475",
+              "pain": "优化一下平板端的显示效果",
+              "suggestion": "优化平板端显示效果",
+              "source": "我要深色模式，我还要你优化一下平板端的显示效果。",
+              "device": "HUAWEI MatePad Mini"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_256",
+            "com.taobao.taobao4hmos_338",
+            "com.taobao.taobao4hmos_475"
+          ]
+        },
+        {
+          "cluster_id": "64",
+          "cluster_name": "沉浸光感适配不全",
+          "canonical_issue": "状态栏、导航栏及小白条未实现沉浸式适配，影响视觉一致性",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_276",
+              "pain": "“我的订单”页面底部导航条未沉浸",
+              "suggestion": "适配沉浸式导航栏，提升视觉一致性",
+              "source": "“我的订单”页面底部导航条没有沉浸！什么时候可以适配一下呢",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_301",
+              "pain": "状态栏不沉浸，小白条不能沉浸",
+              "suggestion": "优化状态栏沉浸式适配，修复小白条显示问题",
+              "source": "状态栏不沉浸了，某些页面的小白条也不能沉浸。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_313",
+              "pain": "全部订单界面小白条无法沉浸",
+              "suggestion": "修复小白条沉浸式适配，确保界面美观一致性",
+              "source": "全部订单界面，小白条无法沉浸",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_276",
+            "com.taobao.taobao4hmos_301",
+            "com.taobao.taobao4hmos_313"
+          ]
+        },
+        {
+          "cluster_id": "65",
+          "cluster_name": "UI元素遮挡",
+          "canonical_issue": "界面元素布局不合理，导致可操作区域被遮挡",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_324",
+              "pain": "商家分类页面左下角被遮挡无法点击",
+              "suggestion": "优化布局，避免UI元素相互遮挡，确保可操作区域完整",
+              "source": "商家分类页面左下角挡住了点不到啊，能不能优化下",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_324"
+          ]
+        },
+        {
+          "cluster_id": "66",
+          "cluster_name": "地图缩放异常",
+          "canonical_issue": "物流地图比例无法自适应，缩放行为异常且手动调整困难",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_348",
+              "pain": "查看物流地图比例每次进去小，过会变大，不能自适应，手动调整费劲",
+              "suggestion": "优化地图缩放机制，实现自适应显示，改善手动缩放交互",
+              "source": "查看物流中的地图比例每次进去贼小，过一会又变得特别大，导致在前程很难看到总的信息，在快递快到时看不到快递具体到哪，不能自适应显示，并且手动调整比例特费劲",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_348"
+          ]
+        },
+        {
+          "cluster_id": "67",
+          "cluster_name": "消息界面客服无法删除",
+          "canonical_issue": "消息集成界面中的官方客服无法删除或折叠",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_398",
+              "pain": "有个“官方客服”无法删除。",
+              "suggestion": "提供删除或折叠官方客服的选项。",
+              "source": "消息集成一起的界面功能很好，一眼能看到都有哪些快递，但是有个“官方客服”无法删除。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_398"
+          ]
+        },
+        {
+          "cluster_id": "68",
+          "cluster_name": "分类滑动失效",
+          "canonical_issue": "左侧分类滑动到底后无法继续滑动，底部类别无法点击",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_429",
+              "pain": "分类左边上划到底后，划不到底，下面的类别点不了",
+              "suggestion": "修复左侧分类滑动问题，确保所有类别可点击",
+              "source": "分类左边上划到底后，划不到底，比如绿联店铺，点分类，左边上划下面的类别点不了。。",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_429"
+          ]
+        },
+        {
+          "cluster_id": "69",
+          "cluster_name": "客服聊天滚动异常",
+          "canonical_issue": "客服聊天界面信息无法向上滚动查看",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_444",
+              "pain": "客服聊天界面信息翻不上去",
+              "suggestion": "优化客服聊天界面的滚动功能",
+              "source": "客服聊天界面信息翻都翻不上去，体验太差了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_444"
+          ]
+        },
+        {
+          "cluster_id": "70",
+          "cluster_name": "闪购页面无法返回",
+          "canonical_issue": "进入闪购页面后无返回按钮或手势，强制用户停留",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_487",
+              "pain": "进入闪购后无法返回，强制停留",
+              "suggestion": "添加返回按钮或手势，允许用户从闪购页面正常返回",
+              "source": "有时候不小心进到闪购里面，他不让你返回。我感觉他有毒，强制性的",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_487"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "68",
+          "cluster_name": "图标设计简洁",
+          "canonical_issue": "图标设计简洁干净，用户认可度高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_406",
+              "pain": "图标干净",
+              "suggestion": "无",
+              "source": "保持住，干净图标",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_406"
+          ]
+        }
+      ]
+    }
+  },
+  "体验赞赏": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "71",
+          "cluster_name": "整体体验赞赏",
+          "canonical_issue": "用户对淘宝鸿蒙版整体使用体验表示满意和赞赏",
+          "size": 12,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_6",
+              "pain": "很好用，继续保持",
+              "suggestion": "无",
+              "source": "很好用，继续保持",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_9",
+              "pain": "很好。",
+              "suggestion": "无",
+              "source": "很好。",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_18",
+              "pain": "用户表示“厉害”，赞赏APP",
+              "suggestion": "无",
+              "source": "厉害",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_65",
+              "pain": "整体优化很棒，非常不错",
+              "suggestion": "无",
+              "source": "优化的很棒了，非常不错",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_97",
+              "pain": "非常好用",
+              "suggestion": "无",
+              "source": "非常好用",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_134",
+              "pain": "很好用，界面与其他平台越来越同步。",
+              "suggestion": "无",
+              "source": "很好用，界面跟其他平台也越来越同步了",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_261",
+              "pain": "物美价廉，物超所值",
+              "suggestion": "无",
+              "source": "物美价廉，物超所值",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_284",
+              "pain": "整体体验良好",
+              "suggestion": "无",
+              "source": "挺好",
+              "device": "HUAWEI MatePad Air"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_286",
+              "pain": "好用，喜欢用它购物，退货退款方便",
+              "suggestion": "无",
+              "source": "特特好用，喜欢用它买东西，退货退款方便",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_294",
+              "pain": "挺好用",
+              "suggestion": "无",
+              "source": "挺好用 就是里面的东西都要充值",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_300",
+              "pain": "太好用了，正品实惠",
+              "suggestion": "无",
+              "source": "太好用了，正品实惠",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_345",
+              "pain": "非常好",
+              "suggestion": "无",
+              "source": "非常好",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_6",
+            "com.taobao.taobao4hmos_9",
+            "com.taobao.taobao4hmos_18",
+            "com.taobao.taobao4hmos_65",
+            "com.taobao.taobao4hmos_97",
+            "com.taobao.taobao4hmos_134",
+            "com.taobao.taobao4hmos_261",
+            "com.taobao.taobao4hmos_284",
+            "com.taobao.taobao4hmos_286",
+            "com.taobao.taobao4hmos_294",
+            "com.taobao.taobao4hmos_300",
+            "com.taobao.taobao4hmos_345"
+          ]
+        },
+        {
+          "cluster_id": "72",
+          "cluster_name": "更新适配积极",
+          "canonical_issue": "用户赞赏淘宝鸿蒙版更新频繁、适配积极",
+          "size": 6,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_184",
+              "pain": "适配积极，更新频率高（四五天/六七天一次），功能全",
+              "suggestion": "无",
+              "source": "必须给阿里系点赞，适配很积极，淘宝基本上是四五天或者六七天就更新一次，功能全有了，不像隔壁腾讯和网易",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_190",
+              "pain": "鼓励阿里团队继续加油",
+              "suggestion": "无",
+              "source": "阿里加油啊",
+              "device": "HUAWEI Mate X7"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_191",
+              "pain": "更新频繁，适配积极",
+              "suggestion": "无",
+              "source": "最近更新的有点频繁呀，看样子淘宝适配最积极！",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_207",
+              "pain": "更新迅速",
+              "suggestion": "无",
+              "source": "更新迅速",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_241",
+              "pain": "赞赏淘宝更新勤快",
+              "suggestion": "无",
+              "source": "淘宝更新真勤快",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_247",
+              "pain": "更新后非常流畅",
+              "suggestion": "无",
+              "source": "更新后非常湿滑！",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_184",
+            "com.taobao.taobao4hmos_190",
+            "com.taobao.taobao4hmos_191",
+            "com.taobao.taobao4hmos_207",
+            "com.taobao.taobao4hmos_241",
+            "com.taobao.taobao4hmos_247"
+          ]
+        },
+        {
+          "cluster_id": "73",
+          "cluster_name": "深色模式好评",
+          "canonical_issue": "深色模式功能获得用户好评",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_358",
+              "pain": "深色模式获得好评",
+              "suggestion": "无",
+              "source": "🈶深色模式了，好评！！",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_358"
+          ]
+        },
+        {
+          "cluster_id": "74",
+          "cluster_name": "整体使用体验好",
+          "canonical_issue": "用户对应用整体使用体验表示满意",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_361",
+              "pain": "很好用",
+              "suggestion": "无",
+              "source": "很好用哈哈哈哈",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_364",
+              "pain": "挺好用的，点赞",
+              "suggestion": "无",
+              "source": "挺好用的啊点个赞哦",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_413",
+              "pain": "越用越好用",
+              "suggestion": "无",
+              "source": "越用越好用",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_361",
+            "com.taobao.taobao4hmos_364",
+            "com.taobao.taobao4hmos_413"
+          ]
+        },
+        {
+          "cluster_id": "75",
+          "cluster_name": "大字版功能赞赏",
+          "canonical_issue": "大字版功能获得用户赞赏",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_424",
+              "pain": "终于可以用大字版了",
+              "suggestion": "无",
+              "source": "终于可以用大字版了，自从给我爸升级了系统，都快把我怼死了。谢谢程序员的努力",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_424"
+          ]
+        },
+        {
+          "cluster_id": "76",
+          "cluster_name": "购物体验满意",
+          "canonical_issue": "用户对淘宝购物体验表示满意",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_443",
+              "pain": "一直在用淘宝购物，非常满意",
+              "suggestion": "无",
+              "source": "一直在用淘宝购物，非常满意",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_443"
+          ]
+        }
+      ]
+    }
+  },
+  "系统与机型适配": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "77",
+          "cluster_name": "鸿蒙版本功能不一致",
+          "canonical_issue": "鸿蒙版本与其他平台功能不一致，导致部分功能无法正常使用",
+          "size": 6,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_17",
+              "pain": "鸿蒙版本与其他平台功能不一致",
+              "suggestion": "统一各平台功能",
+              "source": "鴻蒙版本與其他平臺不一致，收貨地址為香港時出現商品无可支持的運送方式的訊息，不能付款，另外在集運時付款按鈕沒反應。這是2個非常嚴重的Bug，請盡快解決。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_57",
+              "pain": "鸿蒙版冷启动页面闪烁刷新，消息页缺少左滑删除功能",
+              "suggestion": "优化启动动画，增加左滑删除消息功能",
+              "source": "适配鸿蒙这么难吗？为啥ios就能做到丝滑和功能完备，鸿蒙版就想要个冷启动页面不闪烁刷新和消息页左滑删除就这么难？",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_59",
+              "pain": "淘宝人生完全不适配鸿蒙系统",
+              "suggestion": "适配鸿蒙系统，修复兼容性",
+              "source": "淘宝人生完全不适配",
+              "device": "HUAWEI Pura X Max 典藏版"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_60",
+              "pain": "系统不适配导致商家发的消息看不见",
+              "suggestion": "修复消息显示适配问题",
+              "source": "目前还是有系统不适配，商家发的有些消息还是看不见 快解决！！！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_120",
+              "pain": "鸿蒙系统下无法打开复制的链接",
+              "suggestion": "适配鸿蒙系统，修复链接打开功能",
+              "source": "更新下吧，别人分享的链接码复制好后鸿蒙是打不开的",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_278",
+              "pain": "鸿蒙系统复制链接无法直接跳转淘宝",
+              "suggestion": "适配鸿蒙系统，实现复制链接直接跳转",
+              "source": "为什么鸿蒙系统复制链接打开淘宝无法直接跳转",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_17",
+            "com.taobao.taobao4hmos_57",
+            "com.taobao.taobao4hmos_59",
+            "com.taobao.taobao4hmos_60",
+            "com.taobao.taobao4hmos_120",
+            "com.taobao.taobao4hmos_278"
+          ]
+        },
+        {
+          "cluster_id": "78",
+          "cluster_name": "折叠屏适配问题",
+          "canonical_issue": "折叠屏设备上应用界面和功能未适配，影响用户体验",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_32",
+              "pain": "折叠屏上店铺预上新商品无法点击进入详情页，无法跳转到上新日历页面。",
+              "suggestion": "适配折叠屏，确保预上新商品详情页和上新日历功能正常。",
+              "source": "希望解决PuraXMax折叠屏适配问题。一是店铺预上新的产品无法点击进入详情页查看，无法跳转到上新日历页面（这一点在鸿蒙直板机上是没有问题的）。二是店铺内商品显示没有适配，产品图片太大了。",
+              "device": "HUAWEI Pura X Max 典藏版"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_32",
+              "pain": "折叠屏上店铺内商品图片过大，未适配。",
+              "suggestion": "针对折叠屏优化商品图片显示比例。",
+              "source": "希望解决PuraXMax折叠屏适配问题。一是店铺预上新的产品无法点击进入详情页查看，无法跳转到上新日历页面（这一点在鸿蒙直板机上是没有问题的）。二是店铺内商品显示没有适配，产品图片太大了。",
+              "device": "HUAWEI Pura X Max 典藏版"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_121",
+              "pain": "Pura X MAX适配差，小屏大屏都不适应",
+              "suggestion": "快速适配Pura X MAX，学习小红书适配方案",
+              "source": "可以快一点适应Pura X MAX吗，打开后超级大，很傻，小屏大屏都不适应，学一下小红书吧，不然根本没心情刷淘宝，一点不想买东西",
+              "device": "HUAWEI Pura X Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_32",
+            "com.taobao.taobao4hmos_32",
+            "com.taobao.taobao4hmos_121"
+          ]
+        },
+        {
+          "cluster_id": "79",
+          "cluster_name": "鸿蒙6系统下部分功能无法",
+          "canonical_issue": "鸿蒙6系统下部分功能无法正常使用，需适配修复",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_43",
+              "pain": "鸿蒙6下无法启动支付宝指纹支付",
+              "suggestion": "适配鸿蒙6系统，修复支付宝指纹支付功能",
+              "source": "鸿蒙6，淘宝内无法启动支付宝指纹支付",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_153",
+              "pain": "88VIP每日两元券在鸿蒙6系统不能使用",
+              "suggestion": "适配鸿蒙6系统，确保88VIP每日两元券功能可用",
+              "source": "88VIP的每日两元券鸿蒙6系统不能使用。",
+              "device": "HUAWEI Mate X5"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_252",
+              "pain": "鸿蒙6.0.0.328 SP52系统下翼支付无法正常跳转，使用红包需要更换旧系统手机，非常麻烦。",
+              "suggestion": "适配鸿蒙6.0.0.328 SP52系统，修复翼支付跳转功能，确保在不同系统版本上均可正常使用。",
+              "source": "鸿蒙6.0.0.328 SP52不支持翼支付，使用领取的淘宝红包。每次都需要换到鸿蒙4.2.0系统的手机上，才能跳转到翼支付使用，非常麻烦",
+              "device": "HUAWEI Pura 70 Ultra"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_312",
+              "pain": "升级鸿蒙6.0328后不显示所有商品参数，无法了解商品质量，体验差",
+              "suggestion": "修复鸿蒙系统升级后的商品详情页参数显示问题，确保兼容性",
+              "source": "升级鸿蒙6.0328后就不显示所有商品参数了，不敢下手买了，都不知道买的是什么质量的东西，体验太差了，抖音商城就完全没问题",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_43",
+            "com.taobao.taobao4hmos_153",
+            "com.taobao.taobao4hmos_252",
+            "com.taobao.taobao4hmos_312"
+          ]
+        },
+        {
+          "cluster_id": "80",
+          "cluster_name": "特定机型无法参与活动，需",
+          "canonical_issue": "特定机型无法参与活动，需尽快适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_111",
+              "pain": "特定机型不支持活动",
+              "suggestion": "尽快适配",
+              "source": "活动都不能参加，很遗憾无法参与活\n目前暂不支持特定机型",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_111"
+          ]
+        },
+        {
+          "cluster_id": "81",
+          "cluster_name": "深色模式适配问题",
+          "canonical_issue": "应用未适配深色模式，影响用户体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_232",
+              "pain": "未适配深色模式",
+              "suggestion": "尽快适配深色模式",
+              "source": "什么时候适配深色模式？，怎么又更新了视频底栏不能关闭",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_239",
+              "pain": "深色模式适配进度慢",
+              "suggestion": "加快深色模式适配进度",
+              "source": "功能基本都差不多了，就是深色模式麻烦加紧一下进度，谢谢！",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_232",
+            "com.taobao.taobao4hmos_239"
+          ]
+        },
+        {
+          "cluster_id": "82",
+          "cluster_name": "商品参数显示问题",
+          "canonical_issue": "升级后商品参数无法显示，影响购买决策",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_315",
+              "pain": "升级后版本无法看到商品规格（如充电宝大小），造成不便",
+              "suggestion": "恢复商品规格参数的显示，优化版本升级带来的功能退化",
+              "source": "升级后的版本很不方便，有些商品如充电宝，原来都能看到商品规格，大小，现在啥都看不见了，很不方便",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_315"
+          ]
+        },
+        {
+          "cluster_id": "83",
+          "cluster_name": "因适配问题导致账号被封控",
+          "canonical_issue": "因适配问题导致账号被封控，需加强适配测试",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_226",
+              "pain": "应用不完全适配导致用户参与活动后被误判封控账号。",
+              "suggestion": "加强适配测试，避免因适配问题引发账号风险。",
+              "source": "功能不齐全就算了，最离谱的是因为它这个不完全适配问题导致我参与它的某些活动后账号被封控七天，说检测到我涉嫌获取它什么信息，最夸张的是提交说明情况后却找不到人工参与给我解封，等于直接没人管，硬把我账号封七天，以后万一遇到相同情况岂不是敢加码乱封我几个月几年？客服收集问题收集到哪去了请问？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_226"
+          ]
+        }
+      ]
+    }
+  },
+  "运营与规则": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "收费模式不合理",
+          "canonical_issue": "APP内功能或服务收费过多，缺乏免费内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_14",
+              "pain": "APP内什么都要收费",
+              "suggestion": "优化收费模式或提供免费内容",
+              "source": "千万不要安装这个APP  里面什么都要收费的",
+              "device": "HUAWEI Pura X Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_14"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "淘金币任务不足",
+          "canonical_issue": "淘金币活动任务数量少，用户参与感低",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_16",
+              "pain": "淘金币活动任务少",
+              "suggestion": "增加淘金币任务",
+              "source": "淘金币活动甚至还少任务😭",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_16"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "外卖配送问题",
+          "canonical_issue": "外卖配送不及时，骑手接单率低",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_20",
+              "pain": "外卖配送不及时，外卖小哥不接单",
+              "suggestion": "优化配送调度，提高接单率",
+              "source": "明明那么长时间，非常要12点送过来嘛，明明现在就可以送过来，外卖小哥一直都不接单，几次了",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_20"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "鸿蒙版价格偏高",
+          "canonical_issue": "鸿蒙版商品价格高于安卓平台",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_23",
+              "pain": "商品价格比安卓平台贵",
+              "suggestion": "调查价格差异原因，优化定价策略",
+              "source": "为什么各种购物app商品价格都比安卓贵啊？尊贵的华为用户吗？",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_23"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "版本更新不可控",
+          "canonical_issue": "用户无法自主选择或控制版本更新",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_28",
+              "pain": "无法自主选择版本更新",
+              "suggestion": "提供版本更新选择选项",
+              "source": "这个纯鸿蒙版不怎么样，字体大小选择不了，芭芭农场施肥少了许多内容。许多方便快捷手法也没有。自己也选择不了版本更新。网购凑合用。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_28"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "推送时间逻辑错误",
+          "canonical_issue": "推送活动时间与实际时间不符",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_33",
+              "pain": "2026年5月12日收到推送让抢双11红包，时间逻辑错误。",
+              "suggestion": "修复推送时间逻辑，确保推送内容与时间匹配。",
+              "source": "2026年5月12日给我发推送让我抢双11红包？",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_33"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "物流延迟严重",
+          "canonical_issue": "商品长时间未送达，物流效率低",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_34",
+              "pain": "购买物品30天未到货。",
+              "suggestion": "加强物流监控和跟进，确保及时送达。",
+              "source": "买了东西30天了，货还没到。问客服，客服各种敷衍。",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_34"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "客服敷衍不解决",
+          "canonical_issue": "客服回应敷衍，问题未得到有效处理",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_34",
+              "pain": "咨询客服时客服敷衍。",
+              "suggestion": "提升客服服务质量，加强培训。",
+              "source": "买了东西30天了，货还没到。问客服，客服各种敷衍。",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_34"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "反馈问题无人处理",
+          "canonical_issue": "用户反馈的bug无人回复或解决",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_40",
+              "pain": "反馈入口的bug无人回复和解决。",
+              "suggestion": "建立反馈处理机制，及时回复和修复问题。",
+              "source": "反馈入口里的bug没人回复，没人解决。",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_40"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "推荐内容不相关",
+          "canonical_issue": "推荐算法不精准，频繁推送不感兴趣内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_46",
+              "pain": "推荐内容不感兴趣且频繁推荐",
+              "suggestion": "优化推荐算法，减少不相关推荐，提供屏蔽选项",
+              "source": "不能扫二维码加群聊，能不能推荐，不要再推乱七八糟的东西，一堆不感兴趣的非得推荐点，不感兴趣还推。切换账号，回来之后皮肤不显示，恢复默认，一刷新就拥挤，深色模式，试吃优惠，活动鸿蒙版区别对待，不给参与",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_46"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "鸿蒙版活动区别对待",
+          "canonical_issue": "鸿蒙版用户无法参与部分活动，存在版本歧视",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_46",
+              "pain": "活动鸿蒙版区别对待，不给参与",
+              "suggestion": "统一活动规则，确保鸿蒙版与其它版本享有相同参与权",
+              "source": "不能扫二维码加群聊，能不能推荐，不要再推乱七八糟的东西，一堆不感兴趣的非得推荐点，不感兴趣还推。切换账号，回来之后皮肤不显示，恢复默认，一刷新就拥挤，深色模式，试吃优惠，活动鸿蒙版区别对待，不给参与",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_46"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "误开通花呗欠款",
+          "canonical_issue": "用户未主动使用花呗却被扣款，疑似误开通",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_49",
+              "pain": "突然被欠款，疑似误开通花呗",
+              "suggestion": "核查欠款原因，优化花呗开通流程，避免误操作",
+              "source": "都不知道为啥，突然就被欠款了，从来不用花呗，不知道啥时候用了。",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_49"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "会员规则暗改不透明",
+          "canonical_issue": "88VIP、淘宝币等规则被暗中修改，未提前告知",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_52",
+              "pain": "暗改88vip、淘宝币、省钱卡规则，不透明",
+              "suggestion": "透明化规则变更，提前告知用户",
+              "source": "暗改88vip,淘宝币，省钱卡规则，真的玩不起是吧",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_52"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "智能客服无效",
+          "canonical_issue": "智能客服回复不相关，无法解决实际问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_67",
+              "pain": "智能客服回复不沾边",
+              "suggestion": "优化智能客服匹配逻辑",
+              "source": "天猫对话框给的卷  领取用永远是失败  智能客服回复不沾边 人工客服不解决问题 88vip客服一直转接 最后还是不解决问题",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_67"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "人工客服不解决问题",
+          "canonical_issue": "人工客服未能有效处理用户问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_67",
+              "pain": "人工客服不解决问题",
+              "suggestion": "加强人工客服培训与监管",
+              "source": "天猫对话框给的卷  领取用永远是失败  智能客服回复不沾边 人工客服不解决问题 88vip客服一直转接 最后还是不解决问题",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_67"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "VIP客服转接无效",
+          "canonical_issue": "88VIP客服频繁转接，问题始终未解决",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_67",
+              "pain": "88vip客服一直转接，问题不解决",
+              "suggestion": "优化VIP客服流程，提高问题解决率",
+              "source": "天猫对话框给的卷  领取用永远是失败  智能客服回复不沾边 人工客服不解决问题 88vip客服一直转接 最后还是不解决问题",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_67"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "免单活动不支持",
+          "canonical_issue": "鸿蒙版无法参与免单活动",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_73",
+              "pain": "无法参加免单活动",
+              "suggestion": "检查免单活动参与条件，确保鸿蒙版本支持",
+              "source": "为什么不能参加免单",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_78",
+              "pain": "不支持淘宝免单活动",
+              "suggestion": "支持免单活动在鸿蒙版",
+              "source": "不支持淘宝免单活动",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_73",
+            "com.taobao.taobao4hmos_78"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "商品质量监管不足",
+          "canonical_issue": "平台对经销商商品质量监管不足，存在伪劣产品",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_80",
+              "pain": "平台对经销商商品质量监管不足，存在伪劣产品",
+              "suggestion": "加强商品质量监管，严禁伪劣产品上线",
+              "source": "建议:平台对经销商商品质量监管力度需加强，应严禁伪劣产品上线平台，欺骗消费者。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_80"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "活动参与限制",
+          "canonical_issue": "鸿蒙系统或特定机型用户无法参与平台活动",
+          "size": 14,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_82",
+              "pain": "周年庆活动无法参加",
+              "suggestion": "检查活动规则，确保所有用户或指定机型用户能公平参与",
+              "source": "周年庆活动都不能参加！！！！",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_88",
+              "pain": "活动不覆盖部分用户，感觉被排斥",
+              "suggestion": "扩大活动参与范围，或明确活动限制条件并提前告知",
+              "source": "搞活动不带我们玩是吧",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_90",
+              "pain": "华为手机用户无法参加免单活动",
+              "suggestion": "修复活动兼容性问题，确保所有手机型号均可正常参与",
+              "source": "华为手机都参加不了免单",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_92",
+              "pain": "无法参与淘宝免单活动",
+              "suggestion": "排查活动限制，确保鸿蒙设备用户不受限",
+              "source": "为什么就淘宝免单参与不了",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_93",
+              "pain": "感觉被歧视，无法参加淘宝免单活动",
+              "suggestion": "优化活动公平性，避免因系统或机型限制参与",
+              "source": "歧视？淘宝免单活动还不能参加？",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_94",
+              "pain": "鸿蒙系统不支持淘宝周年庆活动",
+              "suggestion": "尽快适配鸿蒙系统，支持活动正常参与",
+              "source": "都2026年5月了，鸿蒙系统还不支持淘宝周年庆活动？？",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_95",
+              "pain": "不能参加淘宝免单活动",
+              "suggestion": "修复活动参与限制，确保鸿蒙用户可参与",
+              "source": "不能参加淘宝免单活动",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_96",
+              "pain": "活动分机型限制，特定机型无法参与",
+              "suggestion": "取消机型限制或明确说明支持机型",
+              "source": "特定机型？连活动都要分机型嘛",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_101",
+              "pain": "没有淘宝免单活动",
+              "suggestion": "增加淘宝免单活动",
+              "source": "为啥没有淘宝免单活动！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_102",
+              "pain": "活动参加不了",
+              "suggestion": "修复活动参与功能，确保用户可以正常参加",
+              "source": "活动参加不了！！",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_105",
+              "pain": "新活动永远参加不了",
+              "suggestion": "优化版本适配，确保新活动在鸿蒙版可参与",
+              "source": "新活动永远参加不了，版本能跟上吗",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_106",
+              "pain": "淘宝红包活动不支持",
+              "suggestion": "尽快支持淘宝红包活动",
+              "source": "淘宝红包活动到底什么时候支持",
+              "device": "HUAWEI Mate 60 Pro+"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_107",
+              "pain": "参与不了510活动",
+              "suggestion": "修复510活动参与问题",
+              "source": "为什么参与不了510",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_108",
+              "pain": "参加不了淘宝免单活动",
+              "suggestion": "修复免单活动参与功能",
+              "source": "参加不了淘宝免单活动",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_82",
+            "com.taobao.taobao4hmos_88",
+            "com.taobao.taobao4hmos_90",
+            "com.taobao.taobao4hmos_92",
+            "com.taobao.taobao4hmos_93",
+            "com.taobao.taobao4hmos_94",
+            "com.taobao.taobao4hmos_95",
+            "com.taobao.taobao4hmos_96",
+            "com.taobao.taobao4hmos_101",
+            "com.taobao.taobao4hmos_102",
+            "com.taobao.taobao4hmos_105",
+            "com.taobao.taobao4hmos_106",
+            "com.taobao.taobao4hmos_107",
+            "com.taobao.taobao4hmos_108"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "账号访问限制",
+          "canonical_issue": "正常操作导致账号被限制访问",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_84",
+              "pain": "在两个手机清理缓存后，账号被限制访问",
+              "suggestion": "优化风险控制机制，避免误判正常操作导致限制访问",
+              "source": "好好的购物软件加哪么多小游戏干嘛呢，乱搞限制访问，我只是在两个手机清理缓存，就给我限制访问了",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_84"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "会员价格歧视",
+          "canonical_issue": "88VIP会员定价反而比非会员高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_89",
+              "pain": "充值88VIP后平台定价反而比非会员高",
+              "suggestion": "核查定价策略，确保会员享有价格优势，避免价格歧视",
+              "source": "不要充88VIP！！！\n充完平台定价比别人的都高！！！",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_89"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "客服响应推诿",
+          "canonical_issue": "客服推诿导致问题无法解决",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_109",
+              "pain": "小蜜推人工客服，人工推专员，联系不到，问题不解决",
+              "suggestion": "建立高效的客服响应机制，避免推诿，确保问题得到解决",
+              "source": "遇到问题小蜜推人工客服 人工客服推专员 根本联系不到 一推再推好多天也不解决问题 找也不知道找谁给解决 一个推一个 有没有跟我遇到一样的问题？",
+              "device": "HUAWEI Pura 90 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_109"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "活动机型限制",
+          "canonical_issue": "活动规则限制特定机型参与，导致用户无法参加免单等活动",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_111",
+              "pain": "活动限制机型无法参与",
+              "suggestion": "优化活动规则，适配更多机型",
+              "source": "活动都不能参加，很遗憾无法参与活\n目前暂不支持特定机型",
+              "device": "nova 12 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_112",
+              "pain": "免单活动无法参与",
+              "suggestion": "调整活动规则，明确限制条件",
+              "source": "连淘宝免单都不能参与。提示句：很遗憾无法参与活动！目前暂不支持特定机型，详见「更多﹣规则」",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_116",
+              "pain": "免单活动不能参与",
+              "suggestion": "明确限制条件或修复",
+              "source": "淘宝免单为什么不能参与？？？？",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_117",
+              "pain": "不能参与淘宝免单活动",
+              "suggestion": "明确限制条件或修复",
+              "source": "不能参与淘宝免单活动",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_118",
+              "pain": "免单活动显示无法参加",
+              "suggestion": "明确限制条件或修复",
+              "source": "。淘宝免单活动显示很遗憾无法参加活动？？？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_111",
+            "com.taobao.taobao4hmos_112",
+            "com.taobao.taobao4hmos_116",
+            "com.taobao.taobao4hmos_117",
+            "com.taobao.taobao4hmos_118"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "快递服务问题",
+          "canonical_issue": "绑定申通快递后包裹无包装被拒收，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_123",
+              "pain": "绑定申通快递，包裹无包装拒绝揽收",
+              "suggestion": "允许用户自定义快递公司或优化合作快递服务质量",
+              "source": "不要再绑定申通快递了！！！没有包装直接拒绝揽收",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_123"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "任务资格不透明",
+          "canonical_issue": "打卡任务资格限制未提前说明，导致用户无效打卡",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_124",
+              "pain": "打卡任务有资格限制但未提前说明，导致无效打卡",
+              "suggestion": "优化任务说明，明确资格要求",
+              "source": "很多功能用不了，最近连淘金币都打不开。让人打卡60天领礼品，打卡了十几天，有个任务根本没资格做，那让人打这十几天卡干嘛？",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_124"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "订单未送达",
+          "canonical_issue": "下单后从未收到货物，物流或发货流程存在问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_127",
+              "pain": "下单后从未收到货",
+              "suggestion": "核查物流发货流程，确保订单正常送达",
+              "source": "下单之后从来没有收到过货",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_127"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "推送设置失效",
+          "canonical_issue": "关闭活动提醒后仍收到限时秒杀推送，设置功能失效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_135",
+              "pain": "在设置中关闭了各类活动和服务提醒，但依然收到限时活动秒杀推送。",
+              "suggestion": "修复推送设置失效Bug，确保关闭后不再收到相关推送。",
+              "source": "为什么在淘宝消息设置里面关闭了各类活动、各类服务的提醒，但是手机状态栏还是不断的能够收到限时活动秒杀这一类的推送消息？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_135"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "商家跑路退款难",
+          "canonical_issue": "店铺关闭后无法联系商家，平台介入也无法退款",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_159",
+              "pain": "在店铺全款预定商品后店铺关闭，联系不到商家，平台介入也无法退款",
+              "suggestion": "完善平台对商家的监管和消费者保护机制，加强售后纠纷处理",
+              "source": "之前在一家小店全款预定的一个模型，模型没收到，现在小店关了，联系不到商家，平台也介入就是要不回来钱。",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_159"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "运费险赔付低",
+          "canonical_issue": "退换货运费险赔付金额过低，用户不满",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_172",
+              "pain": "退换货运费险赔付金额太低",
+              "suggestion": "提高退货运费险赔付额度",
+              "source": "退换货还就只报25块钱  淘宝没钱了  这钱都要挣  另外里面这个淘工厂卖的都什么玩意  质量差的不行",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_172"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "外卖丢失不处理",
+          "canonical_issue": "外卖丢失后平台不及时处理且不赔付，客服拖延",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_174",
+              "pain": "外卖丢失后不处理不赔付，客服拖延",
+              "suggestion": "建立外卖丢失及时处理机制，明确赔付规则，加强客服",
+              "source": "淘宝，闪购外卖丢了不及时处理也不赔钱，拖到拖到超过24小时打电话没打通就说不能退款了，再问就说超48小时了，消费者很不满啊，我的外卖丢了，你不负责那以后都不买了",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_174"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "积分活动体验差",
+          "canonical_issue": "积分活动设计不佳，用户体验感差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_188",
+              "pain": "积分活动体验感差",
+              "suggestion": "优化积分活动体验，提升用户参与感和易用性",
+              "source": "积分活动体验感差",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_188"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "客服响应缺失",
+          "canonical_issue": "用户遇到问题后无人处理，客服响应机制缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_192",
+              "pain": "用户遇到问题后无人处理",
+              "suggestion": "加强客服响应机制，及时处理用户问题",
+              "source": "出了问题不管",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_192"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "大数据杀熟",
+          "canonical_issue": "闪购外卖价格存在大数据杀熟现象，价格不公平",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_194",
+              "pain": "闪购外卖价格存在大数据杀熟现象",
+              "suggestion": "杜绝大数据杀熟行为，保证价格公平透明",
+              "source": "闪购外卖价格大数据针对比较狠，既然你拉黑我，我也拉黑你，不用就是了。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_194"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "账号误封",
+          "canonical_issue": "账号被突然封禁，风控策略过于严格导致误封",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_195",
+              "pain": "账号被突然封禁，电脑浏览器登录也被封",
+              "suggestion": "优化账号风控策略，减少误封情况",
+              "source": "突然被封，电脑浏览器已登录就被封，无语",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_195"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "开屏广告过多",
+          "canonical_issue": "应用打开后大量视频和广告，浪费流量且影响使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_199",
+              "pain": "打开应用有大量视频和广告，浪费流量，影响使用",
+              "suggestion": "减少开屏广告或提供关闭选项，降低流量消耗",
+              "source": "破软件开了就各种视频和广告，浪费我流量...\n本来想上去确认收货的，看到视频直接退出了，不确认了，等自动确认吧...",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_199"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "广告数量异常",
+          "canonical_issue": "更新后广告数量异常减少，疑似功能Bug",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_205",
+              "pain": "别更新，小心更新广告过少的bug",
+              "suggestion": "合理控制广告数量，避免影响用户体验",
+              "source": "别更新，小心更新广告过少的bug",
+              "device": "华为畅享 70X"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_205"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "平台假货泛滥",
+          "canonical_issue": "平台售假商家多，假货问题严重且处理不力",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_216",
+              "pain": "平台伪劣产品多，售假商家多，平台处理能力差。",
+              "suggestion": "加强平台对售假商家的监管和处罚力度，建立更高效的用户投诉处理机制。",
+              "source": "到处都是伪劣产品，售假商家太多，平台处理能力差，以后都不来这个平台，专门欺诈消费者，用的朋友建议谨慎使用",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_311",
+              "pain": "平台售假（金属挂件发暖手宝）且协商无法解决问题",
+              "suggestion": "加强卖家审核和假货赔偿机制，提高纠纷处理效率",
+              "source": "在这个平台上买东西第1次买的金属挂件，发的是暖手宝。第2次买的还是金属挂件，还是发的暖手宝还是同一个地方发的货。让平台给解决这个发假货的问题，他去协商，这有啥协商？",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_216",
+            "com.taobao.taobao4hmos_311"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "广告干扰严重",
+          "canonical_issue": "应用内广告过多且无法关闭，严重影响使用体验",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_221",
+              "pain": "应用界面存在过多广告（牛皮癣），影响使用体验。",
+              "suggestion": "减少广告投放或提供关闭广告选项。",
+              "source": "你不加牛皮癣会死吗？",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_244",
+              "pain": "开屏广告巨大且无法关闭",
+              "suggestion": "提供开屏广告关闭选项或减少展示时长",
+              "source": "开屏就给我弹个巨大无比的广告，还不能关闭，我真是*你*了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_339",
+              "pain": "老是跳出天天特卖和天猫超市的信息框",
+              "suggestion": "减少弹窗频率或提供关闭弹窗的选项",
+              "source": "老是跳出天天特卖跟天猫超市的信息框",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_221",
+            "com.taobao.taobao4hmos_244",
+            "com.taobao.taobao4hmos_339"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "客服响应缺失",
+          "canonical_issue": "客服不回复、不处理用户问题，服务效率低下",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_222",
+              "pain": "客服未回复关于更新进度的询问。",
+              "suggestion": "建立客服响应机制，及时回复用户关于功能更新的问题。",
+              "source": "没有更改区域功能，在海外无法购买.客服回复一下，什么时候更新。",
+              "device": "ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_223",
+              "pain": "多次联系官方客服均无有效处理，问题未解决。",
+              "suggestion": "提升客服服务效率，确保用户问题得到及时跟进。",
+              "source": "官方客服不处理问题，两天了，打了十几次电话，没人管",
+              "device": "HUAWEI Mate X5"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_226",
+              "pain": "账号被封后找不到人工客服解封，问题无人处理。",
+              "suggestion": "设置专门渠道处理封控申诉，确保人工客服可及时介入。",
+              "source": "功能不齐全就算了，最离谱的是因为它这个不完全适配问题导致我参与它的某些活动后账号被封控七天，说检测到我涉嫌获取它什么信息，最夸张的是提交说明情况后却找不到人工参与给我解封，等于直接没人管，硬把我账号封七天，以后万一遇到相同情况岂不是敢加码乱封我几个月几年？客服收集问题收集到哪去了请问？",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_281",
+              "pain": "客服不重视用户诉求，只会话术敷衍",
+              "suggestion": "改进客服响应机制，认真对待用户反馈",
+              "source": "不正视诉求，只会话术敷衍",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_323",
+              "pain": "官方客服无任何作用，售后体验极差",
+              "suggestion": "提升客服专业性和响应速度，建立有效的售后处理机制",
+              "source": "淘宝官方客服真的一点用也没有 一点点售后都没有 这么多平台最差的官方客服 一丁点用都没有",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_222",
+            "com.taobao.taobao4hmos_223",
+            "com.taobao.taobao4hmos_226",
+            "com.taobao.taobao4hmos_281",
+            "com.taobao.taobao4hmos_323"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "页面与功能异常",
+          "canonical_issue": "页面报错、功能异常且无人维护处理",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_230",
+              "pain": "页面报错问题无人维护处理。",
+              "suggestion": "建立问题反馈与修复机制，及时响应。",
+              "source": "闪购好多页面报错，也没人管",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_264",
+              "pain": "显示访问太频繁",
+              "suggestion": "调整访问频率限制策略，减少误伤",
+              "source": "点快了就卡，显示访问太频繁",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_268",
+              "pain": "券无法领取",
+              "suggestion": "修复领券功能或优化领取规则",
+              "source": "无语至极，券根本领不了。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_230",
+            "com.taobao.taobao4hmos_264",
+            "com.taobao.taobao4hmos_268"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "大数据杀熟",
+          "canonical_issue": "同一商品在不同设备上显示不同价格，存在价格歧视",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_251",
+              "pain": "大数据杀熟，不同设备显示不同价格，同一商品低端设备更便宜。",
+              "suggestion": "确保定价机制公平统一，避免根据设备型号差异化定价，消除价格歧视。",
+              "source": "大数据杀熟，我用荣耀备用机显示价格550，用X6典藏版630",
+              "device": "HUAWEI Mate X6 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_251"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "账号注销困难",
+          "canonical_issue": "账号注销流程复杂且无法成功注销",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_258",
+              "pain": "账号注销流程复杂且无法成功注销，感觉被欺负。",
+              "suggestion": "简化账号注销流程，提供清晰的注销指引并确保用户可以顺利注销账号。",
+              "source": "繁多的操作，账号注销不了，太欺负人了",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_258"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "强制充值内容",
+          "canonical_issue": "应用内内容均需充值，缺乏免费选项",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_294",
+              "pain": "里面的东西都要充值",
+              "suggestion": "提供更多免费内容或优惠活动",
+              "source": "挺好用 就是里面的东西都要充值",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_294"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "推荐算法不合理",
+          "canonical_issue": "取消付款后推荐高价商品，推荐逻辑不当",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_298",
+              "pain": "取消付款后推荐更贵的商品，体验不佳",
+              "suggestion": "优化推荐算法，避免因取消付款推荐高价商品",
+              "source": "什么意思？买双鞋嫌贵，取消付款后给我推荐成千上万的鞋子？太瞧不起人了吧？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_298"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "评论积分误判",
+          "canonical_issue": "实拍图片被误判为非实拍，影响积分获取",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_320",
+              "pain": "商品评论奖励积分时误判实拍图片为疑似非实拍，怀疑是故意bug",
+              "suggestion": "优化图片识别算法，减少误判；提供人工申诉渠道或取消不合理限制",
+              "source": "商品评论奖励积分时候，明明是实拍图片，却总是提示疑似非实拍，玩不起就别玩，故意弄这bug干啥",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_320"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "游戏任务奖励机制",
+          "canonical_issue": "游戏任务奖励机制不合理，奖励过少且递减",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_341",
+              "pain": "游戏做任务给分太小气，快完成时减少分数",
+              "suggestion": "优化任务奖励机制，确保奖励稳定递增",
+              "source": "游戏做任务给分太小气。快完成了就减少给的分数。退，挽货时间长，不主动帮助买家解决问题！向拼多多学习吧主动帮助买家解决问题。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_341"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "售后处理效率",
+          "canonical_issue": "售后处理效率低下，退货换货时间长",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_341",
+              "pain": "退货换货时间长，客服不主动帮助买家解决问题",
+              "suggestion": "优化售后流程，缩短处理时间，加强客服主动服务意识",
+              "source": "游戏做任务给分太小气。快完成了就减少给的分数。退，挽货时间长，不主动帮助买家解决问题！向拼多多学习吧主动帮助买家解决问题。",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_359",
+              "pain": "售后极其困难",
+              "suggestion": "改善售后服务流程，提高响应效率",
+              "source": "烂，难用，售后极其困难",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_341",
+            "com.taobao.taobao4hmos_359"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "客服响应与态度",
+          "canonical_issue": "客服响应慢、态度差、处理机械化",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_346",
+              "pain": "客服不负责，承诺24小时无结果，未收到商品但不退款",
+              "suggestion": "提升客服响应速度，建立极速退款机制",
+              "source": "你的客服到底负不负责？24h之内给我结果？我那有那么多时间跟你周旋？极速处理不知道吗？我收到商品了吗？我收到了吗？我都没收到为什么不给我退款❓",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_368",
+              "pain": "客服态度差，态度拽",
+              "suggestion": "加强客服培训，改善服务态度",
+              "source": "真差劲，客服态度差，拽兮兮的，太恐怖了",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_369",
+              "pain": "客服回复慢，处理机械化",
+              "suggestion": "提升客服响应速度，优化话术",
+              "source": "不好用了，回复慢，处理机器",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_391",
+              "pain": "在淘宝买的过期食品，找淘宝客服不正面回答。我问他能不能负责，他始终不正面回答。",
+              "suggestion": "优化客服响应机制，明确责任归属，对售后问题给出直接答复。",
+              "source": "在淘宝买的过期食品，找淘宝客服不正面回答。我问他能不能负责，他始终不正面回答。",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_346",
+            "com.taobao.taobao4hmos_368",
+            "com.taobao.taobao4hmos_369",
+            "com.taobao.taobao4hmos_391"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "差评查看权限",
+          "canonical_issue": "用户无法查看差评，影响消费决策",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_360",
+              "pain": "无法查看差评，影响消费决策",
+              "suggestion": "允许用户查看差评，提供更全面的评价信息",
+              "source": "我需要拥有查看差评的权利，差评的参考意义对你不大，但是对我这种消费者意义很大，谢谢",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_360"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "快递服务质量",
+          "canonical_issue": "快递服务质量差，取件验证方式单一",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_396",
+              "pain": "淘宝平台应优化邮政快递，告诉商家能不走邮政快递就尽量不走，邮政快递终端都是兼职的。服务质量极差，一是经常找不到人。二是快递点都是老弱病残的，经常找不到货，给客户带来诸多不便。",
+              "suggestion": "优化快递合作商选择，加强对邮政快递的质量控制，提供更好的物流服务。",
+              "source": "淘宝平台应优化邮政快递，告诉商家能不走邮政快递就尽量不走，邮政快递终端都是兼职的。服务质量极差，一是经常找不到人。二是快递点都是老弱病残的，经常找不到货，给客户带来诸多不便。",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_397",
+              "pain": "取个快递还非得你淘宝身份码是吧。",
+              "suggestion": "提供多种取件验证方式，如取件码、身份码等兼容。",
+              "source": "取个快递还非得你淘宝身份码是吧",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_396",
+            "com.taobao.taobao4hmos_397"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "假货监管与处理",
+          "canonical_issue": "平台对假货监管不力，售后处理缺失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_403",
+              "pain": "买到假货平台不管",
+              "suggestion": "加强假货审核和售后处理流程",
+              "source": "买到假货淘宝平台也不管，很差劲",
+              "device": "HUAWEI Mate XT | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_452",
+              "pain": "商家发假货只能买不能退，无人监管",
+              "suggestion": "加强假货监管和退货保障机制",
+              "source": "最烂平台 现在没人监管 商家发假货只能买不能退",
+              "device": "HUAWEI Mate X7"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_403",
+            "com.taobao.taobao4hmos_452"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "收费策略",
+          "canonical_issue": "平台服务收费过多，缺乏免费选项",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_407",
+              "pain": "干啥都得花钱",
+              "suggestion": "优化收费策略或增加免费服务",
+              "source": "都挺好的，就是干啥都得花钱",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_407"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "诱导购买与价格策略",
+          "canonical_issue": "诱导购买套路多，满减价格不真实",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_415",
+              "pain": "诱导购买的套路多了，价格满减实际上根本没有用",
+              "suggestion": "减少诱导购买套路，确保满减价格真实有效",
+              "source": "越来越拉胯，诱导购买的套路也多了，价格也都是满减价格实际上根本没有用",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_415"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "应用功能定位",
+          "canonical_issue": "应用过度游戏化，偏离购物核心功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_419",
+              "pain": "变成了游戏APP，差评",
+              "suggestion": "回归购物核心功能，减少游戏化倾向",
+              "source": "变成了游戏APP，差评",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_419"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "开屏广告",
+          "canonical_issue": "应用存在开屏广告，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_422",
+              "pain": "有开屏广告",
+              "suggestion": "减少或去除开屏广告",
+              "source": "淘宝也有开屏广告了，差评！",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_422"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "价格杀熟与优惠券",
+          "canonical_issue": "商品价格杀熟严重，优惠券不支持价保",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_423",
+              "pain": "商品价格杀熟太厉害",
+              "suggestion": "优化定价策略，避免杀熟",
+              "source": "商品价格杀熟太厉害，平台优惠券不支持价保",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.taobao.taobao4hmos_423",
+              "pain": "平台优惠券不支持价保",
+              "suggestion": "提供优惠券价保服务",
+              "source": "商品价格杀熟太厉害，平台优惠券不支持价保",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_423",
+            "com.taobao.taobao4hmos_423"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "退货流程限制",
+          "canonical_issue": "退货流程强制自寄且无法选择其他地址上门取件，导致用户成本高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_496",
+              "pain": "退货流程强制自寄，且无法选择其他地址上门取件，导致成本高。",
+              "suggestion": "优化退货流程，允许用户选择自寄或上门取件，并支持修改取件地址。",
+              "source": "退货强制让你自寄，不能选择其他地址上门退货。因为自寄快递成本高，我是在镇上，系统提示地址无法上门取货，只能选择自寄，然后又不能选择县城里的地址。",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_496"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "售假商家处理不力",
+          "canonical_issue": "对售假商家缺乏有效约束，客服仅道歉无实际处理",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_497",
+              "pain": "对售假商家缺乏约束力，客服只会道歉无实际处理。",
+              "suggestion": "加强售假商家处罚机制，建立消费者投诉快速处理通道，提供有效解决方案。",
+              "source": "对售假商家毫无约束力，客服只会一个劲道歉。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_497"
+          ]
+        }
+      ]
+    }
+  },
+  "内容生态": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "58",
+          "cluster_name": "芭芭农场内容缺失",
+          "canonical_issue": "芭芭农场施肥内容减少，功能体验不完整",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_28",
+              "pain": "芭芭农场施肥内容减少",
+              "suggestion": "恢复或增加芭芭农场施肥内容",
+              "source": "这个纯鸿蒙版不怎么样，字体大小选择不了，芭芭农场施肥少了许多内容。许多方便快捷手法也没有。自己也选择不了版本更新。网购凑合用。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_28"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "淘工厂商品质量差",
+          "canonical_issue": "淘工厂商品质量差，缺乏有效审核",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_172",
+              "pain": "淘工厂商品质量差",
+              "suggestion": "加强淘工厂商品质量审核，淘汰劣质商品",
+              "source": "退换货还就只报25块钱  淘宝没钱了  这钱都要挣  另外里面这个淘工厂卖的都什么玩意  质量差的不行",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_172"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "虚假广告泛滥",
+          "canonical_issue": "淘宝平台虚假广告泛滥，缺乏有效监管",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_249",
+              "pain": "虚假广告泛滥",
+              "suggestion": "加强广告审核机制，严查虚假广告",
+              "source": "淘宝上虚假广告泛滥猖獗，该严查严管了！",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_249"
+          ]
+        },
+        {
+          "cluster_id": "61",
+          "cluster_name": "女装模特同质化",
+          "canonical_issue": "女装模特形象单一，缺乏多样性",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_388",
+              "pain": "全淘宝女装模特同一张脸，缺乏多样性。",
+              "suggestion": "增加模特多样性，避免同质化。",
+              "source": "全淘宝女装模特就这一个人吗？哪个品牌都是一张脸，我的天呢",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_388"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "66",
+          "cluster_name": "鬼灭之刃周边商品需求",
+          "canonical_issue": "用户希望增加鬼灭之刃相关周边商品，如玩偶泥豆子",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_277",
+              "pain": "希望多出鬼灭之刃周边，如玩偶泥豆子",
+              "suggestion": "考虑引入更多鬼灭之刃周边商品",
+              "source": "这里面什么都有，我希望鬼灭之刃能多出一点周边，比如玩偶的泥豆子。",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_277"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "67",
+          "cluster_name": "分类与品类",
+          "canonical_issue": "分类清晰，品类齐全，商品不错",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.taobao.taobao4hmos_365",
+              "pain": "分类清晰，品类齐全，商品不错",
+              "suggestion": "无",
+              "source": "满意分类清晰品类齐全平民福音，东西很不错",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.taobao.taobao4hmos_365"
+          ]
+        }
+      ]
+    }
+  },
+  "n_clusters": 69
+}

@@ -1,0 +1,5119 @@
+{
+  "n_items": 568,
+  "n_items_deduped": 556,
+  "功能体验": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "锁屏还车功能失效",
+          "canonical_issue": "锁屏界面还车功能设计无效，操作步骤繁琐",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_1",
+              "pain": "锁屏界面还车功能设计无效，操作步骤繁琐",
+              "suggestion": "修复锁屏还车功能，简化操作流程，实现双击还车",
+              "source": "锁屏界面要还车，需要双击还车按钮，在跳转APP界面后，需要点击“正在骑行的订单”，再点击还车，换车需要四步，当然也可以直接解锁手机，进入APP，最少也得三步。但是锁屏界面显示的还车按钮虽然设计是双击两步就能还车，实际上这个功能并没有实现。",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_1"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "实况窗功能异常",
+          "canonical_issue": "骑行实况窗功能缺失或显示不稳定",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_2",
+              "pain": "更新后骑行实况窗消失",
+              "suggestion": "恢复骑行实况窗功能",
+              "source": "更新后骑行的实况窗没了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_38",
+              "pain": "点外卖的实况窗时而显示时而不显示。",
+              "suggestion": "修复实况窗功能，确保在订单状态更新时稳定显示。",
+              "source": "点外卖的实况窗，时而显示，时而不显示",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_2",
+            "com.sankuai.hmeituan_38"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "配送位置更新问题",
+          "canonical_issue": "配送位置不能实时自动更新",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_3",
+              "pain": "配送位置不能实时自动更新",
+              "suggestion": "增加配送位置自动更新功能",
+              "source": "不能实时自动更新配送位置吗？每次下班回家点外卖都要手动地址",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_3"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "评论功能异常",
+          "canonical_issue": "无法查看自己的评论，评论区处于关闭状态",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_6",
+              "pain": "无法查看自己的评论，评论区处于关闭状态",
+              "suggestion": "修复评论显示功能，确保用户可查看评论",
+              "source": "看不到我的评论，评论区显示关闭状态",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_6"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "神枪手功能缺失",
+          "canonical_issue": "缺少神枪手功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_9",
+              "pain": "缺少神枪手功能",
+              "suggestion": "增加神枪手功能",
+              "source": "神枪手什么时候有",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_9"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "骑手商家联系问题",
+          "canonical_issue": "订单配送后联系骑手电话空号，联系商家却转到全国总部，无法变更地址",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_11",
+              "pain": "订单配送后联系骑手电话空号，联系商家却转到全国总部，无法变更地址",
+              "suggestion": "优化骑手电话有效性校验，确保商家电话直达门店，并提供便捷的地址变更渠道",
+              "source": "订单配送出来联系骑手或商家变更地址都做不到吗 骑手电话是空号 打商家电话居然给我弄到全国总部去了 那我要你这门店电话的意义何在",
+              "device": "HUAWEI Pura 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_11"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "小游戏功能干扰",
+          "canonical_issue": "被迫使用小游戏功能，影响使用体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_12",
+              "pain": "被迫使用小游戏功能，影响使用体验",
+              "suggestion": "允许用户选择是否显示小游戏入口，或在设置中提供关闭选项",
+              "source": "可怕，非要加小游戏上去。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_12"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "AI客服问题",
+          "canonical_issue": "AI客服无法解决问题，找不到人工客服",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_13",
+              "pain": "AI客服无法解决问题，找不到人工客服",
+              "suggestion": "优化AI客服转人工逻辑，增加明显的人工客服入口",
+              "source": "怎么屏蔽ai客服回答，一点用都没有，找不到人工",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_13"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "网络误报问题",
+          "canonical_issue": "浏览店铺时误报无网络，客服称因频繁操作导致",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_21",
+              "pain": "浏览店铺时误报无网络，客服称因频繁操作导致",
+              "suggestion": "优化网络检测逻辑，减少误判；调整限制策略，避免正常操作被误拦截",
+              "source": "点外卖，看了一家店就显示没有网络了，客服说频繁操作导致的",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_21"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "搜索功能异常",
+          "canonical_issue": "搜索即时零售门店产品时无结果显示，属于重大bug",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_24",
+              "pain": "搜索即时零售门店产品时无结果显示，属于重大bug",
+              "suggestion": "修复搜索功能，确保产品列表正确加载",
+              "source": "打开外卖端口，找到具体即时零售门店，搜索产品，显示不出来！巨大bug。",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_24"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "骑手消息显示问题",
+          "canonical_issue": "无法查看骑手发送的信息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_26",
+              "pain": "无法查看骑手发送的信息",
+              "suggestion": "修复鸿蒙版消息通知与展示功能，确保骑手消息正常显示",
+              "source": "看不到骑手发的信息",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_26"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "配送时间设置异常",
+          "canonical_issue": "指定配送时间下单后，APP自动退出导致时间被改为即时送达",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_28",
+              "pain": "指定配送时间下单后，APP自动退出导致时间被改为即时送达",
+              "suggestion": "修复自动退出bug，并确保配送时间设置不会被意外修改",
+              "source": "差！母亲节前一天下了个单，买了些花和水果，因为有花专门指定了母亲节当天上午送达，结果一结算完，APP自动退出了，再进去就变成了即时送达。跟客服反应，客服就只强调系统显示我选的是即时送达，就是你自己没操作好，跟他们没关系。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_28"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "优惠券匹配问题",
+          "canonical_issue": "付款时优惠券没有自动匹配最合适的优惠券，导致用户忘记选择而多付钱",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_32",
+              "pain": "付款时优惠券没有自动匹配最合适的优惠券，导致用户忘记选择而多付钱。",
+              "suggestion": "优化优惠券自动匹配逻辑，在支付时默认使用最优惠的组合，并提供提示确认。",
+              "source": "每次使用时点餐那叫一个卡，一到付款那叫一个快，很多次不明所以的就付出去了，忘记选择好多优惠券，难道不能直接匹配、直接扣减最合适的优惠券吗？这么简单的需求是做不了还是不想做啊？到底想不想让人用优惠券啊！！！",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_32"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "订单查看问题",
+          "canonical_issue": "外卖订单无法查看",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_35",
+              "pain": "外卖订单无法查看。",
+              "suggestion": "修复订单详情页显示问题，确保用户能正常查看订单信息。",
+              "source": "外卖订单无法查看",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_35"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "电单车停放限制",
+          "canonical_issue": "电单车停放受限，不能随意停靠",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_39",
+              "pain": "电单车停放受限，不能随意停靠。",
+              "suggestion": "增加更多规范停车区域或提供临时停放点指引，优化停车体验。",
+              "source": "电单车想停哪里停不了了",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_39"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "火车票订票问题",
+          "canonical_issue": "订火车票时，不选多花钱免登陆12306的选项，身份证填写后无法点击确认",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_42",
+              "pain": "订火车票时，不选多花钱免登陆12306的选项，身份证填写后无法点击确认",
+              "suggestion": "修复身份证输入后确认按钮不可用的问题",
+              "source": "订火车票，不选多花钱免登陆12306的选项，身份证怎么填写都不能点击确认",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_42"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "骑手图片接收问题",
+          "canonical_issue": "无法接收骑手发的图片，且设置中没有相关选项",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_44",
+              "pain": "无法接收骑手发的图片，且设置中没有相关选项",
+              "suggestion": "增加接收骑手图片的功能或设置项",
+              "source": "不是为什么我接受不了骑手发的图片？我看半天设置没看到这方面的设置我旧手机之前就能看，排除这些不就是软件的问题吗",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_44"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "电话误拨问题",
+          "canonical_issue": "应用出现乱打电话的现象",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_45",
+              "pain": "应用出现乱打电话的现象",
+              "suggestion": "检查并修正应用中的电话拨打逻辑，避免误触",
+              "source": "瞎打电话",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_45"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "自动更新无法设置",
+          "canonical_issue": "经常自动更新且无法设置",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_48",
+              "pain": "经常自动更新且无法设置",
+              "suggestion": "提供手动更新开关或设置更新策略",
+              "source": "经常自动更新，且无法进行设置。",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_48"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "骑手消息接收失败",
+          "canonical_issue": "骑手发的送货信息经常被吞，无法接收",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_49",
+              "pain": "骑手发的送货信息经常被吞，无法接收",
+              "suggestion": "修复消息接收逻辑，确保骑手消息及时送达",
+              "source": "骑手给发的送货信息有一半的时候是被吞的，是不想让顾客吃到饭还是想给骑手找麻烦啊，每次给骑手打电话人家都说发了消息，想干啥。。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_49"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "住宿订单无法评价",
+          "canonical_issue": "美团住宿的订单不能评价",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_51",
+              "pain": "美团住宿的订单不能评价",
+              "suggestion": "添加住宿订单的评价功能，允许用户对住宿体验进行评价",
+              "source": "美团住宿的订单不能评价，需要处理",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_51"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "无骑手接单无法退款",
+          "canonical_issue": "点餐没有骑手接单且不能退款",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_53",
+              "pain": "点餐没有骑手接单且不能退款",
+              "suggestion": "增加无骑手接单时的自动退款机制或提供补偿",
+              "source": "点个餐没有骑手接到也就算了，还不能退款",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_53"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "定位偏差严重",
+          "canonical_issue": "定位不准，偏差达2公里以上",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_57",
+              "pain": "定位不准，偏差达2公里以上",
+              "suggestion": "优化定位算法，提高定位精度",
+              "source": "定位永远都不准，至少差了2公里以上。能不能改改？？？？？？？",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_57"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "点外卖功能故障",
+          "canonical_issue": "今天无法点外卖",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_60",
+              "pain": "今天无法点外卖",
+              "suggestion": "排查并修复点外卖功能的故障，确保服务可用",
+              "source": "我美团怎么今天点不了外卖了？",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_60"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "消息页聊天记录空白",
+          "canonical_issue": "消息页空白，没有和商家的聊天记录",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_61",
+              "pain": "消息页空白，没有和商家的聊天记录",
+              "suggestion": "修复消息页显示，加载聊天记录",
+              "source": "消息页空白，没有和商家的聊天记录",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_61"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "深色模式未适配",
+          "canonical_issue": "深色模式未适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_66",
+              "pain": "深色模式未适配",
+              "suggestion": "尽快适配深色模式",
+              "source": "深色模式快点适配，不要再搞你那个杀熟大数据了",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_66"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "缺少扫支付款码功能",
+          "canonical_issue": "缺少扫支付款码功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_69",
+              "pain": "缺少扫支付款码功能",
+              "suggestion": "添加扫支付款码功能",
+              "source": "希望支持扫支付款码功能，安卓上有的，这里还没有，美团钱包，美团支付还不完善",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_69"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "美团钱包支付不完善",
+          "canonical_issue": "美团钱包/支付不完善",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_69",
+              "pain": "美团钱包/支付不完善",
+              "suggestion": "完善美团支付功能",
+              "source": "希望支持扫支付款码功能，安卓上有的，这里还没有，美团钱包，美团支付还不完善",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_69"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "缺少美团优选功能",
+          "canonical_issue": "缺少美团优选功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_70",
+              "pain": "缺少美团优选功能",
+              "suggestion": "安排上线美团优选",
+              "source": "什么时候把美团优选安排上？",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_70"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "购物车显示异常",
+          "canonical_issue": "点完商品购物车有时会不见",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_72",
+              "pain": "点完商品购物车有时会不见",
+              "suggestion": "修复购物车状态显示问题，确保添加商品后购物车可见",
+              "source": "一堆bug 点完商品购物车有时会不见 添加商品有时点了没反应 购物车里面却添加成功",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_72"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "添加商品无响应反馈",
+          "canonical_issue": "添加商品有时点了没反应，但购物车里面却添加成功",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_72",
+              "pain": "添加商品有时点了没反应，但购物车里面却添加成功",
+              "suggestion": "修复添加按钮的响应反馈，点击后应即时显示加载状态并同步购物车数据",
+              "source": "一堆bug 点完商品购物车有时会不见 添加商品有时点了没反应 购物车里面却添加成功",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_72"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "到店状态延迟",
+          "canonical_issue": "明明到店了，每次都延迟几十秒至一分钟",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_76",
+              "pain": "明明到店了，每次都延迟几十秒至一分钟",
+              "suggestion": "优化定位算法，减少到店判断的延迟时间",
+              "source": "明明到店了，每次都延迟几十秒至一分钟，早日修复好",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_76"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "骑车功能缺失",
+          "canonical_issue": "缺少或未及时更新骑车相关功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_77",
+              "pain": "缺少或未及时更新骑车相关功能",
+              "suggestion": "尽快上线或优化骑车功能，完善骑行服务",
+              "source": "我真是服了赶紧更新骑车啊",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_77"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "账户风险误判",
+          "canonical_issue": "系统误判账户有风险，无法享受折扣，强制原价下单",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_81",
+              "pain": "系统误判账户有风险，无法享受折扣，强制原价下单",
+              "suggestion": "优化风险检测机制，减少误判，允许用户申诉",
+              "source": "美团买药怎么老是提示系统检测到此账户有风险，无法享受折扣，建议原价下单",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_81"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "无法购买火车票",
+          "canonical_issue": "无法在美团上购买火车票",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_85",
+              "pain": "无法在美团上购买火车票",
+              "suggestion": "增加火车票购买功能",
+              "source": "不能买火车票",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_85"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "打车实况窗功能缺失",
+          "canonical_issue": "打车实况窗功能未支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_90",
+              "pain": "不支持打车实况窗",
+              "suggestion": "支持打车实况窗功能",
+              "source": "怎么还没有支持打车实况窗？",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_90"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "定位功能不准确",
+          "canonical_issue": "定位算法不准确，影响用户体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_92",
+              "pain": "定位不准确",
+              "suggestion": "优化定位算法，提高定位精度",
+              "source": "定位不准确，人工客服也纯人机不能解决问题",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_126",
+              "pain": "定位功能不准确",
+              "suggestion": "优化定位算法，提高定位精度",
+              "source": "什么破定位",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_92",
+            "com.sankuai.hmeituan_126"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "人工客服能力不足",
+          "canonical_issue": "人工客服无法解决实际问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_92",
+              "pain": "人工客服纯人机不能解决问题",
+              "suggestion": "增强人工客服能力，提供有效的人工服务入口",
+              "source": "定位不准确，人工客服也纯人机不能解决问题",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_92"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "汽车票购买功能缺失",
+          "canonical_issue": "无法购买汽车票",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_93",
+              "pain": "无法购买汽车票",
+              "suggestion": "增加汽车票购买功能",
+              "source": "汽车票怎么不能买",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_93"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "核心功能不可用",
+          "canonical_issue": "大部分内容无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_95",
+              "pain": "大部分内容无法使用",
+              "suggestion": "补齐核心功能，确保内容可用",
+              "source": "大部分内容无法使用，而且点餐价格比安卓系统更贵，大部分优惠券也领不了，领了也就便宜一两块钱",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_95"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "骑手信息不显示",
+          "canonical_issue": "骑手发的信息或照片不显示",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_96",
+              "pain": "骑手发的信息不显示",
+              "suggestion": "修复消息显示问题，确保骑手信息正常展示",
+              "source": "骑手发的信息不显示",
+              "device": "nova 12 Ultra 星耀版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_100",
+              "pain": "看不到骑手发的照片，无法确认送错地方",
+              "suggestion": "增加骑手照片显示功能，改善沟通体验",
+              "source": "鸿蒙版的APP太落后了，外卖送达时看不到骑手发的照片，连对方送错地方都看不到，导致沟通困难。",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_96",
+            "com.sankuai.hmeituan_100"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "共享单车还车流程繁琐",
+          "canonical_issue": "共享单车还车流程繁琐，强制免密支付",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_102",
+              "pain": "共享单车还车流程繁琐，强制开启免密支付，弹窗过多，用户体验差。",
+              "suggestion": "优化共享单车还车流程，允许用户使用账户余额正常还车，减少不必要的弹窗，不强制绑定免密支付。",
+              "source": "最烂的功能就是共享单车还车流程！每次还车，都必须取消免密支付。账户本身就有余额，我为什么必须勾选支付免密？霸道！强盗逻辑！\n每次打开一堆弹框。最就是强迫逻辑，我是使用APP的主人，不是你美团的奴隶！",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_102"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "骑车卡支付方式限制",
+          "canonical_issue": "骑车卡自动续费不支持微信支付",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_103",
+              "pain": "购买骑车卡自动续费套餐不支持微信支付，只能绑定银行卡。",
+              "suggestion": "增加微信支付选项，支持更多支付方式。",
+              "source": "为什么开骑车卡（自动续费）的套餐，不能用微信支付 只能绑银行卡，这很不方便！！😭😭",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_103"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "应用删除用户图片",
+          "canonical_issue": "应用未经允许删除用户图片",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_107",
+              "pain": "应用偷偷删除用户图片，侵犯用户数据安全。",
+              "suggestion": "停止未经用户允许删除图片的行为，尊重用户数据，并明确告知用户权限用途。",
+              "source": "难用，底部的AI无法关闭，一个黑心公司，偷偷删除用户的图片。",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_107"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "天天赚鸡蛋功能不支持",
+          "canonical_issue": "天天赚鸡蛋板块功能不支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_108",
+              "pain": "天天赚鸡蛋板块功能不支持，从小美果园跳转后无法使用。",
+              "suggestion": "尽快更新天天赚鸡蛋板块，修复从小美果园跳转的功能。",
+              "source": "希望快点更新天天赚鸡蛋的板块，现在还是从小美果园跳转过去还是功能不支持",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_108"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "静音模式易误解除",
+          "canonical_issue": "设置静音模式后易被滑动解除",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_112",
+              "pain": "设置静音模式后，滑动时容易解除静音",
+              "suggestion": "修复静音模式被滑动误解除的问题",
+              "source": "越来越卡，设置静音模式，动不动就因为滑动解除，视频提现需要的时间也越来越多",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_112"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "视频提现时间过长",
+          "canonical_issue": "视频提现所需时间越来越长",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_112",
+              "pain": "视频提现所需时间越来越长",
+              "suggestion": "优化视频提现的处理速度",
+              "source": "越来越卡，设置静音模式，动不动就因为滑动解除，视频提现需要的时间也越来越多",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_112"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "实况窗状态不更新",
+          "canonical_issue": "实况窗支付状态不更新",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_114",
+              "pain": "实况窗不更新，支付后一直显示待支付状态",
+              "suggestion": "修复实况窗的更新机制，确保支付状态正确同步",
+              "source": "实况窗不更新，支付后一直停留在待支付状态",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_114"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "外卖小哥无法发信息",
+          "canonical_issue": "外卖小哥无法发送信息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_121",
+              "pain": "升级最新版本后，外卖小哥无法发信息，导致无法得知外卖放置位置",
+              "suggestion": "确保新版本兼容即时通讯功能，或提供替代通知方式",
+              "source": "我都已经升级成最新的版本了，结果点外卖外卖小哥没办法给我发信息，说版本不支持。这个不是最应该最低的要求吗，不能发在线信息我怎么知道外卖放哪里了。。。",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_121"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "商家消息不显示",
+          "canonical_issue": "消息页面看不到商家消息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_122",
+              "pain": "消息页面看不到商家的消息",
+              "suggestion": "恢复消息页面显示商家消息的功能",
+              "source": "为什么消息页面看不到商家的消息了",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_122"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "骑手联系电话为空号",
+          "canonical_issue": "联系骑手显示空号",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_125",
+              "pain": "联系骑手显示空号",
+              "suggestion": "修复骑手联系电话显示错误的问题",
+              "source": "联系骑手是空号，而且没有半价券……",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_125"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "61",
+          "cluster_name": "线上医保买药功能缺失",
+          "canonical_issue": "缺少线上医保买药功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_14",
+              "pain": "缺少线上医保买药功能",
+              "suggestion": "尽快开发并上线线上医保买药功能",
+              "source": "什么时候能更新线上医保买药",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_14"
+          ]
+        },
+        {
+          "cluster_id": "62",
+          "cluster_name": "内插广告策略不透明",
+          "canonical_issue": "询问最新版本是否有内插广告",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_31",
+              "pain": "询问最新版本是否有内插广告。",
+              "suggestion": "明确告知用户广告策略，如无广告可说明，如有则提供关闭选项。",
+              "source": "还没更新，最新版本有没有内插广告？",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_31"
+          ]
+        },
+        {
+          "cluster_id": "63",
+          "cluster_name": "骑车功能输入方式不足",
+          "canonical_issue": "骑车功能不支持手动输入车牌号及蓝牙识别输入",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_115",
+              "pain": "骑车功能不支持手动输入车牌号及蓝牙识别输入",
+              "suggestion": "增加手动输入车牌号和蓝牙识别功能",
+              "source": "骑车啥时候能支持手动输入车牌号以及蓝牙识别输入呀",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_115"
+          ]
+        },
+        {
+          "cluster_id": "64",
+          "cluster_name": "美团游戏上线时间不明",
+          "canonical_issue": "询问美团游戏何时上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_138",
+              "pain": "询问美团游戏何时上线。",
+              "suggestion": "明确美团游戏的上线计划或增加功能预告。",
+              "source": "美团游戏啥时候可以上线",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_138"
+          ]
+        },
+        {
+          "cluster_id": "65",
+          "cluster_name": "深色模式缺失",
+          "canonical_issue": "缺少深色模式",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_304",
+              "pain": "缺少深色模式",
+              "suggestion": "增加深色模式选项",
+              "source": "增加深色模式，优化卡顿",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_304"
+          ]
+        },
+        {
+          "cluster_id": "66",
+          "cluster_name": "企业支付功能缺失",
+          "canonical_issue": "缺少企业支付功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_373",
+              "pain": "缺少企业支付功能",
+              "suggestion": "增加扫码支付的企业支付选项",
+              "source": "许愿：扫码支付需要企业支付",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_373"
+          ]
+        },
+        {
+          "cluster_id": "67",
+          "cluster_name": "智能体点餐功能需求",
+          "canonical_issue": "希望引入智能体场景，通过语音或手写简化点餐流程",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_389",
+              "pain": "希望引入智能体场景，通过语音或手写简化点餐流程",
+              "suggestion": "开发语音智能体点餐功能，提高便捷性",
+              "source": "通过智能体场景解决麻烦的操作屏幕手写点击屏幕下单方式，组建生活中的美食搭子，点餐搭子，以更高效，更便捷，解决平台从手写点下单方式，在到语音智能体场景方式解决麻烦传统的手点写点餐，一步步提高平台服务水准。？",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_389"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "158",
+          "cluster_name": "单车定位修复",
+          "canonical_issue": "单车定位功能修复",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_120",
+              "pain": "修复了单车无法定位的问题",
+              "suggestion": "无",
+              "source": "终于把单车无法定位的问题修复了",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_120"
+          ]
+        },
+        {
+          "cluster_id": "159",
+          "cluster_name": "买药价格优惠",
+          "canonical_issue": "买药价格便宜",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_223",
+              "pain": "买药便宜",
+              "suggestion": "无",
+              "source": "买药便宜。",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_223"
+          ]
+        },
+        {
+          "cluster_id": "160",
+          "cluster_name": "送货上门服务",
+          "canonical_issue": "送货上门服务体验好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_400",
+              "pain": "送货上门服务非常好，用户满意",
+              "suggestion": "无",
+              "source": "送货上门非常好",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_400"
+          ]
+        }
+      ]
+    }
+  },
+  "稳定性与性能": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "页面加载失败",
+          "canonical_issue": "订购页面、扫码排队页面等关键页面无法打开或加载失败",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_4",
+              "pain": "订购页面打不开，无法选择菜品",
+              "suggestion": "修复页面加载问题",
+              "source": "订购的页面都打不开菜都选不了，好无语",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_56",
+              "pain": "线下扫码排队页面打不开，一直转圈",
+              "suggestion": "修复扫码排队页面的加载问题，确保快速打开",
+              "source": "线下扫码排队页面打不开，一直转圈",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_4",
+            "com.sankuai.hmeituan_56"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "应用卡顿",
+          "canonical_issue": "应用整体或特定页面操作卡顿、响应慢",
+          "size": 10,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_5",
+              "pain": "打开加载卡顿",
+              "suggestion": "优化加载性能，减少卡顿",
+              "source": "打开加载好卡",
+              "device": "nova 12 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_17",
+              "pain": "不论怎么更新，应用依然卡顿",
+              "suggestion": "深入优化应用性能，修复卡顿问题",
+              "source": "破玩意，咋更新都卡",
+              "device": "HUAWEI Mate X5"
+            },
+            {
+              "id": "com.sankuai.hmeituan_32",
+              "pain": "点餐时操作卡顿，反应慢。",
+              "suggestion": "优化点餐页面的性能，减少卡顿，提升响应速度。",
+              "source": "每次使用时点餐那叫一个卡，一到付款那叫一个快，很多次不明所以的就付出去了，忘记选择好多优惠券，难道不能直接匹配、直接扣减最合适的优惠券吗？这么简单的需求是做不了还是不想做啊？到底想不想让人用优惠券啊！！！",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.sankuai.hmeituan_37",
+              "pain": "应用卡顿。",
+              "suggestion": "全面性能优化，修复卡顿问题。",
+              "source": "卡",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_43",
+              "pain": "应用太卡了",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "太卡了",
+              "device": "HUAWEI MatePad Mini 悦读版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_54",
+              "pain": "APP卡顿，无法添加删除选择",
+              "suggestion": "优化界面响应性能，修复卡顿问题",
+              "source": "动不动就卡住不能添加删除选择？",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.sankuai.hmeituan_62",
+              "pain": "更新后出现卡顿",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "更新来还是怎么的，好卡",
+              "device": "HUAWEI MatePad Mini"
+            },
+            {
+              "id": "com.sankuai.hmeituan_64",
+              "pain": "应用卡死",
+              "suggestion": "优化性能，解决卡死问题",
+              "source": "卡死了",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_65",
+              "pain": "二级页面卡顿严重",
+              "suggestion": "优化二级页面性能",
+              "source": "天天津贴都没有在搞什么？二级页面卡的死",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.sankuai.hmeituan_80",
+              "pain": "再买处方药时直接卡死，一直在加载",
+              "suggestion": "修复处方药购买页面的卡死问题，优化加载性能",
+              "source": "再买处方药时直接卡死，一直在加载",
+              "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_5",
+            "com.sankuai.hmeituan_17",
+            "com.sankuai.hmeituan_32",
+            "com.sankuai.hmeituan_37",
+            "com.sankuai.hmeituan_43",
+            "com.sankuai.hmeituan_54",
+            "com.sankuai.hmeituan_62",
+            "com.sankuai.hmeituan_64",
+            "com.sankuai.hmeituan_65",
+            "com.sankuai.hmeituan_80"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "应用发热",
+          "canonical_issue": "使用应用时设备发热严重",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_10",
+              "pain": "应用卡顿且发热严重",
+              "suggestion": "优化性能，降低发热",
+              "source": "又卡又烫",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_20",
+              "pain": "使用美团过程中手机发烫发卡，其他软件正常",
+              "suggestion": "优化应用功耗和性能，排查并解决发热卡顿原因",
+              "source": "各位，为啥只有美团在用的过程中会发烫发卡啊？没见其他软件有这种情况。",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_22",
+              "pain": "应用存在大量bug，且运行卡顿、发热严重",
+              "suggestion": "全面修复已知bug，优化内存与性能，降低发热",
+              "source": "BUG一堆 又卡又发热",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.sankuai.hmeituan_36",
+              "pain": "使用美团点外卖时手机发热严重。",
+              "suggestion": "优化应用能耗，减少CPU占用和发热，尤其是在点餐流程中。",
+              "source": "美团是不是很考验CPU？外卖还没点手机已经热的不行了",
+              "device": "HUAWEI MatePad Mini 悦读版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_10",
+            "com.sankuai.hmeituan_20",
+            "com.sankuai.hmeituan_22",
+            "com.sankuai.hmeituan_36"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "应用崩溃",
+          "canonical_issue": "应用自动退出、崩溃或显示无连接",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_28",
+              "pain": "结算时APP自动退出，导致订单信息丢失",
+              "suggestion": "修复自动退出崩溃问题，增强应用稳定性",
+              "source": "差！母亲节前一天下了个单，买了些花和水果，因为有花专门指定了母亲节当天上午送达，结果一结算完，APP自动退出了，再进去就变成了即时送达。跟客服反应，客服就只强调系统显示我选的是即时送达，就是你自己没操作好，跟他们没关系。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_59",
+              "pain": "APP偶尔崩溃，显示无连接",
+              "suggestion": "修复崩溃和无连接问题，增强应用稳定性",
+              "source": "APP偶尔会崩，点开啥也没有，一直显示无连接！道阻且长！！！！！",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_28",
+            "com.sankuai.hmeituan_59"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "应用卡顿",
+          "canonical_issue": "应用整体运行卡顿，影响用户体验",
+          "size": 7,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_83",
+              "pain": "应用经常卡住",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "经常卡住。很奇怪",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_98",
+              "pain": "页面卡顿、图片加载慢、商家页面加载慢",
+              "suggestion": "优化启动速度和图片加载性能，减少卡顿",
+              "source": "刚进去页面有点卡，别人评论的图片加载慢，进商家页面加载也慢",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_111",
+              "pain": "页面卡顿，选择酒店和地图操作不流畅",
+              "suggestion": "优化页面滑动和地图加载的流畅度",
+              "source": "为什么可以这么卡？在酒店里面选来选去卡的不行，酒店地图里面也是",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_112",
+              "pain": "应用越来越卡",
+              "suggestion": "优化整体性能，减少卡顿",
+              "source": "越来越卡，设置静音模式，动不动就因为滑动解除，视频提现需要的时间也越来越多",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_113",
+              "pain": "外卖页面卡顿严重",
+              "suggestion": "提升外卖模块的流畅度",
+              "source": "能不能把基础的流畅度优化下啊，每次用美团的外卖都好卡顿啊。",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_124",
+              "pain": "应用卡顿严重，给骑手发消息需等待很久，且bug频发",
+              "suggestion": "优化应用性能，减少卡顿，修复已知bug",
+              "source": "是我手机问题吗，用起来比我原神画质开最高还卡😓给骑手发消息都要等半天，bug满天飞",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.sankuai.hmeituan_149",
+              "pain": "更新后页面浏览卡顿，反应慢",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "越更新越卡顿，浏览页面要反应半天",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_83",
+            "com.sankuai.hmeituan_98",
+            "com.sankuai.hmeituan_111",
+            "com.sankuai.hmeituan_112",
+            "com.sankuai.hmeituan_113",
+            "com.sankuai.hmeituan_124",
+            "com.sankuai.hmeituan_149"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "网络误报",
+          "canonical_issue": "应用错误提示网络问题，实际网络正常",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_89",
+              "pain": "应用经常提示网络不好导致加载失败，实际网络正常",
+              "suggestion": "优化网络检测逻辑，减少误报；提升加载性能",
+              "source": "老说我网不好，加载不出来，我淘宝闪购都买完了都要到了，还说我网不好，加载不出来，到底谁的问题",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_109",
+              "pain": "订单界面频繁显示网络不给力，但其他网络功能正常。",
+              "suggestion": "修复订单界面网络加载逻辑，确保正常网络下能加载订单。",
+              "source": "把你这个网络bug修复一下吧，我下载东西都能跑20M点外卖也能点，进订单界面你和我说网络不给力刷不出来？",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_89",
+            "com.sankuai.hmeituan_109"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "聊天卡死",
+          "canonical_issue": "商家聊天功能卡死，无法正常使用",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_91",
+              "pain": "商家聊天卡死",
+              "suggestion": "优化聊天性能，解决卡死问题",
+              "source": "怎么回事，美团商家聊天卡死了",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_152",
+              "pain": "联系商家和骑手打字页面发送特别卡",
+              "suggestion": "优化打字页面的性能，减少卡顿",
+              "source": "联系商家和骑手打字页面发送特别卡 进入配送那个页面的查看那个页面进去有点卡",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_91",
+            "com.sankuai.hmeituan_152"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "实况窗还车逻辑错误",
+          "canonical_issue": "实况窗还车按钮点击后跳转错误，需多次操作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_104",
+              "pain": "实况窗还车按钮点击后跳转到主界面而非直接还车，需要多次操作。",
+              "suggestion": "修复实况窗还车按钮逻辑，点击后直接完成还车或进入还车确认页面。",
+              "source": "现在有个功能有点问题，就是还车的时候，明明在实况窗上面显示了还车按钮，但是点击还车之后还是会跳到主界面，而且不是还车界面，需要再次点击进入骑行中的订单才能还车，其实一步就可以搞定，但是用了三步，这个bug要尽快修一修了",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_104"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "后台被杀",
+          "canonical_issue": "应用后台几乎百分百被杀，资源占用过高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_106",
+              "pain": "应用后台几乎百分百被杀，资源占用过高。",
+              "suggestion": "优化后台进程管理，减少杀后台频率，降低资源占用。",
+              "source": "优化太差了，几乎百分百杀后台，运行着比游戏还费劲",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_106"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "列表位置丢失",
+          "canonical_issue": "进入详情返回后列表自动回到顶部，位置丢失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_123",
+              "pain": "在电影演出模块中，进入待映电影详情返回后列表自动回到顶部，该bug长期存在",
+              "suggestion": "修复返回后列表位置丢失的bug，保持滚动位置",
+              "source": "进入“电影演出”，选“电影/影院”，进入“待映”，按日期浏览待映电影列表，任意选进一个电影，返回后总会回到列表顶部，这个bug很久了很不方便，感觉已经写清楚了希望能修复一下",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_123"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "发热耗电快",
+          "canonical_issue": "看评论时发热耗电快，影响使用体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_139",
+              "pain": "看评论时发热耗电快。",
+              "suggestion": "优化电源管理，降低浏览评论时的功耗和发热。",
+              "source": "看评论会出现发热耗电快，希望尽快优化",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_139"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "天天津贴滑动卡顿",
+          "canonical_issue": "天天津贴滑动非常卡顿，影响操作流畅度",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_141",
+              "pain": "天天津贴滑动非常卡顿",
+              "suggestion": "优化天天津贴的滑动流畅度",
+              "source": "希望支付的时候可以使用指纹验证，还有天天津贴的搜索框，天天津贴滑动很卡！！",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_141"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "配送超时",
+          "canonical_issue": "配送经常超时，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_144",
+              "pain": "配送经常超时",
+              "suggestion": "改进配送时效管理",
+              "source": "美团已经完蛋了 回回都超时",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_144"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "评论区无法点击",
+          "canonical_issue": "评论区无法点击打开，功能失效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_147",
+              "pain": "评论区无法点击打开",
+              "suggestion": "修复评论区点击无响应问题",
+              "source": "评论区点不开",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_147"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "配送页面卡顿",
+          "canonical_issue": "配送页面加载和交互卡顿",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_152",
+              "pain": "进入配送那个页面的查看那个页面进去有点卡",
+              "suggestion": "优化配送页面的加载性能",
+              "source": "联系商家和骑手打字页面发送特别卡 进入配送那个页面的查看那个页面进去有点卡",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_180",
+              "pain": "美团外卖配送页面卡顿明显，其他页面流畅",
+              "suggestion": "针对配送页面进行性能优化，消除卡顿",
+              "source": "美团外卖配送页面卡顿明显，其他页面挺流畅",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_152",
+            "com.sankuai.hmeituan_180"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "小象超市入口加载失败",
+          "canonical_issue": "小象超市入口无限加载",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_156",
+              "pain": "小象超市入口打不开无限加载",
+              "suggestion": "修复小象超市入口页面，解决无限加载问题",
+              "source": "nt小象超市入口打不开无限加载",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_156"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "私信清理卡顿",
+          "canonical_issue": "一键清理私信功能卡顿无响应",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_162",
+              "pain": "一键清理私信卡顿，点击无反应",
+              "suggestion": "优化一键清理私信功能的性能，修复无响应问题",
+              "source": "一键清理私信卡顿，点了没反应",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_162"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "应用卡顿发热",
+          "canonical_issue": "应用运行卡顿且导致设备发热",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_165",
+              "pain": "应用运行卡顿且导致设备发热",
+              "suggestion": "优化应用性能，减少卡顿和发热问题",
+              "source": "又卡又发热",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_221",
+              "pain": "打开美团点个外卖电量狂掉，耗电严重",
+              "suggestion": "优化电量消耗，降低后台运行功耗",
+              "source": "太耗电了 打开美团点个外卖 电量狂掉，用起来业卡",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.sankuai.hmeituan_221",
+              "pain": "使用卡顿，不流畅",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "太耗电了 打开美团点个外卖 电量狂掉，用起来业卡",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_165",
+            "com.sankuai.hmeituan_221",
+            "com.sankuai.hmeituan_221"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "滑动卡顿",
+          "canonical_issue": "页面滑动操作卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_168",
+              "pain": "滑动卡顿",
+              "suggestion": "优化滑动性能，减少卡顿",
+              "source": "有进步，但是滑动起来依旧卡卡的为什么啊",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_168"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "应用无响应",
+          "canonical_issue": "应用运行不流畅、卡顿、无响应",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_173",
+              "pain": "应用不流畅、卡顿、无响应",
+              "suggestion": "优化性能，减少卡顿，提升响应速度",
+              "source": "不流畅卡顿，没反应，",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_241",
+              "pain": "应用运行卡顿",
+              "suggestion": "优化应用性能，减少卡顿现象",
+              "source": "真的卡",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_255",
+              "pain": "卡成啥了",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "卡成啥了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_173",
+            "com.sankuai.hmeituan_241",
+            "com.sankuai.hmeituan_255"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "定位不稳定",
+          "canonical_issue": "定位功能反复横跳，不稳定",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_178",
+              "pain": "定位反复横跳，不稳定",
+              "suggestion": "优化定位算法，确保定位稳定准确",
+              "source": "一些功能，比如领券都没有，定位反复横跳",
+              "device": "nova 14 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_178"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "应用启动后卡顿",
+          "canonical_issue": "应用打开一段时间后开始卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_193",
+              "pain": "打开应用一分钟左右开始越来越卡",
+              "suggestion": "优化性能，减少内存占用，改善流畅度",
+              "source": "打开看一分钟左右就开始越来越卡，你干嘛呢？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_193"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "更新后卡顿",
+          "canonical_issue": "最新更新后应用卡顿严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_204",
+              "pain": "最新更新后应用卡顿严重",
+              "suggestion": "优化更新后的性能，减少卡顿",
+              "source": "最新的更新完卡爆了！",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_204"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "商家购物车支付卡顿",
+          "canonical_issue": "打开商家、购物车、支付页面时卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_205",
+              "pain": "打开商家、购物车、支付时特别卡，转圈",
+              "suggestion": "优化加载速度，减少转圈等待",
+              "source": "怎么打开商家或者购物车、支付的时候特别卡啊，一直在那转圈，我用别的app就没这问题",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_205"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "整体使用卡顿",
+          "canonical_issue": "应用整体使用过程中略卡顿",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_216",
+              "pain": "使用起来略卡顿",
+              "suggestion": "优化性能，减少卡顿，提升流畅度",
+              "source": "功能是差不多了，使用起来略卡，是否可以优化一下",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_222",
+              "pain": "卡顿，优化差",
+              "suggestion": "提升应用流畅度，加强性能优化",
+              "source": "卡顿，优化差",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_216",
+            "com.sankuai.hmeituan_222"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "(auto) 单项簇",
+          "canonical_issue": "(auto) 未匹配到其它簇的条目",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_159",
+              "pain": "乱删别人照片",
+              "suggestion": "修复可能导致的误删照片问题，增加确认机制",
+              "source": "怎么乱删别人照片？",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_159"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "应用卡顿",
+          "canonical_issue": "应用整体运行卡顿，影响用户体验",
+          "size": 7,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_273",
+              "pain": "应用卡顿，怀疑是短视频、小程序等非核心功能导致",
+              "suggestion": "优化性能，减少非核心功能对性能的影响，或增加性能模式",
+              "source": "和安卓一样卡顿了，非得上你的破短视频和小程序还有小游戏是吧",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_283",
+              "pain": "太卡了，发热严重",
+              "suggestion": "优化性能降低发热",
+              "source": "太卡了，发热严重，买完之后不能返回商家主界面，必须大退才可以",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.sankuai.hmeituan_296",
+              "pain": "为何感觉现在美团用起来感觉一卡一卡呢？",
+              "suggestion": "优化性能，减少卡顿。",
+              "source": "为何感觉现在美团用起来感觉一卡一卡呢？唯一好就是没有广告了",
+              "device": "HUAWEI Mate 60 Pro+"
+            },
+            {
+              "id": "com.sankuai.hmeituan_299",
+              "pain": "卡的要死",
+              "suggestion": "优化性能，提升流畅度。",
+              "source": "卡的要死",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_339",
+              "pain": "应用卡顿严重",
+              "suggestion": "优先解决性能问题，降低卡顿发生率",
+              "source": "卡爆了",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_345",
+              "pain": "有些场景使用卡顿",
+              "suggestion": "优化应用性能，减少卡顿问题",
+              "source": "感觉有些场景用的有点卡，有一样问题的吗",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_382",
+              "pain": "应用卡顿，与骑手商家对话必卡",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "卡的很优化差 和骑手商家对话必卡 也没有已读线上 这么多版本了这种必要基础功能还做不好",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_273",
+            "com.sankuai.hmeituan_283",
+            "com.sankuai.hmeituan_296",
+            "com.sankuai.hmeituan_299",
+            "com.sankuai.hmeituan_339",
+            "com.sankuai.hmeituan_345",
+            "com.sankuai.hmeituan_382"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "启动速度慢",
+          "canonical_issue": "应用启动速度变慢，影响使用效率",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_278",
+              "pain": "新版启动速度变慢，不再是秒开",
+              "suggestion": "优化应用启动速度",
+              "source": "新版怎么启动速度变慢了，原来都是秒开，现在开始等待",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_284",
+              "pain": "启动速度慢",
+              "suggestion": "优化启动速度",
+              "source": "进软件好慢，还没五年前的nova7快，能优化一下启动速度吗",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_278",
+            "com.sankuai.hmeituan_284"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "发热严重",
+          "canonical_issue": "应用使用过程中设备发热严重",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_274",
+              "pain": "使用外卖功能时发热严重",
+              "suggestion": "优化应用功耗，减少发热",
+              "source": "刷一天抖音打游戏都不带发热的 点10分钟外卖烫的发昏",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_328",
+              "pain": "使用一会就发烫，耗电量大。",
+              "suggestion": "优化功耗，减少发热和耗电。",
+              "source": "为什么用了一会就容易发烫，耗电量太大了。电池耗电量排第一",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_274",
+            "com.sankuai.hmeituan_328"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "页面加载失败",
+          "canonical_issue": "特定页面无法正常打开或加载",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_264",
+              "pain": "活动页面点不开",
+              "suggestion": "修复活动页面点击无响应的问题",
+              "source": "活动都点不开了，还不如你更新",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_376",
+              "pain": "神券页面点不开，怀疑系统bug或优化不到位",
+              "suggestion": "修复神券页面无法打开的bug，优化页面加载稳定性",
+              "source": "不知道是系统优化不到位还是bug我的神券页面一直点不开。但是已经能用了，好样的美团，加油！",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_264",
+            "com.sankuai.hmeituan_376"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "聊天界面卡顿",
+          "canonical_issue": "聊天界面响应缓慢，影响沟通体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_282",
+              "pain": "聊天界面卡顿",
+              "suggestion": "修复聊天界面卡顿问题",
+              "source": "跟商家聊天界面卡顿，希望修复",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_282"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "还车功能异常",
+          "canonical_issue": "还车功能出现频闪或无响应问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_321",
+              "pain": "还车功能频闪无反应，需要清后台重进才能还车。",
+              "suggestion": "修复频闪问题，优化还车功能稳定性。",
+              "source": "最近骑车的还车功能是不是抽风了？怎么每次点还车以后APP都会频闪然后没反应？跟卡bug似的，非要清后台重进以后点还车才能顺利归还。越更新越差劲！",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_321"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "网络误报卡顿",
+          "canonical_issue": "应用误报网络卡顿，实际网络正常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_332",
+              "pain": "应用不流畅，频繁提示网络卡顿但设备网络正常",
+              "suggestion": "优化网络请求逻辑，减少误报，提升应用流畅度",
+              "source": "我的黑金会员领劵呢\n一点都不流畅，老是说网卡，但是买的平板一点都不卡",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_332"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "酒店页面加载慢",
+          "canonical_issue": "酒店页面加载时间过长，影响使用体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_337",
+              "pain": "点酒店页面长时间加载转圈",
+              "suggestion": "优化酒店搜索加载速度，提高数据响应效率",
+              "source": "知道现在适配的很差吗？一个横屏的平板界面，一会大一会儿小，点个酒店一直在转圈。",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_337"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "整体稳定性差",
+          "canonical_issue": "应用整体稳定性不足，存在多种问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_368",
+              "pain": "稳定性不行",
+              "suggestion": "修复稳定性bug",
+              "source": "适配非常差，稳定性也不行，定位也不准，体验很不好",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_368"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "整体卡顿与流畅度",
+          "canonical_issue": "应用整体卡顿，页面切换、动画、滑动等操作不流畅",
+          "size": 10,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_385",
+              "pain": "应用卡顿且锁帧，不流畅",
+              "suggestion": "优化帧率，提升流畅度",
+              "source": "感觉有点卡，锁帧，",
+              "device": "HUAWEI Mate X5 典藏版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_386",
+              "pain": "没有安卓流畅，体验差",
+              "suggestion": "优化性能，提高流畅度",
+              "source": "烂的要死。没有安卓的流畅，联系骑手商家都没有常用语",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_387",
+              "pain": "系统卡顿",
+              "suggestion": "优化系统性能，减少卡顿",
+              "source": "系统卡顿，nova14 Pro",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_420",
+              "pain": "选购商品时页面非常卡顿。",
+              "suggestion": "优化选购页面的渲染和交互性能，减少卡顿。",
+              "source": "选购的时候那叫一个卡",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_427",
+              "pain": "外卖商品详情页滑动卡顿",
+              "suggestion": "优化页面滑动性能，减少卡顿",
+              "source": "有的外卖商品详情页面滑动起来真的卡",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_429",
+              "pain": "使用时有卡顿，流畅度不足",
+              "suggestion": "优化整体流畅度，减少卡顿现象",
+              "source": "更新一下流畅度  现在使用有的时候会卡顿",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_454",
+              "pain": "应用卡顿，体验差",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "大家加下油，他还有2.9分，各位都有责任，卡的跟windows98一样",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_468",
+              "pain": "卡顿严重，不流畅",
+              "suggestion": "优化整体性能，提升流畅度",
+              "source": "卡的很一点也不流畅",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_471",
+              "pain": "每个页面切换和动画卡顿",
+              "suggestion": "优化页面切换和动画性能，减少卡顿",
+              "source": "我很奇怪，你是怎么做到鸿蒙上每个页面切换和动画也这么卡的？Android上卡我承认是Android的问题，鸿蒙上也卡你也是没谁了！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_480",
+              "pain": "应用太卡顿",
+              "suggestion": "优化整体性能，减少卡顿",
+              "source": "太卡顿",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_385",
+            "com.sankuai.hmeituan_386",
+            "com.sankuai.hmeituan_387",
+            "com.sankuai.hmeituan_420",
+            "com.sankuai.hmeituan_427",
+            "com.sankuai.hmeituan_429",
+            "com.sankuai.hmeituan_454",
+            "com.sankuai.hmeituan_468",
+            "com.sankuai.hmeituan_471",
+            "com.sankuai.hmeituan_480"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "网络加载异常",
+          "canonical_issue": "WiFi环境下页面加载困难，特定模块（如拼好饭）加载失败或转圈",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_419",
+              "pain": "WiFi状态下难以打开APP页面，关闭WiFi后正常。",
+              "suggestion": "优化WiFi网络下的页面加载性能，排查DNS或网络请求问题。",
+              "source": "为什么WIFI状态很难打开APP页面，关掉WIFI很容易打开",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.sankuai.hmeituan_437",
+              "pain": "拼好饭界面经常没网且一直加载，其他界面正常",
+              "suggestion": "排查拼好饭模块的网络请求或数据加载问题，进行优化。",
+              "source": "拼好饭经常出现没网，一直加载中是什么情况，其他界面都很正常，一到拼好饭的界面就是卡加载中",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_472",
+              "pain": "点到店自取里的商品一直在转圈",
+              "suggestion": "优化加载速度或解决转圈问题",
+              "source": "点到店自取里的商品一直在转圈",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_419",
+            "com.sankuai.hmeituan_437",
+            "com.sankuai.hmeituan_472"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "功能模块卡顿",
+          "canonical_issue": "特定功能（如联系骑手、跳转支付宝）出现卡顿或性能问题",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_464",
+              "pain": "联系骑手时出现卡顿",
+              "suggestion": "优化联系骑手功能的性能，减少卡顿",
+              "source": "没有团购评价很不方便，联系骑手的时候，有时候卡成狗",
+              "device": "HUAWEI Mate X5"
+            },
+            {
+              "id": "com.sankuai.hmeituan_499",
+              "pain": "跳转支付宝卡成PPT",
+              "suggestion": "优化跳转流畅度",
+              "source": "用5分钟就烫的不行，跳转支付宝给我卡成PPT，优化适配是我目前用的软件最差的",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_464",
+            "com.sankuai.hmeituan_499"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "设备发热与性能劣化",
+          "canonical_issue": "使用过程中设备发热严重，伴随性能下降",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_499",
+              "pain": "使用5分钟手机发热严重",
+              "suggestion": "优化功耗降低发热",
+              "source": "用5分钟就烫的不行，跳转支付宝给我卡成PPT，优化适配是我目前用的软件最差的",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_499"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "161",
+          "cluster_name": "流畅度提升",
+          "canonical_issue": "应用流畅度显著提升",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_136",
+              "pain": "最新版本流畅程度非常不错。",
+              "suggestion": "无",
+              "source": "最新版本流畅程度非常不错",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_378",
+              "pain": "无",
+              "suggestion": "无",
+              "source": "越来越流畅了👍🏻👍🏻👍🏻",
+              "device": "HUAWEI Pocket 2"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_136",
+            "com.sankuai.hmeituan_378"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "1",
+          "cluster_name": "隐私数据访问担忧",
+          "canonical_issue": "用户担忧鸿蒙版美团未经授权访问本地数据或删除相册照片",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_228",
+              "pain": "担心鸿蒙版美团是否会在未经允许的情况下访问本地数据或删除相册照片",
+              "suggestion": "公开隐私政策说明，增强用户信任",
+              "source": "鸿蒙版美团会不会不经允许的情况下访问本地数据，会不会删除相册照片",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_228"
+          ]
+        }
+      ]
+    }
+  },
+  "系统与机型适配": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "39",
+          "cluster_name": "鸿蒙系统更新后功能异常",
+          "canonical_issue": "鸿蒙系统更新后部分功能无法正常使用",
+          "size": 7,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_7",
+              "pain": "鸿蒙系统更新后无法领取美团币",
+              "suggestion": "修复系统更新后的兼容性问题",
+              "source": "鸿蒙系统更新后怎么领不了美团币？",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_23",
+              "pain": "鸿蒙系统无法购买学生票，被以无票理由退款，而其他手机可正常购买",
+              "suggestion": "排查并修复鸿蒙系统下学生票购买接口的兼容性问题",
+              "source": "华为系统买不了学生票！全给我以无票理由退了，在别的手机登陆都能买到",
+              "device": "HUAWEI Mate 60"
+            },
+            {
+              "id": "com.sankuai.hmeituan_30",
+              "pain": "鸿蒙6.1系统下，APP无法显示骑手送达照片，但微信小程序正常",
+              "suggestion": "修复鸿蒙版APP的骑手消息展示问题，确保与微信小程序同步",
+              "source": "鸿蒙6.1，美团APP看不到骑手给我发来的外卖送达照片消息，在微信小程序里可以正常看到消息。",
+              "device": "HUAWEI Mate 60"
+            },
+            {
+              "id": "com.sankuai.hmeituan_47",
+              "pain": "鸿蒙系统不可以用升星券",
+              "suggestion": "适配鸿蒙系统，支持升星券功能",
+              "source": "er！鸿蒙不可以用升星券",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.sankuai.hmeituan_135",
+              "pain": "带有美小标认证的商品在鸿蒙6上无法购买，反馈后未修复。",
+              "suggestion": "修复鸿蒙6系统下购买认证商品的兼容性问题。",
+              "source": "带有美小标认证的 鸿蒙6都没办法购买！反馈了还没修复！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_143",
+              "pain": "鸿蒙系统下无法接收美团照片",
+              "suggestion": "修复鸿蒙系统下图片接收问题",
+              "source": "鸿蒙系统，美团照片都收不到，外卖都找不到放哪里",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_191",
+              "pain": "鸿蒙版美团给骑手发信息，骑手手机显示版本不支持",
+              "suggestion": "适配鸿蒙版与骑手端消息协议，确保跨版本兼容",
+              "source": "鸿蒙版美团给骑手发信息，骑手手机显示版本不支持，无法读取此消息，\n骑手看不到用户在程序内发送的消息， 建议进行适配",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_7",
+            "com.sankuai.hmeituan_23",
+            "com.sankuai.hmeituan_30",
+            "com.sankuai.hmeituan_47",
+            "com.sankuai.hmeituan_135",
+            "com.sankuai.hmeituan_143",
+            "com.sankuai.hmeituan_191"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "鸿蒙版购票功能缺陷",
+          "canonical_issue": "鸿蒙版购票功能存在缺陷，包括强制收费和商品显示问题",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_27",
+              "pain": "鸿蒙版购票强制加收40元服务费，安卓版无此限制",
+              "suggestion": "统一各平台购票服务规则，移除鸿蒙版不合理的强制收费",
+              "source": "鸿蒙版美团购票强制只能选择加40元服务，安卓正常，把华为用户当日本人耍！",
+              "device": "HUAWEI Mate X7 典藏版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_110",
+              "pain": "鸿蒙版预订功能存在缺陷，商品显示为“不再可售”。",
+              "suggestion": "修复鸿蒙版预订功能，确保商品可售状态正确显示。",
+              "source": "鸿蒙版的功能有缺陷，预订的显示为“不再可售”",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_27",
+            "com.sankuai.hmeituan_110"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "鸿蒙系统适配性差",
+          "canonical_issue": "鸿蒙系统下应用卡顿严重，适配性差",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_63",
+              "pain": "在华为mate80上经常闪退",
+              "suggestion": "修复闪退问题，加强机型适配",
+              "source": "换了华为mate80后，美团老是闪退",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_87",
+              "pain": "应用卡顿严重，与鸿蒙系统适配性差",
+              "suggestion": "优化与鸿蒙系统的适配，提升运行流畅度",
+              "source": "卡的简直不能再卡，和鸿蒙的适配性非常差",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_175",
+              "pain": "鸿蒙版体验不好，存在适配问题",
+              "suggestion": "加强鸿蒙系统适配，提升使用体验",
+              "source": "鸿蒙版着实不好用，客服不是一般水",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_63",
+            "com.sankuai.hmeituan_87",
+            "com.sankuai.hmeituan_175"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "实况窗功能不稳定",
+          "canonical_issue": "实况窗功能在鸿蒙系统下不稳定，时有时无",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_99",
+              "pain": "实况窗时有时无",
+              "suggestion": "修复实况窗功能，确保稳定适配",
+              "source": "实况窗时有时无的",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_145",
+              "pain": "实况窗在鸿蒙6上不稳定，经常不显示",
+              "suggestion": "优化实况窗在鸿蒙系统的稳定性",
+              "source": "实况窗到鸿蒙6依旧不稳定，是不是不显示实况窗",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_199",
+              "pain": "更新后实况窗不显示通知",
+              "suggestion": "检查更新对实况窗通知的影响，及时适配修复",
+              "source": "更新后实况窗不显示通知了",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_99",
+            "com.sankuai.hmeituan_145",
+            "com.sankuai.hmeituan_199"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "鸿蒙系统深色模式未适配",
+          "canonical_issue": "鸿蒙6的深色模式未适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_266",
+              "pain": "鸿蒙6的深色模式未适配",
+              "suggestion": "适配鸿蒙6深色模式",
+              "source": "鸿蒙6的深色模式什么时候适配？？？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_266"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "缺少光感视效适配",
+          "canonical_issue": "缺少光感视效适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_8",
+              "pain": "缺少光感视效适配",
+              "suggestion": "增加光感视效适配",
+              "source": "快适配光感视效",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_8"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "平板端显示比例不合适",
+          "canonical_issue": "平板端显示比例不合适，页面内容显示不全",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_150",
+              "pain": "平板端显示比例不合适，页面内容显示不全",
+              "suggestion": "优化平板端的显示适配",
+              "source": "好好适配一下平板端吧，显示比例不合适，很多页面都看不全，很难用",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_150"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "鸿蒙6.0榜单功能异常",
+          "canonical_issue": "鸿蒙6.0及以上版本榜单功能无法打开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_272",
+              "pain": "系统6.0以上版本榜单功能点不开",
+              "suggestion": "修复鸿蒙6.0及以上版本的榜单功能兼容性问题",
+              "source": "能不能修复一下6.0以上的啊，榜单功能点不开",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_272"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "实况窗功能在更新后消失或",
+          "canonical_issue": "实况窗功能在更新后消失或未适配",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_292",
+              "pain": "为什么没有实况窗了",
+              "suggestion": "恢复实况窗功能或提供替代方案。",
+              "source": "为什么没有实况窗了",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.sankuai.hmeituan_295",
+              "pain": "更新之后实况窗不显示了",
+              "suggestion": "检查更新后实况窗消失原因，恢复功能。",
+              "source": "更新之后实况窗不显示了",
+              "device": "HUAWEI Mate 60 Pro+"
+            },
+            {
+              "id": "com.sankuai.hmeituan_300",
+              "pain": "实况窗怎么优化没了",
+              "suggestion": "恢复实况窗功能。",
+              "source": "实况窗怎么优化没了",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_292",
+            "com.sankuai.hmeituan_295",
+            "com.sankuai.hmeituan_300"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "鸿蒙6消息乱码",
+          "canonical_issue": "鸿蒙6系统下在线联系骑手消息显示乱码",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_302",
+              "pain": "鸿蒙6系统下在线联系骑手的消息出现乱码",
+              "suggestion": "修复鸿蒙6系统下消息编码问题，确保消息正常显示",
+              "source": "多个骑手反应我鸿蒙6在线联系发的消息他们收到说是乱码，不知道\n发的啥",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_302"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "Pad端适配失效",
+          "canonical_issue": "声称适配Pad端但实际无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_314",
+              "pain": "声称适配Pad端但实际无法使用",
+              "suggestion": "完善Pad端适配，确保功能可用",
+              "source": "写着适配Pad端，下载下来完全不能用，卸载",
+              "device": "HUAWEI MatePad 11.5''S"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_314"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "团购预约未适配",
+          "canonical_issue": "团购线上预约功能未适配鸿蒙系统",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_316",
+              "pain": "团购线上预约功能未适配",
+              "suggestion": "开发并适配团购线上预约功能",
+              "source": "团购线上预约什么的还是没有适配",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_316"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "摇一摇功能不兼容",
+          "canonical_issue": "美团果园摇一摇功能不支持新系统",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_320",
+              "pain": "美团果园摇一摇不支持新系统",
+              "suggestion": "兼容新系统，确保摇一摇功能正常",
+              "source": "美团果园摇一摇不支持新系统",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_320"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "数字人民币功能异常",
+          "canonical_issue": "鸿蒙系统下建设银行数字人民币好礼打不开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_330",
+              "pain": "鸿蒙系统下建设银行数字人民币好礼打不开。",
+              "suggestion": "适配鸿蒙系统，修复兼容性问题。",
+              "source": "鸿蒙\n建设银行数字人民币好礼打不开",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_330"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "整体适配差",
+          "canonical_issue": "鸿蒙系统下整体适配差，稳定性与定位不准",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_368",
+              "pain": "适配非常差",
+              "suggestion": "优化对当前机型的适配",
+              "source": "适配非常差，稳定性也不行，定位也不准，体验很不好",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.sankuai.hmeituan_499",
+              "pain": "优化适配是目前用的软件最差的",
+              "suggestion": "加强机型适配优化",
+              "source": "用5分钟就烫的不行，跳转支付宝给我卡成PPT，优化适配是我目前用的软件最差的",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_368",
+            "com.sankuai.hmeituan_499"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "版本过低无法授权",
+          "canonical_issue": "鸿蒙版本过低，无法接受第三方授权",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_370",
+              "pain": "版本太低，不接受第三方授权",
+              "suggestion": "升级版本以支持第三方授权",
+              "source": "版本太低，不接受第三方授权",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_370"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "鸿蒙版本过低无法升级",
+          "canonical_issue": "鸿蒙版本过低无法联系客服且无法升级",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_379",
+              "pain": "鸿蒙版本非常差，客服告知版本太低无法联系，且无法升级",
+              "suggestion": "优化鸿蒙版本的适配，解决版本升级问题，确保客服能够处理低版本用户",
+              "source": "鸿蒙版本非常差，联系客服说版本太低联系不了，让升级也升级不了",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_379"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "定位不准",
+          "canonical_issue": "鸿蒙系统下定位不准确",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_396",
+              "pain": "定位不准确，怀疑是App或鸿蒙系统问题",
+              "suggestion": "优化定位算法，适配鸿蒙系统，确保定位精准",
+              "source": "你那个定位能不能搞好？到底是你的问题还是鸿蒙系统的问题？",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_396"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "群消息与链接不支持",
+          "canonical_issue": "鸿蒙6系统下群消息和打折链接不支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_443",
+              "pain": "鸿蒙6系统下群消息看不了，群内打折链接不支持",
+              "suggestion": "尽快适配鸿蒙6系统，修复群消息和链接支持",
+              "source": "鸿蒙6  群消息看不了  群内发打折链接 显示不支持  能不能尽快修复 既然鸿蒙已经用了 那你们互相能不能尽快完善 彼此支持一下",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_443"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "深度适配需求",
+          "canonical_issue": "希望更深度适配鸿蒙设备",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_463",
+              "pain": "希望更深度适配当前设备",
+              "suggestion": "加强鸿蒙原生适配，优化设备兼容性",
+              "source": "希望更深度适配",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_463"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "鸿蒙6功能不完善",
+          "canonical_issue": "鸿蒙6版本功能不完善，操作困难",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_488",
+              "pain": "鸿蒙6版本不完善，很多功能不能用",
+              "suggestion": "加快鸿蒙系统的适配与完善",
+              "source": "鸿蒙6的版本还不完善，很多功能不能使用，就换一个地址就很难操作",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_488"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "支付缺少积分抵扣",
+          "canonical_issue": "鸿蒙系统支付缺少信用卡积分抵扣功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_489",
+              "pain": "鸿蒙系统支付缺少信用卡积分抵扣功能",
+              "suggestion": "在鸿蒙系统支付中加入信用卡积分抵扣",
+              "source": "美团支付时，安卓系统可以选择使用信用卡积分抵扣部分费用，鸿蒙系统没有，这个功能很实用，希望改进。",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_489"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "134",
+          "cluster_name": "系统适配良好",
+          "canonical_issue": "系统对华为Pura 70系列机型的适配表现优秀",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_50",
+              "pain": "现在适配的还好了",
+              "suggestion": "无",
+              "source": "现在适配的还好了",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_346",
+              "pain": "适配度已经非常高了",
+              "suggestion": "无",
+              "source": "适配度已经非常高了",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_50",
+            "com.sankuai.hmeituan_346"
+          ]
+        }
+      ]
+    }
+  },
+  "运营与规则": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "68",
+          "cluster_name": "平台定价过高",
+          "canonical_issue": "同一商品或服务在美团平台上的价格明显高于其他平台，用户认为不合理",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_18",
+              "pain": "同一家店价格比其他平台贵很多",
+              "suggestion": "调整定价策略，提供价格比对或价格保护机制",
+              "source": "同样的一家店比别的平台贵太多了吧！！",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_33",
+              "pain": "同一外卖商品定价比其他平台贵20元，感觉被欺骗。",
+              "suggestion": "规范定价策略，确保平台价格合理且有竞争力，避免恶意加价。",
+              "source": "美团你做个人吧，人家平台60元你80元，80吃个小吃外卖，你把我们当日本人整了，非常过份，真是气愤",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_18",
+            "com.sankuai.hmeituan_33"
+          ]
+        },
+        {
+          "cluster_id": "69",
+          "cluster_name": "优惠券策略不合理",
+          "canonical_issue": "优惠券发放、使用及退单返还机制不合理，影响用户体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_19",
+              "pain": "用久后不再赠送优惠券，服务变差",
+              "suggestion": "改善老用户优惠券发放策略，保持服务质量",
+              "source": "用久了连券也不送了，服务非常差",
+              "device": "HUAWEI Pura 90 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_25",
+              "pain": "使用新人优惠券下错单后，退单导致优惠券不返还",
+              "suggestion": "优化退单优惠券策略，合理返还或补偿用户",
+              "source": "送的新人优惠券，我第一单下错了，订单退了优惠券也没了，送不起就不要送，搞的自己很大方干什么",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_19",
+            "com.sankuai.hmeituan_25"
+          ]
+        },
+        {
+          "cluster_id": "70",
+          "cluster_name": "客服服务差",
+          "canonical_issue": "客服推诿责任、处理问题能力差，缺乏有效沟通",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_28",
+              "pain": "订单问题反馈客服后，客服推诿责任，不承认系统故障",
+              "suggestion": "加强客服培训，建立完善的异常订单处理流程，主动承认并解决问题",
+              "source": "差！母亲节前一天下了个单，买了些花和水果，因为有花专门指定了母亲节当天上午送达，结果一结算完，APP自动退出了，再进去就变成了即时送达。跟客服反应，客服就只强调系统显示我选的是即时送达，就是你自己没操作好，跟他们没关系。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_58",
+              "pain": "客服是机器人，处理不了问题",
+              "suggestion": "增加人工客服支持或提升机器人客服的问题处理能力",
+              "source": "客服是机器人 处理不了反馈的问题",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_28",
+            "com.sankuai.hmeituan_58"
+          ]
+        },
+        {
+          "cluster_id": "71",
+          "cluster_name": "配送费过高",
+          "canonical_issue": "配送费用定价不合理，用户认为过高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_29",
+              "pain": "2公里配送费高达6.3元，用户认为不合理",
+              "suggestion": "重新评估配送费定价策略，使其更合理透明",
+              "source": "疯了你，2公里配送费要6.3，不是你疯了就是我疯了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_29"
+          ]
+        },
+        {
+          "cluster_id": "72",
+          "cluster_name": "配送延迟与提前点送达",
+          "canonical_issue": "外卖配送经常超时，且存在提前点击送达的问题",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_34",
+              "pain": "外卖经常晚到，且似乎是针对特定用户。",
+              "suggestion": "优化配送调度算法，减少配送延迟，并确保公平对待所有用户。",
+              "source": "这个软件我没话可说了，永远给我晚送到，逮着我一个人薅是吧？",
+              "device": "HUAWEI Pura X Max 典藏版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_79",
+              "pain": "每次都超时",
+              "suggestion": "优化配送路线和时间预估，减少超时",
+              "source": "每次都超时，还提前点送达，没到最起码也要要提前跟我说一下，每次拿都找不到外卖，问骑手就是还没送达，尤其是校园外卖。",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_79",
+              "pain": "提前点送达，未到提前点击送达",
+              "suggestion": "加强骑手行为规范，禁止提前点送达，并添加到达确认机制",
+              "source": "每次都超时，还提前点送达，没到最起码也要要提前跟我说一下，每次拿都找不到外卖，问骑手就是还没送达，尤其是校园外卖。",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_34",
+            "com.sankuai.hmeituan_79",
+            "com.sankuai.hmeituan_79"
+          ]
+        },
+        {
+          "cluster_id": "73",
+          "cluster_name": "偷偷涨价",
+          "canonical_issue": "平台或商家未提前通知用户即进行涨价",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_41",
+              "pain": "拼好饭偷偷涨价",
+              "suggestion": "明确涨价规则或提供价格变动通知",
+              "source": "拼好饭偷偷涨价",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_41"
+          ]
+        },
+        {
+          "cluster_id": "74",
+          "cluster_name": "广告问题",
+          "canonical_issue": "应用内广告增多，影响用户体验",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_46",
+              "pain": "有开屏广告了",
+              "suggestion": "提供关闭开屏广告的选项或减少广告频率",
+              "source": "有开屏广告了。",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.sankuai.hmeituan_52",
+              "pain": "更新后出现广告",
+              "suggestion": "减少广告数量或提供去广告选项",
+              "source": "不要更新，现在有广告了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_68",
+              "pain": "应用内开始加载广告",
+              "suggestion": "减少广告或提供广告关闭选项",
+              "source": "有广告，开始加广告了",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_46",
+            "com.sankuai.hmeituan_52",
+            "com.sankuai.hmeituan_68"
+          ]
+        },
+        {
+          "cluster_id": "75",
+          "cluster_name": "推荐算法不透明",
+          "canonical_issue": "酒店推荐基于返点而非真实质量，误导用户",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_55",
+              "pain": "酒店推荐基于返点而非真实质量，误导用户",
+              "suggestion": "改进酒店推荐算法，确保推荐基于用户评价和真实质量",
+              "source": "这个软件丧良心，5.1出行优先的酒店可定是返点高的，评分挺高，差的不行，及时卸载。",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_55"
+          ]
+        },
+        {
+          "cluster_id": "76",
+          "cluster_name": "补贴活动缺失",
+          "canonical_issue": "平台补贴活动减少或缺失，用户不满",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_65",
+              "pain": "天天津贴活动缺失",
+              "suggestion": "恢复或完善补贴活动",
+              "source": "天天津贴都没有在搞什么？二级页面卡的死",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_65"
+          ]
+        },
+        {
+          "cluster_id": "77",
+          "cluster_name": "大数据杀熟",
+          "canonical_issue": "平台利用大数据进行差异化定价，损害用户公平性",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_66",
+              "pain": "大数据杀熟",
+              "suggestion": "停止杀熟行为，提升公平性",
+              "source": "深色模式快点适配，不要再搞你那个杀熟大数据了",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_66"
+          ]
+        },
+        {
+          "cluster_id": "78",
+          "cluster_name": "配送算法不合理",
+          "canonical_issue": "平台算法过度压缩配送时间，导致骑手安全问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_78",
+              "pain": "平台算法过度压缩骑士配送时间，导致闯红灯等安全问题",
+              "suggestion": "调整配送算法，延长合理配送时间，保障骑士安全",
+              "source": "对用户不好，对商家不好，对骑士不好，各种算法压缩骑士配送时间，导致全国各地的骑士都在拼命的闯红灯。我都不知道为什么会让这样的企业活着。",
+              "device": "华为畅享 70X"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_78"
+          ]
+        },
+        {
+          "cluster_id": "79",
+          "cluster_name": "外卖配送问题",
+          "canonical_issue": "外卖配送超时、提前点送达、取餐通知不及时",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_79",
+              "pain": "每次拿都找不到外卖，问骑手就是还没送达",
+              "suggestion": "优化取餐通知，提供实时位置共享，确保用户能找到外卖",
+              "source": "每次都超时，还提前点送达，没到最起码也要要提前跟我说一下，每次拿都找不到外卖，问骑手就是还没送达，尤其是校园外卖。",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_133",
+              "pain": "平台为了不超时，随意修改预计送达时间。",
+              "suggestion": "规范预计送达时间修改规则，保障用户知情权和权益。",
+              "source": "真牛逼，为了不超时，随便改预计送达时间，纯纯资本家",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_79",
+            "com.sankuai.hmeituan_133"
+          ]
+        },
+        {
+          "cluster_id": "80",
+          "cluster_name": "虚假评价问题",
+          "canonical_issue": "平台存在大量虚假评价",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_84",
+              "pain": "平台存在大量虚假评价",
+              "suggestion": "加强评价审核，打击虚假评价",
+              "source": "说的是打造真实评价，你看看有多少虚假评价。",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_84"
+          ]
+        },
+        {
+          "cluster_id": "81",
+          "cluster_name": "杀熟问题",
+          "canonical_issue": "平台存在杀熟行为，不同用户看到价格不同",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_88",
+              "pain": "平台存在杀熟行为",
+              "suggestion": "优化定价策略，消除杀熟现象",
+              "source": "美团平台杀熟",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_117",
+              "pain": "团购价格存在大数据杀熟，不同用户看到价格不同",
+              "suggestion": "透明化定价机制，杜绝杀熟行为",
+              "source": "团购价格并不便宜，而是大数据杀熟，你看是一个价，点进又是一个价",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_88",
+            "com.sankuai.hmeituan_117"
+          ]
+        },
+        {
+          "cluster_id": "82",
+          "cluster_name": "价格差异问题",
+          "canonical_issue": "点餐价格比安卓系统更贵",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_95",
+              "pain": "点餐价格比安卓系统更贵",
+              "suggestion": "统一各平台价格策略，消除差异",
+              "source": "大部分内容无法使用，而且点餐价格比安卓系统更贵，大部分优惠券也领不了，领了也就便宜一两块钱",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_95"
+          ]
+        },
+        {
+          "cluster_id": "83",
+          "cluster_name": "优惠券问题",
+          "canonical_issue": "大部分优惠券领不了，领了也优惠很少",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_95",
+              "pain": "大部分优惠券领不了，领了也优惠很少",
+              "suggestion": "修复优惠券领取功能，确保优惠力度一致",
+              "source": "大部分内容无法使用，而且点餐价格比安卓系统更贵，大部分优惠券也领不了，领了也就便宜一两块钱",
+              "device": "HUAWEI MatePad Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_125",
+              "pain": "没有半价券",
+              "suggestion": "增加半价券的发放或调整活动规则",
+              "source": "联系骑手是空号，而且没有半价券……",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_172",
+              "pain": "长时间未使用后没有优惠券，且无法评价",
+              "suggestion": "优化优惠券发放策略，恢复评价功能",
+              "source": "好几个月没用美团了，感觉没有券，是这样不，现在还不能评价。记录4.8日去旅游住酒店美团扫码也用不了尬死了",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_177",
+              "pain": "价格高、神券秒没，优惠力度下降",
+              "suggestion": "调整定价策略，增加优惠券发放数量，提升用户获得感",
+              "source": "😅价高，神劵秒没，🐮的。一年前你九饿一，现在饿九你一",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_95",
+            "com.sankuai.hmeituan_125",
+            "com.sankuai.hmeituan_172",
+            "com.sankuai.hmeituan_177"
+          ]
+        },
+        {
+          "cluster_id": "84",
+          "cluster_name": "幽灵外卖问题",
+          "canonical_issue": "存在幽灵外卖问题，商家或订单虚假",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_116",
+              "pain": "存在幽灵外卖问题，商家或订单虚假",
+              "suggestion": "加强商家审核和订单真实性监控",
+              "source": "幽灵外卖不解释？？？",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_116"
+          ]
+        },
+        {
+          "cluster_id": "85",
+          "cluster_name": "平台与商家勾结",
+          "canonical_issue": "平台与商家勾结，损害消费者权益",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_119",
+              "pain": "平台与商家勾结，损害消费者权益",
+              "suggestion": "加强消费者权益保护，建立公平交易机制",
+              "source": "和商家狼狈为奸，欺负消费者的一个软件",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_119"
+          ]
+        },
+        {
+          "cluster_id": "86",
+          "cluster_name": "商家监管问题",
+          "canonical_issue": "平台不强制要求外卖商家上传门店照片，监管不作为",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_128",
+              "pain": "平台不强制要求外卖商家上传门店照片，监管不作为",
+              "suggestion": "强制要求商家上传门店照片，加强审核",
+              "source": "不强制要求外卖商家上传门店照片，不作为",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_128"
+          ]
+        },
+        {
+          "cluster_id": "87",
+          "cluster_name": "价格问题",
+          "canonical_issue": "价格越来越贵",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_129",
+              "pain": "价格越来越贵",
+              "suggestion": "优化定价策略，保持价格透明合理",
+              "source": "差评差评 价格越看越贵",
+              "device": "HUAWEI Mate X7"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_129"
+          ]
+        },
+        {
+          "cluster_id": "88",
+          "cluster_name": "活动套路问题",
+          "canonical_issue": "刷视频赚金币活动存在套路，实际收益不符预期",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_130",
+              "pain": "刷视频赚金币活动存在套路，实际收益不符预期",
+              "suggestion": "优化活动规则，减少套路，提升用户信任",
+              "source": "美团套路太深了，刷视频赚金币就是一个套路",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_130"
+          ]
+        },
+        {
+          "cluster_id": "89",
+          "cluster_name": "更新日志问题",
+          "canonical_issue": "每次更新日志内容相同，缺乏诚意",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_169",
+              "pain": "每次更新日志内容相同，缺乏诚意",
+              "suggestion": "更新日志应反映真实更新内容，避免敷衍",
+              "source": "能不能认真点？每次更新日志都是一模一样",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_169"
+          ]
+        },
+        {
+          "cluster_id": "90",
+          "cluster_name": "客服质量问题",
+          "canonical_issue": "客服质量差，解决问题能力不足",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_175",
+              "pain": "客服质量差，解决问题能力不足",
+              "suggestion": "加强客服培训，提升服务质量",
+              "source": "鸿蒙版着实不好用，客服不是一般水",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_175"
+          ]
+        },
+        {
+          "cluster_id": "91",
+          "cluster_name": "支付方式问题",
+          "canonical_issue": "骑行卡自动续费仅支持美团支付，缺少微信等支付方式",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_176",
+              "pain": "骑行卡自动续费仅支持美团支付，缺少微信等支付方式",
+              "suggestion": "增加更多支付方式，如微信支付、支付宝等",
+              "source": "骑行卡自动续费怎么只有美团支付？？？其他支付方式哪里去了？微信支付那些咋没有了？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_176"
+          ]
+        },
+        {
+          "cluster_id": "92",
+          "cluster_name": "配送超时与骑手管理",
+          "canonical_issue": "外卖配送频繁超时，平台对骑手约束不足，缺乏有效监管和处罚机制",
+          "size": 6,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_188",
+              "pain": "外卖配送频繁超时，平台对骑手约束不足",
+              "suggestion": "加强对外卖配送的监管和处罚机制，减少超时情况",
+              "source": "外卖超时一次两次也就忍了 总这样 还能不能约束外卖员了",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_197",
+              "pain": "骑手素质低下",
+              "suggestion": "加强骑手培训与考核，建立投诉处理机制",
+              "source": "骑手一点素质都没有",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_211",
+              "pain": "平台纵容骑手偷外卖，感到失望",
+              "suggestion": "加强对骑手的管理和监督，建立有效的投诉处理机制",
+              "source": "纵容骑手偷外卖，失望透顶",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.sankuai.hmeituan_240",
+              "pain": "小站点不派送、虚假送达、需自己退款，服务体验差",
+              "suggestion": "加强站点管理，惩罚虚假送达行为，简化退款流程",
+              "source": "越做越差。我们这边的小站点。能派送的都不带送的。各种伪单，买东西就给你点送达。然后还要让你自己操作退款。",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.sankuai.hmeituan_254",
+              "pain": "用了也没人送",
+              "suggestion": "加强配送管理",
+              "source": "非常差，用了也没人送，准时宝压根就是霸王条款",
+              "device": "HUAWEI Mate 60"
+            },
+            {
+              "id": "com.sankuai.hmeituan_256",
+              "pain": "配送非常慢",
+              "suggestion": "提升配送速度",
+              "source": "配送非常慢",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_188",
+            "com.sankuai.hmeituan_197",
+            "com.sankuai.hmeituan_211",
+            "com.sankuai.hmeituan_240",
+            "com.sankuai.hmeituan_254",
+            "com.sankuai.hmeituan_256"
+          ]
+        },
+        {
+          "cluster_id": "93",
+          "cluster_name": "退款与投诉机制",
+          "canonical_issue": "申请退款流程复杂，平台要求投诉骑手而非直接退款，缺乏自动退款机制",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_192",
+              "pain": "申请退款美团要求投诉骑手，无法直接退款",
+              "suggestion": "修改退款政策，当配送未完成时自动退款",
+              "source": "简直就是强盗。我花两块钱申请一对一配送，结果骑手说进不来。明明学校有最后一公里配送。你不能提供这个服务，为什么要收我的费用。申请退款美团说退不了，要我投诉骑手。你进不来你不标记，没法配送你平台收我的钱？",
+              "device": "nova 12 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_254",
+              "pain": "准时宝压根就是霸王条款",
+              "suggestion": "修改准时宝条款使其更公平",
+              "source": "非常差，用了也没人送，准时宝压根就是霸王条款",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_192",
+            "com.sankuai.hmeituan_254"
+          ]
+        },
+        {
+          "cluster_id": "94",
+          "cluster_name": "商家审核与处理",
+          "canonical_issue": "商家审核不严，无良商家多且平台处理不力，缺乏有效投诉处理机制",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_200",
+              "pain": "商家审核不严，无良商家多且无法处理",
+              "suggestion": "加强商家资质审核与投诉处理机制",
+              "source": "不核实商家，无良商家太多，美团也处理不了",
+              "device": "nova 12 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_207",
+              "pain": "对商家不友好，压榨佣金，纵容恶意差评和退款，不给合理申诉机会",
+              "suggestion": "优化佣金抽成，公正处理差评和退款，给予商家合理申诉机会",
+              "source": "对商家非常不友好，小商贩压榨式抽取佣金，对恶意差评的顾客纵容，不给商家任何合理申诉的机会，但凡有一个差评导致商家订单直线下滑。那些恶意退款和差评的素质极差的顾客纵容无下限，小商贩在此平台难以生存，此平台商家迟早入住不下去，平台也会失去存在的意义",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_200",
+            "com.sankuai.hmeituan_207"
+          ]
+        },
+        {
+          "cluster_id": "95",
+          "cluster_name": "充电宝误扣费",
+          "canonical_issue": "美团充电宝误扣费，显示未还但实际未去该位置，缺乏核实和申诉渠道",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_206",
+              "pain": "美团充电宝误扣99元，显示未还但实际未去该位置",
+              "suggestion": "核实充电宝归还记录，提供申诉渠道，避免误扣",
+              "source": "这美团充电宝何意味啊，显示我借充电宝未还。显示的借充电宝位置我还没去过。狂扣我99元，还一口咬定是我自己借的。666",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_206"
+          ]
+        },
+        {
+          "cluster_id": "96",
+          "cluster_name": "客服反馈与响应",
+          "canonical_issue": "无法找到美团客服反馈问题，客服系统缺乏人工服务，响应不及时",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_209",
+              "pain": "无法找到美团客服反馈问题",
+              "suggestion": "增加客服反馈入口，优化客服响应",
+              "source": "没法找美团客服反馈",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_259",
+              "pain": "打不进客服电话，都是人机",
+              "suggestion": "改进客服系统，提供人工服务",
+              "source": "打不进客服电话，都是人机",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_209",
+            "com.sankuai.hmeituan_259"
+          ]
+        },
+        {
+          "cluster_id": "97",
+          "cluster_name": "广告骚扰",
+          "canonical_issue": "经常有机器人电话广告骚扰，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_225",
+              "pain": "经常有机器人电话广告骚扰",
+              "suggestion": "减少或取消机器人电话广告推送",
+              "source": "差评，总喜欢派机器人打电话过来打广告，这辈子都不用美团的产品了",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_225"
+          ]
+        },
+        {
+          "cluster_id": "98",
+          "cluster_name": "膨胀券使用问题",
+          "canonical_issue": "购买后膨胀券消失，无法使用，缺乏修复和补偿机制",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_229",
+              "pain": "购买后膨胀券消失，无法使用",
+              "suggestion": "修复膨胀券发放逻辑，确保用户购买后券仍可用",
+              "source": "为什么我没有膨胀卷了，我刚买完！最后没有了！",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_229"
+          ]
+        },
+        {
+          "cluster_id": "99",
+          "cluster_name": "价格歧视与杀熟",
+          "canonical_issue": "老用户价格更高，疑似杀熟，缺乏公平定价策略",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_249",
+              "pain": "老用户价格更高，疑似杀熟",
+              "suggestion": "优化定价策略，保证公平性",
+              "source": "杀熟杀熟杀熟，只要在美团上点单的时间久了，就会越来越贵越来越贵，小妹妹你真是牛逼克拉斯啊，现在吃一碗饭一碗面起码收我二十多",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_249"
+          ]
+        },
+        {
+          "cluster_id": "100",
+          "cluster_name": "诈骗平台与不作为",
+          "canonical_issue": "平台给骗子提供诈骗平台，被骗后平台不作为，缺乏反诈骗措施和用户投诉处理机制",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_258",
+              "pain": "给骗子提供诈骗平台，被骗后平台不作为",
+              "suggestion": "加强反诈骗措施，建立用户投诉处理机制",
+              "source": "纯属给骗子提供诈骗的一个平台，被骗后平台还不作为，我证据截图一堆。",
+              "device": "HUAWEI Mate X6"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_258"
+          ]
+        },
+        {
+          "cluster_id": "101",
+          "cluster_name": "鸿蒙用户优惠差异",
+          "canonical_issue": "鸿蒙用户下单优惠较低，存在差异化对待，缺乏公平优惠策略",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_270",
+              "pain": "鸿蒙用户下单优惠较低，被店员调侃",
+              "suggestion": "提高鸿蒙用户的优惠力度，避免差异化对待",
+              "source": "别的都好就是上次去吃饭，发现跟4.0的比优惠低，结果让店员说了一句，用鸿蒙的都有钱😂",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_270"
+          ]
+        },
+        {
+          "cluster_id": "102",
+          "cluster_name": "版本更新问题",
+          "canonical_issue": "版本更新不及时或更新内容敷衍",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_285",
+              "pain": "版本不更新",
+              "suggestion": "加快版本更新",
+              "source": "版本不更新，抢券都不能，程序员是不干活吗",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_309",
+              "pain": "更新后看视频短剧的红包消失",
+              "suggestion": "修复更新导致的红包丢失问题，确保用户奖励不变",
+              "source": "更新完之前看视频短剧的红包都不见了",
+              "device": "HUAWEI Mate 60"
+            },
+            {
+              "id": "com.sankuai.hmeituan_341",
+              "pain": "更新只有版本号变化，更新说明敷衍，不如写修复了已知问题",
+              "suggestion": "改进更新说明，详细列出每次更新的具体内容",
+              "source": "最近几个版本都是只更新了版本号吧。连更新说明都一字不改。这还不如腾讯写修复了已知问题让人看着舒服。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_285",
+            "com.sankuai.hmeituan_309",
+            "com.sankuai.hmeituan_341"
+          ]
+        },
+        {
+          "cluster_id": "103",
+          "cluster_name": "假货与维权问题",
+          "canonical_issue": "平台存在假货销售且维权困难",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_286",
+              "pain": "卖假酒，维权难",
+              "suggestion": "加强商家审核，完善维权流程",
+              "source": "卖假酒？维权难？再见",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_294",
+              "pain": "安心闪购假一赔十解决了吗",
+              "suggestion": "落实假一赔十承诺，加强商品质量监管。",
+              "source": "安心闪购假一赔十解决了吗",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.sankuai.hmeituan_298",
+              "pain": "在网上卖假酒，宣传假一赔10，安心购，很多人都买到过这种假酒，然后，甚至还有威胁电话。",
+              "suggestion": "严查假货，履行假一赔十承诺，处理威胁电话。",
+              "source": "在网上卖假酒，宣传假一赔10，安心购，很多人都买到过这种假酒，然后，甚至还有威胁电话。",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_286",
+            "com.sankuai.hmeituan_294",
+            "com.sankuai.hmeituan_298"
+          ]
+        },
+        {
+          "cluster_id": "104",
+          "cluster_name": "客服与订单管理问题",
+          "canonical_issue": "客服操作不规范及售后服务质量差",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_290",
+              "pain": "客服未经同意取消订单",
+              "suggestion": "规范客服操作流程，需用户同意才取消订单",
+              "source": "市中心没有人接单，客服没有经过我同意就取消我的订单",
+              "device": "HUAWEI Pura 70 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_291",
+              "pain": "售后服务不行",
+              "suggestion": "改善售后服务质量。",
+              "source": "售后服务不行",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_350",
+              "pain": "平台不给消费者解决问题，客服电话打不进去",
+              "suggestion": "改善客服响应流程，确保电话畅通和问题解决",
+              "source": "不怎么地，平台不会给消费者解决问题，还会叫你的手机打不进去客服电话，",
+              "device": "HUAWEI Pocket 2"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_290",
+            "com.sankuai.hmeituan_291",
+            "com.sankuai.hmeituan_350"
+          ]
+        },
+        {
+          "cluster_id": "105",
+          "cluster_name": "商户管理问题",
+          "canonical_issue": "平台对商户监管不力，存在黑心商户",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_331",
+              "pain": "包庇黑心商户，坑害消费者",
+              "suggestion": "加强商户审核机制，建立严格的投诉处理流程，及时下架违规商户",
+              "source": "包庇黑心商户，坑害消费者，你们的股价下跌真是对得起你们所作所为",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_331"
+          ]
+        },
+        {
+          "cluster_id": "106",
+          "cluster_name": "价格与定价策略问题",
+          "canonical_issue": "价格虚高、差异化定价及频繁涨价",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_329",
+              "pain": "美团越用越贵，比别人的贵几块。",
+              "suggestion": "统一价格策略，避免差异化定价。",
+              "source": "美团越用越贵的软件，我不管买什么都比别人贵几块",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_335",
+              "pain": "商品价格虚高，比超市贵近一倍",
+              "suggestion": "优化商品定价策略，比对市场价格，提供合理价格或优惠",
+              "source": "买瓶橙汁都要花18块钱，超市都才9.5",
+              "device": "nova 15 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_344",
+              "pain": "杀熟，感受到价格歧视",
+              "suggestion": "优化定价算法，确保公平对待所有用户",
+              "source": "美图杀熟，最起码我是这样感受到的。",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_348",
+              "pain": "吃相难看，点两次就疯狂涨价",
+              "suggestion": "控制涨价频率，提高定价透明度",
+              "source": "吃相太难看了，还没点两次疯狂涨价",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_329",
+            "com.sankuai.hmeituan_335",
+            "com.sankuai.hmeituan_344",
+            "com.sankuai.hmeituan_348"
+          ]
+        },
+        {
+          "cluster_id": "107",
+          "cluster_name": "金融功能诱导问题",
+          "canonical_issue": "诱导用户开通金融付款功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_347",
+              "pain": "诱导欺骗开通金融付款功能",
+              "suggestion": "停止诱导行为，明确告知用户金融功能详情",
+              "source": "诱导欺骗开通金融付款功能",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_347"
+          ]
+        },
+        {
+          "cluster_id": "108",
+          "cluster_name": "赔偿与补偿问题",
+          "canonical_issue": "平台拒绝合理赔偿或补偿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_358",
+              "pain": "申请赔偿优惠券被拒",
+              "suggestion": "优化理赔规则，对因骑手原因导致的餐损提供合理补偿。",
+              "source": "骑手点送达，本人没收到 等了快一个小时 没吃到外卖的心情谁懂，只能给一颗星❗️❗️❗️生气😠，又得重新点一份 让美团赔偿我优惠券作为补偿也不肯 唉",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_358"
+          ]
+        },
+        {
+          "cluster_id": "109",
+          "cluster_name": "推荐与搜索问题",
+          "canonical_issue": "推荐算法不合理及搜索相关性差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_364",
+              "pain": "推荐不合理，推送距离过远；搜索推荐偏差（搜蛋糕推荐成人用品）",
+              "suggestion": "优化推荐算法，减少远距离推荐；改善搜索相关性",
+              "source": "点外卖给我推送7公里外的店，没事吧。搜蛋糕点到快递那里给我推成人用品？？？",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_364"
+          ]
+        },
+        {
+          "cluster_id": "110",
+          "cluster_name": "食品安全问题",
+          "canonical_issue": "食品存在异物及安全问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_365",
+              "pain": "吃到黑金，食品有异物",
+              "suggestion": "加强商家食品安全审核，建立快速投诉处理机制",
+              "source": "吃到黑金了，还得被骑手骂，找客服也不解决问题，太差了",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_365"
+          ]
+        },
+        {
+          "cluster_id": "111",
+          "cluster_name": "客服服务差",
+          "canonical_issue": "客服响应不及时、无法转人工、回复机械化、推卸责任，导致用户问题无法解决",
+          "size": 6,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_365",
+              "pain": "客服不解决问题",
+              "suggestion": "优化客服流程，确保问题得到及时有效解决",
+              "source": "吃到黑金了，还得被骑手骂，找客服也不解决问题，太差了",
+              "device": "HUAWEI Pura X 典藏版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_367",
+              "pain": "客服机器人回复，不解决实际问题",
+              "suggestion": "增加人工客服介入机制，尤其是在计费争议时",
+              "source": "骑车关锁关了半分钟，导致超时多计费了，给客服反馈一直是机器人回复并且说费用没有问题？美团你吃相真难看。。。现在给我发短信说再不交费影响信用。。。几块钱还给我上信用了，我就不乐意交",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_374",
+              "pain": "客服联系不上，无法转人工",
+              "suggestion": "优化客服接入流程，增加人工客服通道，减少等待时间",
+              "source": "美团客服永远联系不上，转人工也转不上",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_375",
+              "pain": "客服重复套话、不解决问题，服务差",
+              "suggestion": "加强客服培训，提升问题解决能力，建立有效的反馈机制",
+              "source": "客服全程只会重复套话、答非所问，完全听不懂用户在说什么，也没有任何解决问题的能力和态度。沟通半天，问题没解决，反而越处理越生气。服务体验极差，全程敷衍了事，美团现在是越做越差了",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.sankuai.hmeituan_411",
+              "pain": "客服像机器人一样，无法有效解决问题。",
+              "suggestion": "提升客服智能化水平，增加人工客服快速接入通道。",
+              "source": "骑手态度非常恶劣，送错餐根本没有回复，客服像人机一样，一点都不能解决问题 ，投诉骑手的地方根本找不到。",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_458",
+              "pain": "美团客服推卸责任，不解决定位问题",
+              "suggestion": "加强客服培训，避免推诿，主动解决问题",
+              "source": "定位每次都不准。每次美团客服都推卸责任。不是商家的问题，就是骑手的问题。就你没问题。",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_365",
+            "com.sankuai.hmeituan_367",
+            "com.sankuai.hmeituan_374",
+            "com.sankuai.hmeituan_375",
+            "com.sankuai.hmeituan_411",
+            "com.sankuai.hmeituan_458"
+          ]
+        },
+        {
+          "cluster_id": "112",
+          "cluster_name": "骑手服务问题",
+          "canonical_issue": "骑手态度恶劣、送错餐、出餐晚或无人接单时平台协调不力，用户被迫承担沟通责任",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_365",
+              "pain": "被骑手骂，服务态度差",
+              "suggestion": "加强骑手培训，设立骑手服务评价与惩罚机制",
+              "source": "吃到黑金了，还得被骑手骂，找客服也不解决问题，太差了",
+              "device": "HUAWEI Pura X 典藏版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_415",
+              "pain": "用户被迫充当商家和骑手之间的沟通中介，体验极差。",
+              "suggestion": "建立平台自动协调机制，当出现出餐晚或无骑手接单时主动介入，减少用户沟通成本。",
+              "source": "商家出餐晚，骑手离开不接单。打电话让我去联系商家处理。商家说会帮我换个骑手，没有骑手接单。隔几分钟就有电话打过来，让我去联系商家退款。等了半天，光去做中间人沟通了。不幸中的万幸，后面商家给退款了",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_365",
+            "com.sankuai.hmeituan_415"
+          ]
+        },
+        {
+          "cluster_id": "113",
+          "cluster_name": "优惠券与会员权益问题",
+          "canonical_issue": "优惠券膨胀幅度小、会员等级与权益不匹配、平台间券量不一致，影响用户体验",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_371",
+              "pain": "券膨胀的特别小",
+              "suggestion": "优化优惠券膨胀机制，提供更大幅度膨胀或明确膨胀规则",
+              "source": "无语死了，买的券膨胀的特别小",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.sankuai.hmeituan_372",
+              "pain": "白金会员领券少于黄金会员，权益分配不合理",
+              "suggestion": "检查会员体系，确保等级越高权益越多，调整领券策略",
+              "source": "我一白金会员领的券还没有其他黄金会员领的券多",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_426",
+              "pain": "红包券比安卓少",
+              "suggestion": "统一各平台红包券发放数量",
+              "source": "赶紧加快迭代。红包券都比安卓的少",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_371",
+            "com.sankuai.hmeituan_372",
+            "com.sankuai.hmeituan_426"
+          ]
+        },
+        {
+          "cluster_id": "114",
+          "cluster_name": "平台规则与流程问题",
+          "canonical_issue": "小额费用威胁信用、默认餐具设置不合理、活动参与失败、支付方式缺失等规则设计不合理",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_367",
+              "pain": "因小额费用被威胁影响信用，体验差",
+              "suggestion": "调整信用策略，避免因小额争议过度影响用户信用",
+              "source": "骑车关锁关了半分钟，导致超时多计费了，给客服反馈一直是机器人回复并且说费用没有问题？美团你吃相真难看。。。现在给我发短信说再不交费影响信用。。。几块钱还给我上信用了，我就不乐意交",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_409",
+              "pain": "一堆活动参加不了",
+              "suggestion": "修复活动参与功能，确保用户能正常参加",
+              "source": "一堆活动参加不了，拉完了",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_412",
+              "pain": "外卖默认不需要餐具，且忘记修改后无法补要。",
+              "suggestion": "修改默认餐具选项为“需要”，或在订单详情中提供修改餐具的入口。",
+              "source": "反人类的平台，外卖默认不需要餐具，一次忘里修改就不给餐具，让我看着一碗混沌无法下口，果断卸载。",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_417",
+              "pain": "支付宝付款功能未上架，影响支付体验。",
+              "suggestion": "尽快上架支付宝支付方式，满足用户多样支付需求。",
+              "source": "支付宝付款还不上架",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_367",
+            "com.sankuai.hmeituan_409",
+            "com.sankuai.hmeituan_412",
+            "com.sankuai.hmeituan_417"
+          ]
+        },
+        {
+          "cluster_id": "115",
+          "cluster_name": "商家与退款问题",
+          "canonical_issue": "商家货不对板、退款困难，平台处理不彻底，仅提供部分补贴",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_393",
+              "pain": "商家货不对板退款难，平台处理不彻底，仅补贴部分金额",
+              "suggestion": "完善退款规则，加强商家监管，确保用户权益得到保障",
+              "source": "不行，商家卖东西货不对板，夸大宣传，发现了跟商家说，跟我说影响二次销售，不给退，美团说他们没法直接扣款也不能强制扣款，我自认倒霉，最后美团给我50块钱补贴，商品购买价钱的一半左右，网购这么多年，第一次碰到卖家卖东西货不对板还这么理直气壮的",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_393"
+          ]
+        },
+        {
+          "cluster_id": "116",
+          "cluster_name": "用户信息骚扰",
+          "canonical_issue": "平台乱打骚扰电话，涉嫌滥用用户信息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_384",
+              "pain": "平台乱打骚扰电话，收集用户信息，影响用户",
+              "suggestion": "停止骚扰电话，加强用户信息保护",
+              "source": "收集用户信息，不知道谁欠美团月付钱，一天乱打骚扰电话给其它用户",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_384"
+          ]
+        },
+        {
+          "cluster_id": "117",
+          "cluster_name": "优惠活动减少",
+          "canonical_issue": "平台优惠活动力度下降，用户感知体验变差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_408",
+              "pain": "优惠越来越少",
+              "suggestion": "增加优惠活动力度",
+              "source": "越来越烂，配送时间成倍增长，优惠越来越少，体验感越来越差",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_408"
+          ]
+        },
+        {
+          "cluster_id": "118",
+          "cluster_name": "价格偏高与优惠缺失",
+          "canonical_issue": "商品价格偏高且缺乏优惠券等促销手段",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_466",
+              "pain": "商品价格偏高，缺少美团券等优惠",
+              "suggestion": "增加优惠券活动，下调部分商品价格",
+              "source": "有美团券就更好了，买东西死贵死贵的",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_473",
+              "pain": "感觉东西比之前手机贵",
+              "suggestion": "检查价格显示或定价策略，确保一致性",
+              "source": "感觉东西比之前手机贵",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_466",
+            "com.sankuai.hmeituan_473"
+          ]
+        },
+        {
+          "cluster_id": "119",
+          "cluster_name": "推荐算法不公平",
+          "canonical_issue": "推荐系统存在大数据杀熟，仅推荐用户常浏览内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_483",
+              "pain": "大数据杀熟，只推荐常浏览内容",
+              "suggestion": "推荐算法应更加公平，避免定向推荐",
+              "source": "无法搜索“最新发布”的团购，俗话来说就是大数据杀熟，只推荐平常浏览的内容。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_483"
+          ]
+        },
+        {
+          "cluster_id": "120",
+          "cluster_name": "外卖员服务态度差",
+          "canonical_issue": "外卖员言语不当，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_496",
+              "pain": "外卖员言语不当，影响体验",
+              "suggestion": "加强骑手培训与沟通规范",
+              "source": "外卖员说的一些话，觉的自己跑众包牛了",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_496"
+          ]
+        }
+      ]
+    }
+  },
+  "体验赞赏": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "121",
+          "cluster_name": "用户赞赏应用更新频率高，",
+          "canonical_issue": "用户赞赏应用更新频率高，适配及时",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_15",
+              "pain": "更新频率高，用户赞赏",
+              "suggestion": "无",
+              "source": "更新挺勤快的",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_16",
+              "pain": "更新快且适配完美，特别赞赏",
+              "suggestion": "无",
+              "source": "更新非常快，特别是Pura X Max这种比例都适配的很完美",
+              "device": "HUAWEI Pura X Max 典藏版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_97",
+              "pain": "近期更新频繁，功能追赶安卓，有望年前平齐",
+              "suggestion": "无",
+              "source": "最近一周一更新，给程序员加鸡腿，年前和安卓功能平齐，过年不耽误消费",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_170",
+              "pain": "用户称赞更新频率高",
+              "suggestion": "无",
+              "source": "美团更新很快",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_15",
+            "com.sankuai.hmeituan_16",
+            "com.sankuai.hmeituan_97",
+            "com.sankuai.hmeituan_170"
+          ]
+        },
+        {
+          "cluster_id": "122",
+          "cluster_name": "功能完善",
+          "canonical_issue": "用户赞赏功能完善，与安卓版本拉齐",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_214",
+              "pain": "基本拉齐安卓，功能完善",
+              "suggestion": "无",
+              "source": "基本拉齐安卓",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_252",
+              "pain": "很好，半年时间功能都赶上了，比网易给力多了",
+              "suggestion": "无",
+              "source": "很好，半年时间功能都赶上了，比网易给力多了",
+              "device": "HUAWEI Mate X6 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_214",
+            "com.sankuai.hmeituan_252"
+          ]
+        },
+        {
+          "cluster_id": "123",
+          "cluster_name": "整体体验好",
+          "canonical_issue": "用户对整体使用体验表示满意",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_118",
+              "pain": "整体使用体验非常棒",
+              "suggestion": "无",
+              "source": "非常棒",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.sankuai.hmeituan_137",
+              "pain": "好好（整体体验好）。",
+              "suggestion": "无",
+              "source": "好好",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.sankuai.hmeituan_163",
+              "pain": "用户整体评价非常好",
+              "suggestion": "无",
+              "source": "非常好",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.sankuai.hmeituan_185",
+              "pain": "整体体验好",
+              "suggestion": "无",
+              "source": "可以的",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.sankuai.hmeituan_227",
+              "pain": "好用",
+              "suggestion": "无",
+              "source": "好用",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_118",
+            "com.sankuai.hmeituan_137",
+            "com.sankuai.hmeituan_163",
+            "com.sankuai.hmeituan_185",
+            "com.sankuai.hmeituan_227"
+          ]
+        },
+        {
+          "cluster_id": "124",
+          "cluster_name": "对比竞品优势",
+          "canonical_issue": "用户通过对比其他平台，认为美团体验更优",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_40",
+              "pain": "对比其他平台后表示永远拥护美团。",
+              "suggestion": "无",
+              "source": "和哈 一对比，我将永远拥护你！！",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_75",
+              "pain": "比淘宝好用多了",
+              "suggestion": "无",
+              "source": "比淘宝好用多了",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_40",
+            "com.sankuai.hmeituan_75"
+          ]
+        },
+        {
+          "cluster_id": "125",
+          "cluster_name": "日常依赖性强",
+          "canonical_issue": "用户表示应用使用频繁，已成为日常必需品",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_71",
+              "pain": "很方便，每天都离不开它。",
+              "suggestion": "无",
+              "source": "很方便，每天都离不开它。",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_184",
+              "pain": "长期使用并给予好评，期望获得额度",
+              "suggestion": "无",
+              "source": "我给好评 ，一直用 希望给我额度",
+              "device": "nova 14 活力版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_71",
+            "com.sankuai.hmeituan_184"
+          ]
+        },
+        {
+          "cluster_id": "126",
+          "cluster_name": "鸿蒙系统适配好",
+          "canonical_issue": "用户赞赏鸿蒙系统下应用体验良好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_73",
+              "pain": "鸿蒙越用越好用，加油👍",
+              "suggestion": "无",
+              "source": "鸿蒙越用越好用，加油👍",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_73"
+          ]
+        },
+        {
+          "cluster_id": "127",
+          "cluster_name": "团购性价比高",
+          "canonical_issue": "用户赞赏团购功能实惠，性价比高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_101",
+              "pain": "应用很好用，团购很划算。",
+              "suggestion": "无",
+              "source": "很好用的app 团购很划算",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_101"
+          ]
+        },
+        {
+          "cluster_id": "128",
+          "cluster_name": "服务响应及时",
+          "canonical_issue": "用户赞赏问题处理及时，服务体验好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_261",
+              "pain": "外卖被偷后立即退款，体验好",
+              "suggestion": "无",
+              "source": "不多说，不枉我在美团花了那么多钱，外卖被偷了，立马退款，争取早点成为你们的黑金会员",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_261"
+          ]
+        },
+        {
+          "cluster_id": "129",
+          "cluster_name": "整体体验赞赏",
+          "canonical_issue": "用户对美团鸿蒙版整体使用体验表示满意和赞赏",
+          "size": 8,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_277",
+              "pain": "非常好用",
+              "suggestion": "无",
+              "source": "可以，非常好用哈。",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_308",
+              "pain": "用户鼓励团队继续努力",
+              "suggestion": "无",
+              "source": "继续努力",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_343",
+              "pain": "加油，越来越完善了",
+              "suggestion": "无",
+              "source": "加油 越来越完善了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_376",
+              "pain": "无",
+              "suggestion": "无",
+              "source": "不知道是系统优化不到位还是bug我的神券页面一直点不开。但是已经能用了，好样的美团，加油！",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_398",
+              "pain": "整体使用体验不错，用户给予鼓励",
+              "suggestion": "无",
+              "source": "已经很不错了  继续努力",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_404",
+              "pain": "美团让我赶到非常好，物美价廉，值得购买，服务也很好，真心喜欢",
+              "suggestion": "无",
+              "source": "美团让我赶到非常好，物美价廉，值得购买，服务也很好，真心喜欢，",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_432",
+              "pain": "整体体验很好",
+              "suggestion": "无",
+              "source": "真好",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.sankuai.hmeituan_439",
+              "pain": "日常试用没问题，希望再接再厉",
+              "suggestion": "无",
+              "source": "日常试用已经没问题了，再接再厉吧",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_277",
+            "com.sankuai.hmeituan_308",
+            "com.sankuai.hmeituan_343",
+            "com.sankuai.hmeituan_376",
+            "com.sankuai.hmeituan_398",
+            "com.sankuai.hmeituan_404",
+            "com.sankuai.hmeituan_432",
+            "com.sankuai.hmeituan_439"
+          ]
+        },
+        {
+          "cluster_id": "130",
+          "cluster_name": "功能更新与完善",
+          "canonical_issue": "用户赞赏美团鸿蒙版功能更新快、修补及时、功能越来越全",
+          "size": 7,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_305",
+              "pain": "短视频和直播功能推出速度快",
+              "suggestion": "无",
+              "source": "短视频和直播安排倒挺快",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_444",
+              "pain": "最近一次更新解决了很多痛点",
+              "suggestion": "无",
+              "source": "最近一次更新解决了很多痛点",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.sankuai.hmeituan_467",
+              "pain": "接近安卓版，支持直播间下单，更新快",
+              "suggestion": "无",
+              "source": "现在基本上已经接近安卓版的美团了，可以在直播间下单了，美团挺给力的，更新的很快。",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.sankuai.hmeituan_469",
+              "pain": "功能修补速度快",
+              "suggestion": "无",
+              "source": "美团功能修补很快",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.sankuai.hmeituan_476",
+              "pain": "又更新了，不错",
+              "suggestion": "无",
+              "source": "又更新了，不错",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.sankuai.hmeituan_484",
+              "pain": "基本功能都有了",
+              "suggestion": "无",
+              "source": "基本上的功能都有了，能不能把天天现金功能也更新一下",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_490",
+              "pain": "功能越来越全了",
+              "suggestion": "无",
+              "source": "功能越来越全了，加速更新和完善吧",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_305",
+            "com.sankuai.hmeituan_444",
+            "com.sankuai.hmeituan_467",
+            "com.sankuai.hmeituan_469",
+            "com.sankuai.hmeituan_476",
+            "com.sankuai.hmeituan_484",
+            "com.sankuai.hmeituan_490"
+          ]
+        },
+        {
+          "cluster_id": "131",
+          "cluster_name": "广告体验优化",
+          "canonical_issue": "用户赞赏美团鸿蒙版无广告体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_296",
+              "pain": "唯一好就是没有广告了",
+              "suggestion": "无",
+              "source": "为何感觉现在美团用起来感觉一卡一卡呢？唯一好就是没有广告了",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_296"
+          ]
+        },
+        {
+          "cluster_id": "132",
+          "cluster_name": "折叠屏适配赞赏",
+          "canonical_issue": "用户赞赏美团对折叠屏平行视界和分屏显示的支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_423",
+              "pain": "赞赏美团支持折叠屏平行视界，图片比例正常",
+              "suggestion": "无",
+              "source": "表扬一下，美团支持折叠屏平行视界了，可以左右分屏显示，图片比例终于正常了，美中不足提一下，优化一下一二级菜单左右屏显示位置，比如左屏显示例如搜索后所有商家的页面，右屏显示具体某个商家的页面。",
+              "device": "HUAWEI Mate X5 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_423"
+          ]
+        },
+        {
+          "cluster_id": "133",
+          "cluster_name": "会员功能恢复",
+          "canonical_issue": "用户赞赏会员功能在鸿蒙版上的可用性恢复",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_474",
+              "pain": "会员终于能用了，可以把老华为卖喽",
+              "suggestion": "无",
+              "source": "我的会员终于能用了，可以把老华为卖喽",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_474"
+          ]
+        }
+      ]
+    }
+  },
+  "UI与交互": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "135",
+          "cluster_name": "免密支付强制提示",
+          "canonical_issue": "付款时强制提示开启免密支付，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_67",
+              "pain": "付款时强制提示开启免密支付",
+              "suggestion": "优化付款流程，允许用户选择是否开启免密支付",
+              "source": "真服了，点个外卖一付款就出现请开启免密支付，烦死了",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_67"
+          ]
+        },
+        {
+          "cluster_id": "136",
+          "cluster_name": "我的页面字体适配",
+          "canonical_issue": "我的页面字体不跟随系统设置变化",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_74",
+              "pain": "整个“我的”页面，字体与系统不匹配，不会随系统字体改变而跟着一起改变",
+              "suggestion": "适配系统字体设置，使“我的”页面的字体大小和样式跟随系统变化",
+              "source": "整个“我的”页面，字体与系统不匹配，不会随系统字体改变而跟着一起改变，其他原来的页面是可以的",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_74"
+          ]
+        },
+        {
+          "cluster_id": "137",
+          "cluster_name": "桌面卡片入口缺失",
+          "canonical_issue": "小美评审团和美团果园缺少桌面卡片入口",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_82",
+              "pain": "小美评审团和美团果园缺少桌面卡片入口",
+              "suggestion": "为小美评审团和美团果园添加桌面卡片功能",
+              "source": "小美评审团没有桌面卡片入口，美团果园也没有桌面入口。一点也不好用",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_82"
+          ]
+        },
+        {
+          "cluster_id": "138",
+          "cluster_name": "导航栏设计不合理",
+          "canonical_issue": "导航栏新增AI功能影响原有功能使用",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_86",
+              "pain": "导航栏设置不合理，新增的小团AI功能无用且影响聊天记录查找",
+              "suggestion": "重新设计导航栏，将AI功能集成到搜索栏，优化商家聊天入口",
+              "source": "原来的导航栏设置的本来就已经很不合理了，现在又增加了一个小团AI,这个AI一点用都没有。还不如把搜索栏集成一个AI功能呢，把这个小团独立出来很招笑。很影响商家一些聊天咨询记录。根本就找不到那个界面，你必须要找到商家，再点进去咨询才有。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.sankuai.hmeituan_86",
+              "pain": "聊天咨询界面难以找到，需要先找到商家再点进去",
+              "suggestion": "优化聊天记录入口，提供直接访问聊天界面的方式",
+              "source": "原来的导航栏设置的本来就已经很不合理了，现在又增加了一个小团AI,这个AI一点用都没有。还不如把搜索栏集成一个AI功能呢，把这个小团独立出来很招笑。很影响商家一些聊天咨询记录。根本就找不到那个界面，你必须要找到商家，再点进去咨询才有。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_86",
+            "com.sankuai.hmeituan_86"
+          ]
+        },
+        {
+          "cluster_id": "139",
+          "cluster_name": "直播页面返回逻辑",
+          "canonical_issue": "直播子页面不响应系统返回指令",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_94",
+              "pain": "直播页面子页面不响应系统返回指令，必须点击小叉关闭",
+              "suggestion": "修复返回逻辑，使其尊重系统返回手势",
+              "source": "直播页面打开所有的子页面都不会对，系统返回指令做出响应，必须点他自己的小叉",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_94"
+          ]
+        },
+        {
+          "cluster_id": "140",
+          "cluster_name": "底部AI功能无法关闭",
+          "canonical_issue": "底部AI功能无法关闭，强迫用户使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_107",
+              "pain": "底部AI功能无法关闭，强迫用户使用。",
+              "suggestion": "提供关闭底部AI功能的选项，让用户自主选择是否启用。",
+              "source": "难用，底部的AI无法关闭，一个黑心公司，偷偷删除用户的图片。",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_107"
+          ]
+        },
+        {
+          "cluster_id": "141",
+          "cluster_name": "二维码页面亮度异常",
+          "canonical_issue": "二维码页面亮度自动最大且退出后无法恢复",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_202",
+              "pain": "二维码页面亮度自动最大且退出后无法恢复，需清后台",
+              "suggestion": "修复亮度自动调节逻辑，退出页面后恢复默认亮度",
+              "source": "待收货/待使用中如果有待使用的二维码，打开该项目亮度自动调整至最大后，再退出该项目无论至哪个界面，亮度均保持最大。切换其他app可以恢复正常亮度，再切换回美团依旧自动拉至最大，并且此时无法通过系统调节亮度，只有后台清掉美团后再重新打开才能恢复默认亮度。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_202"
+          ]
+        },
+        {
+          "cluster_id": "142",
+          "cluster_name": "我的外卖页面显示异常",
+          "canonical_issue": "我的外卖页面布局显示异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_220",
+              "pain": "我的外卖页面前端显示异常，只显示满22减，布局难看",
+              "suggestion": "修复前端显示问题，优化页面布局和样式",
+              "source": "我的外卖页面前端显示有问题，显示一个满22减就没了，很难看",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_220"
+          ]
+        },
+        {
+          "cluster_id": "143",
+          "cluster_name": "窗口界面复杂",
+          "canonical_issue": "窗口界面复杂影响付款流畅性",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_242",
+              "pain": "窗口界面复杂",
+              "suggestion": "简化界面层次，提高操作直观性",
+              "source": "窗口界面复杂，付款不流畅。",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_242"
+          ]
+        },
+        {
+          "cluster_id": "144",
+          "cluster_name": "灵动岛占用问题",
+          "canonical_issue": "骑行订单结束后仍占用灵动岛",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_247",
+              "pain": "骑行订单结束后仍占用灵动岛",
+              "suggestion": "优化灵动岛逻辑，订单结束后及时释放",
+              "source": "为什么骑行订单都已经结束了，还要霸占灵动岛一段时间？",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_247"
+          ]
+        },
+        {
+          "cluster_id": "145",
+          "cluster_name": "深色模式适配",
+          "canonical_issue": "应用不支持跟随系统深色模式",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_257",
+              "pain": "深色模式什么时候适配啊",
+              "suggestion": "适配深色模式",
+              "source": "深色模式什么时候适配啊",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.sankuai.hmeituan_336",
+              "pain": "不支持跟随系统的深色模式",
+              "suggestion": "增加深色模式适配，跟随系统设置自动切换",
+              "source": "什么时候能跟随系统的深色模式？",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_257",
+            "com.sankuai.hmeituan_336"
+          ]
+        },
+        {
+          "cluster_id": "146",
+          "cluster_name": "灵动岛功能消失",
+          "canonical_issue": "更新后灵动岛功能消失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_275",
+              "pain": "更新后灵动岛功能消失",
+              "suggestion": "恢复或说明灵动岛功能的变化",
+              "source": "灵动岛咋跟新没了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_275"
+          ]
+        },
+        {
+          "cluster_id": "147",
+          "cluster_name": "实况窗功能异常",
+          "canonical_issue": "实况窗功能消失或不显示",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_280",
+              "pain": "实况窗功能消失",
+              "suggestion": "恢复实况窗功能或提供解释",
+              "source": "实况窗没有了，怎么回事",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.sankuai.hmeituan_380",
+              "pain": "实况窗不显示",
+              "suggestion": "检查并修复实况窗功能，确保正常显示",
+              "source": "美团实况窗不显示了吗",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_280",
+            "com.sankuai.hmeituan_380"
+          ]
+        },
+        {
+          "cluster_id": "148",
+          "cluster_name": "消息红点显示",
+          "canonical_issue": "消息红色数字0显示影响视觉体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_315",
+              "pain": "消息红色数字0显示让人难受",
+              "suggestion": "改为非红色或提供自定义颜色选项",
+              "source": "总体还行，就是消息能不能不要显示红色的0啊，看着好难受。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_315"
+          ]
+        },
+        {
+          "cluster_id": "149",
+          "cluster_name": "平板横屏适配",
+          "canonical_issue": "平板横屏界面尺寸不稳定",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_337",
+              "pain": "平板横屏界面尺寸不稳定，忽大忽小",
+              "suggestion": "修复平板横屏适配问题，确保界面尺寸一致性",
+              "source": "知道现在适配的很差吗？一个横屏的平板界面，一会大一会儿小，点个酒店一直在转圈。",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_337"
+          ]
+        },
+        {
+          "cluster_id": "150",
+          "cluster_name": "图标设计不一致",
+          "canonical_issue": "应用图标更改后未及时更新，导致用户困惑",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_403",
+              "pain": "改图标了，不更新！",
+              "suggestion": "保持图标设计一致性或提供更换图标选项",
+              "source": "改图标了，不更新！",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_403"
+          ]
+        },
+        {
+          "cluster_id": "151",
+          "cluster_name": "小美果园样式异常",
+          "canonical_issue": "小美果园功能模块的UI样式显示异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_418",
+              "pain": "小美果园的样式显示有问题。",
+              "suggestion": "调整小美果园的UI样式，确保正常显示。",
+              "source": "小美果园样式有问题",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_418"
+          ]
+        },
+        {
+          "cluster_id": "152",
+          "cluster_name": "折叠屏平行视界布局问题",
+          "canonical_issue": "折叠屏平行视界一二级菜单左右屏显示位置不合理",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_423",
+              "pain": "折叠屏平行视界一二级菜单左右屏显示位置不合理",
+              "suggestion": "优化平行视界布局，左屏显示搜索列表，右屏显示商家详情",
+              "source": "表扬一下，美团支持折叠屏平行视界了，可以左右分屏显示，图片比例终于正常了，美中不足提一下，优化一下一二级菜单左右屏显示位置，比如左屏显示例如搜索后所有商家的页面，右屏显示具体某个商家的页面。",
+              "device": "HUAWEI Mate X5 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_423"
+          ]
+        },
+        {
+          "cluster_id": "153",
+          "cluster_name": "MatePad显示混乱",
+          "canonical_issue": "MatePad设备上应用显示布局混乱",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_447",
+              "pain": "MatePad上显示混乱",
+              "suggestion": "优化MatePad的显示布局",
+              "source": "MatePad显示的乱七八糟的",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_447"
+          ]
+        },
+        {
+          "cluster_id": "154",
+          "cluster_name": "缺少丽人美团中通UI",
+          "canonical_issue": "缺少丽人美团中通UI版本",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_460",
+              "pain": "缺少丽人美团中通UI",
+              "suggestion": "开发并推出丽人美团中通UI",
+              "source": "什么时候出丽人美团中通UI",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_460"
+          ]
+        },
+        {
+          "cluster_id": "155",
+          "cluster_name": "直播间商品展开后无法侧边返回",
+          "canonical_issue": "直播间内展开商品后无法使用侧边返回手势",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_477",
+              "pain": "直播间内点击展开上架的商品后，无法使用侧边返回，只能点击✗按钮",
+              "suggestion": "支持侧边返回手势，提升交互一致性",
+              "source": "直播间内点击展开上架的商品后，无法使用侧边返回，只能点击✗按钮才行",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_477"
+          ]
+        },
+        {
+          "cluster_id": "156",
+          "cluster_name": "修改订单地址入口难找",
+          "canonical_issue": "修改订单地址的入口难以找到",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_486",
+              "pain": "找不到修改订单地址的入口",
+              "suggestion": "优化修改地址的交互路径，使其更易找到",
+              "source": "在哪修改订单地址？",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_486"
+          ]
+        },
+        {
+          "cluster_id": "157",
+          "cluster_name": "换地址操作困难",
+          "canonical_issue": "换地址操作流程复杂，用户体验差",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_488",
+              "pain": "换地址操作困难",
+              "suggestion": "简化修改地址的流程和界面",
+              "source": "鸿蒙6的版本还不完善，很多功能不能使用，就换一个地址就很难操作",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_488"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "黑暗模式缺失",
+          "canonical_issue": "应用缺少黑暗模式支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_166",
+              "pain": "缺少黑暗模式",
+              "suggestion": "增加黑暗模式支持",
+              "source": "啥时候出黑暗模式",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_166"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "2",
+          "cluster_name": "界面设计赞赏",
+          "canonical_issue": "用户对界面整体设计感到满意，认为视觉效果舒适",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_238",
+              "pain": "界面整体效果舒服，赞赏设计",
+              "suggestion": "无",
+              "source": "界面整体效果看着真舒服！所有app跟美团一样都好了",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_238"
+          ]
+        }
+      ]
+    }
+  },
+  "内容生态": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "162",
+          "cluster_name": "小游戏界面内容混杂",
+          "canonical_issue": "小游戏界面混杂视频和短剧内容，未实现内容分区",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_158",
+              "pain": "小游戏界面出现的还是视频和短剧",
+              "suggestion": "小游戏界面只展示游戏内容，去掉视频和短剧",
+              "source": "小游戏界面出现的还是视频和短剧",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_158"
+          ]
+        },
+        {
+          "cluster_id": "163",
+          "cluster_name": "推荐内容质量差",
+          "canonical_issue": "鸿蒙版推荐内容质量低，包含无关或低质内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_333",
+              "pain": "鸿蒙版推荐内容质量差，包含无关内容如纹身",
+              "suggestion": "优化推荐算法，根据用户兴趣精准推荐，过滤低质内容",
+              "source": "给鸿蒙版推得什么烂七八糟的东西，什么纹身什么都有，烂的简直了。就没有想要的。买个药要送30公里。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_333"
+          ]
+        },
+        {
+          "cluster_id": "164",
+          "cluster_name": "团团转功能缺失",
+          "canonical_issue": "团团转功能下架且未说明，用户无法找到",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_359",
+              "pain": "团团转功能下架，找不到",
+              "suggestion": "恢复团团转功能或提供替代方案，并在更新日志说明。",
+              "source": "现在没有那个团团转了",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_359"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "3",
+          "cluster_name": "免费水果功能",
+          "canonical_issue": "线上娱乐希望增加免费水果功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.sankuai.hmeituan_478",
+              "pain": "线上娱乐希望增加免费水果功能",
+              "suggestion": "考虑增加免费水果功能或活动",
+              "source": "线上娱乐什么时候能上免费水果啊",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.sankuai.hmeituan_478"
+          ]
+        }
+      ]
+    }
+  },
+  "n_clusters": 4
+}

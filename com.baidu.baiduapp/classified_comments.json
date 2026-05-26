@@ -1,0 +1,3138 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.baidu.baiduapp_1",
+        "User_Pain_Point": "小说更新提示消失，书架更新无小红标签，影响看书。",
+        "Actionable_Suggestion": "修复更新提示Bug，恢复小红标签显示。"
+      },
+      {
+        "id": "com.baidu.baiduapp_4",
+        "User_Pain_Point": "小说阅读功能缺少段落阅读（点击即听）功能。",
+        "Actionable_Suggestion": "增加段落阅读/点击即听功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_5",
+        "User_Pain_Point": "百度汉语古诗词读音错误，按现代音标注。",
+        "Actionable_Suggestion": "修正古诗词读音，按照古代音韵标注。"
+      },
+      {
+        "id": "com.baidu.baiduapp_5",
+        "User_Pain_Point": "内容错误无反馈按钮，联系客服困难。",
+        "Actionable_Suggestion": "增加内容错误反馈按钮，优化客服通道。"
+      },
+      {
+        "id": "com.baidu.baiduapp_7",
+        "User_Pain_Point": "账号申诉功能无法使用。",
+        "Actionable_Suggestion": "修复账号申诉功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_8",
+        "User_Pain_Point": "缺少纯净模式。",
+        "Actionable_Suggestion": "增加纯净模式选项。"
+      },
+      {
+        "id": "com.baidu.baiduapp_24",
+        "User_Pain_Point": "非视频的文章打开时会自动配音乐和PPT效果，影响阅读体验。",
+        "Actionable_Suggestion": "提供设置选项，允许用户关闭文章自动播放音乐或PPT效果。"
+      },
+      {
+        "id": "com.baidu.baiduapp_26",
+        "User_Pain_Point": "在鸿蒙系统上无法像安卓系统那样下载视频。",
+        "Actionable_Suggestion": "完善鸿蒙系统下的视频下载功能，使其与安卓系统一致。"
+      },
+      {
+        "id": "com.baidu.baiduapp_29",
+        "User_Pain_Point": "背景图无法更换。",
+        "Actionable_Suggestion": "修复或增加背景图更换功能，明确无法更换的原因。"
+      },
+      {
+        "id": "com.baidu.baiduapp_31",
+        "User_Pain_Point": "视频播放进度条操作不便，只能通过细线拖拽",
+        "Actionable_Suggestion": "优化视频播放器进度条交互，支持在进度条任意位置点击或拖拽跳转"
+      },
+      {
+        "id": "com.baidu.baiduapp_32",
+        "User_Pain_Point": "收藏夹视频不能连续播放，需要手动退出再点下一个",
+        "Actionable_Suggestion": "增加收藏夹连续播放功能，支持自动播放下一个视频"
+      },
+      {
+        "id": "com.baidu.baiduapp_36",
+        "User_Pain_Point": "鸿蒙系统缺少阅读模式",
+        "Actionable_Suggestion": "增加阅读模式功能，适配鸿蒙系统"
+      },
+      {
+        "id": "com.baidu.baiduapp_41",
+        "User_Pain_Point": "默认首页设置没有工具首页选项，其他选项花里胡哨",
+        "Actionable_Suggestion": "增加工具首页选项以简化界面"
+      },
+      {
+        "id": "com.baidu.baiduapp_42",
+        "User_Pain_Point": "AI助手无法记住之前信息，分析能力差，重复无效内容",
+        "Actionable_Suggestion": "改进AI模型记忆和分析能力，减少重复输出"
+      },
+      {
+        "id": "com.baidu.baiduapp_44",
+        "User_Pain_Point": "功能比安卓版欠缺",
+        "Actionable_Suggestion": "完善功能，与安卓版对齐"
+      },
+      {
+        "id": "com.baidu.baiduapp_47",
+        "User_Pain_Point": "文章无法复制全文",
+        "Actionable_Suggestion": "恢复文章全文复制功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_49",
+        "User_Pain_Point": "经常看不到评论",
+        "Actionable_Suggestion": "修复评论显示问题，确保评论可见"
+      },
+      {
+        "id": "com.baidu.baiduapp_54",
+        "User_Pain_Point": "下载需要图库权限，而以前不需要",
+        "Actionable_Suggestion": "优化下载逻辑，减少不必要的权限请求"
+      },
+      {
+        "id": "com.baidu.baiduapp_57",
+        "User_Pain_Point": "视频不能下载",
+        "Actionable_Suggestion": "增加视频下载功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_59",
+        "User_Pain_Point": "最新版中“要闻”“历史”等栏目缺少听读功能",
+        "Actionable_Suggestion": "为相关栏目添加听读功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_65",
+        "User_Pain_Point": "各种收集隐私，要各种隐私授权",
+        "Actionable_Suggestion": "减少不必要的隐私授权要求，增加透明度"
+      },
+      {
+        "id": "com.baidu.baiduapp_71",
+        "User_Pain_Point": "以前版本播视频时可以在播视页手指按着可以倍速进退，可以在屏幕上控制亮度和音量，自动横屏，这么好的设置现在都没有了。",
+        "Actionable_Suggestion": "恢复播放页的手势控制功能，包括倍速进退、亮度和音量调节、自动横屏。"
+      },
+      {
+        "id": "com.baidu.baiduapp_72",
+        "User_Pain_Point": "这个版本没有播放设置功能。",
+        "Actionable_Suggestion": "增加播放设置功能，提供倍速、画质、字幕等选项。"
+      },
+      {
+        "id": "com.baidu.baiduapp_73",
+        "User_Pain_Point": "下载的视频不能保存到系统文件里。",
+        "Actionable_Suggestion": "提供下载视频保存到系统文件目录的选项。"
+      },
+      {
+        "id": "com.baidu.baiduapp_80",
+        "User_Pain_Point": "识图功能强制加文心助手。",
+        "Actionable_Suggestion": "允许用户选择是否使用文心助手，或提供独立的识图功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_81",
+        "User_Pain_Point": "网页小说没有纯净阅读模式",
+        "Actionable_Suggestion": "增加纯净阅读模式开关"
+      },
+      {
+        "id": "com.baidu.baiduapp_82",
+        "User_Pain_Point": "首页关注不显示关注的博主，无法查看",
+        "Actionable_Suggestion": "修复关注列表显示问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_84",
+        "User_Pain_Point": "视频直接播放下集的键没有了",
+        "Actionable_Suggestion": "恢复播放下集功能按钮"
+      },
+      {
+        "id": "com.baidu.baiduapp_87",
+        "User_Pain_Point": "看视频不能手动快进，不如以前版本",
+        "Actionable_Suggestion": "恢复手动快进功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_88",
+        "User_Pain_Point": "没有视频打开静音选项",
+        "Actionable_Suggestion": "增加视频打开静音选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_89",
+        "User_Pain_Point": "百度小说纯净阅读模式被阉割",
+        "Actionable_Suggestion": "恢复百度小说纯净阅读模式"
+      },
+      {
+        "id": "com.baidu.baiduapp_91",
+        "User_Pain_Point": "小说不能下载",
+        "Actionable_Suggestion": "建议增加小说下载功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_97",
+        "User_Pain_Point": "找图片变得难用了",
+        "Actionable_Suggestion": "优化图片搜索功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_98",
+        "User_Pain_Point": "不支持百度阅读跳转",
+        "Actionable_Suggestion": "增加百度阅读跳转功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_100",
+        "User_Pain_Point": "建群时无法邀人",
+        "Actionable_Suggestion": "增加建群时邀请好友功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_101",
+        "User_Pain_Point": "缺少纯净阅读模式",
+        "Actionable_Suggestion": "增加纯净阅读模式"
+      },
+      {
+        "id": "com.baidu.baiduapp_102",
+        "User_Pain_Point": "缺失纯净阅读模式",
+        "Actionable_Suggestion": "增加纯净阅读模式"
+      },
+      {
+        "id": "com.baidu.baiduapp_102",
+        "User_Pain_Point": "观看电视剧功能不全",
+        "Actionable_Suggestion": "完善电视剧相关功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_103",
+        "User_Pain_Point": "无法直接投屏",
+        "Actionable_Suggestion": "增加投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_105",
+        "User_Pain_Point": "缺乏多种画质和音效选项",
+        "Actionable_Suggestion": "增加多种画质和音效选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_109",
+        "User_Pain_Point": "只能看不能下载",
+        "Actionable_Suggestion": "增加下载功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_111",
+        "User_Pain_Point": "应用功能简陋，缺少浏览历史功能",
+        "Actionable_Suggestion": "增加浏览历史功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_112",
+        "User_Pain_Point": "应用内看视频不支持自动连续播放下一集",
+        "Actionable_Suggestion": "增加视频连续播放下一集功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_119",
+        "User_Pain_Point": "鸿蒙版本缺少查看点赞视频的功能，而安卓版本有",
+        "Actionable_Suggestion": "在鸿蒙版本中增加查看点赞视频的功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_120",
+        "User_Pain_Point": "清理缓存功能无效，清理后缓存大小不变",
+        "Actionable_Suggestion": "修复清理缓存功能，确保真实清除缓存"
+      },
+      {
+        "id": "com.baidu.baiduapp_124",
+        "User_Pain_Point": "浏览百度图片时自动播放和背景音乐，影响体验",
+        "Actionable_Suggestion": "提供选项关闭自动播放和背景音乐"
+      },
+      {
+        "id": "com.baidu.baiduapp_128",
+        "User_Pain_Point": "AI功能过多，感觉不如以前",
+        "Actionable_Suggestion": "提供AI功能开关，减少默认AI介入"
+      },
+      {
+        "id": "com.baidu.baiduapp_131",
+        "User_Pain_Point": "缺少极简模式，影响使用体验",
+        "Actionable_Suggestion": "建议添加极简模式功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_131",
+        "User_Pain_Point": "缺少投屏功能，影响体验",
+        "Actionable_Suggestion": "建议增加投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_132",
+        "User_Pain_Point": "百度爱采购认证扫码人脸识别功能缺失",
+        "Actionable_Suggestion": "建议完善扫码人脸识别功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_134",
+        "User_Pain_Point": "没有视频下载按钮",
+        "Actionable_Suggestion": "建议添加视频下载功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_136",
+        "User_Pain_Point": "视频无法快进",
+        "Actionable_Suggestion": "建议修复视频快进问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_137",
+        "User_Pain_Point": "关注的主播缺乏搜索和排序功能，查找不便",
+        "Actionable_Suggestion": "建议增加主播搜索和排序功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_143",
+        "User_Pain_Point": "百度小说无法打赏作者。",
+        "Actionable_Suggestion": "尽快完善百度小说功能，增加打赏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_143",
+        "User_Pain_Point": "每一章末尾章节评论无法查看",
+        "Actionable_Suggestion": "尽快完善百度小说功能，增加章节末尾评论查看功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_143",
+        "User_Pain_Point": "作者请假也无法查看",
+        "Actionable_Suggestion": "尽快完善百度小说功能，增加作者请假查看功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_143",
+        "User_Pain_Point": "每一章不再显示章节字数",
+        "Actionable_Suggestion": "尽快完善百度小说功能，恢复显示章节字数"
+      },
+      {
+        "id": "com.baidu.baiduapp_144",
+        "User_Pain_Point": "为什么账号还是那个账号但是名字变了，收藏夹东西也没了？",
+        "Actionable_Suggestion": "修复账号数据同步问题，确保收藏夹和用户信息准确"
+      },
+      {
+        "id": "com.baidu.baiduapp_148",
+        "User_Pain_Point": "更新后点击互动消息不能跳转到作品了，被别人点赞，被别人评论了点了就是该版本不支持跳转。",
+        "Actionable_Suggestion": "修复互动消息跳转功能，确保点击能正确跳转"
+      },
+      {
+        "id": "com.baidu.baiduapp_151",
+        "User_Pain_Point": "某些网页无法使用听功能。",
+        "Actionable_Suggestion": "增加对更多网页的听功能支持。"
+      },
+      {
+        "id": "com.baidu.baiduapp_152",
+        "User_Pain_Point": "听小说缺少多角色演播音色。",
+        "Actionable_Suggestion": "增加多角色演播功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_153",
+        "User_Pain_Point": "不支持投屏电视功能。",
+        "Actionable_Suggestion": "增加投屏电视功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_154",
+        "User_Pain_Point": "纯净阅读模式和自动读书功能缺失。",
+        "Actionable_Suggestion": "恢复纯净阅读模式和自动读书功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_159",
+        "User_Pain_Point": "频繁引导安装其他app，影响使用。",
+        "Actionable_Suggestion": "减少或优化引导安装其他app的交互。"
+      },
+      {
+        "id": "com.baidu.baiduapp_160",
+        "User_Pain_Point": "缺少专栏功能，导致物理课无法观看。",
+        "Actionable_Suggestion": "增加专栏功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_161",
+        "User_Pain_Point": "付费视频看不到了",
+        "Actionable_Suggestion": "修复付费视频显示问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_164",
+        "User_Pain_Point": "短视频没有支持倍速播放功能了",
+        "Actionable_Suggestion": "恢复短视频倍速播放功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_165",
+        "User_Pain_Point": "网页不能自动朗读",
+        "Actionable_Suggestion": "增加网页自动朗读功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_166",
+        "User_Pain_Point": "不能搜题，照相搜题照不了照片",
+        "Actionable_Suggestion": "修复搜题和拍照功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_167",
+        "User_Pain_Point": "希望华为 Nova15 可以支持看视频换清晰度",
+        "Actionable_Suggestion": "支持视频清晰度切换"
+      },
+      {
+        "id": "com.baidu.baiduapp_168",
+        "User_Pain_Point": "不能投屏",
+        "Actionable_Suggestion": "增加投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_171",
+        "User_Pain_Point": "关注栏不支持拼音搜字母分类搜索",
+        "Actionable_Suggestion": "增加拼音搜字母分类搜索功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_174",
+        "User_Pain_Point": "购买的视频课程无法播放",
+        "Actionable_Suggestion": "优化视频课程播放功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_175",
+        "User_Pain_Point": "投屏电视功能不可用",
+        "Actionable_Suggestion": "尽快支持投屏电视功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_176",
+        "User_Pain_Point": "搜索框修改内容后无法再次搜索",
+        "Actionable_Suggestion": "修复搜索框修改后失效的问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_181",
+        "User_Pain_Point": "不能连续搜索，第一次搜索后无法进行第二次搜索",
+        "Actionable_Suggestion": "允许用户在搜索界面进行第二次搜索"
+      },
+      {
+        "id": "com.baidu.baiduapp_183",
+        "User_Pain_Point": "搜图功能识别不出内容，占用手机资源",
+        "Actionable_Suggestion": "改进搜图识别算法，优化资源占用"
+      },
+      {
+        "id": "com.baidu.baiduapp_184",
+        "User_Pain_Point": "搜索框页面不能二次编辑，点击无反应",
+        "Actionable_Suggestion": "修复搜索框的点击和编辑功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_185",
+        "User_Pain_Point": "搜索框无法点击",
+        "Actionable_Suggestion": "修复搜索框点击功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_187",
+        "User_Pain_Point": "搜索到的软件无法下载，因为未在软件商场列出",
+        "Actionable_Suggestion": "允许下载未在软件商场列出的软件"
+      },
+      {
+        "id": "com.baidu.baiduapp_189",
+        "User_Pain_Point": "首页小说无法查看",
+        "Actionable_Suggestion": "修复小说功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_191",
+        "User_Pain_Point": "阅读纯净模式缺失",
+        "Actionable_Suggestion": "恢复阅读纯净模式功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_195",
+        "User_Pain_Point": "送花人数不显示",
+        "Actionable_Suggestion": "添加送花人数显示功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_197",
+        "User_Pain_Point": "听读功能无法选取片段进行听读，只能全文朗读",
+        "Actionable_Suggestion": "增加片段选择听读功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_198",
+        "User_Pain_Point": "全屏播放电视剧时会有白色亮线",
+        "Actionable_Suggestion": "修复视频播放渲染问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_199",
+        "User_Pain_Point": "网盘小程序无法使用",
+        "Actionable_Suggestion": "修复网盘小程序功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_200",
+        "User_Pain_Point": "购买的网络视频课看不了",
+        "Actionable_Suggestion": "修复视频课观看功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_200",
+        "User_Pain_Point": "缺少专栏导航入口（与安卓版对比）",
+        "Actionable_Suggestion": "增加专栏导航入口"
+      },
+      {
+        "id": "com.baidu.baiduapp_200",
+        "User_Pain_Point": "书架为空，购买的视频课不显示",
+        "Actionable_Suggestion": "修复书架显示购买内容"
+      },
+      {
+        "id": "com.baidu.baiduapp_200",
+        "User_Pain_Point": "视频博主主页合集快速导航链接被阉割",
+        "Actionable_Suggestion": "恢复合集快速导航链接"
+      },
+      {
+        "id": "com.baidu.baiduapp_201",
+        "User_Pain_Point": "缺少小说阅读模式，需要左右翻页",
+        "Actionable_Suggestion": "增加小说阅读模式，支持左右翻页"
+      },
+      {
+        "id": "com.baidu.baiduapp_202",
+        "User_Pain_Point": "购买的专栏在书架中丢失",
+        "Actionable_Suggestion": "修复书架显示，确保购买的专栏可见"
+      },
+      {
+        "id": "com.baidu.baiduapp_203",
+        "User_Pain_Point": "播放电视剧时无法直接点击下一集",
+        "Actionable_Suggestion": "在播放界面增加“下一集”按钮"
+      },
+      {
+        "id": "com.baidu.baiduapp_204",
+        "User_Pain_Point": "隐私文件夹找不到",
+        "Actionable_Suggestion": "恢复隐私文件夹功能或提供入口"
+      },
+      {
+        "id": "com.baidu.baiduapp_207",
+        "User_Pain_Point": "无法下载图片",
+        "Actionable_Suggestion": "修复图片下载功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_211",
+        "User_Pain_Point": "音频音效差，没有低音效果",
+        "Actionable_Suggestion": "优化音频播放，增加低音效果"
+      },
+      {
+        "id": "com.baidu.baiduapp_212",
+        "User_Pain_Point": "个人主页不显示新发布的动态和评论",
+        "Actionable_Suggestion": "修复个人主页数据刷新问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_213",
+        "User_Pain_Point": "视频不能作为悬浮小窗播放",
+        "Actionable_Suggestion": "增加视频悬浮小窗功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_214",
+        "User_Pain_Point": "返回键无法返回",
+        "Actionable_Suggestion": "修复返回键功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_215",
+        "User_Pain_Point": "不能设置极简首页",
+        "Actionable_Suggestion": "增加极简首页设置选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_219",
+        "User_Pain_Point": "不支持QQ登录",
+        "Actionable_Suggestion": "增加QQ登录支持"
+      },
+      {
+        "id": "com.baidu.baiduapp_219",
+        "User_Pain_Point": "信息没有之前全面，设置里面少了很多",
+        "Actionable_Suggestion": "恢复信息全面性和设置选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_220",
+        "User_Pain_Point": "搜索不出内容来",
+        "Actionable_Suggestion": "优化搜索功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_221",
+        "User_Pain_Point": "鸿蒙6.0百度APP把基础听媒体声音定时功能减掉了",
+        "Actionable_Suggestion": "建议恢复定时关闭功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_224",
+        "User_Pain_Point": "导航栏的贴吧入口没有了",
+        "Actionable_Suggestion": "建议恢复贴吧入口"
+      },
+      {
+        "id": "com.baidu.baiduapp_224",
+        "User_Pain_Point": "百度送花搜索不了",
+        "Actionable_Suggestion": "建议修复搜索功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_225",
+        "User_Pain_Point": "不支持成长值增加",
+        "Actionable_Suggestion": "建议支持成长值增加功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_226",
+        "User_Pain_Point": "以前的收藏分类没有了",
+        "Actionable_Suggestion": "建议恢复收藏分类功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_228",
+        "User_Pain_Point": "看直播看不到公屏上的评论",
+        "Actionable_Suggestion": "建议修复直播评论显示问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_229",
+        "User_Pain_Point": "百度书架数据丢失，之前收藏的书都没有了，小说阅读模式也没有了",
+        "Actionable_Suggestion": "建议恢复书架数据并增加阅读模式"
+      },
+      {
+        "id": "com.baidu.baiduapp_229",
+        "User_Pain_Point": "导航栏的贴吧入口没有了",
+        "Actionable_Suggestion": "建议恢复贴吧入口"
+      },
+      {
+        "id": "com.baidu.baiduapp_229",
+        "User_Pain_Point": "电影电视剧无法投屏到电视，搜索不出设备",
+        "Actionable_Suggestion": "建议修复投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_229",
+        "User_Pain_Point": "刷视频点开无声音，需退出重新进入才有声音",
+        "Actionable_Suggestion": "建议修复视频声音问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_233",
+        "User_Pain_Point": "百度投屏功能无法使用。",
+        "Actionable_Suggestion": "紧急修复投屏功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_236",
+        "User_Pain_Point": "新版本听小说麻烦，无法查看评论和打分。",
+        "Actionable_Suggestion": "优化听小说功能，恢复评论和打分功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_237",
+        "User_Pain_Point": "看电视剧时无法通过手指按压屏幕加速播放。",
+        "Actionable_Suggestion": "恢复手指按压加速功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_239",
+        "User_Pain_Point": "更新后全是AI推荐内容，不是用户想看的，且普通网页无法访问。",
+        "Actionable_Suggestion": "优化推荐算法，增加普通网页访问入口。"
+      },
+      {
+        "id": "com.baidu.baiduapp_248",
+        "User_Pain_Point": "百度识万物识别准确度差",
+        "Actionable_Suggestion": "优化图像识别算法，提高识别准确率。"
+      },
+      {
+        "id": "com.baidu.baiduapp_249",
+        "User_Pain_Point": "无法使用QQ账号登录",
+        "Actionable_Suggestion": "修复QQ登录功能，确保账号互通。"
+      },
+      {
+        "id": "com.baidu.baiduapp_247",
+        "User_Pain_Point": "应用强制跳转到京东",
+        "Actionable_Suggestion": "去除或允许用户控制第三方应用跳转。"
+      },
+      {
+        "id": "com.baidu.baiduapp_251",
+        "User_Pain_Point": "全屏观看的视频不能无线升级",
+        "Actionable_Suggestion": "支持全屏视频投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_254",
+        "User_Pain_Point": "百度免费在线看电视剧，不能投屏到电视上。",
+        "Actionable_Suggestion": "支持投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_255",
+        "User_Pain_Point": "听小说锁屏就停？搞笑？",
+        "Actionable_Suggestion": "优化后台播放，锁屏后继续播放音频"
+      },
+      {
+        "id": "com.baidu.baiduapp_258",
+        "User_Pain_Point": "无法观看直播",
+        "Actionable_Suggestion": "修复直播观看功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_260",
+        "User_Pain_Point": "什么时候支持ai功能啊，没有ai功能看视频，缺少了灵魂，ai功能什么时候上线啊？ai功能什么时候上？",
+        "Actionable_Suggestion": "尽快上线AI相关功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_261",
+        "User_Pain_Point": "功能还不够完善，加紧适配。",
+        "Actionable_Suggestion": "加快功能完善和适配"
+      },
+      {
+        "id": "com.baidu.baiduapp_262",
+        "User_Pain_Point": "怎么找不到签到了",
+        "Actionable_Suggestion": "恢复或优化签到入口"
+      },
+      {
+        "id": "com.baidu.baiduapp_264",
+        "User_Pain_Point": "不能下载图片与视频",
+        "Actionable_Suggestion": "优化下载功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_265",
+        "User_Pain_Point": "视频什么时候支持快进啊",
+        "Actionable_Suggestion": "增加视频快进功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_266",
+        "User_Pain_Point": "功能还没完善就开始加广告",
+        "Actionable_Suggestion": "优先完善核心功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_268",
+        "User_Pain_Point": "能否导入本地的txt小说或者把百度app下载的小说添加进去？",
+        "Actionable_Suggestion": "增加导入本地文件功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_270",
+        "User_Pain_Point": "赶快把资讯语音播放的功能加上吧",
+        "Actionable_Suggestion": "增加资讯语音播放功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_271",
+        "User_Pain_Point": "鸿蒙版连接不上网",
+        "Actionable_Suggestion": "优化网络连接稳定性"
+      },
+      {
+        "id": "com.baidu.baiduapp_272",
+        "User_Pain_Point": "无法搜索，搜索提示无法联网",
+        "Actionable_Suggestion": "修复搜索功能网络请求"
+      },
+      {
+        "id": "com.baidu.baiduapp_273",
+        "User_Pain_Point": "不支持好友之间信息回复",
+        "Actionable_Suggestion": "增加好友消息回复功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_274",
+        "User_Pain_Point": "没有实景地图",
+        "Actionable_Suggestion": "增加实景地图功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_277",
+        "User_Pain_Point": "百度付费订阅看不了，没有显示订阅也看不了",
+        "Actionable_Suggestion": "修复付费订阅功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_283",
+        "User_Pain_Point": "网址不能创建到桌面上",
+        "Actionable_Suggestion": "添加创建桌面快捷方式的功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_284",
+        "User_Pain_Point": "播放网页视频全屏模式时不能全屏沉浸播放，会自动切成小窗",
+        "Actionable_Suggestion": "修复全屏视频播放功能，实现沉浸式全屏"
+      },
+      {
+        "id": "com.baidu.baiduapp_286",
+        "User_Pain_Point": "没有定时关机/定时功能，听书无法定时关闭",
+        "Actionable_Suggestion": "增加定时关闭功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_289",
+        "User_Pain_Point": "搜索“万物”出现的是答疑结果",
+        "Actionable_Suggestion": "优化搜索算法，确保搜索结果准确性"
+      },
+      {
+        "id": "com.baidu.baiduapp_291",
+        "User_Pain_Point": "图片无法保存",
+        "Actionable_Suggestion": "修复图片保存功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_293",
+        "User_Pain_Point": "缺少阅读模式",
+        "Actionable_Suggestion": "增加阅读模式功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_294",
+        "User_Pain_Point": "百度小程序不能使用",
+        "Actionable_Suggestion": "修复百度小程序功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_295",
+        "User_Pain_Point": "无法查看已购买的订单明细",
+        "Actionable_Suggestion": "修复订单明细查看功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_298",
+        "User_Pain_Point": "体彩扫码兑奖无法识别",
+        "Actionable_Suggestion": "修复扫码兑奖识别功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_301",
+        "User_Pain_Point": "搜索功能失效，每次搜索都提示网页无法访问",
+        "Actionable_Suggestion": "修复搜索功能，确保搜索结果可正常访问"
+      },
+      {
+        "id": "com.baidu.baiduapp_305",
+        "User_Pain_Point": "网页看视频无法小屏播放，且无法快进和后退",
+        "Actionable_Suggestion": "增加小屏播放功能，并支持快进和后退操作"
+      },
+      {
+        "id": "com.baidu.baiduapp_308",
+        "User_Pain_Point": "群聊功能被移除，用户无法使用",
+        "Actionable_Suggestion": "恢复群聊功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_311",
+        "User_Pain_Point": "搜索结果下滑不能刷新",
+        "Actionable_Suggestion": "修复下滑刷新功能，改为下拉刷新或继续加载下一页"
+      },
+      {
+        "id": "com.baidu.baiduapp_312",
+        "User_Pain_Point": "缺少基金当日估值功能",
+        "Actionable_Suggestion": "添加基金当日估值显示"
+      },
+      {
+        "id": "com.baidu.baiduapp_313",
+        "User_Pain_Point": "地图搜索后无法评价",
+        "Actionable_Suggestion": "在地图详情页添加评价入口"
+      },
+      {
+        "id": "com.baidu.baiduapp_314",
+        "User_Pain_Point": "百度AI没有历史记录",
+        "Actionable_Suggestion": "添加AI对话历史记录功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_316",
+        "User_Pain_Point": "缺少标题栏、追剧、贴吧小功能",
+        "Actionable_Suggestion": "添加标题栏、追剧、贴吧等小功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_320",
+        "User_Pain_Point": "百度健康阅读无法返回",
+        "Actionable_Suggestion": "修复返回按钮功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_321",
+        "User_Pain_Point": "视频退出后再次进入不再自动续播，而是从头开始",
+        "Actionable_Suggestion": "恢复视频播放记忆功能，使退出后再次进入时能自动续播。"
+      },
+      {
+        "id": "com.baidu.baiduapp_321",
+        "User_Pain_Point": "订单功能部分消失，书架功能全部失效，之前花钱买的专栏全部找不到",
+        "Actionable_Suggestion": "修复订单和书架功能，恢复用户已购买内容的数据。"
+      },
+      {
+        "id": "com.baidu.baiduapp_323",
+        "User_Pain_Point": "听小说没有临场感语音，体验差",
+        "Actionable_Suggestion": "增加临场感语音选项，提升听书体验。"
+      },
+      {
+        "id": "com.baidu.baiduapp_323",
+        "User_Pain_Point": "视频播放体验不如之前版本",
+        "Actionable_Suggestion": "优化视频播放器，恢复或提升之前版本的播放体验。"
+      },
+      {
+        "id": "com.baidu.baiduapp_323",
+        "User_Pain_Point": "小说浏览记录丢失",
+        "Actionable_Suggestion": "修复小说浏览记录功能，确保数据不丢失。"
+      },
+      {
+        "id": "com.baidu.baiduapp_324",
+        "User_Pain_Point": "浏览网页时没有关闭声音的功能",
+        "Actionable_Suggestion": "增加在网页浏览时一键关闭声音的开关。"
+      },
+      {
+        "id": "com.baidu.baiduapp_327",
+        "User_Pain_Point": "不能私聊",
+        "Actionable_Suggestion": "增加私聊功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_327",
+        "User_Pain_Point": "不能快进播放",
+        "Actionable_Suggestion": "增加视频或音频的快进功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_327",
+        "User_Pain_Point": "不是手机版文本阅读模式",
+        "Actionable_Suggestion": "适配手机版文本阅读模式。"
+      },
+      {
+        "id": "com.baidu.baiduapp_329",
+        "User_Pain_Point": "不能自动播放下一个文章，当前播放完后停止",
+        "Actionable_Suggestion": "恢复自动播放下一个文章的功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_330",
+        "User_Pain_Point": "缺少电脑和手机间的文件同步上传对话框，传输文件需要借用其他软件",
+        "Actionable_Suggestion": "增加文件同步上传对话框，实现电脑手机间文件便捷传输。"
+      },
+      {
+        "id": "com.baidu.baiduapp_331",
+        "User_Pain_Point": "缺少TV投屏功能",
+        "Actionable_Suggestion": "增加TV投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_332",
+        "User_Pain_Point": "不支持滚屏截图",
+        "Actionable_Suggestion": "增加滚屏截图功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_335",
+        "User_Pain_Point": "看视频时不能快进、调亮度、调音量",
+        "Actionable_Suggestion": "在视频播放界面增加快进、亮度、音量调节功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_339",
+        "User_Pain_Point": "需要屏幕手动快进功能",
+        "Actionable_Suggestion": "增加屏幕手动快进功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_340",
+        "User_Pain_Point": "听书功能不完善",
+        "Actionable_Suggestion": "完善听书功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_341",
+        "User_Pain_Point": "缺少投屏功能",
+        "Actionable_Suggestion": "增加投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_342",
+        "User_Pain_Point": "不能下载视频",
+        "Actionable_Suggestion": "增加视频下载功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_343",
+        "User_Pain_Point": "看小说不能变成翻页浏览模式",
+        "Actionable_Suggestion": "增加翻页浏览模式"
+      },
+      {
+        "id": "com.baidu.baiduapp_344",
+        "User_Pain_Point": "缺少进入视频静音播放功能",
+        "Actionable_Suggestion": "增加视频静音播放功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_345",
+        "User_Pain_Point": "缺少带货橱窗功能",
+        "Actionable_Suggestion": "尽快上线带货橱窗功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_347",
+        "User_Pain_Point": "看视频不能调倍速和音量",
+        "Actionable_Suggestion": "增加视频倍速和音量调节功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_353",
+        "User_Pain_Point": "视频播放时不能触屏调整音量和亮度",
+        "Actionable_Suggestion": "增加视频播放时触屏调整音量和亮度的功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_354",
+        "User_Pain_Point": "有用的功能一点不更新",
+        "Actionable_Suggestion": "定期更新用户需要的功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_359",
+        "User_Pain_Point": "没有看视频提现功能了",
+        "Actionable_Suggestion": "恢复看视频提现功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_361",
+        "User_Pain_Point": "订单信息显示不全，无物流信息",
+        "Actionable_Suggestion": "修复订单功能，完善订单信息显示和物流追踪"
+      },
+      {
+        "id": "com.baidu.baiduapp_361",
+        "User_Pain_Point": "浏览过程中无法跳转直播间",
+        "Actionable_Suggestion": "优化直播间跳转功能，确保正常跳转"
+      },
+      {
+        "id": "com.baidu.baiduapp_361",
+        "User_Pain_Point": "直播间无法使用优惠券，优惠券使用后无法点击跳转",
+        "Actionable_Suggestion": "解决直播间优惠券使用问题，确保优惠券可用并跳转"
+      },
+      {
+        "id": "com.baidu.baiduapp_363",
+        "User_Pain_Point": "无法在平板上观看购买的专栏视频",
+        "Actionable_Suggestion": "增加平板对专栏视频的支持，确保正常播放"
+      },
+      {
+        "id": "com.baidu.baiduapp_364",
+        "User_Pain_Point": "用户需要的功能未增加",
+        "Actionable_Suggestion": "调研用户需求，增加实用的新功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_365",
+        "User_Pain_Point": "对文章发表评论后不能删除",
+        "Actionable_Suggestion": "增加评论删除功能，允许用户自主删除评论"
+      },
+      {
+        "id": "com.baidu.baiduapp_383",
+        "User_Pain_Point": "缺少看小说功能",
+        "Actionable_Suggestion": "增加看小说功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_390",
+        "User_Pain_Point": "功能不够多，期待更多功能",
+        "Actionable_Suggestion": "持续增加新功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_392",
+        "User_Pain_Point": "没有投屏",
+        "Actionable_Suggestion": "建议增加投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_397",
+        "User_Pain_Point": "投屏没有。",
+        "Actionable_Suggestion": "建议增加投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_442",
+        "User_Pain_Point": "缺少贴吧功能",
+        "Actionable_Suggestion": "建议尽快接入贴吧功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_446",
+        "User_Pain_Point": "百度网盘功能不齐全",
+        "Actionable_Suggestion": "建议加快完善百度网盘功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_469",
+        "User_Pain_Point": "缺少投屏键",
+        "Actionable_Suggestion": "尽快适配投屏键"
+      },
+      {
+        "id": "com.baidu.baiduapp_485",
+        "User_Pain_Point": "发布近一年仍不支持百家号",
+        "Actionable_Suggestion": "尽快适配百家号功能，满足用户创作需求"
+      },
+      {
+        "id": "com.baidu.baiduapp_486",
+        "User_Pain_Point": "收不到点赞互动消息",
+        "Actionable_Suggestion": "修复消息通知问题，确保点赞互动消息正常接收"
+      },
+      {
+        "id": "com.baidu.baiduapp_487",
+        "User_Pain_Point": "评论无法删除",
+        "Actionable_Suggestion": "增加评论删除功能，给予用户管理自己评论的权限"
+      },
+      {
+        "id": "com.baidu.baiduapp_487",
+        "User_Pain_Point": "功能与安卓版相比不完善，需要逐步对照添加",
+        "Actionable_Suggestion": "对照安卓版功能，分批实现缺失功能，并持续更新"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.baidu.baiduapp_30",
+        "User_Pain_Point": "拍照识物功能非常方便。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_304",
+        "User_Pain_Point": "用户期望增加捏一下总结功能，以节省阅读时间",
+        "Actionable_Suggestion": "增加捏一下总结功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_366",
+        "User_Pain_Point": "功能很完善了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_369",
+        "User_Pain_Point": "功能齐全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_371",
+        "User_Pain_Point": "百度AI功能强大，像百科全书",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_372",
+        "User_Pain_Point": "内置应用级AI，好用易用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_373",
+        "User_Pain_Point": "功能更新速度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_376",
+        "User_Pain_Point": "功能非常强大，好用实用耐用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_377",
+        "User_Pain_Point": "新增听书功能",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_379",
+        "User_Pain_Point": "功能完整",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_381",
+        "User_Pain_Point": "搜索快，服务全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_383",
+        "User_Pain_Point": "挺好用的",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_385",
+        "User_Pain_Point": "功能强大，使用便捷，满足需求",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_386",
+        "User_Pain_Point": "功能强大，信息丰富，使用便捷",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_388",
+        "User_Pain_Point": "搜索功能很强大",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_391",
+        "User_Pain_Point": "百度功能真的蛮方便的，一直都在用，以后会一直支持☺☺",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_393",
+        "User_Pain_Point": "很实用，在日常生活中，无论是查找资料、了解新闻资讯，还是解决生活中的各种小问题，都能提供海量的信息资源。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_394",
+        "User_Pain_Point": "各种信息都能快速找到。搜索功能特别强大，不管是我想了解某个知识，还是查找某个地方，都能给我准确的答案。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_394",
+        "User_Pain_Point": "它还有很多实用的生活服务，比如查公交线路、查询违章等，一键就能搞定，特别方便。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_394",
+        "User_Pain_Point": "语音搜索也很棒，有时候不方便打字，直接说话就能搜索，反应很灵敏。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_395",
+        "User_Pain_Point": "好用，没有遇到什么问题。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_399",
+        "User_Pain_Point": "搜索好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_400",
+        "User_Pain_Point": "搜索很方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_401",
+        "User_Pain_Point": "百度AI回答问题准确、不啰嗦，智能抠图方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_405",
+        "User_Pain_Point": "搜索功能强大，AI助手和小程序运行稳定",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_406",
+        "User_Pain_Point": "功能完善，AI功能实用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_407",
+        "User_Pain_Point": "搜索实用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_408",
+        "User_Pain_Point": "搜索功能强大，AI助手运行稳定",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_409",
+        "User_Pain_Point": "功能齐全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_410",
+        "User_Pain_Point": "可以看小说，AI搜索方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_411",
+        "User_Pain_Point": "AI问答很好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_412",
+        "User_Pain_Point": "deepseek搜索很棒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_415",
+        "User_Pain_Point": "AI功能很好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_416",
+        "User_Pain_Point": "功能越来越丰富",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_417",
+        "User_Pain_Point": "功能齐全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_421",
+        "User_Pain_Point": "功能越来越完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_424",
+        "User_Pain_Point": "功能越来越完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_425",
+        "User_Pain_Point": "功能齐全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_429",
+        "User_Pain_Point": "跳转广告屏蔽功能",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_430",
+        "User_Pain_Point": "AI创作方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_431",
+        "User_Pain_Point": "用户喜欢AI键的功能，认为便利",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_432",
+        "User_Pain_Point": "用户赞赏百度搜索引擎体验流畅、信息丰富、准确度高，智能推荐提升效率",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_433",
+        "User_Pain_Point": "用户认为AI功能实用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_434",
+        "User_Pain_Point": "用户赞赏搜索速度快、信息全面，适合日常查询和获取新闻资讯",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_435",
+        "User_Pain_Point": "用户赞赏热榜频道推送快准，语音直达免唤醒查天气",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_436",
+        "User_Pain_Point": "用户认为百度功能多",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_439",
+        "User_Pain_Point": "用户认为华为一键登录方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_439",
+        "User_Pain_Point": "用户认为AI助手方便查询信息",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_441",
+        "User_Pain_Point": "日常功能齐全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_442",
+        "User_Pain_Point": "功能比较全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_443",
+        "User_Pain_Point": "功能越来越完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_447",
+        "User_Pain_Point": "功能丰富全面，包括小说、听书、热搜、短剧、AI创作、拍照翻译、健康等",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_448",
+        "User_Pain_Point": "功能很完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_451",
+        "User_Pain_Point": "优化方面非常下了功夫，看到成长很满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_454",
+        "User_Pain_Point": "鸿蒙版本功能很完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_456",
+        "User_Pain_Point": "功能越来越全了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_457",
+        "User_Pain_Point": "功能很全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_459",
+        "User_Pain_Point": "功能较完善，可以方便地查询知识，辅助学习",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_460",
+        "User_Pain_Point": "全屏搜索+负一屏卡片很顺手，热榜推送快准，语音直达免唤醒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_465",
+        "User_Pain_Point": "AI功能真好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_466",
+        "User_Pain_Point": "功能齐全，搜索准确",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_467",
+        "User_Pain_Point": "搜索信息、导航出行、在线购物、社交娱乐等便捷服务",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_468",
+        "User_Pain_Point": "AI功能可以很好地搜索到需要的内容",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_470",
+        "User_Pain_Point": "AI功能非常方便，使用起来很舒服",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_464",
+        "User_Pain_Point": "更新速度挺快，一步步完善功能",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_471",
+        "User_Pain_Point": "百度AI全能搭子，想问啥都行",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_473",
+        "User_Pain_Point": "功能很完善了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_474",
+        "User_Pain_Point": "搜索自带大模型提炼，简单好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_476",
+        "User_Pain_Point": "应该很快就能逐步补齐所需功能",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_477",
+        "User_Pain_Point": "百度AI全能搭子、小说频道舒适阅读、听书功能、热搜、短剧、AI创作、拍照翻译等丰富功能",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_478",
+        "User_Pain_Point": "功能很全面",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_479",
+        "User_Pain_Point": "小说功能很好用，看小说很方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_480",
+        "User_Pain_Point": "接入了DeepSeek和文心两个大模型，搜索答疑更便捷",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_481",
+        "User_Pain_Point": "比安卓版好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_482",
+        "User_Pain_Point": "整体使用体验不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_484",
+        "User_Pain_Point": "信息流支持举报反馈，净化浏览环境",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_484",
+        "User_Pain_Point": "首页频道管理完善，可轻松整理常用频道",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_484",
+        "User_Pain_Point": "小说阅读器体验优化，阅读流畅舒适",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_484",
+        "User_Pain_Point": "消息中心扩展互动消息，及时看到好友互动",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_488",
+        "User_Pain_Point": "直接打开就能搜索，方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_489",
+        "User_Pain_Point": "AI相关内容体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_490",
+        "User_Pain_Point": "AI功能好用实在",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_491",
+        "User_Pain_Point": "看小说方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_492",
+        "User_Pain_Point": "AI功能很好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_493",
+        "User_Pain_Point": "功能丰富",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_494",
+        "User_Pain_Point": "好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_496",
+        "User_Pain_Point": "基本功能都已完成",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_496",
+        "User_Pain_Point": "特别喜欢小说模块，很多年费书可以看",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_497",
+        "User_Pain_Point": "使用更方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_498",
+        "User_Pain_Point": "功能很全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_500",
+        "User_Pain_Point": "特别好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_500",
+        "User_Pain_Point": "AI很舒服",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.baidu.baiduapp_23",
+        "User_Pain_Point": "希望添加从百度APP跳转百度地图送花的功能。",
+        "Actionable_Suggestion": "考虑增加跳转百度地图送花的功能链接。"
+      },
+      {
+        "id": "com.baidu.baiduapp_67",
+        "User_Pain_Point": "建议添加举报功能",
+        "Actionable_Suggestion": "增加举报功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_70",
+        "User_Pain_Point": "图文背景音乐能否关闭？直接查看原文",
+        "Actionable_Suggestion": "提供关闭背景音乐功能和直接查看原文选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_116",
+        "User_Pain_Point": "缺少投屏功能",
+        "Actionable_Suggestion": "增加投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_177",
+        "User_Pain_Point": "建议加点鸿蒙特性",
+        "Actionable_Suggestion": "考虑增加鸿蒙特性（如分布式能力等）"
+      },
+      {
+        "id": "com.baidu.baiduapp_243",
+        "User_Pain_Point": "希望小说阅读器支持实况窗",
+        "Actionable_Suggestion": "考虑在阅读器中增加实况窗功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_285",
+        "User_Pain_Point": "希望开放AI伴学功能",
+        "Actionable_Suggestion": "考虑开发并开放AI伴学功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_309",
+        "User_Pain_Point": "用户询问何时增加私密收藏功能",
+        "Actionable_Suggestion": "考虑增加私密收藏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_336",
+        "User_Pain_Point": "建议视频全屏支持长按快进拖拽、调整音量和亮度",
+        "Actionable_Suggestion": "在视频全屏界面增加长按快进拖拽和音量亮度调节功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_373",
+        "User_Pain_Point": "希望早日对齐其他版本的功能",
+        "Actionable_Suggestion": "建议加快功能对齐其他版本"
+      },
+      {
+        "id": "com.baidu.baiduapp_377",
+        "User_Pain_Point": "希望继续完善，体验超过iOS",
+        "Actionable_Suggestion": "建议持续完善功能，对标iOS体验"
+      },
+      {
+        "id": "com.baidu.baiduapp_444",
+        "User_Pain_Point": "希望鸿蒙版积极适配好，完善好",
+        "Actionable_Suggestion": "建议持续优化适配"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.baidu.baiduapp_21",
+        "User_Pain_Point": "在鸿蒙6.0系统下，百度APP无法将视频内容正常投屏到海信电视机。",
+        "Actionable_Suggestion": "优化鸿蒙系统下视频投屏功能，兼容不同电视品牌。"
+      },
+      {
+        "id": "com.baidu.baiduapp_62",
+        "User_Pain_Point": "家不上微信怎么办",
+        "Actionable_Suggestion": "优化微信兼容性"
+      },
+      {
+        "id": "com.baidu.baiduapp_69",
+        "User_Pain_Point": "被华为限制了",
+        "Actionable_Suggestion": "解除华为限制，优化适配"
+      },
+      {
+        "id": "com.baidu.baiduapp_78",
+        "User_Pain_Point": "鸿蒙系统的百度比之前系统的阉割了不少功能，比如百度音乐。",
+        "Actionable_Suggestion": "确保鸿蒙版功能完整，恢复百度音乐等被阉割功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_85",
+        "User_Pain_Point": "鸿蒙系统打开网页点图片不能放大",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复图片放大功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_94",
+        "User_Pain_Point": "Pura 80无法保存图片",
+        "Actionable_Suggestion": "修复Pura 80机型保存图片的bug"
+      },
+      {
+        "id": "com.baidu.baiduapp_109",
+        "User_Pain_Point": "鸿蒙版百度功能不如安卓版",
+        "Actionable_Suggestion": "增强鸿蒙版功能，缩小与安卓版差距"
+      },
+      {
+        "id": "com.baidu.baiduapp_130",
+        "User_Pain_Point": "鸿蒙系统无法保存图片",
+        "Actionable_Suggestion": "修复鸿蒙系统下图片保存功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_162",
+        "User_Pain_Point": "鸿蒙系统更新后，百度纯净阅读小说都看不了",
+        "Actionable_Suggestion": "修复纯净阅读在鸿蒙新版的兼容性"
+      },
+      {
+        "id": "com.baidu.baiduapp_169",
+        "User_Pain_Point": "鸿蒙系统答疑太差，不是卡住，就是不出原题",
+        "Actionable_Suggestion": "优化鸿蒙系统答疑功能的卡顿和准确性"
+      },
+      {
+        "id": "com.baidu.baiduapp_193",
+        "User_Pain_Point": "活动页面显示该机型不支持",
+        "Actionable_Suggestion": "优化活动页面机型检测，支持更多机型"
+      },
+      {
+        "id": "com.baidu.baiduapp_206",
+        "User_Pain_Point": "鸿蒙系统升级后无法登录，提示申诉",
+        "Actionable_Suggestion": "修复鸿蒙系统升级后的登录兼容性问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_223",
+        "User_Pain_Point": "什么都还没适配",
+        "Actionable_Suggestion": "建议加快鸿蒙适配进度"
+      },
+      {
+        "id": "com.baidu.baiduapp_235",
+        "User_Pain_Point": "鸿蒙6.0系统下部分视频不支持播放。",
+        "Actionable_Suggestion": "适配鸿蒙6.0系统，支持更多视频格式。"
+      },
+      {
+        "id": "com.baidu.baiduapp_263",
+        "User_Pain_Point": "第三方文件不支持使用",
+        "Actionable_Suggestion": "尽快适配第三方文件兼容性"
+      },
+      {
+        "id": "com.baidu.baiduapp_296",
+        "User_Pain_Point": "鸿蒙5系统下看视频无法调节音量和亮度",
+        "Actionable_Suggestion": "适配鸿蒙5的亮度/音量调节功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_300",
+        "User_Pain_Point": "扫描试卷答案页面在鸿蒙系统下显示异常",
+        "Actionable_Suggestion": "修复鸿蒙系统下的答案显示问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_306",
+        "User_Pain_Point": "升级鸿蒙50后投屏功能失效，之前可用",
+        "Actionable_Suggestion": "修复升级系统后的投屏兼容性问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_310",
+        "User_Pain_Point": "投屏功能失效，之前可用",
+        "Actionable_Suggestion": "修复投屏功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_349",
+        "User_Pain_Point": "升级区分机型，部分机型更新滞后",
+        "Actionable_Suggestion": "统一升级策略，不区分机型"
+      },
+      {
+        "id": "com.baidu.baiduapp_398",
+        "User_Pain_Point": "为何百度在鸿蒙5.1版本里，在插件（小组件）上，没设置有长条透明卡片？（鸿蒙4.2）就有！",
+        "Actionable_Suggestion": "建议在鸿蒙5.1版本中恢复或添加长条透明卡片小组件"
+      },
+      {
+        "id": "com.baidu.baiduapp_413",
+        "User_Pain_Point": "鸿蒙版功能比其他版本差",
+        "Actionable_Suggestion": "提升鸿蒙版功能的完整性和更新速度"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.baidu.baiduapp_157",
+        "User_Pain_Point": "平板适配比想象中好。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_378",
+        "User_Pain_Point": "适配积极，bug修复及时，适配进度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_380",
+        "User_Pain_Point": "追评安卓进度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_382",
+        "User_Pain_Point": "适配了pura x",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_384",
+        "User_Pain_Point": "适配挺快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_387",
+        "User_Pain_Point": "进度挺快的，积极追进安卓全量版功能",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_403",
+        "User_Pain_Point": "正在积极适配HarmonyOS",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_404",
+        "User_Pain_Point": "积极适配鸿蒙，主流应用不断强大",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_405",
+        "User_Pain_Point": "完美适配HarmonyOS系统",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_408",
+        "User_Pain_Point": "完美适配HarmonyOS系统",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_413",
+        "User_Pain_Point": "鸿蒙版更新快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_414",
+        "User_Pain_Point": "比安卓版好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_425",
+        "User_Pain_Point": "适配态度积极",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_426",
+        "User_Pain_Point": "适配速度点赞，开发人员给力综合好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_427",
+        "User_Pain_Point": "全量版本",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_428",
+        "User_Pain_Point": "这版本才是我想要的版本",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_440",
+        "User_Pain_Point": "用户赞赏开发人员适配速度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_449",
+        "User_Pain_Point": "适配鸿蒙next做得好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_450",
+        "User_Pain_Point": "每个版本努力对齐版本",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_457",
+        "User_Pain_Point": "适配态度积极",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_458",
+        "User_Pain_Point": "功能适配差不多了，基本满足日常使用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_466",
+        "User_Pain_Point": "适配优秀",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_472",
+        "User_Pain_Point": "适配的很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_473",
+        "User_Pain_Point": "适配很积极",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_475",
+        "User_Pain_Point": "适配速度很快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_476",
+        "User_Pain_Point": "更新频率挺快的",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_478",
+        "User_Pain_Point": "适配程度很高",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_491",
+        "User_Pain_Point": "适配的很快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_496",
+        "User_Pain_Point": "更新的速度很快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_497",
+        "User_Pain_Point": "适配速度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_499",
+        "User_Pain_Point": "鸿蒙版比安卓版使用体验好了不少",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.baidu.baiduapp_426",
+        "User_Pain_Point": "希望结合鸿蒙特性创新",
+        "Actionable_Suggestion": "结合鸿蒙特性进行创新"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.baidu.baiduapp_10",
+        "User_Pain_Point": "视频播放严重卡顿。",
+        "Actionable_Suggestion": "优化视频播放性能，减少卡顿。"
+      },
+      {
+        "id": "com.baidu.baiduapp_34",
+        "User_Pain_Point": "视频播放卡顿，即使网络信号好也无法流畅观看",
+        "Actionable_Suggestion": "优化视频播放性能，提升解码效率及网络适应性"
+      },
+      {
+        "id": "com.baidu.baiduapp_44",
+        "User_Pain_Point": "播放器不稳定，存在BUG",
+        "Actionable_Suggestion": "优化播放器稳定性和修复BUG"
+      },
+      {
+        "id": "com.baidu.baiduapp_51",
+        "User_Pain_Point": "搜索和视频点不动，卡顿严重",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿，提升响应速度"
+      },
+      {
+        "id": "com.baidu.baiduapp_55",
+        "User_Pain_Point": "评论打开不一致，部分难以打开",
+        "Actionable_Suggestion": "排查评论加载问题，确保所有评论正常打开"
+      },
+      {
+        "id": "com.baidu.baiduapp_58",
+        "User_Pain_Point": "听小说时自动中断",
+        "Actionable_Suggestion": "修复听小说功能，避免自动中断"
+      },
+      {
+        "id": "com.baidu.baiduapp_60",
+        "User_Pain_Point": "播放视频自动暂停，反复出现",
+        "Actionable_Suggestion": "修复视频播放自动暂停的bug"
+      },
+      {
+        "id": "com.baidu.baiduapp_66",
+        "User_Pain_Point": "正常播放音乐，手机锁屏后音乐就播放不了",
+        "Actionable_Suggestion": "修复锁屏后播放功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_75",
+        "User_Pain_Point": "莫名其妙连不上网络，其他APP都能正常链接，就百度打开就卡得要死。",
+        "Actionable_Suggestion": "优化网络连接稳定性和性能，排查应用卡顿原因。"
+      },
+      {
+        "id": "com.baidu.baiduapp_99",
+        "User_Pain_Point": "看视频频繁自动暂停",
+        "Actionable_Suggestion": "修复视频播放自动暂停问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_106",
+        "User_Pain_Point": "视频经常自动暂停",
+        "Actionable_Suggestion": "修复自动暂停问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_114",
+        "User_Pain_Point": "修改文件名后导致文件丢失",
+        "Actionable_Suggestion": "修复文件重命名功能，确保数据不丢失"
+      },
+      {
+        "id": "com.baidu.baiduapp_115",
+        "User_Pain_Point": "春节红包活动运行过程中越来越卡顿",
+        "Actionable_Suggestion": "优化活动页面的性能，避免卡顿"
+      },
+      {
+        "id": "com.baidu.baiduapp_125",
+        "User_Pain_Point": "播放视频总自动暂停",
+        "Actionable_Suggestion": "修复视频自动暂停问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_139",
+        "User_Pain_Point": "切换视频后偶尔有两个视频的声音",
+        "Actionable_Suggestion": "建议修复音频叠加问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_140",
+        "User_Pain_Point": "应用卡顿，打开反应慢",
+        "Actionable_Suggestion": "建议优化性能，减少卡顿"
+      },
+      {
+        "id": "com.baidu.baiduapp_178",
+        "User_Pain_Point": "搜索栏点击无反应，上下滑动失灵",
+        "Actionable_Suggestion": "修复搜索栏交互问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_180",
+        "User_Pain_Point": "更新后搜索栏第二次点击无效，需返回重输",
+        "Actionable_Suggestion": "修复搜索栏点击响应问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_188",
+        "User_Pain_Point": "更新版本15.44.0.10后出现页面不跟手、卡顿、搜索框点不开等UI操作问题",
+        "Actionable_Suggestion": "修复性能问题，优化UI响应"
+      },
+      {
+        "id": "com.baidu.baiduapp_193",
+        "User_Pain_Point": "开屏进入活动后无法返回主页，只能退出重进",
+        "Actionable_Suggestion": "修复页面导航，确保有返回按钮或操作"
+      },
+      {
+        "id": "com.baidu.baiduapp_196",
+        "User_Pain_Point": "有4G网时百度页面无法访问，但自带浏览器正常",
+        "Actionable_Suggestion": "修复网络连接异常，优化请求处理"
+      },
+      {
+        "id": "com.baidu.baiduapp_242",
+        "User_Pain_Point": "浏览页面卡顿",
+        "Actionable_Suggestion": "优化页面加载和渲染性能，减少卡顿。"
+      },
+      {
+        "id": "com.baidu.baiduapp_253",
+        "User_Pain_Point": "打印准考证下载下来，文件直接破损，根本下载不了，根本看不到",
+        "Actionable_Suggestion": "修复文件下载完整性，确保文件不破损"
+      },
+      {
+        "id": "com.baidu.baiduapp_269",
+        "User_Pain_Point": "最近刷视频老是一卡一卡的",
+        "Actionable_Suggestion": "优化视频播放性能，减少卡顿"
+      },
+      {
+        "id": "com.baidu.baiduapp_281",
+        "User_Pain_Point": "长时间使用后出现卡顿，稳定性不足",
+        "Actionable_Suggestion": "优化长时间运行时的性能，提升稳定性"
+      },
+      {
+        "id": "com.baidu.baiduapp_315",
+        "User_Pain_Point": "百度AI一片空白无法使用",
+        "Actionable_Suggestion": "修复AI功能，确保正常加载显示"
+      },
+      {
+        "id": "com.baidu.baiduapp_317",
+        "User_Pain_Point": "升级后投屏无法使用",
+        "Actionable_Suggestion": "修复升级后的投屏功能兼容性问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_319",
+        "User_Pain_Point": "看电视内容加载慢",
+        "Actionable_Suggestion": "优化加载速度"
+      },
+      {
+        "id": "com.baidu.baiduapp_325",
+        "User_Pain_Point": "使用时出现闪屏，不稳定",
+        "Actionable_Suggestion": "修复闪屏问题，提升应用稳定性。"
+      },
+      {
+        "id": "com.baidu.baiduapp_352",
+        "User_Pain_Point": "锁屏听书卡顿",
+        "Actionable_Suggestion": "优化锁屏听书性能，减少卡顿"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.baidu.baiduapp_366",
+        "User_Pain_Point": "整体流畅度比安卓版强了不少",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_369",
+        "User_Pain_Point": "比安卓流畅简洁",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_379",
+        "User_Pain_Point": "运行流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_385",
+        "User_Pain_Point": "操作流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_388",
+        "User_Pain_Point": "流畅性不错，使用起来流畅性很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_406",
+        "User_Pain_Point": "稳定性提高",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_408",
+        "User_Pain_Point": "耗电优化好，长时间使用不卡顿",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_409",
+        "User_Pain_Point": "使用流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_414",
+        "User_Pain_Point": "简洁流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_417",
+        "User_Pain_Point": "流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_436",
+        "User_Pain_Point": "用户赞赏启动速度快、加载网页速度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_441",
+        "User_Pain_Point": "使用丝滑流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_445",
+        "User_Pain_Point": "功能适配进度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_450",
+        "User_Pain_Point": "流畅度非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_458",
+        "User_Pain_Point": "挺流畅的",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_460",
+        "User_Pain_Point": "用起来真丝滑",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_465",
+        "User_Pain_Point": "鸿蒙版真流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_466",
+        "User_Pain_Point": "体验流畅，响应迅速",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_482",
+        "User_Pain_Point": "响应速度比安卓快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_491",
+        "User_Pain_Point": "流畅度也不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_493",
+        "User_Pain_Point": "流畅度和稳定性给我留下了深刻的印象",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_493",
+        "User_Pain_Point": "运行速度很快，响应也非常及时",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_494",
+        "User_Pain_Point": "流畅",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.baidu.baiduapp_22",
+        "User_Pain_Point": "在视频播放页面，无法左右滑动返回，左下角返回箭头也无效，只能后台关闭应用。",
+        "Actionable_Suggestion": "优化视频播放页面的返回操作，确保手势和按钮都能正常返回。"
+      },
+      {
+        "id": "com.baidu.baiduapp_39",
+        "User_Pain_Point": "缺少液态玻璃皮肤等个性化主题",
+        "Actionable_Suggestion": "增加液态玻璃皮肤等主题选项，丰富个性化设置"
+      },
+      {
+        "id": "com.baidu.baiduapp_40",
+        "User_Pain_Point": "百度浏览器主页不够简洁，期望简洁主页",
+        "Actionable_Suggestion": "提供简洁主页模式选项，允许用户切换"
+      },
+      {
+        "id": "com.baidu.baiduapp_76",
+        "User_Pain_Point": "看视频全屏时，底部的返回主页的触控条没有自动隐藏。",
+        "Actionable_Suggestion": "修复全屏模式下触控条自动隐藏功能。"
+      },
+      {
+        "id": "com.baidu.baiduapp_141",
+        "User_Pain_Point": "主页面脏得要死，没有以前简洁页面的功能了",
+        "Actionable_Suggestion": "恢复简洁的页面设计，提供选择简洁模式的功能"
+      },
+      {
+        "id": "com.baidu.baiduapp_147",
+        "User_Pain_Point": "开始弹出广告了",
+        "Actionable_Suggestion": "减少或优化广告弹窗，提供关闭选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_150",
+        "User_Pain_Point": "有广告",
+        "Actionable_Suggestion": "减少广告展示或提供无广告选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_155",
+        "User_Pain_Point": "聊天框找不到，界面交互有问题。",
+        "Actionable_Suggestion": "优化聊天框的可见性和交互引导。"
+      },
+      {
+        "id": "com.baidu.baiduapp_186",
+        "User_Pain_Point": "我的页面与安卓版不同，用户不知如何使用",
+        "Actionable_Suggestion": "保持与安卓版界面一致或提供新手引导"
+      },
+      {
+        "id": "com.baidu.baiduapp_217",
+        "User_Pain_Point": "播放视频底部有一条线无法除掉",
+        "Actionable_Suggestion": "移除视频播放底部线条"
+      },
+      {
+        "id": "com.baidu.baiduapp_238",
+        "User_Pain_Point": "学习页面文字全部居中，阅读不便。",
+        "Actionable_Suggestion": "调整学习页面的文字对齐方式为左对齐或其他更易读的布局。"
+      },
+      {
+        "id": "com.baidu.baiduapp_241",
+        "User_Pain_Point": "横屏刷视频时下侧横线遮挡字幕",
+        "Actionable_Suggestion": "修复横屏模式下的UI遮挡问题。"
+      },
+      {
+        "id": "com.baidu.baiduapp_250",
+        "User_Pain_Point": "无法正常退出应用",
+        "Actionable_Suggestion": "修复退出逻辑，确保用户能正常退出。"
+      },
+      {
+        "id": "com.baidu.baiduapp_256",
+        "User_Pain_Point": "刷新时没有提示音感觉不是很好。",
+        "Actionable_Suggestion": "增加刷新时的提示音选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_257",
+        "User_Pain_Point": "百度为什么输入文字， 键盘就会‘收回？",
+        "Actionable_Suggestion": "修复输入时键盘异常收回的问题"
+      },
+      {
+        "id": "com.baidu.baiduapp_297",
+        "User_Pain_Point": "4x1搜索卡片插件过于复杂，占用桌面空间",
+        "Actionable_Suggestion": "恢复或提供简约的4x1搜索卡片插件"
+      },
+      {
+        "id": "com.baidu.baiduapp_355",
+        "User_Pain_Point": "词条点进去显示PC页面排版，需退出重进才正常",
+        "Actionable_Suggestion": "修复词条页面排版适配问题，确保首次打开显示正常"
+      },
+      {
+        "id": "com.baidu.baiduapp_382",
+        "User_Pain_Point": "上下顶栏和底栏没有高斯模糊",
+        "Actionable_Suggestion": "增加上下顶栏和底栏的高斯模糊效果"
+      },
+      {
+        "id": "com.baidu.baiduapp_488",
+        "User_Pain_Point": "界面需要优化得更干净",
+        "Actionable_Suggestion": "简化界面设计，减少冗余元素，提升视觉整洁度"
+      },
+      {
+        "id": "com.baidu.baiduapp_493",
+        "User_Pain_Point": "某些设置选项的交互设计可以再优化",
+        "Actionable_Suggestion": "优化设置选项的交互设计"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.baidu.baiduapp_370",
+        "User_Pain_Point": "内容简洁很舒适",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_380",
+        "User_Pain_Point": "界面简洁明了，看着舒服",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_385",
+        "User_Pain_Point": "界面简洁",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_394",
+        "User_Pain_Point": "它的界面设计也比较简洁明了，操作起来很容易上手，各种功能分类清晰，找起来不费劲。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_401",
+        "User_Pain_Point": "界面简介纯净",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_405",
+        "User_Pain_Point": "界面简洁流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_407",
+        "User_Pain_Point": "界面整洁，板块清晰，滑动流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_408",
+        "User_Pain_Point": "界面简洁流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_409",
+        "User_Pain_Point": "界面设计好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_414",
+        "User_Pain_Point": "布局合理",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_424",
+        "User_Pain_Point": "阅读界面看着很舒服",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_435",
+        "User_Pain_Point": "用户赞赏鸿蒙版百度丝滑流畅，全屏搜索+负一屏卡片顺手，动效与鸿蒙动画无缝衔接",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_436",
+        "User_Pain_Point": "用户赞赏鸿蒙版百度界面简洁",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_439",
+        "User_Pain_Point": "用户赞赏页面简洁干净",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_442",
+        "User_Pain_Point": "界面简洁",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_460",
+        "User_Pain_Point": "整套动效跟鸿蒙动画无缝衔接",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_461",
+        "User_Pain_Point": "底部沉浸显示",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_466",
+        "User_Pain_Point": "界面简洁",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_481",
+        "User_Pain_Point": "UI好看",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_484",
+        "User_Pain_Point": "长按快捷能力很实用，提高操作效率",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_493",
+        "User_Pain_Point": "界面简洁直观",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.baidu.baiduapp_27",
+        "User_Pain_Point": "没有极简首页选项，被迫观看强制推送的视频和资讯。",
+        "Actionable_Suggestion": "提供极简首页模式，允许用户自定义首页显示内容。"
+      },
+      {
+        "id": "com.baidu.baiduapp_28",
+        "User_Pain_Point": "首页被AI生成的资讯占据，用户希望恢复传统工具首页。",
+        "Actionable_Suggestion": "恢复工具首页或提供首页内容选择功能，减少AI生成资讯的推送。"
+      },
+      {
+        "id": "com.baidu.baiduapp_33",
+        "User_Pain_Point": "用户询问如何屏蔽广告，表明广告存在且影响体验",
+        "Actionable_Suggestion": "提供广告屏蔽设置选项，或减少广告干扰"
+      },
+      {
+        "id": "com.baidu.baiduapp_35",
+        "User_Pain_Point": "用户对鸿蒙系统下的APP仍有广告感到意外和不满",
+        "Actionable_Suggestion": "考虑在鸿蒙系统版本中减少广告或者提供更干净的体验"
+      },
+      {
+        "id": "com.baidu.baiduapp_37",
+        "User_Pain_Point": "广告过多，影响使用体验",
+        "Actionable_Suggestion": "控制广告数量，提供更优的广告策略"
+      },
+      {
+        "id": "com.baidu.baiduapp_38",
+        "User_Pain_Point": "搜索结果全是广告推广，体验变差",
+        "Actionable_Suggestion": "优化搜索结果排序，减少广告占比，提高结果相关性"
+      },
+      {
+        "id": "com.baidu.baiduapp_45",
+        "User_Pain_Point": "存在开机广告",
+        "Actionable_Suggestion": "减少或去除开机广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_48",
+        "User_Pain_Point": "有进入广告，其他APP没有",
+        "Actionable_Suggestion": "移除进入广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_52",
+        "User_Pain_Point": "广告过多",
+        "Actionable_Suggestion": "减少广告数量或优化广告展示策略"
+      },
+      {
+        "id": "com.baidu.baiduapp_56",
+        "User_Pain_Point": "打开应用有强制广告",
+        "Actionable_Suggestion": "取消强制广告或提供跳过选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_61",
+        "User_Pain_Point": "更新后广告真多，刷几个视频就出一次广告差评",
+        "Actionable_Suggestion": "减少广告频率或提供去广告选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_63",
+        "User_Pain_Point": "强行植入广告，一点就跳转打开淘宝、京东！",
+        "Actionable_Suggestion": "禁止误触跳转或提供关闭广告选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_64",
+        "User_Pain_Point": "新版本怎么广告越来越多了",
+        "Actionable_Suggestion": "减少广告数量或优化广告展示策略"
+      },
+      {
+        "id": "com.baidu.baiduapp_68",
+        "User_Pain_Point": "开屏广告",
+        "Actionable_Suggestion": "减少或去除开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_74",
+        "User_Pain_Point": "看连续剧不能免费下载。",
+        "Actionable_Suggestion": "提供免费下载连续剧的选项或提示付费规则。"
+      },
+      {
+        "id": "com.baidu.baiduapp_77",
+        "User_Pain_Point": "一打开就有广告。",
+        "Actionable_Suggestion": "减少或优化广告，提供无广告选项。"
+      },
+      {
+        "id": "com.baidu.baiduapp_90",
+        "User_Pain_Point": "短剧广告过多且无法取消和限制",
+        "Actionable_Suggestion": "减少短剧广告频率或提供关闭选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_92",
+        "User_Pain_Point": "满屏广告，影响使用体验",
+        "Actionable_Suggestion": "建议减少广告数量或提供付费去广告选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_96",
+        "User_Pain_Point": "广告关都关不完，影响体验",
+        "Actionable_Suggestion": "优化广告关闭流程或减少广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_108",
+        "User_Pain_Point": "扣费问题，希望取消订阅",
+        "Actionable_Suggestion": "明确扣费规则并提供便捷取消订阅方式"
+      },
+      {
+        "id": "com.baidu.baiduapp_117",
+        "User_Pain_Point": "应用内广告过多，影响体验",
+        "Actionable_Suggestion": "减少广告投放频率或提供去广告选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_118",
+        "User_Pain_Point": "广告太多",
+        "Actionable_Suggestion": "减少广告数量"
+      },
+      {
+        "id": "com.baidu.baiduapp_126",
+        "User_Pain_Point": "活动坑人，体验差",
+        "Actionable_Suggestion": "改进活动规则，避免误导用户"
+      },
+      {
+        "id": "com.baidu.baiduapp_129",
+        "User_Pain_Point": "存在启动广告和弹窗广告",
+        "Actionable_Suggestion": "减少或去除启动广告和弹窗广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_133",
+        "User_Pain_Point": "应用有开屏广告，影响体验",
+        "Actionable_Suggestion": "建议减少或取消开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_138",
+        "User_Pain_Point": "开屏广告体验极差，用户大量跳过",
+        "Actionable_Suggestion": "建议优化广告策略，减少干扰"
+      },
+      {
+        "id": "com.baidu.baiduapp_142",
+        "User_Pain_Point": "新年红包活动呢，为什么版本这么落后",
+        "Actionable_Suggestion": "及时更新活动版本，确保与最新活动同步"
+      },
+      {
+        "id": "com.baidu.baiduapp_145",
+        "User_Pain_Point": "存在风险？不能参加活动？",
+        "Actionable_Suggestion": "优化风险检测机制，明确风险原因，提供申诉渠道"
+      },
+      {
+        "id": "com.baidu.baiduapp_146",
+        "User_Pain_Point": "新春活动都不能完整的参加 体验太差",
+        "Actionable_Suggestion": "确保所有用户能完整参与活动，修复活动bug"
+      },
+      {
+        "id": "com.baidu.baiduapp_156",
+        "User_Pain_Point": "打开软件有广告，且是借钱广告，体验差。",
+        "Actionable_Suggestion": "减少广告数量或优化广告内容，避免借贷类广告。"
+      },
+      {
+        "id": "com.baidu.baiduapp_158",
+        "User_Pain_Point": "存在偷花伪造数据行为。",
+        "Actionable_Suggestion": "调查并修复数据伪造问题，确保数据真实性。"
+      },
+      {
+        "id": "com.baidu.baiduapp_172",
+        "User_Pain_Point": "篡改数据，缺乏可信度",
+        "Actionable_Suggestion": "停止篡改数据，恢复用户信任"
+      },
+      {
+        "id": "com.baidu.baiduapp_179",
+        "User_Pain_Point": "送花功能中天天偷花",
+        "Actionable_Suggestion": "禁止或修复送花偷花行为"
+      },
+      {
+        "id": "com.baidu.baiduapp_190",
+        "User_Pain_Point": "视频内容容易让用户上瘾",
+        "Actionable_Suggestion": "改进推荐算法或增加防沉迷机制"
+      },
+      {
+        "id": "com.baidu.baiduapp_205",
+        "User_Pain_Point": "存在开屏广告",
+        "Actionable_Suggestion": "减少或移除开屏广告，或提供关闭选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_208",
+        "User_Pain_Point": "开屏广告持续存在",
+        "Actionable_Suggestion": "减少或移除开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_209",
+        "User_Pain_Point": "内容显示免费但实际需要VIP才能观看",
+        "Actionable_Suggestion": "明确标识付费内容，避免误导"
+      },
+      {
+        "id": "com.baidu.baiduapp_210",
+        "User_Pain_Point": "许多活动无法参与",
+        "Actionable_Suggestion": "修复活动参与功能，确保用户可正常参加"
+      },
+      {
+        "id": "com.baidu.baiduapp_216",
+        "User_Pain_Point": "存在开屏广告",
+        "Actionable_Suggestion": "减少或去除开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_223",
+        "User_Pain_Point": "先适配广告",
+        "Actionable_Suggestion": "建议完善功能适配后再考虑广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_227",
+        "User_Pain_Point": "开屏广告",
+        "Actionable_Suggestion": "建议减少或优化开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_230",
+        "User_Pain_Point": "广告太多",
+        "Actionable_Suggestion": "建议优化广告展示频率"
+      },
+      {
+        "id": "com.baidu.baiduapp_231",
+        "User_Pain_Point": "应用内存在广告，用户表达不满。",
+        "Actionable_Suggestion": "减少广告插入频率或提供无广告选项。"
+      },
+      {
+        "id": "com.baidu.baiduapp_232",
+        "User_Pain_Point": "抱怨付费会员和广告过多，认为谈钱伤感情。",
+        "Actionable_Suggestion": "提供免费无广告版本或降低会员价格。"
+      },
+      {
+        "id": "com.baidu.baiduapp_234",
+        "User_Pain_Point": "启动广告非常影响体验，用户反感。",
+        "Actionable_Suggestion": "取消启动广告或提供可跳过的选项。"
+      },
+      {
+        "id": "com.baidu.baiduapp_244",
+        "User_Pain_Point": "天天现金功能缺失，之前任务现金未提现",
+        "Actionable_Suggestion": "恢复天天现金功能并处理未提现余额。"
+      },
+      {
+        "id": "com.baidu.baiduapp_245",
+        "User_Pain_Point": "不知道如何关闭开屏广告",
+        "Actionable_Suggestion": "提供开屏广告关闭的明确设置入口。"
+      },
+      {
+        "id": "com.baidu.baiduapp_246",
+        "User_Pain_Point": "开屏广告无法关闭",
+        "Actionable_Suggestion": "允许用户关闭开屏广告，或提供关闭选项。"
+      },
+      {
+        "id": "com.baidu.baiduapp_252",
+        "User_Pain_Point": "鸿蒙系统的百度打开居然还有广告弹出来",
+        "Actionable_Suggestion": "优化广告展示，减少弹窗广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_266",
+        "User_Pain_Point": "功能还没完善就开始加广告，卸载了",
+        "Actionable_Suggestion": "广告投放时机应合理，功能完善后再考虑"
+      },
+      {
+        "id": "com.baidu.baiduapp_267",
+        "User_Pain_Point": "鸿蒙6里发现的第一个带开屏广告的应用",
+        "Actionable_Suggestion": "减少或移除开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_275",
+        "User_Pain_Point": "首页品牌广告像牛皮癣，设置里广告屏蔽关不掉",
+        "Actionable_Suggestion": "优化广告显示策略，增加关闭选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_276",
+        "User_Pain_Point": "打开应用的时候有广告链接弹出",
+        "Actionable_Suggestion": "减少或优化启动广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_278",
+        "User_Pain_Point": "APP开屏有广告",
+        "Actionable_Suggestion": "优化开屏广告体验或提供跳过选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_279",
+        "User_Pain_Point": "打开还是摇一摇广告",
+        "Actionable_Suggestion": "减少或优化摇一摇广告触发方式"
+      },
+      {
+        "id": "com.baidu.baiduapp_280",
+        "User_Pain_Point": "鸿蒙版打开还有广告",
+        "Actionable_Suggestion": "优化广告策略"
+      },
+      {
+        "id": "com.baidu.baiduapp_282",
+        "User_Pain_Point": "鸿蒙6.0版本仍有启动广告，而其他软件已无广告",
+        "Actionable_Suggestion": "去除启动广告或提供关闭选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_287",
+        "User_Pain_Point": "应用内出现广告",
+        "Actionable_Suggestion": "减少广告数量或提供关闭按钮"
+      },
+      {
+        "id": "com.baidu.baiduapp_288",
+        "User_Pain_Point": "开屏广告烦人",
+        "Actionable_Suggestion": "去除开屏广告或允许用户跳过"
+      },
+      {
+        "id": "com.baidu.baiduapp_290",
+        "User_Pain_Point": "广告多且无法关闭，关闭后滑动页面再次出现",
+        "Actionable_Suggestion": "大幅减少广告数量，并确保关闭后不再频繁出现"
+      },
+      {
+        "id": "com.baidu.baiduapp_292",
+        "User_Pain_Point": "开屏广告影响体验",
+        "Actionable_Suggestion": "减少或取消开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_299",
+        "User_Pain_Point": "开屏广告影响体验",
+        "Actionable_Suggestion": "去掉开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_302",
+        "User_Pain_Point": "其他应用无广告，但百度仍有广告，用户体验差",
+        "Actionable_Suggestion": "减少广告投放或优化广告展示策略"
+      },
+      {
+        "id": "com.baidu.baiduapp_303",
+        "User_Pain_Point": "应用存在开屏广告",
+        "Actionable_Suggestion": "减少或移除开屏广告，或提供跳过选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_318",
+        "User_Pain_Point": "广告过多",
+        "Actionable_Suggestion": "减少广告或提供关闭选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_334",
+        "User_Pain_Point": "开屏广告无法关闭",
+        "Actionable_Suggestion": "提供关闭开屏广告的选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_337",
+        "User_Pain_Point": "更新后增加了小说广告",
+        "Actionable_Suggestion": "减少或优化广告投放，避免在更新后增加广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_338",
+        "User_Pain_Point": "希望删除开屏广告",
+        "Actionable_Suggestion": "删除或提供关闭开屏广告的选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_346",
+        "User_Pain_Point": "打开APP有开屏广告",
+        "Actionable_Suggestion": "移除或减少开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_348",
+        "User_Pain_Point": "打开APP有开屏广告",
+        "Actionable_Suggestion": "移除开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_350",
+        "User_Pain_Point": "开屏广告与宣传不符",
+        "Actionable_Suggestion": "移除开屏广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_354",
+        "User_Pain_Point": "没用的广告更新的老快了",
+        "Actionable_Suggestion": "减少广告更新频率，优化广告内容"
+      },
+      {
+        "id": "com.baidu.baiduapp_356",
+        "User_Pain_Point": "首页广告容易误触，一下就导进去了",
+        "Actionable_Suggestion": "优化首页广告位置，减少误触"
+      },
+      {
+        "id": "com.baidu.baiduapp_360",
+        "User_Pain_Point": "开屏广告影响体验",
+        "Actionable_Suggestion": "减少开屏广告时长或提供跳过选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_362",
+        "User_Pain_Point": "出现了广告",
+        "Actionable_Suggestion": "减少或取消广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_364",
+        "User_Pain_Point": "广告过多，要求取消",
+        "Actionable_Suggestion": "取消广告"
+      },
+      {
+        "id": "com.baidu.baiduapp_394",
+        "User_Pain_Point": "有时候广告稍微有点多，希望能在这方面改进一下，让搜索体验更加流畅。",
+        "Actionable_Suggestion": "建议优化广告展示，减少广告数量或提高广告相关性"
+      },
+      {
+        "id": "com.baidu.baiduapp_411",
+        "User_Pain_Point": "广告数量多",
+        "Actionable_Suggestion": "减少广告投放数量"
+      },
+      {
+        "id": "com.baidu.baiduapp_422",
+        "User_Pain_Point": "最新版本有广告",
+        "Actionable_Suggestion": "减少广告数量或提供去广告选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_452",
+        "User_Pain_Point": "开始频繁有广告了",
+        "Actionable_Suggestion": "减少广告频率或提供去广告选项"
+      },
+      {
+        "id": "com.baidu.baiduapp_453",
+        "User_Pain_Point": "为什么有广告？",
+        "Actionable_Suggestion": "减少广告或增加无广告版本"
+      },
+      {
+        "id": "com.baidu.baiduapp_487",
+        "User_Pain_Point": "应用升级滞后，对照安卓功能不完善",
+        "Actionable_Suggestion": "加快版本迭代，尽快补齐与安卓版的功能差距"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.baidu.baiduapp_163",
+        "User_Pain_Point": "最新版有红包任务了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_369",
+        "User_Pain_Point": "广告少",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_400",
+        "User_Pain_Point": "鸿蒙版没有广告",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_440",
+        "User_Pain_Point": "用户赞赏群里反馈及时",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_445",
+        "User_Pain_Point": "反馈信息及时跟进处理",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_483",
+        "User_Pain_Point": "官方积极适配",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_489",
+        "User_Pain_Point": "开发适配更新速度很快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_495",
+        "User_Pain_Point": "工作人员耐心细致肯干活，把提出的问题给解决了，解决的还挺快",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.baidu.baiduapp_149",
+        "User_Pain_Point": "集卡活动什么时候上线",
+        "Actionable_Suggestion": "及时告知用户活动上线时间，或尽快上线集卡活动"
+      },
+      {
+        "id": "com.baidu.baiduapp_437",
+        "User_Pain_Point": "用户认为当前体验还可以，但希望增加更新，对齐其他平台的功能",
+        "Actionable_Suggestion": "建议加大更新频率，尽快补齐与其他平台的功能差异"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.baidu.baiduapp_2",
+        "User_Pain_Point": "无广告，鸿蒙体验好。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_3",
+        "User_Pain_Point": "手感好，屏幕大。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_9",
+        "User_Pain_Point": "整体体验不错。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_32",
+        "User_Pain_Point": "整体体验良好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_46",
+        "User_Pain_Point": "售后很棒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_53",
+        "User_Pain_Point": "应用体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_69",
+        "User_Pain_Point": "都挺好的",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_79",
+        "User_Pain_Point": "AI挺好的。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_83",
+        "User_Pain_Point": "海量信息有价值可查",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_94",
+        "User_Pain_Point": "运行比较流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_95",
+        "User_Pain_Point": "加油更新",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_107",
+        "User_Pain_Point": "APP更新及时",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_110",
+        "User_Pain_Point": "总体体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_113",
+        "User_Pain_Point": "用户觉得体验不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_120",
+        "User_Pain_Point": "用户认为鸿蒙适配其他方面非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_121",
+        "User_Pain_Point": "整体体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_123",
+        "User_Pain_Point": "整体体验好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_127",
+        "User_Pain_Point": "整体体验非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_135",
+        "User_Pain_Point": "用户表示支持百度",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_152",
+        "User_Pain_Point": "听小说功能不错。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_167",
+        "User_Pain_Point": "用的不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_170",
+        "User_Pain_Point": "用的鸿蒙系统，有问题百度也及时处理了，点赞",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_177",
+        "User_Pain_Point": "比较给力",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_182",
+        "User_Pain_Point": "整体体验超级好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_218",
+        "User_Pain_Point": "非常棒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_230",
+        "User_Pain_Point": "很好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_240",
+        "User_Pain_Point": "用户对应用表示赞赏。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_307",
+        "User_Pain_Point": "用户对应用表示满意",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_326",
+        "User_Pain_Point": "应用体验超级不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_333",
+        "User_Pain_Point": "创作中心已支持，体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_351",
+        "User_Pain_Point": "很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_358",
+        "User_Pain_Point": "设置有广告屏蔽管理、默认首页设置，隐私设置里可以关掉另一些广告",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_367",
+        "User_Pain_Point": "非常nice，值得推荐，鸿蒙版本更加便利",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_368",
+        "User_Pain_Point": "百度一直挺用心适配鸿蒙的，这几个月更新的也挺快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_370",
+        "User_Pain_Point": "很不错，很快就上了，真的是很惊喜",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_374",
+        "User_Pain_Point": "非常不错的搜索引擎，值得推荐",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_375",
+        "User_Pain_Point": "还不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_389",
+        "User_Pain_Point": "非常棒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_390",
+        "User_Pain_Point": "非常不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_402",
+        "User_Pain_Point": "非常好用，大大的赞，没遇到什么问题",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_420",
+        "User_Pain_Point": "表现非常不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_421",
+        "User_Pain_Point": "从以前就一直用百度APP",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_423",
+        "User_Pain_Point": "一直习惯用百度，国内一线大厂",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_426",
+        "User_Pain_Point": "综合好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_438",
+        "User_Pain_Point": "用户认为百度鸿蒙版是非常不错的App",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_444",
+        "User_Pain_Point": "一直使用百度，很好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_445",
+        "User_Pain_Point": "感知不错，很好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_448",
+        "User_Pain_Point": "期待百度系列越来越好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_450",
+        "User_Pain_Point": "希望越来越好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_455",
+        "User_Pain_Point": "开发过程中与用户诚心沟通，每天进步",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_456",
+        "User_Pain_Point": "提的问题能积极解决，态度好，大厂态度",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_462",
+        "User_Pain_Point": "非常棒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_464",
+        "User_Pain_Point": "辛苦开发者大大",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_483",
+        "User_Pain_Point": "非常好，积极适配",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_486",
+        "User_Pain_Point": "五星支持",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_493",
+        "User_Pain_Point": "整体使用体验非常不错",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.baidu.baiduapp_43",
+        "User_Pain_Point": "过时信息未更新，可能误导用户",
+        "Actionable_Suggestion": "及时更新信息，确保内容准确性"
+      },
+      {
+        "id": "com.baidu.baiduapp_50",
+        "User_Pain_Point": "AI新闻太多且千篇一律，缺乏可看性",
+        "Actionable_Suggestion": "减少AI新闻数量，提高内容多样性"
+      },
+      {
+        "id": "com.baidu.baiduapp_93",
+        "User_Pain_Point": "评论区骂人太多，环境恶劣",
+        "Actionable_Suggestion": "加强评论审核和举报机制"
+      },
+      {
+        "id": "com.baidu.baiduapp_106",
+        "User_Pain_Point": "资讯内容质量差，配图莫名、文字过小",
+        "Actionable_Suggestion": "提升内容审核与排版质量"
+      },
+      {
+        "id": "com.baidu.baiduapp_117",
+        "User_Pain_Point": "推荐内容低质，多为抖音短视频和跳舞视频",
+        "Actionable_Suggestion": "优化内容推荐算法，提高内容质量"
+      },
+      {
+        "id": "com.baidu.baiduapp_122",
+        "User_Pain_Point": "APP导航页面没有军事一栏",
+        "Actionable_Suggestion": "增加军事栏目"
+      },
+      {
+        "id": "com.baidu.baiduapp_173",
+        "User_Pain_Point": "鸿蒙系统缺少畅读模式",
+        "Actionable_Suggestion": "增加畅读模式"
+      },
+      {
+        "id": "com.baidu.baiduapp_192",
+        "User_Pain_Point": "查出来的数据都是错的",
+        "Actionable_Suggestion": "确保数据真实准确"
+      },
+      {
+        "id": "com.baidu.baiduapp_194",
+        "User_Pain_Point": "数据人为操控，造假不真实",
+        "Actionable_Suggestion": "保证数据真实性和客观性"
+      },
+      {
+        "id": "com.baidu.baiduapp_195",
+        "User_Pain_Point": "数据篡改，送花数据达不到不给兑现",
+        "Actionable_Suggestion": "确保数据准确，兑现承诺"
+      },
+      {
+        "id": "com.baidu.baiduapp_259",
+        "User_Pain_Point": "百度现在真是小众平台，成自媒体虚假新闻聚集地了，扯个乱七八糟的东西就能随便发。",
+        "Actionable_Suggestion": "加强内容审核，打击虚假新闻"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.baidu.baiduapp_394",
+        "User_Pain_Point": "还有那个新闻板块，能让我及时了解到各种新鲜事儿，内容很丰富，各种领域都有涵盖。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_399",
+        "User_Pain_Point": "内容很丰富！",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_411",
+        "User_Pain_Point": "内容丰富",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_418",
+        "User_Pain_Point": "资讯内容及时",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_421",
+        "User_Pain_Point": "非常喜欢短剧板块",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_432",
+        "User_Pain_Point": "用户满意百度能看小说",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_463",
+        "User_Pain_Point": "鸿蒙版百度越来越丰富，经常看热搜推荐板块",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_474",
+        "User_Pain_Point": "最新新闻和知识尽收眼底",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_481",
+        "User_Pain_Point": "内容丰富",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.baidu.baiduapp_489",
+        "User_Pain_Point": "AI相关内容非常全面",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  }
+}

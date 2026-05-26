@@ -1,0 +1,2815 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.taobao.taobao4hmos_1",
+        "User_Pain_Point": "鸿蒙系统手机无法显示淘宝新功能火花",
+        "Actionable_Suggestion": "兼容鸿蒙系统以正确显示新功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_2",
+        "User_Pain_Point": "产品页无法下拉进入达人直播间",
+        "Actionable_Suggestion": "添加产品页下拉进入达人直播间的功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_3",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "尽快推出深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_4",
+        "User_Pain_Point": "深色模式一直灰度不放开，影响体验",
+        "Actionable_Suggestion": "全量放开深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_5",
+        "User_Pain_Point": "直播锁屏后停止播放",
+        "Actionable_Suggestion": "支持锁屏后继续播放直播"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_10",
+        "User_Pain_Point": "首页没有频道管理功能",
+        "Actionable_Suggestion": "添加首页频道管理功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_12",
+        "User_Pain_Point": "不能查看新品预览链接",
+        "Actionable_Suggestion": "增加新品预览链接功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_12",
+        "User_Pain_Point": "店铺正在直播也看不到",
+        "Actionable_Suggestion": "增加店铺直播显示功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_12",
+        "User_Pain_Point": "基本信息不完善",
+        "Actionable_Suggestion": "完善基础功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_15",
+        "User_Pain_Point": "不支持微信支付",
+        "Actionable_Suggestion": "接入微信支付"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_17",
+        "User_Pain_Point": "收货地址为香港时出现商品无可支持的运送方式，不能付款",
+        "Actionable_Suggestion": "修复香港地址物流及支付问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_21",
+        "User_Pain_Point": "淘宝无法使用微信支付",
+        "Actionable_Suggestion": "建议增加微信支付方式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_21",
+        "User_Pain_Point": "支付宝支付不能使用个人余额",
+        "Actionable_Suggestion": "建议恢复支付宝个人余额支付功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_24",
+        "User_Pain_Point": "直播间回放商品后缺少返回当前直播间的按钮",
+        "Actionable_Suggestion": "在回放界面增加返回当前直播间的按钮"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_25",
+        "User_Pain_Point": "评价拍照功能存在问题",
+        "Actionable_Suggestion": "优化评价拍照功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_26",
+        "User_Pain_Point": "进入商品界面默认静音但视频仍有声音",
+        "Actionable_Suggestion": "修复静音模式与视频声音不一致的问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_27",
+        "User_Pain_Point": "最新版本无法选择发货日期",
+        "Actionable_Suggestion": "修复发货日期选择功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_28",
+        "User_Pain_Point": "缺少许多方便快捷操作方式",
+        "Actionable_Suggestion": "增加常用快捷操作功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_29",
+        "User_Pain_Point": "取消了批量确认收货功能",
+        "Actionable_Suggestion": "建议恢复批量确认收货功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_29",
+        "User_Pain_Point": "直播间点击马上抢后主播声音消失",
+        "Actionable_Suggestion": "修复点击马上抢后声音丢失的bug"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_31",
+        "User_Pain_Point": "平板无法看到直播间，也进不去。",
+        "Actionable_Suggestion": "修复平板端直播功能，确保平板用户能正常查看和进入直播间。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_35",
+        "User_Pain_Point": "好多功能不在线。",
+        "Actionable_Suggestion": "检查并上线缺失的功能，确保完整性。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_38",
+        "User_Pain_Point": "收货地址的乡镇归类会自动变更，令人困惑。",
+        "Actionable_Suggestion": "修复地址归类逻辑，防止自动变更。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_39",
+        "User_Pain_Point": "首页图标不能调整，非常不方便。",
+        "Actionable_Suggestion": "增加首页图标自定义排列功能，提升用户体验。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_41",
+        "User_Pain_Point": "缺少618活动任务",
+        "Actionable_Suggestion": "尽快补齐618活动任务，确保与其它版本一致"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_44",
+        "User_Pain_Point": "缺少福利机制，618活动页面任务比别的版本少",
+        "Actionable_Suggestion": "增加福利机制和活动任务，与其它版本保持一致"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_45",
+        "User_Pain_Point": "闪购购物车多个订单不能一起支付",
+        "Actionable_Suggestion": "支持购物车多个订单合并支付"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_46",
+        "User_Pain_Point": "不能扫二维码加群聊",
+        "Actionable_Suggestion": "增加扫码加群聊功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_47",
+        "User_Pain_Point": "直播分屏时暂停，希望不暂停",
+        "Actionable_Suggestion": "支持直播分屏时保持播放不暂停"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_51",
+        "User_Pain_Point": "鸿蒙版的618金币任务分享链接不能直接在淘宝内聊天发，需要复制到微信",
+        "Actionable_Suggestion": "允许在淘宝内直接分享链接"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_54",
+        "User_Pain_Point": "点收藏选不了分类",
+        "Actionable_Suggestion": "修复收藏分类选择功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_55",
+        "User_Pain_Point": "外卖服务差，平台与骑手互相推诿，导致餐品体验差",
+        "Actionable_Suggestion": "提升外卖服务质量，明确责任归属"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_56",
+        "User_Pain_Point": "淘宝购物无法使用微信支付",
+        "Actionable_Suggestion": "增加微信支付支持"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_58",
+        "User_Pain_Point": "缺少AI试穿功能，别的手机都有",
+        "Actionable_Suggestion": "增加AI试穿功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_61",
+        "User_Pain_Point": "缺少新品预览功能，影响购买现货决策",
+        "Actionable_Suggestion": "尽快上线新品预览功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_63",
+        "User_Pain_Point": "缺少AI购物助手",
+        "Actionable_Suggestion": "添加AI购物助手功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_64",
+        "User_Pain_Point": "88VIP图标未上线",
+        "Actionable_Suggestion": "上线88VIP图标"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_66",
+        "User_Pain_Point": "无法切换图标",
+        "Actionable_Suggestion": "增加图标切换功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_68",
+        "User_Pain_Point": "不支持3D人脸支付",
+        "Actionable_Suggestion": "支持3D人脸支付功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_70",
+        "User_Pain_Point": "无法将未发货订单共享物流给收件人",
+        "Actionable_Suggestion": "增加订单共享物流功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_67",
+        "User_Pain_Point": "天猫对话框领券一直失败",
+        "Actionable_Suggestion": "修复领券功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_71",
+        "User_Pain_Point": "消息中第一条交易物流点不开",
+        "Actionable_Suggestion": "修复消息列表中第一条交易物流无法点击的bug"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_72",
+        "User_Pain_Point": "鸿蒙系统无法一键取件",
+        "Actionable_Suggestion": "适配鸿蒙系统一键取件功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_74",
+        "User_Pain_Point": "详情页视频无法播放",
+        "Actionable_Suggestion": "修复详情页视频播放问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_75",
+        "User_Pain_Point": "升级鸿蒙后发票信息无法使用",
+        "Actionable_Suggestion": "适配鸿蒙新版本，确保发票信息填写功能正常"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_76",
+        "User_Pain_Point": "海外订单无法代付",
+        "Actionable_Suggestion": "优化海外订单代付功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_77",
+        "User_Pain_Point": "无法接收推送消息",
+        "Actionable_Suggestion": "修复消息推送功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_85",
+        "User_Pain_Point": "深色模式适配不完整，只有闪购页面无法正常进入深色模式",
+        "Actionable_Suggestion": "修复闪购页面的深色模式适配，确保所有页面均支持深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_87",
+        "User_Pain_Point": "斗地牛进不去",
+        "Actionable_Suggestion": "修复斗地牛功能入口或兼容性问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_84",
+        "User_Pain_Point": "购物软件加入过多小游戏，影响正常购物体验",
+        "Actionable_Suggestion": "减少或提供关闭小游戏的选项，保持购物核心功能简洁"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_98",
+        "User_Pain_Point": "新品按键没有展示，进入店铺找不到新品",
+        "Actionable_Suggestion": "修复新品展示功能，确保按键正常显示并可跳转"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_110",
+        "User_Pain_Point": "店铺页缺少店铺榜单，购买人数，评价数量等数据",
+        "Actionable_Suggestion": "在店铺页添加店铺榜单、购买人数、评价数量等关键数据展示"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_114",
+        "User_Pain_Point": "品牌金无法关联支付宝付款",
+        "Actionable_Suggestion": "修复关联功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_115",
+        "User_Pain_Point": "物流信息不更新，需催单才显示派送",
+        "Actionable_Suggestion": "优化物流跟踪功能，主动推送派送状态"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_119",
+        "User_Pain_Point": "红包详情无法查看，只能跳转到可用商品页",
+        "Actionable_Suggestion": "修复红包详情查看功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_122",
+        "User_Pain_Point": "缺少新品预览功能，降低购物欲望",
+        "Actionable_Suggestion": "增加新品预览功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_124",
+        "User_Pain_Point": "淘金币功能打不开",
+        "Actionable_Suggestion": "修复淘金币入口"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_126",
+        "User_Pain_Point": "直播间点赞看不到数据",
+        "Actionable_Suggestion": "修复直播间点赞数据展示"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_126",
+        "User_Pain_Point": "红包使用情况查看不到",
+        "Actionable_Suggestion": "修复红包使用记录查看功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_128",
+        "User_Pain_Point": "百亿补贴金刚券领不了",
+        "Actionable_Suggestion": "修复金刚券领取功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_129",
+        "User_Pain_Point": "无法切换深色模式",
+        "Actionable_Suggestion": "修复深色模式切换功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_130",
+        "User_Pain_Point": "淘宝人生和火爆连连消部分功能折叠，看不到打不开",
+        "Actionable_Suggestion": "修复功能折叠问题，确保正常展示和打开"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_131",
+        "User_Pain_Point": "夜间模式/黑暗模式缺失，晚上刷淘宝刺眼。",
+        "Actionable_Suggestion": "增加黑暗模式，并支持根据时间或系统设置自动切换。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_132",
+        "User_Pain_Point": "推荐内容风格单一，看腻了。",
+        "Actionable_Suggestion": "优化推荐算法，增加推荐多样性，引入更多样化的商品类别和风格。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_136",
+        "User_Pain_Point": "摇一摇广告触发过于敏感，导致不必要的跳转，用户体验差。",
+        "Actionable_Suggestion": "取消摇一摇广告或增加灵敏度调节选项，允许用户关闭该功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_137",
+        "User_Pain_Point": "商品详情页自动下滑到其他商品，且关闭开关无效，无法关闭此功能。",
+        "Actionable_Suggestion": "修复自动下滑的Bug，确保开关能正常控制该功能，或移除自动下滑行为。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_139",
+        "User_Pain_Point": "至今未适配黑暗模式，夜间使用刺眼。",
+        "Actionable_Suggestion": "尽快适配黑暗模式，并支持与系统主题联动。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_140",
+        "User_Pain_Point": "闪购中商家和骑手的消息没有通知。",
+        "Actionable_Suggestion": "修复闪购消息通知缺失问题，确保用户能收到相关通知。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_141",
+        "User_Pain_Point": "在香港使用國行華為手機淘寶，無法發貨。",
+        "Actionable_Suggestion": "優化海外發貨策略，支持香港地區發貨。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_143",
+        "User_Pain_Point": "分享的視頻無法播放。",
+        "Actionable_Suggestion": "修復視頻播放功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_144",
+        "User_Pain_Point": "新品預覽無法查看，需要適配。",
+        "Actionable_Suggestion": "適配新品預覽功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_145",
+        "User_Pain_Point": "出國後不能購物，找不到地區設置。",
+        "Actionable_Suggestion": "添加地區設置功能，支持海外購物。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_146",
+        "User_Pain_Point": "選擇發貨地功能有問題。",
+        "Actionable_Suggestion": "修復選擇發貨地功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_147",
+        "User_Pain_Point": "掃碼不支持微信掃碼。",
+        "Actionable_Suggestion": "增加微信掃碼支持。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_148",
+        "User_Pain_Point": "實況窗更新後消失。",
+        "Actionable_Suggestion": "恢復實況窗功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_151",
+        "User_Pain_Point": "点进一些店铺的小程序直接显示页面走失",
+        "Actionable_Suggestion": "修复店铺小程序页面加载问题，确保正常显示"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_152",
+        "User_Pain_Point": "店铺新品无法提前查看，必须开售才能看到",
+        "Actionable_Suggestion": "增加店铺新品预览功能，允许用户提前浏览未开售商品"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_155",
+        "User_Pain_Point": "收藏功能失败，提示收藏失败",
+        "Actionable_Suggestion": "修复收藏功能，确保用户能成功收藏商品"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_156",
+        "User_Pain_Point": "聊天功能无法发送原图",
+        "Actionable_Suggestion": "在聊天功能中增加发送原图选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_157",
+        "User_Pain_Point": "缺少夜间模式，晚上使用难受",
+        "Actionable_Suggestion": "增加夜间模式功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_158",
+        "User_Pain_Point": "无法设置默认关闭直播自动播放，流量消耗快",
+        "Actionable_Suggestion": "在设置中添加默认关闭直播自动播放的选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_160",
+        "User_Pain_Point": "店铺界面无法查看新品，功能不完善",
+        "Actionable_Suggestion": "在店铺界面增加新品查看功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_161",
+        "User_Pain_Point": "乐动力没有黄金特惠",
+        "Actionable_Suggestion": "建议增加乐动力黄金特惠功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_161",
+        "User_Pain_Point": "淘金币没有闪购",
+        "Actionable_Suggestion": "建议增加淘金币闪购功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_162",
+        "User_Pain_Point": "缺少实况窗功能",
+        "Actionable_Suggestion": "建议尽快上线实况窗功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_163",
+        "User_Pain_Point": "直播回放后无法返回正在直播状态",
+        "Actionable_Suggestion": "优化直播回放与直播状态的切换逻辑"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_164",
+        "User_Pain_Point": "无法使用集运功能",
+        "Actionable_Suggestion": "建议适配并修复集运功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_165",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "建议增加夜间模式功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_166",
+        "User_Pain_Point": "闪购无法登入，收不到语音验证码",
+        "Actionable_Suggestion": "修复闪购登录及语音验证码接收问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_168",
+        "User_Pain_Point": "闪购微信支付一直显示支付失败",
+        "Actionable_Suggestion": "修复闪购微信支付失败问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_170",
+        "User_Pain_Point": "国外收货地址无法付款且官方集运功能不可用",
+        "Actionable_Suggestion": "完善对国外地址的支付及集运支持"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_171",
+        "User_Pain_Point": "操作流程太繁琐",
+        "Actionable_Suggestion": "简化操作流程，减少步骤，优化体验"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_173",
+        "User_Pain_Point": "鸿蒙版澳门购买功能无法使用",
+        "Actionable_Suggestion": "调查并修复澳门地区的购买功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_175",
+        "User_Pain_Point": "缺少直播缩放功能",
+        "Actionable_Suggestion": "增加直播画面双指缩放功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_178",
+        "User_Pain_Point": "视频播放界面问题多",
+        "Actionable_Suggestion": "全面检测并修复视频播放界面问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_179",
+        "User_Pain_Point": "缺失深色模式适配",
+        "Actionable_Suggestion": "尽快适配系统深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_180",
+        "User_Pain_Point": "AI功能不够智能",
+        "Actionable_Suggestion": "优化AI算法，提升智能能力"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_181",
+        "User_Pain_Point": "没有搜索栏",
+        "Actionable_Suggestion": "添加搜索栏"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_182",
+        "User_Pain_Point": "通过卡片进入淘宝只能进入卡片的单一页面，不能返回到主界面",
+        "Actionable_Suggestion": "优化卡片进入后的返回逻辑，提供返回主界面的功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_183",
+        "User_Pain_Point": "更新之后没有实况窗了",
+        "Actionable_Suggestion": "恢复实况窗功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_185",
+        "User_Pain_Point": "不支持翼支付",
+        "Actionable_Suggestion": "增加翼支付支持"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_186",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "添加深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_187",
+        "User_Pain_Point": "直播看回放后不能返回正在直播画面",
+        "Actionable_Suggestion": "优化直播回放返回逻辑，提供返回直播的路径"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_193",
+        "User_Pain_Point": "无法接收和发送语音消息",
+        "Actionable_Suggestion": "尽快实现语音消息收发功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_196",
+        "User_Pain_Point": "不支持AI试穿功能，买衣服时很需要",
+        "Actionable_Suggestion": "开发并上线AI试穿功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_198",
+        "User_Pain_Point": "更新显示有AI试穿，但实际搜索入口显示未开发",
+        "Actionable_Suggestion": "完善AI试穿功能开发，确保更新内容与实际一致"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_200",
+        "User_Pain_Point": "缺少合并收货功能，需要一个个点确认收货，非常麻烦",
+        "Actionable_Suggestion": "尽快推出合并收货功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_201",
+        "User_Pain_Point": "消息→聊天详情里面聊天记录长一点，滑动就会来回乱跳",
+        "Actionable_Suggestion": "优化聊天列表的滑动流畅性，修复滚动跳转问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_202",
+        "User_Pain_Point": "陌生人聊天无法删除",
+        "Actionable_Suggestion": "增加删除陌生人聊天的功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_206",
+        "User_Pain_Point": "需要暗黑模式，晚上太刺眼了",
+        "Actionable_Suggestion": "增加暗黑模式切换功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_209",
+        "User_Pain_Point": "软件在天猫超市页面，手机无法熄屏，测了一下午，扔在没人的地方还是亮着",
+        "Actionable_Suggestion": "修复天猫超市页面阻止手机休眠的问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_210",
+        "User_Pain_Point": "港澳用戶，跨境包郵的還是不能下單。",
+        "Actionable_Suggestion": "修复港澳用户跨境包邮下单功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_211",
+        "User_Pain_Point": "淘宝免费试用时频繁出现验证框或访问频道，导致任务无法进行。",
+        "Actionable_Suggestion": "优化验证机制，减少不必要的验证框弹窗，确保任务流程顺畅。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_212",
+        "User_Pain_Point": "打开小窗口后直播自动暂停。",
+        "Actionable_Suggestion": "修复小窗口模式与直播播放的兼容性，确保小窗口打开时直播继续播放。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_215",
+        "User_Pain_Point": "缺少专拍设置功能。",
+        "Actionable_Suggestion": "增加专拍设置功能，满足用户特定需求。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_217",
+        "User_Pain_Point": "找不到TH99包邮专区。",
+        "Actionable_Suggestion": "优化TH99包邮专区的展示和搜索功能，增加引导或说明，帮助用户快速找到。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_218",
+        "User_Pain_Point": "视频小窗不能禁用，每次需要手动关闭。",
+        "Actionable_Suggestion": "增加视频小窗的禁用开关，让用户可以选择是否启用小窗模式。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_220",
+        "User_Pain_Point": "客服发送的视频无法观看。",
+        "Actionable_Suggestion": "修复客服消息中视频播放的兼容性问题，确保用户能正常查看。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_222",
+        "User_Pain_Point": "应用未提供更改区域功能，导致海外用户无法正常购买。",
+        "Actionable_Suggestion": "添加区域切换功能，支持海外地址交易。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_224",
+        "User_Pain_Point": "无法关闭闪购的消息通知，造成打扰。",
+        "Actionable_Suggestion": "提供消息关闭开关，允许用户自主控制通知。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_226",
+        "User_Pain_Point": "应用功能不齐全，影响使用。",
+        "Actionable_Suggestion": "完善功能，补齐缺失功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_227",
+        "User_Pain_Point": "应用不支持香港地址交易，限制部分用户使用。",
+        "Actionable_Suggestion": "增加对香港地址的支持，扩展服务区域。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_228",
+        "User_Pain_Point": "深色模式灰度测试太久，迟迟未正式推送。",
+        "Actionable_Suggestion": "加快深色模式推送进度，与其他平台同步。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_231",
+        "User_Pain_Point": "闪购的消息通知不能批量删，看过了还显示几十个角标",
+        "Actionable_Suggestion": "增加批量删除消息通知功能，并确保角标正确更新"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_232",
+        "User_Pain_Point": "更新后视频底栏不能关闭",
+        "Actionable_Suggestion": "增加视频底栏关闭选项或还原之前可关闭的设计"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_233",
+        "User_Pain_Point": "不支持微信提现",
+        "Actionable_Suggestion": "增加微信提现功能支持"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_234",
+        "User_Pain_Point": "抢购网页打不开",
+        "Actionable_Suggestion": "修复抢购页面的加载问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_235",
+        "User_Pain_Point": "淘工厂和国货严选搜物品时下拉加载受限，只能下拉几个就停止",
+        "Actionable_Suggestion": "修复搜索列表下拉加载更多的功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_236",
+        "User_Pain_Point": "闪购的消息提醒一直消除不了，角标反复出现",
+        "Actionable_Suggestion": "修复消息提醒角标消除的Bug"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_237",
+        "User_Pain_Point": "看书赚钱栏目中看短剧功能时有时无，听书功能链接不稳定且无法使用",
+        "Actionable_Suggestion": "完善看书赚钱栏目中看短剧和听书功能，确保稳定可用"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_242",
+        "User_Pain_Point": "关闭后台直播开关后，仍会在后台直播",
+        "Actionable_Suggestion": "修复后台直播机制，确保开关生效"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_243",
+        "User_Pain_Point": "点击淘宝闪购无反应或跳回推荐页",
+        "Actionable_Suggestion": "修复闪购跳转逻辑，确保点击后正确进入闪购页面"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_245",
+        "User_Pain_Point": "无直播回放功能",
+        "Actionable_Suggestion": "增加直播回放功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_245",
+        "User_Pain_Point": "无拒收卖家营销消息功能",
+        "Actionable_Suggestion": "增加拒收卖家营销消息的选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_248",
+        "User_Pain_Point": "淘金币在70先锋版本无法捐赠",
+        "Actionable_Suggestion": "修复淘金币捐赠功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_250",
+        "User_Pain_Point": "官方消息已读后仍显示未读",
+        "Actionable_Suggestion": "修复消息已读状态同步"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_253",
+        "User_Pain_Point": "淘宝闪购外卖消息通知未读数异常，显示有未读但实际已读，强迫症难以忍受。",
+        "Actionable_Suggestion": "修复消息未读数逻辑，确保用户点击后未读数正确清零，不再错误显示未读标记。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_254",
+        "User_Pain_Point": "淘宝闪购页面中的商家和商品无法点击，无法进一步操作。",
+        "Actionable_Suggestion": "排查并修复闪购页面点击事件绑定问题，确保所有可点击元素响应正常。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_255",
+        "User_Pain_Point": "物流信息不准确，显示派件中但实际快递员未收到包裹，影响购物体验。",
+        "Actionable_Suggestion": "优化物流信息同步机制，与快递公司数据实时对接，确保物流状态更新准确。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_259",
+        "User_Pain_Point": "淘宝消息已读后刷新重新出现，未读标记无法保持已读状态。",
+        "Actionable_Suggestion": "修复消息已读状态持久化问题，确保刷新后已读消息不再显示为未读。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_260",
+        "User_Pain_Point": "无法搜索隐藏优惠券，限制用户获取优惠。",
+        "Actionable_Suggestion": "恢复隐藏券搜索功能，确保用户可以通过搜索找到各类优惠券。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_265",
+        "User_Pain_Point": "评价图片上传异常",
+        "Actionable_Suggestion": "修复图片上传功能异常"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_266",
+        "User_Pain_Point": "最新尝鲜版评价图片上传异常",
+        "Actionable_Suggestion": "修复图片上传功能异常"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_267",
+        "User_Pain_Point": "鸿蒙版淘宝没有跨境集运功能，港澳用户无法使用",
+        "Actionable_Suggestion": "增加跨境集运功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_269",
+        "User_Pain_Point": "缺少黑暗模式",
+        "Actionable_Suggestion": "增加黑暗模式（深色模式）"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_270",
+        "User_Pain_Point": "闪购消息通知无法关闭，图标持续显示消息数量提醒",
+        "Actionable_Suggestion": "增加关闭消息通知的选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_271",
+        "User_Pain_Point": "深色模式灰度很久但未上线",
+        "Actionable_Suggestion": "尽快上线深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_272",
+        "User_Pain_Point": "深色模式缺失",
+        "Actionable_Suggestion": "增加深色模式功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_273",
+        "User_Pain_Point": "缺少图片编辑裁剪功能",
+        "Actionable_Suggestion": "添加图片编辑裁剪功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_274",
+        "User_Pain_Point": "已失效订单无法从待发货栏删除",
+        "Actionable_Suggestion": "修复订单状态显示逻辑，允许用户删除失效订单"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_275",
+        "User_Pain_Point": "淘宝视频任务消失",
+        "Actionable_Suggestion": "恢复并优化视频任务功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_282",
+        "User_Pain_Point": "金币签到、红包签到、视频红包任务缺失",
+        "Actionable_Suggestion": "尽快补齐签到和红包任务功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_283",
+        "User_Pain_Point": "设置中缺少国家地区与语言选项",
+        "Actionable_Suggestion": "在设置中增加国家地区与语言选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_285",
+        "User_Pain_Point": "桌面不能添加打卡小组件",
+        "Actionable_Suggestion": "支持桌面打卡小组件功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_288",
+        "User_Pain_Point": "首页频道定制和黑夜模式未上线",
+        "Actionable_Suggestion": "尽快上线首页频道定制和黑夜模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_289",
+        "User_Pain_Point": "缺少暗夜模式，夜间使用刺眼",
+        "Actionable_Suggestion": "增加暗夜模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_290",
+        "User_Pain_Point": "部分商品不支持微信付款",
+        "Actionable_Suggestion": "扩展更多支付方式，如微信支付"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_291",
+        "User_Pain_Point": "通知中的消息在点开之后，一会重启app，之前的消息依然还是未读状态",
+        "Actionable_Suggestion": "修复消息已读状态同步问题，确保点击通知后消息状态正确更新"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_292",
+        "User_Pain_Point": "香港地址不能派送，支付时显示无支持的派送方式",
+        "Actionable_Suggestion": "支持香港地址的派送，修复支付环节的派送方式检测逻辑"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_293",
+        "User_Pain_Point": "华为手机看不了上新预告",
+        "Actionable_Suggestion": "适配HarmonyOS，增加上新预告功能的显示"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_295",
+        "User_Pain_Point": "鸿蒙版本APP直播间弹不出券、没有权益小组件、商家买返红包出不来，bug半年未修复",
+        "Actionable_Suggestion": "修复直播间券弹出、权益小组件、买返红包功能，并建立长期bug修复机制"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_296",
+        "User_Pain_Point": "无法与客服聊天，提示更新但已是最新版本",
+        "Actionable_Suggestion": "修复客服聊天功能，确保最新版本可用"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_299",
+        "User_Pain_Point": "聊天记录不能批量删除",
+        "Actionable_Suggestion": "增加批量删除聊天记录功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_302",
+        "User_Pain_Point": "没有夜间模式",
+        "Actionable_Suggestion": "增加夜间模式/深色模式开关"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_303",
+        "User_Pain_Point": "没有切换到海外版的窗口",
+        "Actionable_Suggestion": "增加海外版切换功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_304",
+        "User_Pain_Point": "深色模式仍在灰度测试，未全量开放",
+        "Actionable_Suggestion": "尽快全量发布深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_305",
+        "User_Pain_Point": "不支持微信支付",
+        "Actionable_Suggestion": "接入微信支付渠道"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_306",
+        "User_Pain_Point": "功能未全量化，与iOS/Android不同步",
+        "Actionable_Suggestion": "逐步补齐功能，实现多平台同步"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_306",
+        "User_Pain_Point": "捐助金币功能需要优化",
+        "Actionable_Suggestion": "优化捐助金币功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_309",
+        "User_Pain_Point": "支付时不支持翼支付",
+        "Actionable_Suggestion": "接入翼支付渠道"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_310",
+        "User_Pain_Point": "一键确认收货功能缺失",
+        "Actionable_Suggestion": "增加一键确认收货功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_310",
+        "User_Pain_Point": "顺手买只能买一个，限制使用",
+        "Actionable_Suggestion": "放开顺手买数量限制"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_314",
+        "User_Pain_Point": "缺少一键取件功能",
+        "Actionable_Suggestion": "开发并上线一键取件功能，简化取件流程"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_316",
+        "User_Pain_Point": "直播间价格改价不弹窗，一直显示原价",
+        "Actionable_Suggestion": "修复直播间改价弹窗逻辑，确保价格变更及时反映"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_317",
+        "User_Pain_Point": "淘友圈功能长期未更新，用户期望更新",
+        "Actionable_Suggestion": "规划并推进淘友圈功能的迭代更新"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_318",
+        "User_Pain_Point": "最近经常无法转发消息",
+        "Actionable_Suggestion": "修复消息转发功能的问题，确保稳定可用"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_319",
+        "User_Pain_Point": "与商家聊天界面缺少“店铺上新”按钮",
+        "Actionable_Suggestion": "在聊天界面添加“店铺上新”入口，方便用户查看新品"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_321",
+        "User_Pain_Point": "退货上门取件未到时间系统自动取消",
+        "Actionable_Suggestion": "优化取消逻辑，确保在约定时间前不自动取消取件订单"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_322",
+        "User_Pain_Point": "超抢手商品无法查看店铺环境照片",
+        "Actionable_Suggestion": "增加查看店铺环境照片的功能入口"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_326",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "尽快增加深色模式功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_327",
+        "User_Pain_Point": "深色模式迟迟未全量上线",
+        "Actionable_Suggestion": "加快深色模式全量上线的进度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_328",
+        "User_Pain_Point": "收藏商品缺少分类功能",
+        "Actionable_Suggestion": "增加收藏商品的分类管理功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_329",
+        "User_Pain_Point": "不支持微信支付，仅支付宝",
+        "Actionable_Suggestion": "增加微信支付选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_329",
+        "User_Pain_Point": "绑定了别人的支付宝账户无法更改",
+        "Actionable_Suggestion": "提供修改绑定支付账户的功能，允许用户解绑和重新绑定"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_330",
+        "User_Pain_Point": "闪购消息每次进入APP都会弹出且无法消除",
+        "Actionable_Suggestion": "修复闪购消息的消除逻辑，确保用户标记后不再重复弹出"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_332",
+        "User_Pain_Point": "付款后无法返回，按钮点不动",
+        "Actionable_Suggestion": "修复付款成功页面的返回按钮点击响应，确保用户能正常返回"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_333",
+        "User_Pain_Point": "不能向柬埔寨发货",
+        "Actionable_Suggestion": "增加柬埔寨作为配送目的地，或完善国际配送选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_334",
+        "User_Pain_Point": "机器人答非所问",
+        "Actionable_Suggestion": "优化智能客服对话逻辑，提高问题识别与回答准确率"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_334",
+        "User_Pain_Point": "找“我的钱包”难",
+        "Actionable_Suggestion": "将“我的钱包”入口放在更显眼的位置，或增加快捷搜索"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_335",
+        "User_Pain_Point": "淘宝闪购界面点不动，能滑动但点不进店铺",
+        "Actionable_Suggestion": "修复闪购页面的点击事件，确保用户能进入店铺"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_336",
+        "User_Pain_Point": "更新多次仍没有看视频得红包功能",
+        "Actionable_Suggestion": "加快开发并上线看视频得红包功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_337",
+        "User_Pain_Point": "扫一扫二维码不能选相册，仅显示全部照片，不好找",
+        "Actionable_Suggestion": "在扫一扫中添加相册选择功能，支持按相册分类浏览图片"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_340",
+        "User_Pain_Point": "红包签到和视频“去提现”少了很多链接",
+        "Actionable_Suggestion": "恢复并补全签到和提现功能的入口链接"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_342",
+        "User_Pain_Point": "天猫自营店不能换购，提示客户端不支持换购功能",
+        "Actionable_Suggestion": "增加换购功能支持"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_343",
+        "User_Pain_Point": "物流页面不显示，点不开看不见详细信息",
+        "Actionable_Suggestion": "修复物流页面显示问题，确保信息可查看"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_351",
+        "User_Pain_Point": "不支持深色模式",
+        "Actionable_Suggestion": "建议增加深色模式支持"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_353",
+        "User_Pain_Point": "无法跳转到付款界面",
+        "Actionable_Suggestion": "修复付款界面跳转问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_354",
+        "User_Pain_Point": "无法查看店铺上新预览",
+        "Actionable_Suggestion": "增加鸿蒙版店铺上新预览功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_357",
+        "User_Pain_Point": "商品点进去显示过期不存在，但实际在架上",
+        "Actionable_Suggestion": "修复商品详情页显示过期问题，确保数据同步"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_362",
+        "User_Pain_Point": "游戏板块适配没做好",
+        "Actionable_Suggestion": "优化游戏板块适配"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_363",
+        "User_Pain_Point": "缺少深色模式，晚上使用刺眼",
+        "Actionable_Suggestion": "增加深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_366",
+        "User_Pain_Point": "搜索推荐内容单一，无法找到想要的商品",
+        "Actionable_Suggestion": "优化搜索推荐算法，增加多样性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_367",
+        "User_Pain_Point": "上传评价图片功能异常",
+        "Actionable_Suggestion": "修复评价图片上传功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_370",
+        "User_Pain_Point": "无法打开淘口令",
+        "Actionable_Suggestion": "修复淘口令打开功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_371",
+        "User_Pain_Point": "鸿蒙版不支持SG包邮，其他版本支持。",
+        "Actionable_Suggestion": "建议鸿蒙版增加SG包邮功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_372",
+        "User_Pain_Point": "夜间模式尚未上线。",
+        "Actionable_Suggestion": "建议增加夜间模式。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_375",
+        "User_Pain_Point": "转发链接时停留在正在加载最近联系人，无法正常转发。",
+        "Actionable_Suggestion": "修复转发功能，解决加载最近联系人卡住的问题。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_376",
+        "User_Pain_Point": "淘宝里的多乐升级游戏无法进入。",
+        "Actionable_Suggestion": "修复多乐升级游戏入口或兼容性问题。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_377",
+        "User_Pain_Point": "海外版无法使用海外地址付款。",
+        "Actionable_Suggestion": "支持海外地址付款功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_378",
+        "User_Pain_Point": "店家聊天语音不能播放。",
+        "Actionable_Suggestion": "修复聊天语音播放功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_379",
+        "User_Pain_Point": "无法关闭或屏蔽淘小蜜消息，且消息多无法删除。",
+        "Actionable_Suggestion": "增加关闭或屏蔽淘小蜜消息的选项。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_382",
+        "User_Pain_Point": "快递不能指定，导致用户体验不佳。",
+        "Actionable_Suggestion": "增加指定快递公司的选项。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_383",
+        "User_Pain_Point": "缺少深色模式，用户期待该功能。",
+        "Actionable_Suggestion": "尽快开发并上线深色模式。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_386",
+        "User_Pain_Point": "更新后弹出优惠券功能消失，用户感到困扰。",
+        "Actionable_Suggestion": "恢复弹出优惠券的功能，并检查更新流程避免功能丢失。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_387",
+        "User_Pain_Point": "跳转支付宝支付时无法使用指纹或面部识别，尽管设置已开启。",
+        "Actionable_Suggestion": "修复跳转支付宝支付时生物识别不可用的问题。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_392",
+        "User_Pain_Point": "退款申请无法修改退款金额。",
+        "Actionable_Suggestion": "增加退款金额修改功能，或允许用户重新发起退款。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_393",
+        "User_Pain_Point": "拍视频锁屏后前段拍的没有了。",
+        "Actionable_Suggestion": "优化视频录制功能，确保锁屏后视频数据保存完整。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_394",
+        "User_Pain_Point": "鸿蒙版为啥不能打视频呢。",
+        "Actionable_Suggestion": "增加视频通话功能，或说明不支持的原因。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_400",
+        "User_Pain_Point": "啥时候有新品预览啊？",
+        "Actionable_Suggestion": "增加新品预览功能或活动页面。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_401",
+        "User_Pain_Point": "不能跟卓易通下载的软件跳转",
+        "Actionable_Suggestion": "建议支持与卓易通等第三方应用跳转"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_404",
+        "User_Pain_Point": "88vip图标切换不了",
+        "Actionable_Suggestion": "增加88vip图标切换功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_405",
+        "User_Pain_Point": "用不了面容支付",
+        "Actionable_Suggestion": "适配鸿蒙面容支付功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_408",
+        "User_Pain_Point": "修改地址不生效，下订单秒改仍为原地址",
+        "Actionable_Suggestion": "修复地址修改后不更新的问题，并确保商家端同步"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_410",
+        "User_Pain_Point": "夜间模式未适配",
+        "Actionable_Suggestion": "尽快适配夜间模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_412",
+        "User_Pain_Point": "黑暗模式没做好，评价界面还是白色",
+        "Actionable_Suggestion": "完善深色模式适配，确保评价界面跟随系统深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_414",
+        "User_Pain_Point": "需要深色模式",
+        "Actionable_Suggestion": "增加深色模式功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_418",
+        "User_Pain_Point": "淘宝里面游戏连连消挣不了消币，连连消里面不能浏览加五步继续玩",
+        "Actionable_Suggestion": "修复游戏模块的消币获取逻辑和浏览加步功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_420",
+        "User_Pain_Point": "粘贴的内容到淘宝自动打开，需要把内容粘贴到搜索框里，有的还不对",
+        "Actionable_Suggestion": "优化粘贴功能，避免自动打开，确保粘贴内容正确跳转到搜索"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_421",
+        "User_Pain_Point": "店铺看不到预上新",
+        "Actionable_Suggestion": "添加预上新功能入口"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_425",
+        "User_Pain_Point": "驿站出库快递必须用淘宝，找不到明显的出库码",
+        "Actionable_Suggestion": "优化驿站出库功能，突出出库码入口"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_426",
+        "User_Pain_Point": "香港用不了",
+        "Actionable_Suggestion": "支持香港地区使用"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_427",
+        "User_Pain_Point": "看不了直播间回放，找不到入口",
+        "Actionable_Suggestion": "添加直播间回放功能入口"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_430",
+        "User_Pain_Point": "直播没有回放，鸿蒙版本没有回放入口",
+        "Actionable_Suggestion": "为鸿蒙版本添加直播间回放功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_431",
+        "User_Pain_Point": "用户不知道如何升级淘宝版本，升级入口不明确或缺少指引。",
+        "Actionable_Suggestion": "在应用设置或关于页面增加版本更新提示与操作指引。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_432",
+        "User_Pain_Point": "芭芭农场和薅羊毛赚话费界面任务数量少于其他系统版本。",
+        "Actionable_Suggestion": "检查不同系统版本的逻辑差异，增加任务数量或优化任务展示逻辑。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_433",
+        "User_Pain_Point": "视频任务分享复制功能失效，无法正常复制分享。",
+        "Actionable_Suggestion": "修复分享复制功能，确保复制操作正常。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_434",
+        "User_Pain_Point": "淘宝闪购配送时间误导，显示时间与实际下单时间差距较大。",
+        "Actionable_Suggestion": "优化配送时间预估算法，确保显示时间与实际一致。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_435",
+        "User_Pain_Point": "无法切换至澳门等非中国大陆地区，且原版本中的地区选择功能消失，导致无法下单。",
+        "Actionable_Suggestion": "恢复地区选择功能，允许用户切换地区以支持境外下单。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_436",
+        "User_Pain_Point": "搜索宝贝无法按价格排序，缺少价格排序选项。",
+        "Actionable_Suggestion": "在搜索结果页增加按价格排序的筛选功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_438",
+        "User_Pain_Point": "识图搜索功能不完善：上传图片时无法选择相册、搜索时无法选择图片局部、搜索结果页缺少搜索框。",
+        "Actionable_Suggestion": "优化识图搜索的图片选择、局部选取和搜索框功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_439",
+        "User_Pain_Point": "店铺内新品栏目更新不及时，需要换手机查看。",
+        "Actionable_Suggestion": "加快店铺新品栏目内容更新，或提供跨设备同步功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_440",
+        "User_Pain_Point": "无法切换非中国大陆地区及支付方式/币种，导致境外无法下单。",
+        "Actionable_Suggestion": "增加地区切换和跨境支付支持功能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_441",
+        "User_Pain_Point": "推荐首页没有快速返回顶部功能",
+        "Actionable_Suggestion": "在推荐首页添加快速返回顶部按钮"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_442",
+        "User_Pain_Point": "好友聊天在线状态不能正确显示，不能发送位置",
+        "Actionable_Suggestion": "完善好友聊天功能，显示正确的在线状态，并支持发送位置"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_445",
+        "User_Pain_Point": "缺少深色模式，屏幕太亮",
+        "Actionable_Suggestion": "增加深色模式选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_447",
+        "User_Pain_Point": "不能批量确认收货",
+        "Actionable_Suggestion": "增加批量确认收货功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_449",
+        "User_Pain_Point": "没有88VIP图标皮肤",
+        "Actionable_Suggestion": "增加88VIP图标皮肤"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_450",
+        "User_Pain_Point": "小游戏入口混乱，没有明确渠道",
+        "Actionable_Suggestion": "优化小游戏入口，提供明确渠道"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_451",
+        "User_Pain_Point": "保存图片时下方框框空白，不显示要保存的图片",
+        "Actionable_Suggestion": "保存图片时应在框内显示当前图片预览"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_453",
+        "User_Pain_Point": "人工客服界面退出后无法返回",
+        "Actionable_Suggestion": "优化客服界面的返回机制，确保用户可以重新进入"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_454",
+        "User_Pain_Point": "顺手带一件功能无法拉出商品列表选择，其他版本可以",
+        "Actionable_Suggestion": "恢复顺手带一件的商品列表选择功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_456",
+        "User_Pain_Point": "发给客服的图片不能滑动查看，只能一张张点开",
+        "Actionable_Suggestion": "增加图片滑动查看功能，支持连续浏览"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_458",
+        "User_Pain_Point": "客服没有语音转文字功能，不方便",
+        "Actionable_Suggestion": "增加客服语音转文字功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_458",
+        "User_Pain_Point": "商家预上新商品看不到",
+        "Actionable_Suggestion": "显示商家预上新商品的信息"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_460",
+        "User_Pain_Point": "看视频签到有红包，现在看不到了",
+        "Actionable_Suggestion": "修复视频签到红包的显示问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_461",
+        "User_Pain_Point": "没有深色模式",
+        "Actionable_Suggestion": "增加深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_462",
+        "User_Pain_Point": "用金额区间查物品，刷了几页后卡住，无法继续刷新",
+        "Actionable_Suggestion": "修复金额区间筛选刷新卡死问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_463",
+        "User_Pain_Point": "深色模式等了好久还没上线",
+        "Actionable_Suggestion": "尽快上线深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_464",
+        "User_Pain_Point": "直播间试用礼盒选项不能显示",
+        "Actionable_Suggestion": "修复直播间试用礼盒选项显示问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_466",
+        "User_Pain_Point": "买苹果电脑用不了支付宝的学生补贴",
+        "Actionable_Suggestion": "支持支付宝学生补贴在购买苹果电脑时使用"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_467",
+        "User_Pain_Point": "外卖默认配送进校，容易误选，且校内配送慢易被偷",
+        "Actionable_Suggestion": "外卖配送地址默认不要设为校内，或增加选择确认步骤"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_468",
+        "User_Pain_Point": "无法使用云闪付银行APP支付和微信支付",
+        "Actionable_Suggestion": "增加云闪付和微信支付方式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_469",
+        "User_Pain_Point": "直播间拍卖和秒杀看不到历史数据",
+        "Actionable_Suggestion": "增加直播间拍卖和秒杀的历史数据查看功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_471",
+        "User_Pain_Point": "HarmonyOS6版本下淘宝店铺上新预览界面消失，无法查看近期即将上新的商品",
+        "Actionable_Suggestion": "修复上新预览界面在HarmonyOS6下的显示问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_472",
+        "User_Pain_Point": "淘宝直播间有些活动参加不了",
+        "Actionable_Suggestion": "修复直播间活动参与功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_472",
+        "User_Pain_Point": "不能转发",
+        "Actionable_Suggestion": "增加转发功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_473",
+        "User_Pain_Point": "闪购自取，点击确定取餐需要二次绑定号码，转圈圈之后没办法完成绑定，也没有办法完成取餐。显示订单已取消或已退款",
+        "Actionable_Suggestion": "修复闪购自取绑定号码流程，确保取餐功能正常"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_474",
+        "User_Pain_Point": "怎么不能微信支付？",
+        "Actionable_Suggestion": "增加微信支付功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_475",
+        "User_Pain_Point": "我要深色模式",
+        "Actionable_Suggestion": "增加深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_476",
+        "User_Pain_Point": "筛选功能有缺憾，一直出现网络错误",
+        "Actionable_Suggestion": "优化筛选功能，解决网络错误"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_476",
+        "User_Pain_Point": "海外订单不能识别，直接出不支持运输和不能选自取",
+        "Actionable_Suggestion": "修复海外订单识别功能，支持运输和自取"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_477",
+        "User_Pain_Point": "直播间里面的商品列表根本没法看",
+        "Actionable_Suggestion": "修复直播间商品列表显示问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_478",
+        "User_Pain_Point": "为什么我的没有关闭鸿蒙专属模式",
+        "Actionable_Suggestion": "增加关闭鸿蒙专属模式的选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_480",
+        "User_Pain_Point": "筛选里的价格自定义去哪了？首页全是二三十的便宜货",
+        "Actionable_Suggestion": "恢复筛选中的价格自定义功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_481",
+        "User_Pain_Point": "连连消的体力、金币等任务未更新，反馈多次无果",
+        "Actionable_Suggestion": "及时更新连连消的体力、金币等任务，并反馈用户进度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_482",
+        "User_Pain_Point": "视频任务比安卓系统缺少很多，如缺少添加桌面和抽奖等任务",
+        "Actionable_Suggestion": "增加视频任务中的添加桌面和抽奖等任务，与安卓系统保持一致"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_483",
+        "User_Pain_Point": "找不到深色模式，晚上刺眼",
+        "Actionable_Suggestion": "提供深色模式选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_484",
+        "User_Pain_Point": "自提功能中无法点取餐",
+        "Actionable_Suggestion": "修复自提取餐功能的点击问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_485",
+        "User_Pain_Point": "没有夜间模式跟随系统，晚上割裂",
+        "Actionable_Suggestion": "实现夜间模式跟随系统设置"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_486",
+        "User_Pain_Point": "换手机后要求重新认证，认证状态未保留",
+        "Actionable_Suggestion": "优化认证逻辑，保留用户认证状态，避免换机后重复认证"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_488",
+        "User_Pain_Point": "不支持境外购物付款",
+        "Actionable_Suggestion": "增加境外购物付款功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_489",
+        "User_Pain_Point": "国家地区、官方集运、官方直运无法设置",
+        "Actionable_Suggestion": "添加国家地区、官方集运、官方直运的设置功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_491",
+        "User_Pain_Point": "用户反馈不能分期支付，限制了支付方式选择。",
+        "Actionable_Suggestion": "增加分期支付功能，支持花呗、信用卡等常见分期方式。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_492",
+        "User_Pain_Point": "鸿蒙版淘宝在天猫国际无法使用9.9加购功能。",
+        "Actionable_Suggestion": "修复天猫国际9.9加购功能，确保与主站功能一致。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_493",
+        "User_Pain_Point": "聊天界面拍照后自动保存到相册，用户希望取消自动保存。",
+        "Actionable_Suggestion": "在聊天拍照功能中增加选项，允许用户选择是否自动保存到相册。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_494",
+        "User_Pain_Point": "观看直播时下拉调整系统音量会导致直播自动暂停。",
+        "Actionable_Suggestion": "优化直播音频处理逻辑，调整音量时不中断直播播放。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_498",
+        "User_Pain_Point": "闪购功能缺少实况窗，用户不知情。",
+        "Actionable_Suggestion": "恢复闪购的实况窗功能，或提示用户实况窗的启用方式。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_500",
+        "User_Pain_Point": "用户找不到退货或退款入口，认为缺少该功能。",
+        "Actionable_Suggestion": "在订单详情页显著位置增加退货退款按钮，并优化功能指引。"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.taobao.taobao4hmos_36",
+        "User_Pain_Point": "用户整体评价挺好。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_240",
+        "User_Pain_Point": "新增快递柜自寄退货方式，丰富了退货选择",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_398",
+        "User_Pain_Point": "消息集成一起的界面功能很好，一眼能看到都有哪些快递。",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.taobao.taobao4hmos_83",
+        "User_Pain_Point": "询问深色模式何时推出",
+        "Actionable_Suggestion": "确认当前版本是否已支持深色模式，若已支持则在应用内引导用户开启；若未支持则加速开发并公布上线时间"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.taobao.taobao4hmos_17",
+        "User_Pain_Point": "鸿蒙版本与其他平台功能不一致",
+        "Actionable_Suggestion": "统一各平台功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_32",
+        "User_Pain_Point": "折叠屏上店铺预上新商品无法点击进入详情页，无法跳转到上新日历页面。",
+        "Actionable_Suggestion": "适配折叠屏，确保预上新商品详情页和上新日历功能正常。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_32",
+        "User_Pain_Point": "折叠屏上店铺内商品图片过大，未适配。",
+        "Actionable_Suggestion": "针对折叠屏优化商品图片显示比例。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_43",
+        "User_Pain_Point": "鸿蒙6下无法启动支付宝指纹支付",
+        "Actionable_Suggestion": "适配鸿蒙6系统，修复支付宝指纹支付功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_57",
+        "User_Pain_Point": "鸿蒙版冷启动页面闪烁刷新，消息页缺少左滑删除功能",
+        "Actionable_Suggestion": "优化启动动画，增加左滑删除消息功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_59",
+        "User_Pain_Point": "淘宝人生完全不适配鸿蒙系统",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复兼容性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_60",
+        "User_Pain_Point": "系统不适配导致商家发的消息看不见",
+        "Actionable_Suggestion": "修复消息显示适配问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_111",
+        "User_Pain_Point": "特定机型不支持活动",
+        "Actionable_Suggestion": "尽快适配"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_112",
+        "User_Pain_Point": "特定机型不支持活动",
+        "Actionable_Suggestion": "尽快适配"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_120",
+        "User_Pain_Point": "鸿蒙系统下无法打开复制的链接",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复链接打开功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_121",
+        "User_Pain_Point": "Pura X MAX适配差，小屏大屏都不适应",
+        "Actionable_Suggestion": "快速适配Pura X MAX，学习小红书适配方案"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_153",
+        "User_Pain_Point": "88VIP每日两元券在鸿蒙6系统不能使用",
+        "Actionable_Suggestion": "适配鸿蒙6系统，确保88VIP每日两元券功能可用"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_226",
+        "User_Pain_Point": "应用不完全适配导致用户参与活动后被误判封控账号。",
+        "Actionable_Suggestion": "加强适配测试，避免因适配问题引发账号风险。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_232",
+        "User_Pain_Point": "未适配深色模式",
+        "Actionable_Suggestion": "尽快适配深色模式"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_239",
+        "User_Pain_Point": "深色模式适配进度慢",
+        "Actionable_Suggestion": "加快深色模式适配进度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_252",
+        "User_Pain_Point": "鸿蒙6.0.0.328 SP52系统下翼支付无法正常跳转，使用红包需要更换旧系统手机，非常麻烦。",
+        "Actionable_Suggestion": "适配鸿蒙6.0.0.328 SP52系统，修复翼支付跳转功能，确保在不同系统版本上均可正常使用。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_278",
+        "User_Pain_Point": "鸿蒙系统复制链接无法直接跳转淘宝",
+        "Actionable_Suggestion": "适配鸿蒙系统，实现复制链接直接跳转"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_312",
+        "User_Pain_Point": "升级鸿蒙6.0328后不显示所有商品参数，无法了解商品质量，体验差",
+        "Actionable_Suggestion": "修复鸿蒙系统升级后的商品详情页参数显示问题，确保兼容性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_315",
+        "User_Pain_Point": "升级后版本无法看到商品规格（如充电宝大小），造成不便",
+        "Actionable_Suggestion": "恢复商品规格参数的显示，优化版本升级带来的功能退化"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_347",
+        "User_Pain_Point": "阔折叠的图片比例不适配",
+        "Actionable_Suggestion": "适配折叠屏设备的图片显示比例"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_399",
+        "User_Pain_Point": "登记地址是香港的，选好货品不让下单，要用另外一部手机(非鸿蒙系统的)才能下单。",
+        "Actionable_Suggestion": "修复地址为香港时的下单限制，确保鸿蒙版本功能正常。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_409",
+        "User_Pain_Point": "鸿蒙系统没有天猫造新，和安卓比还有很多不适配的",
+        "Actionable_Suggestion": "适配鸿蒙系统的天猫造新活动，减少与安卓版的差异"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_455",
+        "User_Pain_Point": "Pura X折叠手机商品主图显示比例严重不符",
+        "Actionable_Suggestion": "针对折叠屏优化商品主图显示比例"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_457",
+        "User_Pain_Point": "nova 15上淘宝页面活动导航栏消失，其他手机有",
+        "Actionable_Suggestion": "确保所有机型（包括nova 15）活动导航栏正常显示"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_459",
+        "User_Pain_Point": "鸿蒙系统无法查看海外包邮专区",
+        "Actionable_Suggestion": "适配鸿蒙系统，显示海外包邮专区"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_476",
+        "User_Pain_Point": "对于华为系统的优化还是太差了，一样操作在华为系统上一直出错",
+        "Actionable_Suggestion": "优化在华为系统上的操作稳定性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_490",
+        "User_Pain_Point": "鸿蒙系统打不了电话",
+        "Actionable_Suggestion": "修复鸿蒙系统下的电话功能"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.taobao.taobao4hmos_5",
+        "User_Pain_Point": "开启小窗口后经常消失或没声音",
+        "Actionable_Suggestion": "优化小窗口直播的稳定性和音频播放"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_7",
+        "User_Pain_Point": "一直转圈圈，加载缓慢",
+        "Actionable_Suggestion": "优化页面加载速度，减少等待时间"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_8",
+        "User_Pain_Point": "很多地方点击后直接卡住",
+        "Actionable_Suggestion": "修复点击卡顿问题，提升操作流畅性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_11",
+        "User_Pain_Point": "先用后付功能不稳定，能用两天后又不能用了",
+        "Actionable_Suggestion": "修复先用后付功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_13",
+        "User_Pain_Point": "斗地主功能无法使用",
+        "Actionable_Suggestion": "修复斗地主功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_17",
+        "User_Pain_Point": "集运时付款按钮没反应",
+        "Actionable_Suggestion": "修复集运付款按钮Bug"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_19",
+        "User_Pain_Point": "桌面客户端和手机端访问异常",
+        "Actionable_Suggestion": "修复访问异常问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_29",
+        "User_Pain_Point": "付款后返回直播间时卡住",
+        "Actionable_Suggestion": "优化付款后页面跳转性能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_30",
+        "User_Pain_Point": "聊天记录翻阅时不断乱跳",
+        "Actionable_Suggestion": "修复聊天记录滚动稳定性问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_35",
+        "User_Pain_Point": "应用太卡了。",
+        "Actionable_Suggestion": "优化性能，解决卡顿问题。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_37",
+        "User_Pain_Point": "进入应用总是白板页面，需重新进几次才正常。",
+        "Actionable_Suggestion": "修复页面加载失败问题，确保应用稳定打开。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_42",
+        "User_Pain_Point": "视频领金币太卡，有时打不开",
+        "Actionable_Suggestion": "优化视频领金币功能的性能和稳定性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_46",
+        "User_Pain_Point": "切换账号后皮肤不显示恢复默认",
+        "Actionable_Suggestion": "修复账号切换后皮肤状态丢失问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_46",
+        "User_Pain_Point": "一刷新就拥挤",
+        "Actionable_Suggestion": "优化刷新时的界面布局和性能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_50",
+        "User_Pain_Point": "下单页面选择更改发货时间后白屏不显示",
+        "Actionable_Suggestion": "修复更改发货时间导致的白屏bug"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_53",
+        "User_Pain_Point": "收到淘宝信息打开对话框无显示，需关闭再打开才能显示",
+        "Actionable_Suggestion": "修复消息显示bug"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_62",
+        "User_Pain_Point": "运行非常卡顿",
+        "Actionable_Suggestion": "优化运行流畅度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_69",
+        "User_Pain_Point": "搜索商品10次9次卡顿，安卓和苹果正常",
+        "Actionable_Suggestion": "优化搜索性能，参考安卓和苹果体验"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_79",
+        "User_Pain_Point": "搜索宝贝后首页图片加载不出",
+        "Actionable_Suggestion": "优化图片加载性能，确保首页图片正常显示"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_86",
+        "User_Pain_Point": "更新后应用运行超级卡顿",
+        "Actionable_Suggestion": "优化性能，排查卡顿原因并发布修复版本"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_103",
+        "User_Pain_Point": "与卖家交流窗口向上滑消息时卡顿、掉帧、滑动不连续",
+        "Actionable_Suggestion": "优化消息列表滑动性能，提升流畅度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_104",
+        "User_Pain_Point": "往上翻记录卡顿严重且突然回退很多",
+        "Actionable_Suggestion": "优化消息记录滑动和加载逻辑，避免回退"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_104",
+        "User_Pain_Point": "回复功能中消息内容行数多时键盘卡得出不来",
+        "Actionable_Suggestion": "修复键盘弹出问题，确保输入框与键盘交互流畅"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_125",
+        "User_Pain_Point": "鸿蒙6.0部分店铺没有直播回放功能",
+        "Actionable_Suggestion": "修复直播回放功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_126",
+        "User_Pain_Point": "斗地主很卡，最后时刻加载慢",
+        "Actionable_Suggestion": "优化斗地主性能，减少加载时间"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_133",
+        "User_Pain_Point": "应用频繁闪退。",
+        "Actionable_Suggestion": "定位并修复闪退原因，提升应用稳定性。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_149",
+        "User_Pain_Point": "百億補貼頁面滑動不跟手，斷觸嚴重，反饋一年未解決。",
+        "Actionable_Suggestion": "優化滑動響應和觸控算法，解決斷觸問題。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_150",
+        "User_Pain_Point": "應用非常卡頓。",
+        "Actionable_Suggestion": "進行性能優化，減少卡頓。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_167",
+        "User_Pain_Point": "定位不准确导致外卖送错",
+        "Actionable_Suggestion": "优化定位精准度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_171",
+        "User_Pain_Point": "重复下载内容",
+        "Actionable_Suggestion": "修复重复下载bug，优化下载管理逻辑"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_189",
+        "User_Pain_Point": "闪退问题",
+        "Actionable_Suggestion": "修复闪退问题，提升稳定性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_197",
+        "User_Pain_Point": "我的足迹页面无法加载，持续一周以上",
+        "Actionable_Suggestion": "修复足迹功能加载问题，保证功能稳定可用"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_204",
+        "User_Pain_Point": "跟支付宝一样逛个芭芭农场的商品就发烫",
+        "Actionable_Suggestion": "优化芭芭农场等页面的功耗，减少发热"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_219",
+        "User_Pain_Point": "冷启动加载慢，需要等待刷新。",
+        "Actionable_Suggestion": "优化冷启动加载速度，减少不必要的刷新，提升应用启动性能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_229",
+        "User_Pain_Point": "相比鸿蒙4.2版本，当前版本耗电明显更大。",
+        "Actionable_Suggestion": "优化耗电问题，降低应用功耗。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_230",
+        "User_Pain_Point": "闪购页面频繁报错。",
+        "Actionable_Suggestion": "修复页面错误，提升稳定性。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_238",
+        "User_Pain_Point": "三折叠展开时卡顿严重",
+        "Actionable_Suggestion": "优化三折叠展开时的性能表现"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_243",
+        "User_Pain_Point": "冷启动推荐页二次刷新太慢",
+        "Actionable_Suggestion": "优化推荐页加载速度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_246",
+        "User_Pain_Point": "使用过程中出现卡顿和发热",
+        "Actionable_Suggestion": "优化性能和功耗管理"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_257",
+        "User_Pain_Point": "新机新系统进入淘宝总会卡顿，影响使用体验。",
+        "Actionable_Suggestion": "优化新系统下的应用启动及运行性能，减少卡顿现象，提升流畅度。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_262",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_264",
+        "User_Pain_Point": "点快了就卡",
+        "Actionable_Suggestion": "优化响应速度，减少操作卡顿"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_272",
+        "User_Pain_Point": "搜索占用内存大、耗电严重",
+        "Actionable_Suggestion": "优化内存管理和功耗，减少搜索时的资源占用"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_279",
+        "User_Pain_Point": "看视频有声音无画面",
+        "Actionable_Suggestion": "修复视频播放问题，确保声画同步"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_280",
+        "User_Pain_Point": "刷视频时卡屏定屏",
+        "Actionable_Suggestion": "优化视频滑动性能，解决卡顿问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_287",
+        "User_Pain_Point": "帧率被锁在90fps",
+        "Actionable_Suggestion": "解除帧率限制或提供更高帧率选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_297",
+        "User_Pain_Point": "使用十分钟后手机后壳发热严重",
+        "Actionable_Suggestion": "优化性能，降低发热"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_307",
+        "User_Pain_Point": "消息提示异常，没有新消息却始终提示",
+        "Actionable_Suggestion": "修复消息通知逻辑，消除虚假提示"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_308",
+        "User_Pain_Point": "复制链接无法自动弹开链接",
+        "Actionable_Suggestion": "修复剪贴板监听与跳转逻辑"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_325",
+        "User_Pain_Point": "使用APP后手机发热严重，功耗控制较旧版本差",
+        "Actionable_Suggestion": "优化应用功耗管理，减少发热问题，提升性能稳定性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_331",
+        "User_Pain_Point": "特别卡",
+        "Actionable_Suggestion": "优化性能，减少卡顿现象，提升流畅度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_344",
+        "User_Pain_Point": "使用淘宝闪购卡得要命",
+        "Actionable_Suggestion": "优化闪购功能的性能，减少卡顿"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_349",
+        "User_Pain_Point": "视频卡顿，长时间卡住，有声音",
+        "Actionable_Suggestion": "优化视频播放性能，修复卡顿问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_350",
+        "User_Pain_Point": "从淘宝打开天猫超市需要5秒，加载太慢",
+        "Actionable_Suggestion": "优化页面加载速度，缩短启动时间"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_352",
+        "User_Pain_Point": "飞猪模块卡顿，点城市要十几秒",
+        "Actionable_Suggestion": "优化飞猪模块的响应速度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_356",
+        "User_Pain_Point": "闪购界面掉帧",
+        "Actionable_Suggestion": "优化闪购界面性能，修复掉帧问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_373",
+        "User_Pain_Point": "淘宝视频卡顿，声音画面不同步。",
+        "Actionable_Suggestion": "优化视频播放性能，解决卡顿和音画不同步。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_374",
+        "User_Pain_Point": "观看淘宝视频卡顿，声音画面不同步。",
+        "Actionable_Suggestion": "优化视频播放性能，解决卡顿和音画不同步。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_375",
+        "User_Pain_Point": "点击清除未读后，过些时候又出现之前的消息。",
+        "Actionable_Suggestion": "修复消息状态同步问题，确保清除未读后不再重复显示。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_380",
+        "User_Pain_Point": "使用淘宝后手机发烫严重。",
+        "Actionable_Suggestion": "优化功耗，减少发热。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_384",
+        "User_Pain_Point": "淘宝密码活动界面加载异常，之前版本正常。",
+        "Actionable_Suggestion": "修复密码活动界面加载异常问题。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_385",
+        "User_Pain_Point": "WiFi环境下使用非常卡顿。",
+        "Actionable_Suggestion": "优化WiFi环境下的性能，减少卡顿。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_387",
+        "User_Pain_Point": "应用非常卡顿，四处掉帧。",
+        "Actionable_Suggestion": "优化应用流畅度，减少掉帧。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_389",
+        "User_Pain_Point": "系统错误导致无法购买商品。",
+        "Actionable_Suggestion": "修复系统错误，确保购买流程正常。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_390",
+        "User_Pain_Point": "查看商品评论时出现卡顿掉帧。",
+        "Actionable_Suggestion": "优化评论页面的性能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_395",
+        "User_Pain_Point": "打开淘宝明显卡顿，信息流卡顿。",
+        "Actionable_Suggestion": "优化启动速度和信息流加载性能。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_402",
+        "User_Pain_Point": "同一商家物流信息分两个包裹时，点包裹2闪退",
+        "Actionable_Suggestion": "修复分包裹查看时的闪退问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_416",
+        "User_Pain_Point": "卡",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_417",
+        "User_Pain_Point": "淘宝视频卡顿，图像不动声音可以继续",
+        "Actionable_Suggestion": "修复视频播放卡顿问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_437",
+        "User_Pain_Point": "消息通知不及时，用户无法及时收到消息。",
+        "Actionable_Suggestion": "优化消息推送机制，提高推送及时性。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_446",
+        "User_Pain_Point": "直播时中间闪过黑色方块",
+        "Actionable_Suggestion": "修复直播画面闪烁黑色方块的问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_448",
+        "User_Pain_Point": "签到功能异常",
+        "Actionable_Suggestion": "修复签到功能异常"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_460",
+        "User_Pain_Point": "应用太卡顿",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_460",
+        "User_Pain_Point": "应用打不开",
+        "Actionable_Suggestion": "修复应用崩溃或无法启动的问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_465",
+        "User_Pain_Point": "某些页面卡顿、不流畅、掉帧",
+        "Actionable_Suggestion": "优化页面性能，减少卡顿和掉帧"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_470",
+        "User_Pain_Point": "商品点进去后图片显示两张，第一页显示第二张图片的半边",
+        "Actionable_Suggestion": "修复商品详情页图片显示异常问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_479",
+        "User_Pain_Point": "这个版本太卡了",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_495",
+        "User_Pain_Point": "鸿蒙版淘宝反应迟钝，卡顿明显。",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿，提升响应速度。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_499",
+        "User_Pain_Point": "应用卡顿严重，影响使用体验。",
+        "Actionable_Suggestion": "进行性能优化，排查卡顿原因，提升流畅度。"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.taobao.taobao4hmos_8",
+        "User_Pain_Point": "与商家交流那一小行开票中心一会显示一会不显示",
+        "Actionable_Suggestion": "修复开票中心显示不稳定的问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_22",
+        "User_Pain_Point": "字体太小",
+        "Actionable_Suggestion": "增加字体大小调节选项或增大默认字体"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_28",
+        "User_Pain_Point": "无法选择字体大小",
+        "Actionable_Suggestion": "提供字体大小调节功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_48",
+        "User_Pain_Point": "桌面图标添加节日活动，用户反感",
+        "Actionable_Suggestion": "避免在桌面图标上强制添加节日活动，提供关闭选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_81",
+        "User_Pain_Point": "深色模式下搜索栏背景变白，输入字体白色，导致输入内容不可见",
+        "Actionable_Suggestion": "修复深色模式搜索栏颜色方案，确保输入文字与背景对比度足够"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_99",
+        "User_Pain_Point": "外卖实况窗显示偏左，未居中",
+        "Actionable_Suggestion": "调整实况窗位置为居中显示"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_138",
+        "User_Pain_Point": "底部小白条未做沉浸式适配，影响视觉体验。",
+        "Actionable_Suggestion": "适配底部导航栏沉浸式，使UI更好地融合。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_142",
+        "User_Pain_Point": "界面底部小橫條非沉浸式，出現白條遮擋。",
+        "Actionable_Suggestion": "修復沉浸式布局，消除白條遮擋。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_154",
+        "User_Pain_Point": "应用名称显示为'万能的淘宝'并带感叹号，用户认为多余",
+        "Actionable_Suggestion": "优化应用名称展示，减少不必要的修饰"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_169",
+        "User_Pain_Point": "新版本搜索框消失",
+        "Actionable_Suggestion": "恢复搜索框并检查UI变更是否合理"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_171",
+        "User_Pain_Point": "页面布局有点乱",
+        "Actionable_Suggestion": "优化页面布局，提高视觉整洁度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_176",
+        "User_Pain_Point": "图标上添加了广告贴纸",
+        "Actionable_Suggestion": "移除图标上的广告元素"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_177",
+        "User_Pain_Point": "找不到退货入口",
+        "Actionable_Suggestion": "优化退货入口位置，增加提示"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_203",
+        "User_Pain_Point": "不需要加个后缀“万能的淘宝”，还以为是个山寨淘宝呢！",
+        "Actionable_Suggestion": "移除或弱化“万能的淘宝”后缀，避免用户混淆"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_208",
+        "User_Pain_Point": "牛皮癣图标又来了。",
+        "Actionable_Suggestion": "优化图标设计，避免类似牛皮癣的视觉效果"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_213",
+        "User_Pain_Point": "缺少夜间模式，晚上使用刺眼。",
+        "Actionable_Suggestion": "增加夜间模式功能，提供深色主题，降低屏幕亮度对眼睛的刺激。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_214",
+        "User_Pain_Point": "下拉菜单遮挡底部选项，影响操作。",
+        "Actionable_Suggestion": "优化下拉菜单的交互逻辑，避免遮挡底部内容，可考虑滚动或动态调整位置。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_225",
+        "User_Pain_Point": "界面设计不合理，店铺分类屏幕最下方内容无法点击操作。",
+        "Actionable_Suggestion": "优化界面布局，确保所有交互元素可点击。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_256",
+        "User_Pain_Point": "缺少深色模式开关，用户无法自主切换深色/浅色模式。",
+        "Actionable_Suggestion": "增加深色模式开关设置，允许用户手动开启或关闭深色模式。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_276",
+        "User_Pain_Point": "“我的订单”页面底部导航条未沉浸",
+        "Actionable_Suggestion": "适配沉浸式导航栏，提升视觉一致性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_301",
+        "User_Pain_Point": "状态栏不沉浸，小白条不能沉浸",
+        "Actionable_Suggestion": "优化状态栏沉浸式适配，修复小白条显示问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_313",
+        "User_Pain_Point": "全部订单界面小白条无法沉浸",
+        "Actionable_Suggestion": "修复小白条沉浸式适配，确保界面美观一致性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_324",
+        "User_Pain_Point": "商家分类页面左下角被遮挡无法点击",
+        "Actionable_Suggestion": "优化布局，避免UI元素相互遮挡，确保可操作区域完整"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_338",
+        "User_Pain_Point": "没有暗色模式",
+        "Actionable_Suggestion": "增加暗色模式开关，适配系统深色主题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_348",
+        "User_Pain_Point": "查看物流地图比例每次进去小，过会变大，不能自适应，手动调整费劲",
+        "Actionable_Suggestion": "优化地图缩放机制，实现自适应显示，改善手动缩放交互"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_398",
+        "User_Pain_Point": "有个“官方客服”无法删除。",
+        "Actionable_Suggestion": "提供删除或折叠官方客服的选项。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_429",
+        "User_Pain_Point": "分类左边上划到底后，划不到底，下面的类别点不了",
+        "Actionable_Suggestion": "修复左侧分类滑动问题，确保所有类别可点击"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_444",
+        "User_Pain_Point": "客服聊天界面信息翻不上去",
+        "Actionable_Suggestion": "优化客服聊天界面的滚动功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_475",
+        "User_Pain_Point": "优化一下平板端的显示效果",
+        "Actionable_Suggestion": "优化平板端显示效果"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_487",
+        "User_Pain_Point": "进入闪购后无法返回，强制停留",
+        "Actionable_Suggestion": "添加返回按钮或手势，允许用户从闪购页面正常返回"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.taobao.taobao4hmos_406",
+        "User_Pain_Point": "图标干净",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.taobao.taobao4hmos_14",
+        "User_Pain_Point": "APP内什么都要收费",
+        "Actionable_Suggestion": "优化收费模式或提供免费内容"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_16",
+        "User_Pain_Point": "淘金币活动任务少",
+        "Actionable_Suggestion": "增加淘金币任务"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_20",
+        "User_Pain_Point": "外卖配送不及时，外卖小哥不接单",
+        "Actionable_Suggestion": "优化配送调度，提高接单率"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_23",
+        "User_Pain_Point": "商品价格比安卓平台贵",
+        "Actionable_Suggestion": "调查价格差异原因，优化定价策略"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_28",
+        "User_Pain_Point": "无法自主选择版本更新",
+        "Actionable_Suggestion": "提供版本更新选择选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_33",
+        "User_Pain_Point": "2026年5月12日收到推送让抢双11红包，时间逻辑错误。",
+        "Actionable_Suggestion": "修复推送时间逻辑，确保推送内容与时间匹配。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_34",
+        "User_Pain_Point": "购买物品30天未到货。",
+        "Actionable_Suggestion": "加强物流监控和跟进，确保及时送达。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_34",
+        "User_Pain_Point": "咨询客服时客服敷衍。",
+        "Actionable_Suggestion": "提升客服服务质量，加强培训。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_40",
+        "User_Pain_Point": "反馈入口的bug无人回复和解决。",
+        "Actionable_Suggestion": "建立反馈处理机制，及时回复和修复问题。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_46",
+        "User_Pain_Point": "推荐内容不感兴趣且频繁推荐",
+        "Actionable_Suggestion": "优化推荐算法，减少不相关推荐，提供屏蔽选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_46",
+        "User_Pain_Point": "活动鸿蒙版区别对待，不给参与",
+        "Actionable_Suggestion": "统一活动规则，确保鸿蒙版与其它版本享有相同参与权"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_49",
+        "User_Pain_Point": "突然被欠款，疑似误开通花呗",
+        "Actionable_Suggestion": "核查欠款原因，优化花呗开通流程，避免误操作"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_52",
+        "User_Pain_Point": "暗改88vip、淘宝币、省钱卡规则，不透明",
+        "Actionable_Suggestion": "透明化规则变更，提前告知用户"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_67",
+        "User_Pain_Point": "智能客服回复不沾边",
+        "Actionable_Suggestion": "优化智能客服匹配逻辑"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_67",
+        "User_Pain_Point": "人工客服不解决问题",
+        "Actionable_Suggestion": "加强人工客服培训与监管"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_67",
+        "User_Pain_Point": "88vip客服一直转接，问题不解决",
+        "Actionable_Suggestion": "优化VIP客服流程，提高问题解决率"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_73",
+        "User_Pain_Point": "无法参加免单活动",
+        "Actionable_Suggestion": "检查免单活动参与条件，确保鸿蒙版本支持"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_78",
+        "User_Pain_Point": "不支持淘宝免单活动",
+        "Actionable_Suggestion": "支持免单活动在鸿蒙版"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_80",
+        "User_Pain_Point": "平台对经销商商品质量监管不足，存在伪劣产品",
+        "Actionable_Suggestion": "加强商品质量监管，严禁伪劣产品上线"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_82",
+        "User_Pain_Point": "周年庆活动无法参加",
+        "Actionable_Suggestion": "检查活动规则，确保所有用户或指定机型用户能公平参与"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_84",
+        "User_Pain_Point": "在两个手机清理缓存后，账号被限制访问",
+        "Actionable_Suggestion": "优化风险控制机制，避免误判正常操作导致限制访问"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_88",
+        "User_Pain_Point": "活动不覆盖部分用户，感觉被排斥",
+        "Actionable_Suggestion": "扩大活动参与范围，或明确活动限制条件并提前告知"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_89",
+        "User_Pain_Point": "充值88VIP后平台定价反而比非会员高",
+        "Actionable_Suggestion": "核查定价策略，确保会员享有价格优势，避免价格歧视"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_90",
+        "User_Pain_Point": "华为手机用户无法参加免单活动",
+        "Actionable_Suggestion": "修复活动兼容性问题，确保所有手机型号均可正常参与"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_91",
+        "User_Pain_Point": "无法参加免单活动",
+        "Actionable_Suggestion": "检查活动规则，确保鸿蒙系统用户可正常参与"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_92",
+        "User_Pain_Point": "无法参与淘宝免单活动",
+        "Actionable_Suggestion": "排查活动限制，确保鸿蒙设备用户不受限"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_93",
+        "User_Pain_Point": "感觉被歧视，无法参加淘宝免单活动",
+        "Actionable_Suggestion": "优化活动公平性，避免因系统或机型限制参与"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_94",
+        "User_Pain_Point": "鸿蒙系统不支持淘宝周年庆活动",
+        "Actionable_Suggestion": "尽快适配鸿蒙系统，支持活动正常参与"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_95",
+        "User_Pain_Point": "不能参加淘宝免单活动",
+        "Actionable_Suggestion": "修复活动参与限制，确保鸿蒙用户可参与"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_96",
+        "User_Pain_Point": "活动分机型限制，特定机型无法参与",
+        "Actionable_Suggestion": "取消机型限制或明确说明支持机型"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_100",
+        "User_Pain_Point": "无法参加免单活动",
+        "Actionable_Suggestion": "检查活动适配，确保鸿蒙用户可参与"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_101",
+        "User_Pain_Point": "没有淘宝免单活动",
+        "Actionable_Suggestion": "增加淘宝免单活动"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_102",
+        "User_Pain_Point": "活动参加不了",
+        "Actionable_Suggestion": "修复活动参与功能，确保用户可以正常参加"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_105",
+        "User_Pain_Point": "新活动永远参加不了",
+        "Actionable_Suggestion": "优化版本适配，确保新活动在鸿蒙版可参与"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_106",
+        "User_Pain_Point": "淘宝红包活动不支持",
+        "Actionable_Suggestion": "尽快支持淘宝红包活动"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_107",
+        "User_Pain_Point": "参与不了510活动",
+        "Actionable_Suggestion": "修复510活动参与问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_108",
+        "User_Pain_Point": "参加不了淘宝免单活动",
+        "Actionable_Suggestion": "修复免单活动参与功能"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_109",
+        "User_Pain_Point": "小蜜推人工客服，人工推专员，联系不到，问题不解决",
+        "Actionable_Suggestion": "建立高效的客服响应机制，避免推诿，确保问题得到解决"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_111",
+        "User_Pain_Point": "活动限制机型无法参与",
+        "Actionable_Suggestion": "优化活动规则，适配更多机型"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_112",
+        "User_Pain_Point": "免单活动无法参与",
+        "Actionable_Suggestion": "调整活动规则，明确限制条件"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_113",
+        "User_Pain_Point": "周年庆活动无法参加",
+        "Actionable_Suggestion": "确保活动对所有用户开放或说明限制"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_116",
+        "User_Pain_Point": "免单活动不能参与",
+        "Actionable_Suggestion": "明确限制条件或修复"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_117",
+        "User_Pain_Point": "不能参与淘宝免单活动",
+        "Actionable_Suggestion": "明确限制条件或修复"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_118",
+        "User_Pain_Point": "免单活动显示无法参加",
+        "Actionable_Suggestion": "明确限制条件或修复"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_123",
+        "User_Pain_Point": "绑定申通快递，包裹无包装拒绝揽收",
+        "Actionable_Suggestion": "允许用户自定义快递公司或优化合作快递服务质量"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_124",
+        "User_Pain_Point": "打卡任务有资格限制但未提前说明，导致无效打卡",
+        "Actionable_Suggestion": "优化任务说明，明确资格要求"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_127",
+        "User_Pain_Point": "下单后从未收到货",
+        "Actionable_Suggestion": "核查物流发货流程，确保订单正常送达"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_135",
+        "User_Pain_Point": "在设置中关闭了各类活动和服务提醒，但依然收到限时活动秒杀推送。",
+        "Actionable_Suggestion": "修复推送设置失效Bug，确保关闭后不再收到相关推送。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_159",
+        "User_Pain_Point": "在店铺全款预定商品后店铺关闭，联系不到商家，平台介入也无法退款",
+        "Actionable_Suggestion": "完善平台对商家的监管和消费者保护机制，加强售后纠纷处理"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_172",
+        "User_Pain_Point": "退换货运费险赔付金额太低",
+        "Actionable_Suggestion": "提高退货运费险赔付额度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_174",
+        "User_Pain_Point": "外卖丢失后不处理不赔付，客服拖延",
+        "Actionable_Suggestion": "建立外卖丢失及时处理机制，明确赔付规则，加强客服"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_188",
+        "User_Pain_Point": "积分活动体验感差",
+        "Actionable_Suggestion": "优化积分活动体验，提升用户参与感和易用性"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_192",
+        "User_Pain_Point": "用户遇到问题后无人处理",
+        "Actionable_Suggestion": "加强客服响应机制，及时处理用户问题"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_194",
+        "User_Pain_Point": "闪购外卖价格存在大数据杀熟现象",
+        "Actionable_Suggestion": "杜绝大数据杀熟行为，保证价格公平透明"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_195",
+        "User_Pain_Point": "账号被突然封禁，电脑浏览器登录也被封",
+        "Actionable_Suggestion": "优化账号风控策略，减少误封情况"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_199",
+        "User_Pain_Point": "打开应用有大量视频和广告，浪费流量，影响使用",
+        "Actionable_Suggestion": "减少开屏广告或提供关闭选项，降低流量消耗"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_205",
+        "User_Pain_Point": "别更新，小心更新广告过少的bug",
+        "Actionable_Suggestion": "合理控制广告数量，避免影响用户体验"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_216",
+        "User_Pain_Point": "平台伪劣产品多，售假商家多，平台处理能力差。",
+        "Actionable_Suggestion": "加强平台对售假商家的监管和处罚力度，建立更高效的用户投诉处理机制。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_221",
+        "User_Pain_Point": "应用界面存在过多广告（牛皮癣），影响使用体验。",
+        "Actionable_Suggestion": "减少广告投放或提供关闭广告选项。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_222",
+        "User_Pain_Point": "客服未回复关于更新进度的询问。",
+        "Actionable_Suggestion": "建立客服响应机制，及时回复用户关于功能更新的问题。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_223",
+        "User_Pain_Point": "多次联系官方客服均无有效处理，问题未解决。",
+        "Actionable_Suggestion": "提升客服服务效率，确保用户问题得到及时跟进。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_226",
+        "User_Pain_Point": "账号被封后找不到人工客服解封，问题无人处理。",
+        "Actionable_Suggestion": "设置专门渠道处理封控申诉，确保人工客服可及时介入。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_230",
+        "User_Pain_Point": "页面报错问题无人维护处理。",
+        "Actionable_Suggestion": "建立问题反馈与修复机制，及时响应。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_244",
+        "User_Pain_Point": "开屏广告巨大且无法关闭",
+        "Actionable_Suggestion": "提供开屏广告关闭选项或减少展示时长"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_251",
+        "User_Pain_Point": "大数据杀熟，不同设备显示不同价格，同一商品低端设备更便宜。",
+        "Actionable_Suggestion": "确保定价机制公平统一，避免根据设备型号差异化定价，消除价格歧视。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_258",
+        "User_Pain_Point": "账号注销流程复杂且无法成功注销，感觉被欺负。",
+        "Actionable_Suggestion": "简化账号注销流程，提供清晰的注销指引并确保用户可以顺利注销账号。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_264",
+        "User_Pain_Point": "显示访问太频繁",
+        "Actionable_Suggestion": "调整访问频率限制策略，减少误伤"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_268",
+        "User_Pain_Point": "券无法领取",
+        "Actionable_Suggestion": "修复领券功能或优化领取规则"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_281",
+        "User_Pain_Point": "客服不重视用户诉求，只会话术敷衍",
+        "Actionable_Suggestion": "改进客服响应机制，认真对待用户反馈"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_294",
+        "User_Pain_Point": "里面的东西都要充值",
+        "Actionable_Suggestion": "提供更多免费内容或优惠活动"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_298",
+        "User_Pain_Point": "取消付款后推荐更贵的商品，体验不佳",
+        "Actionable_Suggestion": "优化推荐算法，避免因取消付款推荐高价商品"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_311",
+        "User_Pain_Point": "平台售假（金属挂件发暖手宝）且协商无法解决问题",
+        "Actionable_Suggestion": "加强卖家审核和假货赔偿机制，提高纠纷处理效率"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_320",
+        "User_Pain_Point": "商品评论奖励积分时误判实拍图片为疑似非实拍，怀疑是故意bug",
+        "Actionable_Suggestion": "优化图片识别算法，减少误判；提供人工申诉渠道或取消不合理限制"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_323",
+        "User_Pain_Point": "官方客服无任何作用，售后体验极差",
+        "Actionable_Suggestion": "提升客服专业性和响应速度，建立有效的售后处理机制"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_339",
+        "User_Pain_Point": "老是跳出天天特卖和天猫超市的信息框",
+        "Actionable_Suggestion": "减少弹窗频率或提供关闭弹窗的选项"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_341",
+        "User_Pain_Point": "游戏做任务给分太小气，快完成时减少分数",
+        "Actionable_Suggestion": "优化任务奖励机制，确保奖励稳定递增"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_341",
+        "User_Pain_Point": "退货换货时间长，客服不主动帮助买家解决问题",
+        "Actionable_Suggestion": "优化售后流程，缩短处理时间，加强客服主动服务意识"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_346",
+        "User_Pain_Point": "客服不负责，承诺24小时无结果，未收到商品但不退款",
+        "Actionable_Suggestion": "提升客服响应速度，建立极速退款机制"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_359",
+        "User_Pain_Point": "售后极其困难",
+        "Actionable_Suggestion": "改善售后服务流程，提高响应效率"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_360",
+        "User_Pain_Point": "无法查看差评，影响消费决策",
+        "Actionable_Suggestion": "允许用户查看差评，提供更全面的评价信息"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_368",
+        "User_Pain_Point": "客服态度差，态度拽",
+        "Actionable_Suggestion": "加强客服培训，改善服务态度"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_369",
+        "User_Pain_Point": "客服回复慢，处理机械化",
+        "Actionable_Suggestion": "提升客服响应速度，优化话术"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_391",
+        "User_Pain_Point": "在淘宝买的过期食品，找淘宝客服不正面回答。我问他能不能负责，他始终不正面回答。",
+        "Actionable_Suggestion": "优化客服响应机制，明确责任归属，对售后问题给出直接答复。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_396",
+        "User_Pain_Point": "淘宝平台应优化邮政快递，告诉商家能不走邮政快递就尽量不走，邮政快递终端都是兼职的。服务质量极差，一是经常找不到人。二是快递点都是老弱病残的，经常找不到货，给客户带来诸多不便。",
+        "Actionable_Suggestion": "优化快递合作商选择，加强对邮政快递的质量控制，提供更好的物流服务。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_397",
+        "User_Pain_Point": "取个快递还非得你淘宝身份码是吧。",
+        "Actionable_Suggestion": "提供多种取件验证方式，如取件码、身份码等兼容。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_403",
+        "User_Pain_Point": "买到假货平台不管",
+        "Actionable_Suggestion": "加强假货审核和售后处理流程"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_407",
+        "User_Pain_Point": "干啥都得花钱",
+        "Actionable_Suggestion": "优化收费策略或增加免费服务"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_415",
+        "User_Pain_Point": "诱导购买的套路多了，价格满减实际上根本没有用",
+        "Actionable_Suggestion": "减少诱导购买套路，确保满减价格真实有效"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_419",
+        "User_Pain_Point": "变成了游戏APP，差评",
+        "Actionable_Suggestion": "回归购物核心功能，减少游戏化倾向"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_422",
+        "User_Pain_Point": "有开屏广告",
+        "Actionable_Suggestion": "减少或去除开屏广告"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_423",
+        "User_Pain_Point": "商品价格杀熟太厉害",
+        "Actionable_Suggestion": "优化定价策略，避免杀熟"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_423",
+        "User_Pain_Point": "平台优惠券不支持价保",
+        "Actionable_Suggestion": "提供优惠券价保服务"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_428",
+        "User_Pain_Point": "有开屏广告",
+        "Actionable_Suggestion": "减少或去除开屏广告"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_452",
+        "User_Pain_Point": "商家发假货只能买不能退，无人监管",
+        "Actionable_Suggestion": "加强假货监管和退货保障机制"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_496",
+        "User_Pain_Point": "退货流程强制自寄，且无法选择其他地址上门取件，导致成本高。",
+        "Actionable_Suggestion": "优化退货流程，允许用户选择自寄或上门取件，并支持修改取件地址。"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_497",
+        "User_Pain_Point": "对售假商家缺乏约束力，客服只会道歉无实际处理。",
+        "Actionable_Suggestion": "加强售假商家处罚机制，建立消费者投诉快速处理通道，提供有效解决方案。"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.taobao.taobao4hmos_6",
+        "User_Pain_Point": "很好用，继续保持",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_9",
+        "User_Pain_Point": "很好。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_18",
+        "User_Pain_Point": "用户表示“厉害”，赞赏APP",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_65",
+        "User_Pain_Point": "整体优化很棒，非常不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_97",
+        "User_Pain_Point": "非常好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_134",
+        "User_Pain_Point": "很好用，界面与其他平台越来越同步。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_184",
+        "User_Pain_Point": "适配积极，更新频率高（四五天/六七天一次），功能全",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_190",
+        "User_Pain_Point": "鼓励阿里团队继续加油",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_191",
+        "User_Pain_Point": "更新频繁，适配积极",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_207",
+        "User_Pain_Point": "更新迅速",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_241",
+        "User_Pain_Point": "赞赏淘宝更新勤快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_247",
+        "User_Pain_Point": "更新后非常流畅",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_261",
+        "User_Pain_Point": "物美价廉，物超所值",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_284",
+        "User_Pain_Point": "整体体验良好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_286",
+        "User_Pain_Point": "好用，喜欢用它购物，退货退款方便",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_294",
+        "User_Pain_Point": "挺好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_300",
+        "User_Pain_Point": "太好用了，正品实惠",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_345",
+        "User_Pain_Point": "非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_358",
+        "User_Pain_Point": "深色模式获得好评",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_361",
+        "User_Pain_Point": "很好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_364",
+        "User_Pain_Point": "挺好用的，点赞",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_413",
+        "User_Pain_Point": "越用越好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_424",
+        "User_Pain_Point": "终于可以用大字版了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_443",
+        "User_Pain_Point": "一直在用淘宝购物，非常满意",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.taobao.taobao4hmos_28",
+        "User_Pain_Point": "芭芭农场施肥内容减少",
+        "Actionable_Suggestion": "恢复或增加芭芭农场施肥内容"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_172",
+        "User_Pain_Point": "淘工厂商品质量差",
+        "Actionable_Suggestion": "加强淘工厂商品质量审核，淘汰劣质商品"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_249",
+        "User_Pain_Point": "虚假广告泛滥",
+        "Actionable_Suggestion": "加强广告审核机制，严查虚假广告"
+      },
+      {
+        "id": "com.taobao.taobao4hmos_388",
+        "User_Pain_Point": "全淘宝女装模特同一张脸，缺乏多样性。",
+        "Actionable_Suggestion": "增加模特多样性，避免同质化。"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.taobao.taobao4hmos_365",
+        "User_Pain_Point": "分类清晰，品类齐全，商品不错",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.taobao.taobao4hmos_277",
+        "User_Pain_Point": "希望多出鬼灭之刃周边，如玩偶泥豆子",
+        "Actionable_Suggestion": "考虑引入更多鬼灭之刃周边商品"
+      }
+    ]
+  }
+}

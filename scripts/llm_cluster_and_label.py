@@ -76,6 +76,11 @@ def parse_args() -> argparse.Namespace:
         default=18,
         help="Maximum number of deduped items per LLM prompt bucket.",
     )
+    parser.add_argument(
+        "--resume",
+        action="store_true",
+        help="If set and --out exists, resume from the existing output (skip already processed buckets).",
+    )
     return parser.parse_args()
 
 
@@ -323,21 +328,37 @@ def auto_repair_clusters(
     return repaired, warnings
 
 
-def build_cluster_preview_llm(items: List[Dict[str, Any]], batch_size: int) -> Dict[str, Any]:
+def build_cluster_preview_llm(
+    items: List[Dict[str, Any]],
+    batch_size: int,
+    out_path: Path | None = None,
+    existing_preview: Dict[str, Any] | None = None,
+    processed_keys: set[tuple[str, str]] | None = None,
+) -> Dict[str, Any]:
     client = LLMClient()
     deduped = dedupe_items(items)
     grouped = group_items(deduped)
 
-    preview: Dict[str, Any] = {
-        "n_items": len(items),
-        "n_items_deduped": len(deduped),
-    }
+    # Initialize preview either from existing or fresh
+    if existing_preview and isinstance(existing_preview, dict):
+        preview: Dict[str, Any] = dict(existing_preview)
+    else:
+        preview = {}
 
-    cluster_global_id = 0
+    preview["n_items"] = len(items)
+    preview["n_items_deduped"] = len(deduped)
+
+    cluster_global_id = int(preview.get("n_clusters", 0) or 0)
+    processed_keys = processed_keys or set()
 
     for (dimension, sentiment), bucket_items in grouped.items():
         dimension_bucket = preview.setdefault(dimension, {})
         sentiment_bucket = dimension_bucket.setdefault(sentiment.lower(), {"clusters": []})
+        # If this (dimension, sentiment) was already processed in an existing preview, skip it.
+        key = (dimension, sentiment.lower())
+        if key in processed_keys:
+            # ensure preview has the existing clusters preserved
+            continue
 
         bucket_clusters: list[dict[str, Any]] = []
         for start in range(0, len(bucket_items), batch_size):
@@ -392,7 +413,7 @@ def build_cluster_preview_llm(items: List[Dict[str, Any]], batch_size: int) -> D
                         "source": item["source"],
                         "device": item["device"],
                     }
-                    for item in member_items[:5]
+                    for item in member_items
                 ]
 
                 # Prefer a root-cause based display name. Use `cluster_name` when it's concise
@@ -418,7 +439,14 @@ def build_cluster_preview_llm(items: List[Dict[str, Any]], batch_size: int) -> D
                 )
                 cluster_global_id += 1
 
-        sentiment_bucket["clusters"] = bucket_clusters
+                sentiment_bucket["clusters"] = bucket_clusters
+
+                # persist interim result so we can resume after interruption (per-batch)
+                if out_path is not None:
+                    try:
+                        out_path.write_text(json.dumps(preview, ensure_ascii=False, indent=2), encoding="utf-8")
+                    except Exception:
+                        pass
 
     preview["n_clusters"] = cluster_global_id
     return preview
@@ -437,8 +465,26 @@ def main() -> None:
         print("no items parsed")
         return
 
+    existing_preview = None
+    processed_keys: set[tuple[str, str]] = set()
+    if args.resume and args.out.exists():
+        try:
+            existing_preview = json.loads(args.out.read_text(encoding="utf-8"))
+            # detect processed (dimension, sentiment) keys already present
+            for dim, val in existing_preview.items():
+                if not isinstance(val, dict):
+                    continue
+                for sent, sent_val in val.items():
+                    if not isinstance(sent_val, dict):
+                        continue
+                    clusters = sent_val.get("clusters")
+                    if isinstance(clusters, list) and clusters:
+                        processed_keys.add((dim, str(sent).lower()))
+        except Exception:
+            existing_preview = None
+
     try:
-        preview = build_cluster_preview_llm(items, args.batch_size)
+        preview = build_cluster_preview_llm(items, args.batch_size, out_path=args.out, existing_preview=existing_preview, processed_keys=processed_keys)
     except Exception as exc:
         print(str(exc))
         return

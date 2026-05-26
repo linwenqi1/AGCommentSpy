@@ -66,7 +66,7 @@
         "device": "HUAWEI MatePad 11.5"
       }
     ],
-    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_1\",\n        \"User_Pain_Point\": \"AI评论不显示\",\n        \"Actionable_Suggestion\": \"修复AI评论显示问题，确保用户能看到AI生成的评论\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_1\",\n        \"User_Pain_Point\": \"动态图没有原声\",\n        \"Actionable_Suggestion\": \"为动态图添加原声支持，允许用户上传和播放带声音的动态图片\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_4\",\n        \"User_Pain_Point\": \"人脸识别功能缺失或不完善\",\n        \"Actionable_Suggestion\": \"完善人脸识别功能，用于登录验证或内容审核\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_7\",\n        \"User_Pain_Point\": \"无法使用专业号的个人售卖功能\",\n        \"Actionable_Suggestion\": \"为专业号用户增加个人售卖功能，完善电商工具\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_8\",\n        \"User_Pain_Point\": \"不支持群接龙功能\",\n        \"Actionable_Suggestion\": \"在群聊中添加接龙功能，方便用户组织活动和收集信息\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_3\",\n        \"User_Pain_Point\": \"左滑手势直接进入主页，可能是误触或BUG\",\n        \"Actionable_Suggestion\": \"修复左滑手势逻辑，避免直接跳转主页，或增加确认机制\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_6\",\n        \"User_Pain_Point\": \"特定地区不支持实名认证，导致无法找回账号\",\n        \"Actionable_Suggestion\": \"扩展实名认证的地区覆盖范围，或提供其他身份验证和账号找回方式\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_9\",\n        \"User_Pain_Point\": \"账号被无故封禁\",\n        \"Actionable_Suggestion\": \"优化封号审核流程，提供详细的封禁原因和申诉渠道，避免误封\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_2\",\n        \"User_Pain_Point\": \"整体体验很好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_5\",\n        \"User_Pain_Point\": \"应用很有趣，很好玩\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"内容生态\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_10\",\n        \"User_Pain_Point\": \"内容范围广泛，资料齐全\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_1\",\n        \"User_Pain_Point\": \"AI评论不显示\",\n        \"Actionable_Suggestion\": \"修复AI评论显示问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_1\",\n        \"User_Pain_Point\": \"动态图没有原声\",\n        \"Actionable_Suggestion\": \"为动态图添加原声音频播放功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_4\",\n        \"User_Pain_Point\": \"人脸识别功能缺失或不好用\",\n        \"Actionable_Suggestion\": \"跟进并优化人脸识别功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_7\",\n        \"User_Pain_Point\": \"无法使用专业号的个人售卖功能\",\n        \"Actionable_Suggestion\": \"增加专业号的个人售卖功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_8\",\n        \"User_Pain_Point\": \"缺少群接龙功能\",\n        \"Actionable_Suggestion\": \"增加群接龙功能\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_3\",\n        \"User_Pain_Point\": \"存在左滑直接进入主页的bug\",\n        \"Actionable_Suggestion\": \"修复左滑进入主页的bug\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_6\",\n        \"User_Pain_Point\": \"该地区暂不支持实名认证，无法找回账号\",\n        \"Actionable_Suggestion\": \"扩大实名认证支持地区或提供其他找回方式\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_9\",\n        \"User_Pain_Point\": \"无缘无故被封号\",\n        \"Actionable_Suggestion\": \"完善封号机制，提供申诉渠道和明确封号原因\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_2\",\n        \"User_Pain_Point\": \"应用好用\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_5\",\n        \"User_Pain_Point\": \"超级好玩\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"内容生态\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_10\",\n        \"User_Pain_Point\": \"内容范围广，能找到各种资料\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   },
   {
@@ -136,7 +136,7 @@
         "device": "HUAWEI Mate 80 Pro Max"
       }
     ],
-    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_11\",\n        \"User_Pain_Point\": \"缺少长文功能\",\n        \"Actionable_Suggestion\": \"尽快更新长文编辑功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_12\",\n        \"User_Pain_Point\": \"缺少智感握姿功能\",\n        \"Actionable_Suggestion\": \"增加智感握姿功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_16\",\n        \"User_Pain_Point\": \"无法找到直播观看历史，只有浏览笔记记录\",\n        \"Actionable_Suggestion\": \"增加直播观看历史记录功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_18\",\n        \"User_Pain_Point\": \"缺少小程序功能\",\n        \"Actionable_Suggestion\": \"尽快增加小程序功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_19\",\n        \"User_Pain_Point\": \"缺少查看评论历史（点赞、收藏、自己发出的评论）的功能；市集功能缺失多\",\n        \"Actionable_Suggestion\": \"增加评论历史查看功能，并完善市集功能\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_15\",\n        \"User_Pain_Point\": \"外屏分屏时，聊天框被菜单栏遮挡\",\n        \"Actionable_Suggestion\": \"优化外屏分屏布局，避免聊天框被遮挡\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_17\",\n        \"User_Pain_Point\": \"帖子添加话题和@用户时出现明显bug，且会清空编辑好的内容\",\n        \"Actionable_Suggestion\": \"修复添加话题和@用户时的bug，防止清空编辑内容\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_13\",\n        \"User_Pain_Point\": \"整体体验良好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_14\",\n        \"User_Pain_Point\": \"更新频繁，体验良好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_20\",\n        \"User_Pain_Point\": \"好用易用\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_11\",\n        \"User_Pain_Point\": \"缺少长文功能\",\n        \"Actionable_Suggestion\": \"增加长文功能支持\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_12\",\n        \"User_Pain_Point\": \"缺少智感握姿功能\",\n        \"Actionable_Suggestion\": \"增加智感握姿功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_16\",\n        \"User_Pain_Point\": \"直播观看记录缺失，只有浏览笔记记录\",\n        \"Actionable_Suggestion\": \"增加直播观看历史功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_18\",\n        \"User_Pain_Point\": \"缺少小程序功能\",\n        \"Actionable_Suggestion\": \"增加小程序功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_19\",\n        \"User_Pain_Point\": \"缺少查看点赞、收藏过的评论和自己发出去的评论的功能\",\n        \"Actionable_Suggestion\": \"增加评论管理功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_19\",\n        \"User_Pain_Point\": \"市集功能缺失\",\n        \"Actionable_Suggestion\": \"补充市集功能\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_15\",\n        \"User_Pain_Point\": \"外屏分屏后聊天框被菜单栏遮挡\",\n        \"Actionable_Suggestion\": \"优化分屏布局，避免遮挡\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_17\",\n        \"User_Pain_Point\": \"添加话题和@用户时触发bug，清空编辑好的内容\",\n        \"Actionable_Suggestion\": \"修复编辑框bug，防止内容清空\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_13\",\n        \"User_Pain_Point\": \"用户认为整体体验挺好\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_14\",\n        \"User_Pain_Point\": \"赞赏一个月更新9个版本的高频率\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_20\",\n        \"User_Pain_Point\": \"用户认为好使好用\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   },
   {
@@ -206,7 +206,7 @@
         "device": "HUAWEI MatePad 11.5 S 活力版"
       }
     ],
-    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_21\",\n        \"User_Pain_Point\": \"直播商品回看讲解加载失败，出现黑屏和无限加载\",\n        \"Actionable_Suggestion\": \"优化直播回看讲解的加载功能，修复黑屏问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_23\",\n        \"User_Pain_Point\": \"不支持发布长文内容\",\n        \"Actionable_Suggestion\": \"增加长文发布功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_24\",\n        \"User_Pain_Point\": \"评论中的笔记链接无法点击打开，也无法复制\",\n        \"Actionable_Suggestion\": \"修复评论中笔记链接的点击和复制功能，确保与其它系统版本一致\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_27\",\n        \"User_Pain_Point\": \"虚拟产品购买体验差，无法正常沟通\",\n        \"Actionable_Suggestion\": \"优化虚拟商品的购买流程和沟通渠道，改善用户体验\"\n      }\n    ],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_29\",\n        \"User_Pain_Point\": \"鸿蒙系统上红包功能存在bug，无法领取\",\n        \"Actionable_Suggestion\": \"针对鸿蒙系统优化红包功能，修复无法领取的bug\"\n      }\n    ],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"UI与交互\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_22\",\n        \"User_Pain_Point\": \"账号被随意封禁\",\n        \"Actionable_Suggestion\": \"完善封号审核机制，明确封禁原因，避免误伤\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_22\",\n        \"User_Pain_Point\": \"强制人脸识别和实名信息，过度收集个人信息\",\n        \"Actionable_Suggestion\": \"优化身份验证方式，提供更灵活的验证选项，减少不必要的隐私要求\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_25\",\n        \"User_Pain_Point\": \"平台管理水平低下，用户不满\",\n        \"Actionable_Suggestion\": \"提升平台管理质量，优化用户服务\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_26\",\n        \"User_Pain_Point\": \"新创建的账号立即被封禁\",\n        \"Actionable_Suggestion\": \"审查新账号封禁的规则，避免误伤正常用户\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_28\",\n        \"User_Pain_Point\": \"正常使用的账号被无故永久封号，申诉失败且不告知具体违规原因\",\n        \"Actionable_Suggestion\": \"完善封号规则透明度，明确告知用户违规原因；改进申诉流程，提供有效复核机制\"\n      }\n    ],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"体验赞赏\": {\n    \"Negative\": [],\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_30\",\n        \"User_Pain_Point\": \"用户表示喜欢该应用\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Neutral\": []\n  },\n  \"内容生态\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  }\n}",
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_21\",\n        \"User_Pain_Point\": \"直播商品回看讲解时黑屏转圈，无法正常观看\",\n        \"Actionable_Suggestion\": \"修复直播回看功能，确保视频加载正常\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_23\",\n        \"User_Pain_Point\": \"不能写长文\",\n        \"Actionable_Suggestion\": \"增加长文发布功能，允许用户发布更长的内容\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_24\",\n        \"User_Pain_Point\": \"评论里的笔记链接点不开，复制无反应\",\n        \"Actionable_Suggestion\": \"修复链接点击和复制功能，确保正常跳转和复制\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_27\",\n        \"User_Pain_Point\": \"虚拟产品购买体验差，无法正常沟通\",\n        \"Actionable_Suggestion\": \"优化虚拟产品购买流程，增加即时沟通渠道\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_22\",\n        \"User_Pain_Point\": \"随意封账号，强制要求人脸识别和实名信息，注销困难\",\n        \"Actionable_Suggestion\": \"优化账号封禁规则，降低实名认证强制程度，简化注销流程\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_25\",\n        \"User_Pain_Point\": \"管理水平低下，平台运营不佳\",\n        \"Actionable_Suggestion\": \"提升管理团队水平，改进平台运营策略\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_26\",\n        \"User_Pain_Point\": \"刚起的号就被封，封号机制不合理\",\n        \"Actionable_Suggestion\": \"优化新号封禁机制，减少误封\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_28\",\n        \"User_Pain_Point\": \"正常使用账号被永久封号，申诉失败且不说明违规原因\",\n        \"Actionable_Suggestion\": \"完善封号申诉机制，明确违规原因，提高申诉成功率\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_29\",\n        \"User_Pain_Point\": \"鸿蒙系统红包领取bug，无法正常领红包\",\n        \"Actionable_Suggestion\": \"修复鸿蒙系统下红包功能的兼容性问题\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_30\",\n        \"User_Pain_Point\": \"用户表示喜欢\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   },
   {
@@ -276,7 +276,7 @@
         "device": "nova 14 Pro"
       }
     ],
-    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_31\",\n        \"User_Pain_Point\": \"缺少群内发送文件功能，如PDF\",\n        \"Actionable_Suggestion\": \"尽快上线群文件分享功能，支持PDF等常见格式\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_32\",\n        \"User_Pain_Point\": \"套用模板发布笔记时失败\",\n        \"Actionable_Suggestion\": \"修复笔记模板应用功能，确保用户能正常使用模板\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_33\",\n        \"User_Pain_Point\": \"问一问AI功能未更新，无法看到或使用\",\n        \"Actionable_Suggestion\": \"尽快更新问一问AI功能，确保用户界面显示入口\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_35\",\n        \"User_Pain_Point\": \"图片预加载功能未更新上线\",\n        \"Actionable_Suggestion\": \"尽快更新上线图片预加载功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_36\",\n        \"User_Pain_Point\": \"不支持海外用户登录\",\n        \"Actionable_Suggestion\": \"支持海外地区登录，适配国际账号体系\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_38\",\n        \"User_Pain_Point\": \"缺少翻译功能\",\n        \"Actionable_Suggestion\": \"集成翻译功能，支持多语言翻译\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_34\",\n        \"User_Pain_Point\": \"沉浸光感功能仅适配PXM设备，其他设备未支持\",\n        \"Actionable_Suggestion\": \"扩展沉浸光感功能到更多设备型号\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_39\",\n        \"User_Pain_Point\": \"沉浸光感功能仅限特定高端机型，导致用户感到被区别对待\",\n        \"Actionable_Suggestion\": \"开放沉浸光感功能给更多设备，或增加其他机型适配计划\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_40\",\n        \"User_Pain_Point\": \"部分版本的群聊信息功能未适配\",\n        \"Actionable_Suggestion\": \"尽快完成群聊信息功能的全版本适配\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_35\",\n        \"User_Pain_Point\": \"图片加载速度慢，一张图片加载半天\",\n        \"Actionable_Suggestion\": \"优化图片加载机制，提升加载速度\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_37\",\n        \"User_Pain_Point\": \"产品整体实用性强，得到用户认可\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_31\",\n        \"User_Pain_Point\": \"群里无法发送PDF等文件\",\n        \"Actionable_Suggestion\": \"增加群聊文件发送功能，支持PDF等常见格式\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_32\",\n        \"User_Pain_Point\": \"套模板发笔记套不上\",\n        \"Actionable_Suggestion\": \"修复模板套用功能，确保模板正确应用\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_33\",\n        \"User_Pain_Point\": \"问一问AI功能没有更新，看不到\",\n        \"Actionable_Suggestion\": \"更新问一问AI功能，确保用户可见可用\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_36\",\n        \"User_Pain_Point\": \"不支持海外登录\",\n        \"Actionable_Suggestion\": \"增加海外登录支持，满足国际用户需求\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_38\",\n        \"User_Pain_Point\": \"缺少翻译功能\",\n        \"Actionable_Suggestion\": \"增加翻译功能，方便用户跨语言使用\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_34\",\n        \"User_Pain_Point\": \"只有PXM适配沉浸光感，其他机型没有\",\n        \"Actionable_Suggestion\": \"扩大沉浸光感适配机型范围，公平对待所有用户\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_39\",\n        \"User_Pain_Point\": \"沉浸光感仅限Pura X Max用户，其他用户被歧视\",\n        \"Actionable_Suggestion\": \"提供一致的沉浸光感体验，避免按机型区分功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_40\",\n        \"User_Pain_Point\": \"群聊信息功能在当前版本不支持\",\n        \"Actionable_Suggestion\": \"尽快完成群聊信息功能的全版本适配\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_35\",\n        \"User_Pain_Point\": \"图片加载慢，预加载功能未更新\",\n        \"Actionable_Suggestion\": \"优化图片预加载机制，提升加载速度\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_37\",\n        \"User_Pain_Point\": \"实用性高\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   },
   {
@@ -346,7 +346,7 @@
         "device": "nova 12 Ultra"
       }
     ],
-    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_41\",\n        \"User_Pain_Point\": \"问一问AI功能无法使用\",\n        \"Actionable_Suggestion\": \"修复问一问AI功能，确保新版本可用\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_42\",\n        \"User_Pain_Point\": \"评论区“展开n条回复”无法点开\",\n        \"Actionable_Suggestion\": \"修复评论区展开回复按钮的点击事件\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_43\",\n        \"User_Pain_Point\": \"横屏看视频时智感握姿功能不触发\",\n        \"Actionable_Suggestion\": \"修复横屏场景下智感握姿功能的触发逻辑\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_44\",\n        \"User_Pain_Point\": \"评论区问一问无法@用户\",\n        \"Actionable_Suggestion\": \"为评论区问一问添加@功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_45\",\n        \"User_Pain_Point\": \"横屏笔记最下面一条评论无法展开更多回复\",\n        \"Actionable_Suggestion\": \"修复横屏下评论展开回复功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_46\",\n        \"User_Pain_Point\": \"购物车打开后无内容\",\n        \"Actionable_Suggestion\": \"修复购物车数据加载问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_48\",\n        \"User_Pain_Point\": \"部分笔记发送失败\",\n        \"Actionable_Suggestion\": \"排查并修复笔记发送功能\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_47\",\n        \"User_Pain_Point\": \"更新后界面采用大量圆角卡片，设计不够简洁\",\n        \"Actionable_Suggestion\": \"优化UI设计，提供更简洁的显示模式或减少圆角卡片\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_50\",\n        \"User_Pain_Point\": \"沉浸光感功能仅限部分机型，存在独占\",\n        \"Actionable_Suggestion\": \"考虑将沉浸光感功能开放给更多机型\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_49\",\n        \"User_Pain_Point\": \"鸿蒙PC触控板刷视频丝滑流畅\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_41\",\n        \"User_Pain_Point\": \"这个版本用不了问一问ai\",\n        \"Actionable_Suggestion\": \"修复问一问AI功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_43\",\n        \"User_Pain_Point\": \"横屏看视频，智感握姿功能不会触发。\",\n        \"Actionable_Suggestion\": \"修复横屏智感握姿触发\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_44\",\n        \"User_Pain_Point\": \"鸿蒙评论区的问一问没法艾特\",\n        \"Actionable_Suggestion\": \"修复问一问艾特功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_46\",\n        \"User_Pain_Point\": \"怎么购物车打开没东西了\",\n        \"Actionable_Suggestion\": \"修复购物车显示问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_48\",\n        \"User_Pain_Point\": \"为啥有的笔记发送不了啊？\",\n        \"Actionable_Suggestion\": \"修复笔记发送失败问题\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_42\",\n        \"User_Pain_Point\": \"评论区最下面的“展开n条回复”目前无法点开，希望尽快修复。\",\n        \"Actionable_Suggestion\": \"修复展开回复的bug\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_45\",\n        \"User_Pain_Point\": \"Pura X Max横屏点进笔记的时候最下面一条评论无法展开更多回复，bug速度修复\",\n        \"Actionable_Suggestion\": \"修复横屏下展开评论的bug\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_47\",\n        \"User_Pain_Point\": \"更新后主页的笔记浏览页和每篇带图片的笔记浏览界面，采用了大量圆角卡片的显示模式，我想请问工程师有没有审美，明不明白简洁构...\",\n        \"Actionable_Suggestion\": \"优化UI设计，减少圆角卡片\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_50\",\n        \"User_Pain_Point\": \"沉浸光感还要搞独占\",\n        \"Actionable_Suggestion\": \"取消沉浸光感独占\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_49\",\n        \"User_Pain_Point\": \"鸿蒙PC触控盘刷视频十分丝滑\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   },
   {
@@ -416,7 +416,7 @@
         "device": "HUAWEI Mate 80 Pro Max"
       }
     ],
-    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_51\",\n        \"User_Pain_Point\": \"悬浮底栏功能存在机型独占，部分机型不支持\",\n        \"Actionable_Suggestion\": \"取消悬浮底栏的机型独占，让所有机型都能使用该功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_52\",\n        \"User_Pain_Point\": \"功能按机型区别适配，基础功能适配较差\",\n        \"Actionable_Suggestion\": \"统一功能适配，确保所有机型的基础功能体验一致\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_53\",\n        \"User_Pain_Point\": \"Pura X机型不支持沉浸光感功能\",\n        \"Actionable_Suggestion\": \"为Pura X机型添加沉浸光感功能支持\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_54\",\n        \"User_Pain_Point\": \"底部光感功能按机型区分，部分机型缺失\",\n        \"Actionable_Suggestion\": \"取消底部光感功能的机型区分，在所有机型上提供该功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_55\",\n        \"User_Pain_Point\": \"功能根据机型做区分，认为不合理\",\n        \"Actionable_Suggestion\": \"去除功能根据机型的差异化限制，统一功能体验\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_56\",\n        \"User_Pain_Point\": \"沉浸光感功能被独占，仅部分机型可用\",\n        \"Actionable_Suggestion\": \"取消沉浸光感功能的独占策略，让更多机型支持\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_57\",\n        \"User_Pain_Point\": \"Dock栏（悬浮底栏）功能存在机型独占\",\n        \"Actionable_Suggestion\": \"取消Dock栏的机型独占，让所有机型都能使用\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_59\",\n        \"User_Pain_Point\": \"沉浸光感功能不给其他机型，导致低分评价\",\n        \"Actionable_Suggestion\": \"将沉浸光感功能开放给所有机型，避免用户不满\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_60\",\n        \"User_Pain_Point\": \"光感功能按机型提供，引发用户不满\",\n        \"Actionable_Suggestion\": \"在所有机型上统一提供光感功能，取消按机型限制\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_52\",\n        \"User_Pain_Point\": \"打开笔记后的返回动画经常出现动画路径错误\",\n        \"Actionable_Suggestion\": \"修复返回动画的路径错误，确保动画效果正确流畅\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_58\",\n        \"User_Pain_Point\": \"整体体验非常好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "raw_response_text": "{\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_51\",\n        \"User_Pain_Point\": \"悬浮底栏功能按机型独占，导致其他机型用户无法使用\",\n        \"Actionable_Suggestion\": \"取消功能机型限制，统一适配所有机型\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_52\",\n        \"User_Pain_Point\": \"部分功能按机型区别适配，基础功能适配不完整\",\n        \"Actionable_Suggestion\": \"去除功能机型差异化，保证所有机型基础功能一致\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_53\",\n        \"User_Pain_Point\": \"Pura X机型未获得沉浸光感功能\",\n        \"Actionable_Suggestion\": \"为Pura X及更多机型提供沉浸光感功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_54\",\n        \"User_Pain_Point\": \"底部光感功能按机型区分，部分机型缺失\",\n        \"Actionable_Suggestion\": \"底部光感应作为通用功能，不再区分机型\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_55\",\n        \"User_Pain_Point\": \"功能根据机型做区分，体验不统一\",\n        \"Actionable_Suggestion\": \"所有功能不限制机型，保持一致体验\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_56\",\n        \"User_Pain_Point\": \"沉浸光感功能被特定机型独占\",\n        \"Actionable_Suggestion\": \"将沉浸光感开放给所有机型\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_57\",\n        \"User_Pain_Point\": \"应用内dock栏功能被某机型独占\",\n        \"Actionable_Suggestion\": \"取消dock栏功能机型限制\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_59\",\n        \"User_Pain_Point\": \"沉浸光感功能未覆盖其他机型，导致用户给差评\",\n        \"Actionable_Suggestion\": \"为所有机型提供沉浸光感功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_60\",\n        \"User_Pain_Point\": \"光感功能根据机型提供，用户不满\",\n        \"Actionable_Suggestion\": \"光感功能应全机型统一提供\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_52\",\n        \"User_Pain_Point\": \"返回动画经常出现路径错误，动画适配较差\",\n        \"Actionable_Suggestion\": \"优化返回动画效果，确保动画路径正确\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_58\",\n        \"User_Pain_Point\": \"整体体验非常好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   },
   {
@@ -486,7 +486,7 @@
         "device": "HUAWEI Pura 80"
       }
     ],
-    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_61\",\n        \"User_Pain_Point\": \"无法查看小红书群接龙信息\",\n        \"Actionable_Suggestion\": \"添加群接龙功能，支持在群聊中发起和查看接龙\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_65\",\n        \"User_Pain_Point\": \"群功能不完善\",\n        \"Actionable_Suggestion\": \"完善群功能，如增加接龙、红包等常用群能力\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_66\",\n        \"User_Pain_Point\": \"不能私信感谢点赞\",\n        \"Actionable_Suggestion\": \"在私信模块增加感谢点赞的快捷操作或入口\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_66\",\n        \"User_Pain_Point\": \"无法搜索灵感\",\n        \"Actionable_Suggestion\": \"增加灵感搜索功能，支持关键词检索平台灵感内容\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_66\",\n        \"User_Pain_Point\": \"选品管理操作不便\",\n        \"Actionable_Suggestion\": \"优化商品选品管理流程，提供更便捷的编辑、分类和批量操作\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_67\",\n        \"User_Pain_Point\": \"缺少写长文功能\",\n        \"Actionable_Suggestion\": \"添加写长文功能，支持发布长文笔记\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_68\",\n        \"User_Pain_Point\": \"群消息中缺少链接红包功能\",\n        \"Actionable_Suggestion\": \"推进群链接红包功能，支持在群聊中发送红包链接\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_69\",\n        \"User_Pain_Point\": \"Mate X7 缺乏沉浸光感和智感握姿适配\",\n        \"Actionable_Suggestion\": \"尽快为 Mate X7 机型适配沉浸光感和智感握姿功能\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_62\",\n        \"User_Pain_Point\": \"更新推荐仅针对折叠屏，对非折叠屏用户无意义\",\n        \"Actionable_Suggestion\": \"根据用户机型精准推送更新内容，或明确标注适配机型范围\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_63\",\n        \"User_Pain_Point\": \"收到与当前设备无关的 Pura X Max 优化更新推送\",\n        \"Actionable_Suggestion\": \"修复更新推送逻辑，确保用户只收到相应机型的适配更新\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_64\",\n        \"User_Pain_Point\": \"Mate 80 Pro 及以上机型与折叠屏同 CPU 却不支持沉浸光感，存在机型差别对待\",\n        \"Actionable_Suggestion\": \"统一高端机型的适配标准，将沉浸光感功能扩展至同 CPU 的机型\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_69\",\n        \"User_Pain_Point\": \"收到与 Mate X7 无关的 Pura X Max 优化更新\",\n        \"Actionable_Suggestion\": \"优化更新推送机制，避免给用户推送不匹配的机型更新\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_70\",\n        \"User_Pain_Point\": \"沉浸光感功能仅限特定机型，其他高端机型无法使用\",\n        \"Actionable_Suggestion\": \"扩大沉浸光感适配范围，覆盖更多主流中高端机型\"\n      }\n    ]\n  }\n}",
+    "raw_response_text": "{\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_62\",\n        \"User_Pain_Point\": \"只有折叠屏支持沉浸光感，其他机型没有，用户感到不公平\",\n        \"Actionable_Suggestion\": \"建议扩大沉浸光感功能的适配机型范围\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_63\",\n        \"User_Pain_Point\": \"收到不匹配机型的更新推送，用户感到困扰\",\n        \"Actionable_Suggestion\": \"优化更新推送逻辑，确保仅推送匹配机型的更新\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_64\",\n        \"User_Pain_Point\": \"同样CPU的机型却没有沉浸光感适配，用户认为存在机型差别对待\",\n        \"Actionable_Suggestion\": \"根据CPU型号而非机型进行功能适配\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_69\",\n        \"User_Pain_Point\": \"收到不匹配机型的更新推送\",\n        \"Actionable_Suggestion\": \"优化更新推送逻辑，确保仅推送匹配机型的更新\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_69\",\n        \"User_Pain_Point\": \"沉浸光感和智感握姿功能未适配X7\",\n        \"Actionable_Suggestion\": \"适配X7的沉浸光感和智感握姿功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_70\",\n        \"User_Pain_Point\": \"沉浸光感仅适配部分机型，其他机型不配，用户感到不满\",\n        \"Actionable_Suggestion\": \"扩大沉浸光感适配机型范围\"\n      }\n    ]\n  },\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_61\",\n        \"User_Pain_Point\": \"无法看到小红书的群接龙信息\",\n        \"Actionable_Suggestion\": \"增加群接龙信息显示功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_65\",\n        \"User_Pain_Point\": \"群功能不够完善\",\n        \"Actionable_Suggestion\": \"完善群功能，如增加接龙、红包等\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_66\",\n        \"User_Pain_Point\": \"不能私信感谢点赞\",\n        \"Actionable_Suggestion\": \"增加私信感谢点赞功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_66\",\n        \"User_Pain_Point\": \"不能搜索灵感\",\n        \"Actionable_Suggestion\": \"增加搜索灵感功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_66\",\n        \"User_Pain_Point\": \"不能便捷的进行选品管理\",\n        \"Actionable_Suggestion\": \"优化选品管理便捷性\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_67\",\n        \"User_Pain_Point\": \"缺少写长文的功能\",\n        \"Actionable_Suggestion\": \"增加写长文的功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_68\",\n        \"User_Pain_Point\": \"群消息链接红包功能未推进\",\n        \"Actionable_Suggestion\": \"推进群消息链接红包功能\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   },
   {
@@ -556,7 +556,7 @@
         "device": "HUAWEI Pura X"
       }
     ],
-    "raw_response_text": "{\n  \"系统与机型适配\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_71\",\n        \"User_Pain_Point\": \"赞赏应用快速适配最新机型，工作态度好。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_72\",\n        \"User_Pain_Point\": \"其他机型没有沉浸光感功能。\",\n        \"Actionable_Suggestion\": \"尽快为其他机型适配沉浸光感功能。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_73\",\n        \"User_Pain_Point\": \"其他机型尚未适配沉浸光感功能。\",\n        \"Actionable_Suggestion\": \"明确公布沉浸光感功能适配计划，尽快适配。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_74\",\n        \"User_Pain_Point\": \"沉浸光感功能存在机型歧视，部分机型不支持。\",\n        \"Actionable_Suggestion\": \"为所有机型统一提供沉浸光感功能。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_75\",\n        \"User_Pain_Point\": \"其他机型尚未适配沉浸光感功能。\",\n        \"Actionable_Suggestion\": \"公布适配时间表，尽快支持。\"\n      }\n    ]\n  },\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_74\",\n        \"User_Pain_Point\": \"沉浸光感功能没有开关设置，用户无法自主控制。\",\n        \"Actionable_Suggestion\": \"增加沉浸光感功能的开关设置，让用户自主选择开启或关闭。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_77\",\n        \"User_Pain_Point\": \"无法给关注的人添加备注名字。\",\n        \"Actionable_Suggestion\": \"增加关注人备注功能。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_80\",\n        \"User_Pain_Point\": \"直播缺少回放功能。\",\n        \"Actionable_Suggestion\": \"支持直播回放功能。\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_78\",\n        \"User_Pain_Point\": \"在Pura X Max上编辑笔记时，打字光标会到处乱跳。\",\n        \"Actionable_Suggestion\": \"修复在Pura X Max上编辑笔记时光标乱跳的Bug。\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_76\",\n        \"User_Pain_Point\": \"平台监管不利，缺少实名制。\",\n        \"Actionable_Suggestion\": \"加强监管，尽快推行实名认证制度。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_79\",\n        \"User_Pain_Point\": \"强制实名认证，感觉隐私被侵犯；无故封号。\",\n        \"Actionable_Suggestion\": \"改进实名认证流程，保护用户隐私；明确封号原因并提供申诉渠道。\"\n      }\n    ]\n  }\n}",
+    "raw_response_text": "{\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_71\",\n        \"User_Pain_Point\": \"适配最新机型速度快，工作态度值得点赞\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_72\",\n        \"User_Pain_Point\": \"其他机型没有沉浸光感功能\",\n        \"Actionable_Suggestion\": \"尽快为其他机型适配沉浸光感功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_73\",\n        \"User_Pain_Point\": \"其他机型未适配沉浸光感\",\n        \"Actionable_Suggestion\": \"公布适配计划，加快适配进度\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_74\",\n        \"User_Pain_Point\": \"沉浸光感功能存在机型歧视，缺少开关设置\",\n        \"Actionable_Suggestion\": \"添加沉浸光感的开关设置，让用户自主选择\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_75\",\n        \"User_Pain_Point\": \"其他机型未适配沉浸光感\",\n        \"Actionable_Suggestion\": \"明确其他机型的适配时间\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_77\",\n        \"User_Pain_Point\": \"无法给关注的人添加备注名字\",\n        \"Actionable_Suggestion\": \"增加给关注人备注名字的功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_80\",\n        \"User_Pain_Point\": \"直播无法观看回放\",\n        \"Actionable_Suggestion\": \"提供直播回放功能\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_78\",\n        \"User_Pain_Point\": \"编辑笔记时打字光标乱跳\",\n        \"Actionable_Suggestion\": \"修复光标乱跳的bug，提升输入稳定性\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_76\",\n        \"User_Pain_Point\": \"监管不利，希望实行实名制\",\n        \"Actionable_Suggestion\": \"加强监管，考虑实施实名认证\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_79\",\n        \"User_Pain_Point\": \"强制实名认证且无故封号，怀疑信息泄露\",\n        \"Actionable_Suggestion\": \"优化实名认证流程，减少误封，保护用户隐私\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   },
   {
@@ -626,7 +626,7 @@
         "device": "HUAWEI Mate 60 Pro"
       }
     ],
-    "raw_response_text": "{\"功能体验\": {\"Negative\": [{\"id\": \"com.xingin.xhs_hos_81\", \"User_Pain_Point\": \"澳门手机账号无法登录，仅支持内地手机号。\", \"Actionable_Suggestion\": \"增加对澳门及其他地区手机号登录的支持，确保功能与内地一致。\"}, {\"id\": \"com.xingin.xhs_hos_82\", \"User_Pain_Point\": \"标签搜索功能体验差，搜索结果不相关，搜AB出现BA。\", \"Actionable_Suggestion\": \"优化标签搜索算法，提高搜索结果的准确性和相关性。\"}, {\"id\": \"com.xingin.xhs_hos_84\", \"User_Pain_Point\": \"平板版小红书缺少手游直播功能。\", \"Actionable_Suggestion\": \"在平板版本中增加手游直播功能。\"}, {\"id\": \"com.xingin.xhs_hos_88\", \"User_Pain_Point\": \"“问一问”功能不可见或无法使用。\", \"Actionable_Suggestion\": \"修复“问一问”功能入口和可用性问题，确保其正常显示和运作。\"}, {\"id\": \"com.xingin.xhs_hos_90\", \"User_Pain_Point\": \"实况图片发布后没有声音。\", \"Actionable_Suggestion\": \"修复实况图片声音录制或播放问题，确保实况图片包含音频。\"}, {\"id\": \"com.xingin.xhs_hos_90\", \"User_Pain_Point\": \"无法下载帖子中的附件文件。\", \"Actionable_Suggestion\": \"增加附件下载功能。\"}, {\"id\": \"com.xingin.xhs_hos_90\", \"User_Pain_Point\": \"缺少星标朋友功能。\", \"Actionable_Suggestion\": \"添加星标朋友功能。\"}, {\"id\": \"com.xingin.xhs_hos_90\", \"User_Pain_Point\": \"无法为好友添加备注。\", \"Actionable_Suggestion\": \"添加好友备注功能。\"}, {\"id\": \"com.xingin.xhs_hos_90\", \"User_Pain_Point\": \"群聊功能缺失，不能查看群文件、群置顶、群通知等。\", \"Actionable_Suggestion\": \"完善群聊功能，增加群文件、群置顶、群通知等。\"}]}, \"系统与机型适配\": {\"Negative\": [{\"id\": \"com.xingin.xhs_hos_83\", \"User_Pain_Point\": \"在Pura X Max上无法升级到最新版本，缺乏宣传的沉浸光感功能，应用尝鲜也未提供。\", \"Actionable_Suggestion\": \"尽快在应用市场推送更新版本，适配新机型特性，并确保应用尝鲜渠道可用。\"}]}, \"稳定性与性能\": {\"Negative\": [{\"id\": \"com.xingin.xhs_hos_89\", \"User_Pain_Point\": \"应用内存占用较高，希望优化。\", \"Actionable_Suggestion\": \"优化应用内存使用，减少后台占用，提升流畅度。\"}, {\"id\": \"com.xingin.xhs_hos_90\", \"User_Pain_Point\": \"应用运行卡顿。\", \"Actionable_Suggestion\": \"进行性能优化，减少卡顿现象。\"}, {\"id\": \"com.xingin.xhs_hos_90\", \"User_Pain_Point\": \"消息界面加载缓慢，半天不显示。\", \"Actionable_Suggestion\": \"优化消息加载机制，提高加载速度。\"}]}, \"UI与交互\": {\"Negative\": [{\"id\": \"com.xingin.xhs_hos_87\", \"User_Pain_Point\": \"话题功能界面混乱，无法找到收藏的话题和管理关注的话题。\", \"Actionable_Suggestion\": \"重新设计话题功能，提供清晰的话题收藏入口和关注话题列表。\"}, {\"id\": \"com.xingin.xhs_hos_90\", \"User_Pain_Point\": \"编辑帖子时话题重复显示。\", \"Actionable_Suggestion\": \"修复编辑帖子时话题重复的bug，确保话题正确显示。\"}], \"Neutral\": [{\"id\": \"com.xingin.xhs_hos_86\", \"User_Pain_Point\": \"关注栏缺少关注头像展示，个人页缺少评论区入口。\", \"Actionable_Suggestion\": \"在关注栏顶部增加关注头像，在个人页面增加评论区入口。\"}]}, \"运营与规则\": {\"Negative\": [{\"id\": \"com.xingin.xhs_hos_85\", \"User_Pain_Point\": \"举报系统形同虚设，虚假处置反馈，黑产账号未得到实际清理。\", \"Actionable_Suggestion\": \"加强举报审核机制，确保举报后实际执行处罚，并公开处理结果以提高信任度。\"}]}}",
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_82\",\n        \"User_Pain_Point\": \"标签功能混乱，搜索标签逻辑差，搜AB老出现BA，体验非常差\",\n        \"Actionable_Suggestion\": \"优化标签搜索逻辑，确保关键词匹配准确\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_83\",\n        \"User_Pain_Point\": \"宣传的「沉浸光感」功能无法使用\",\n        \"Actionable_Suggestion\": \"确保宣传的功能在所有适配机型上可用\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_84\",\n        \"User_Pain_Point\": \"平板版不支持手游直播\",\n        \"Actionable_Suggestion\": \"增加平板版手游直播功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_86\",\n        \"User_Pain_Point\": \"缺少关注栏上方显示关注头像，以及我的栏的评论区\",\n        \"Actionable_Suggestion\": \"增加关注栏上方关注头像显示，我的栏增加评论区\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_87\",\n        \"User_Pain_Point\": \"话题功能混乱：收藏话题找不到，关注话题列表不透明\",\n        \"Actionable_Suggestion\": \"优化话题功能，增加话题收藏管理入口，显示已关注话题列表\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_88\",\n        \"User_Pain_Point\": \"问一问功能无法看到和使用\",\n        \"Actionable_Suggestion\": \"修复问一问功能，确保正常显示和使用\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_90\",\n        \"User_Pain_Point\": \"实况图片没有声音\",\n        \"Actionable_Suggestion\": \"为实况图片添加声音播放功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_90\",\n        \"User_Pain_Point\": \"编辑帖子时话题会重复\",\n        \"Actionable_Suggestion\": \"修复编辑帖子时话题重复的问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_90\",\n        \"User_Pain_Point\": \"不能显示、不能下载附件文件\",\n        \"Actionable_Suggestion\": \"增加附件文件的显示和下载功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_90\",\n        \"User_Pain_Point\": \"星标朋友功能未上线\",\n        \"Actionable_Suggestion\": \"尽快上线星标朋友功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_90\",\n        \"User_Pain_Point\": \"不能为好友添加备注\",\n        \"Actionable_Suggestion\": \"增加用户备注功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_90\",\n        \"User_Pain_Point\": \"不能查看群文件、群置顶和群通知\",\n        \"Actionable_Suggestion\": \"增加群文件、群置顶和群通知功能\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_81\",\n        \"User_Pain_Point\": \"澳门手机账号登录不兼容鸿蒙系统，内地手机号可正常登录\",\n        \"Actionable_Suggestion\": \"适配澳门手机号登录，或提供其他登录方式\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_83\",\n        \"User_Pain_Point\": \"Pura X Max机型无法升级到最新版本9.27.1，且没有沉浸光感功能\",\n        \"Actionable_Suggestion\": \"适配Pura X Max机型的系统升级和沉浸光感功能\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_89\",\n        \"User_Pain_Point\": \"内存占用过大，希望像B站一样优化\",\n        \"Actionable_Suggestion\": \"优化内存占用，减少资源消耗\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_90\",\n        \"User_Pain_Point\": \"应用卡顿，消息加载慢\",\n        \"Actionable_Suggestion\": \"优化应用性能和消息加载速度\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_85\",\n        \"User_Pain_Point\": \"举报功能形同虚设，黑产账号举报后仍正常存在\",\n        \"Actionable_Suggestion\": \"改进举报处理流程，确保有效处置违规账号\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   },
   {
@@ -696,7 +696,1471 @@
         "device": "HUAWEI Mate 60 Pro"
       }
     ],
-    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_91\",\n        \"User_Pain_Point\": \"无法查看PDF文件\",\n        \"Actionable_Suggestion\": \"添加PDF查看器功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_92\",\n        \"User_Pain_Point\": \"视频画质差且无法调整\",\n        \"Actionable_Suggestion\": \"提供画质调整选项或优化默认画质\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_94\",\n        \"User_Pain_Point\": \"缺少文章点赞（好）功能\",\n        \"Actionable_Suggestion\": \"添加文章点赞功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_94\",\n        \"User_Pain_Point\": \"缺少翻译功能\",\n        \"Actionable_Suggestion\": \"添加翻译功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_95\",\n        \"User_Pain_Point\": \"直播间缺少缩放功能\",\n        \"Actionable_Suggestion\": \"添加直播间缩放功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_98\",\n        \"User_Pain_Point\": \"无法使用@问一问功能\",\n        \"Actionable_Suggestion\": \"修复@问一问功能\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_96\",\n        \"User_Pain_Point\": \"澳門用戶無法登入，系統提示使用安卓或iOS\",\n        \"Actionable_Suggestion\": \"修复澳门用户登录问题，支持鸿蒙系统登录\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_100\",\n        \"User_Pain_Point\": \"应用耗电严重\",\n        \"Actionable_Suggestion\": \"优化应用耗电问题\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_99\",\n        \"User_Pain_Point\": \"内容流量低\",\n        \"Actionable_Suggestion\": \"优化流量分配机制\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_93\",\n        \"User_Pain_Point\": \"社交体验好，能交到朋友\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_97\",\n        \"User_Pain_Point\": \"社交体验好，能交到好友\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_91\",\n        \"User_Pain_Point\": \"缺少PDF查看功能\",\n        \"Actionable_Suggestion\": \"增加PDF查看功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_92\",\n        \"User_Pain_Point\": \"画质差且无法调节\",\n        \"Actionable_Suggestion\": \"提供画质调节选项\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_94\",\n        \"User_Pain_Point\": \"缺少文章点“好”功能和翻译功能\",\n        \"Actionable_Suggestion\": \"尽快增加文章点赞（好）功能和翻译功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_95\",\n        \"User_Pain_Point\": \"直播间缺少缩放功能\",\n        \"Actionable_Suggestion\": \"增加直播间缩放功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_98\",\n        \"User_Pain_Point\": \"不能@问一问功能\",\n        \"Actionable_Suggestion\": \"增加@问一问功能\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_96\",\n        \"User_Pain_Point\": \"澳门用户无法登录，提示使用安卓或iOS\",\n        \"Actionable_Suggestion\": \"修复鸿蒙系统的登录问题，支持澳门地区用户\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_100\",\n        \"User_Pain_Point\": \"应用耗电严重\",\n        \"Actionable_Suggestion\": \"优化能耗，降低电池消耗\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_99\",\n        \"User_Pain_Point\": \"流量不好，内容曝光不足\",\n        \"Actionable_Suggestion\": \"优化推荐算法，提升内容曝光\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_93\",\n        \"User_Pain_Point\": \"交到了很多朋友，有粉丝喜欢\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_97\",\n        \"User_Pain_Point\": \"交到了许多喜欢的好友，真心推荐\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_100\",\n        \"User_Pain_Point\": \"整体很不错\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 11,
+    "batch_ids": [
+      "com.xingin.xhs_hos_101",
+      "com.xingin.xhs_hos_102",
+      "com.xingin.xhs_hos_103",
+      "com.xingin.xhs_hos_104",
+      "com.xingin.xhs_hos_105",
+      "com.xingin.xhs_hos_106",
+      "com.xingin.xhs_hos_107",
+      "com.xingin.xhs_hos_108",
+      "com.xingin.xhs_hos_109",
+      "com.xingin.xhs_hos_110"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_101",
+        "content": "能不能不要区别对待，我Mate 80也要沉浸光感",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_102",
+        "content": "鸿蒙系统其他手机能不能也适配沉浸光感视效啊！！！！",
+        "device": "HUAWEI Pura 80 Ultra"
+      },
+      {
+        "id": "com.xingin.xhs_hos_103",
+        "content": "为什么我的这个新手机小红书功能比我旧手机的小红书功能少这么多，好多视频看不了，想买的东西也买不了，还更新不了版本",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_104",
+        "content": "为什么下载界面显示软件大小是272MB，而下载之后（还没打开使用）设置里显示应用大小是691MB？",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.xingin.xhs_hos_105",
+        "content": "什么时候更新私信中可以打开小红书商品链接页面",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_106",
+        "content": "其他机型适配沉浸光感",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_107",
+        "content": "很好的一款app",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.xingin.xhs_hos_108",
+        "content": "产品功能差，发布的帖子，别人无法查看，询问客服给不出解决方案",
+        "device": "HUAWEI Pura 80 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_109",
+        "content": "我喜欢这个更新😘",
+        "device": "HUAWEI MatePad Mini 悦读版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_110",
+        "content": "小红书里面那个清屏按钮去哪里了，搞到现在字幕都被挡住了！",
+        "device": "HUAWEI Pura X"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_103\",\n        \"User_Pain_Point\": \"新手机功能比旧手机少\",\n        \"Actionable_Suggestion\": \"确保各机型功能完整性\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_103\",\n        \"User_Pain_Point\": \"某些视频无法观看\",\n        \"Actionable_Suggestion\": \"修复视频播放兼容性\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_103\",\n        \"User_Pain_Point\": \"无法购买商品\",\n        \"Actionable_Suggestion\": \"修复购物功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_104\",\n        \"User_Pain_Point\": \"下载显示大小与实际安装大小不一致\",\n        \"Actionable_Suggestion\": \"统一显示正确的应用大小或说明差异原因\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_105\",\n        \"User_Pain_Point\": \"私信中无法打开商品链接页面\",\n        \"Actionable_Suggestion\": \"在私信功能中支持打开商品链接\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_108\",\n        \"User_Pain_Point\": \"发布的帖子别人无法查看，客服无解决方案\",\n        \"Actionable_Suggestion\": \"修复帖子可见性功能，提升客服响应质量\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_101\",\n        \"User_Pain_Point\": \"Mate 80没有沉浸光感功能\",\n        \"Actionable_Suggestion\": \"适配Mate 80机型的沉浸光感视效\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_102\",\n        \"User_Pain_Point\": \"其他鸿蒙手机没有沉浸光感视效\",\n        \"Actionable_Suggestion\": \"为更多鸿蒙机型适配沉浸光感视效\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_103\",\n        \"User_Pain_Point\": \"无法更新应用版本\",\n        \"Actionable_Suggestion\": \"支持该机型的版本更新\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_106\",\n        \"User_Pain_Point\": \"其他机型未适配沉浸光感\",\n        \"Actionable_Suggestion\": \"适配更多机型的沉浸光感功能\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_110\",\n        \"User_Pain_Point\": \"清屏按钮移除或找不到，导致字幕被遮挡\",\n        \"Actionable_Suggestion\": \"恢复清屏按钮或提供替代交互方式\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_107\",\n        \"User_Pain_Point\": \"整体好评\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_109\",\n        \"User_Pain_Point\": \"喜欢更新\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 12,
+    "batch_ids": [
+      "com.xingin.xhs_hos_111",
+      "com.xingin.xhs_hos_112",
+      "com.xingin.xhs_hos_113",
+      "com.xingin.xhs_hos_114",
+      "com.xingin.xhs_hos_115",
+      "com.xingin.xhs_hos_116",
+      "com.xingin.xhs_hos_117",
+      "com.xingin.xhs_hos_118",
+      "com.xingin.xhs_hos_119",
+      "com.xingin.xhs_hos_120"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_111",
+        "content": "为什么每一次都要登陆",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_112",
+        "content": "鸿蒙6没有个人售卖",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.xingin.xhs_hos_113",
+        "content": "直播没有手游选项",
+        "device": "HUAWEI MatePad Mini 悦读版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_114",
+        "content": "看不到附件，无法下载附件",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_115",
+        "content": "什么时候群聊文件能正常显示",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.xingin.xhs_hos_116",
+        "content": "什么时候可以看到帖子中分享的文件啊！考试党很需要！",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_117",
+        "content": "没用几天就卡死了",
+        "device": "HUAWEI MatePad 11.5''S"
+      },
+      {
+        "id": "com.xingin.xhs_hos_118",
+        "content": "鸿蒙最新系统，什么时候才能打开评论区里的链接啊？！！！太影响使用感了！",
+        "device": "HUAWEI Pocket 2"
+      },
+      {
+        "id": "com.xingin.xhs_hos_119",
+        "content": "为什么鸿蒙系统6.0以上没有“点点”功能，强烈要求添加上",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_120",
+        "content": "不支持HDR",
+        "device": "HUAWEI Pura X 典藏版"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_111\",\n        \"User_Pain_Point\": \"每一次都要登陆\",\n        \"Actionable_Suggestion\": \"优化登录状态保持，避免每次重新登录\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_112\",\n        \"User_Pain_Point\": \"鸿蒙6没有个人售卖\",\n        \"Actionable_Suggestion\": \"增加个人售卖功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_113\",\n        \"User_Pain_Point\": \"直播没有手游选项\",\n        \"Actionable_Suggestion\": \"在直播中添加手游选项\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_114\",\n        \"User_Pain_Point\": \"看不到附件，无法下载附件\",\n        \"Actionable_Suggestion\": \"修复附件查看和下载功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_115\",\n        \"User_Pain_Point\": \"群聊文件不能正常显示\",\n        \"Actionable_Suggestion\": \"修复群聊文件显示功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_116\",\n        \"User_Pain_Point\": \"看不到帖子中分享的文件\",\n        \"Actionable_Suggestion\": \"支持帖子中文件的查看和下载\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_118\",\n        \"User_Pain_Point\": \"无法打开评论区里的链接\",\n        \"Actionable_Suggestion\": \"修复评论区链接打开功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_119\",\n        \"User_Pain_Point\": \"鸿蒙系统6.0以上没有“点点”功能\",\n        \"Actionable_Suggestion\": \"添加“点点”功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_120\",\n        \"User_Pain_Point\": \"不支持HDR\",\n        \"Actionable_Suggestion\": \"增加HDR支持\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_117\",\n        \"User_Pain_Point\": \"没用几天就卡死了\",\n        \"Actionable_Suggestion\": \"优化性能，修复卡死问题\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 13,
+    "batch_ids": [
+      "com.xingin.xhs_hos_121",
+      "com.xingin.xhs_hos_122",
+      "com.xingin.xhs_hos_123",
+      "com.xingin.xhs_hos_124",
+      "com.xingin.xhs_hos_125",
+      "com.xingin.xhs_hos_126",
+      "com.xingin.xhs_hos_127",
+      "com.xingin.xhs_hos_128",
+      "com.xingin.xhs_hos_129",
+      "com.xingin.xhs_hos_130"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_121",
+        "content": "什么时候更新“我的订单”",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_122",
+        "content": "太棒了。",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_123",
+        "content": "群话题什么时候更新啊，好影响使用",
+        "device": "HUAWEI Mate 70 Air"
+      },
+      {
+        "id": "com.xingin.xhs_hos_124",
+        "content": "缓存占用越来越多，而且不能自动清理缓存",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_125",
+        "content": "鸿蒙系统什么时候兼容到最新啊？现在博主发的链接商品都买不上",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_126",
+        "content": "搜索🔍功能有问题，搜出来总是出现重复的帖子",
+        "device": "HUAWEI Pura X 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_127",
+        "content": "小红书未成年模式打开关不上",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_128",
+        "content": "鸿蒙版本群打卡功能什么时候可以？满屏的当前版本暂不支持…",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_129",
+        "content": "更新完，怎么直播回放看不了了。",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_130",
+        "content": "发布页功能缺失的太多啊，能不能升级一下，或者弄一个卓易通版本",
+        "device": "HUAWEI Mate 80 Pro Max"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_121\",\n        \"User_Pain_Point\": \"缺少“我的订单”功能，用户无法查看订单信息。\",\n        \"Actionable_Suggestion\": \"尽快开发并上线“我的订单”功能。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_123\",\n        \"User_Pain_Point\": \"群话题功能缺失，影响使用体验。\",\n        \"Actionable_Suggestion\": \"更新并完善群话题功能。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_126\",\n        \"User_Pain_Point\": \"搜索功能出现重复帖子，影响搜索效率。\",\n        \"Actionable_Suggestion\": \"优化搜索算法，去除重复结果。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_127\",\n        \"User_Pain_Point\": \"未成年模式无法关闭，影响正常使用。\",\n        \"Actionable_Suggestion\": \"修复未成年模式切换bug，提供关闭选项。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_129\",\n        \"User_Pain_Point\": \"更新后直播回放功能无法观看。\",\n        \"Actionable_Suggestion\": \"修复直播回放功能，确保可用。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_130\",\n        \"User_Pain_Point\": \"发布页功能缺失太多，希望升级或提供卓易通版本。\",\n        \"Actionable_Suggestion\": \"升级发布页功能，补齐缺失项，或开发卓易通版本。\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_125\",\n        \"User_Pain_Point\": \"鸿蒙系统兼容性不足，导致博主链接商品无法购买。\",\n        \"Actionable_Suggestion\": \"加快鸿蒙系统适配，确保商品链接功能正常。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_128\",\n        \"User_Pain_Point\": \"鸿蒙版本群打卡功能不支持，显示“当前版本暂不支持”。\",\n        \"Actionable_Suggestion\": \"尽快适配鸿蒙系统，上线群打卡功能。\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_124\",\n        \"User_Pain_Point\": \"缓存占用越来越大，且不能自动清理。\",\n        \"Actionable_Suggestion\": \"增加缓存自动清理功能或提供手动清理选项，优化缓存管理。\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_122\",\n        \"User_Pain_Point\": \"用户对应用表示赞赏。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 14,
+    "batch_ids": [
+      "com.xingin.xhs_hos_131",
+      "com.xingin.xhs_hos_132",
+      "com.xingin.xhs_hos_133",
+      "com.xingin.xhs_hos_134",
+      "com.xingin.xhs_hos_135",
+      "com.xingin.xhs_hos_136",
+      "com.xingin.xhs_hos_137",
+      "com.xingin.xhs_hos_138",
+      "com.xingin.xhs_hos_139",
+      "com.xingin.xhs_hos_140"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_131",
+        "content": "啥时候更新个人售卖啊，看不到",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_132",
+        "content": "位置定位就位置定位要什么人脸识别",
+        "device": "HUAWEI Pura 80 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_133",
+        "content": "为什么我更新后领不了素材",
+        "device": "HUAWEI MatePad Air"
+      },
+      {
+        "id": "com.xingin.xhs_hos_134",
+        "content": "鸿蒙系统消息栏不能长按复制，可以更新版本吗？",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_135",
+        "content": "既然纯血鸿蒙系统上很多功能缺失，就放过我们，让我们自己搜索安装吧。\n作为每天使用小红书深度用户，在上海经常参加小红书线下活动的用户，负责任的说‪...",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_136",
+        "content": "分享微信又没有小卡片了？",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_137",
+        "content": "已经实名认证过了，但是一直显示未实名认证，要开播绘画却没有手游这个选项，现在用的是华为平板，已经提出了问题，但是一直没有给出解决办法‪...",
+        "device": "HUAWEI MatePad 11.5 S"
+      },
+      {
+        "id": "com.xingin.xhs_hos_138",
+        "content": "最近不流畅，老闪退，但是没有更新提示",
+        "device": "nova 14 Ultra"
+      },
+      {
+        "id": "com.xingin.xhs_hos_139",
+        "content": "什么时候可以点“好” 我很需要这个功能！还有侧边的点赞评论功能！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_140",
+        "content": "返回桌面后通知栏老显示小红书小红书音频任务正在运行的通知，下次更新优化一下",
+        "device": "HUAWEI Mate 80 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_131\",\n        \"User_Pain_Point\": \"个人售卖功能缺失或不可见，用户不知道何时更新\",\n        \"Actionable_Suggestion\": \"尽快上线个人售卖功能并优化显示\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_132\",\n        \"User_Pain_Point\": \"位置定位功能强制要求人脸识别，不合理\",\n        \"Actionable_Suggestion\": \"移除不必要的权限要求，或提供替代验证方式\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_133\",\n        \"User_Pain_Point\": \"更新后无法领取素材，功能异常\",\n        \"Actionable_Suggestion\": \"修复更新后素材领取功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_134\",\n        \"User_Pain_Point\": \"消息栏无法长按复制内容\",\n        \"Actionable_Suggestion\": \"增加通知栏长按复制功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_136\",\n        \"User_Pain_Point\": \"分享微信时小卡片功能缺失\",\n        \"Actionable_Suggestion\": \"修复分享微信小卡片功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_137\",\n        \"User_Pain_Point\": \"实名认证后系统仍显示未认证，状态不同步\",\n        \"Actionable_Suggestion\": \"修复实名认证状态同步逻辑\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_139\",\n        \"User_Pain_Point\": \"缺少“好”按钮和侧边点赞评论功能\",\n        \"Actionable_Suggestion\": \"增加“好”按钮交互和侧边点赞评论功能\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_135\",\n        \"User_Pain_Point\": \"纯血鸿蒙系统上功能缺失严重，用户希望允许自行搜索安装\",\n        \"Actionable_Suggestion\": \"完善系统功能兼容性，或开放第三方安装渠道\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_138\",\n        \"User_Pain_Point\": \"应用不流畅、频繁闪退，且无更新提示\",\n        \"Actionable_Suggestion\": \"优化性能，修复闪退问题，并及时推送更新\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_140\",\n        \"User_Pain_Point\": \"返回桌面后通知栏常驻音频任务通知，干扰用户\",\n        \"Actionable_Suggestion\": \"优化后台音频任务通知显示，避免常驻通知\"\n      }\n    ]\n  },\n  \"内容生态\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_137\",\n        \"User_Pain_Point\": \"开播绘画时缺少“手游”选项\",\n        \"Actionable_Suggestion\": \"增加“手游”开播分类选项\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  },\n  \"运营与规则\": {\n    \"Negative\": [],\n    \"Positive\": [],\n    \"Neutral\": []\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 15,
+    "batch_ids": [
+      "com.xingin.xhs_hos_141",
+      "com.xingin.xhs_hos_142",
+      "com.xingin.xhs_hos_143",
+      "com.xingin.xhs_hos_144",
+      "com.xingin.xhs_hos_145",
+      "com.xingin.xhs_hos_146",
+      "com.xingin.xhs_hos_147",
+      "com.xingin.xhs_hos_148",
+      "com.xingin.xhs_hos_149",
+      "com.xingin.xhs_hos_150"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_141",
+        "content": "发布页没有合集了，也没有高清发布。搜索筛选不了未看笔记，而且无关笔记太多了。点开图片，双击不是放大是点赞？？",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_142",
+        "content": "没法清理数据清理缓存，永远显示为0",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_143",
+        "content": "最近运行卡顿，多次闪退。。。",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_144",
+        "content": "小红书非常棒。好的不能再好了！",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.xingin.xhs_hos_145",
+        "content": "挺好看的。",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_146",
+        "content": "实况没声音实况没声音",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_147",
+        "content": "棒棒的呀，才申诉没半小时，已经给出答复了，况且人工服务态度很好，爱你爱你爱你小红书",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.xingin.xhs_hos_148",
+        "content": "莫名其妙给我封号哈，现在另一个账号也不让我用",
+        "device": "nova 14 Ultra"
+      },
+      {
+        "id": "com.xingin.xhs_hos_149",
+        "content": "发图文很多功能没有",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_150",
+        "content": "笔记下方个人售卖链接看不到，可以尽快更新吗",
+        "device": "HUAWEI Pura 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_141\",\n        \"User_Pain_Point\": \"发布页没有合集了\",\n        \"Actionable_Suggestion\": \"增加合集功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_141\",\n        \"User_Pain_Point\": \"没有高清发布\",\n        \"Actionable_Suggestion\": \"增加高清发布选项\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_141\",\n        \"User_Pain_Point\": \"搜索筛选不了未看笔记\",\n        \"Actionable_Suggestion\": \"增加按未看筛选功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_142\",\n        \"User_Pain_Point\": \"没法清理数据清理缓存，永远显示为0\",\n        \"Actionable_Suggestion\": \"修复缓存清理功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_146\",\n        \"User_Pain_Point\": \"实况没声音\",\n        \"Actionable_Suggestion\": \"修复实况照片声音问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_149\",\n        \"User_Pain_Point\": \"发图文很多功能没有\",\n        \"Actionable_Suggestion\": \"补充发图文缺失的功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_150\",\n        \"User_Pain_Point\": \"笔记下方个人售卖链接看不到\",\n        \"Actionable_Suggestion\": \"修复售卖链接显示问题\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_141\",\n        \"User_Pain_Point\": \"点开图片，双击不是放大是点赞\",\n        \"Actionable_Suggestion\": \"将双击手势改为放大\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_143\",\n        \"User_Pain_Point\": \"最近运行卡顿，多次闪退\",\n        \"Actionable_Suggestion\": \"优化性能和稳定性\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_148\",\n        \"User_Pain_Point\": \"莫名其妙给我封号哈，现在另一个账号也不让我用\",\n        \"Actionable_Suggestion\": \"优化封号机制，提供申诉渠道\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_147\",\n        \"User_Pain_Point\": \"才申诉没半小时，已经给出答复了，况且人工服务态度很好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_144\",\n        \"User_Pain_Point\": \"小红书非常棒。好的不能再好了！\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_145\",\n        \"User_Pain_Point\": \"挺好看的。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"内容生态\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_141\",\n        \"User_Pain_Point\": \"无关笔记太多了\",\n        \"Actionable_Suggestion\": \"优化推荐算法，减少无关内容\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 16,
+    "batch_ids": [
+      "com.xingin.xhs_hos_151",
+      "com.xingin.xhs_hos_152",
+      "com.xingin.xhs_hos_153",
+      "com.xingin.xhs_hos_154",
+      "com.xingin.xhs_hos_155",
+      "com.xingin.xhs_hos_156",
+      "com.xingin.xhs_hos_157",
+      "com.xingin.xhs_hos_158",
+      "com.xingin.xhs_hos_159",
+      "com.xingin.xhs_hos_160"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_151",
+        "content": "鬼东西，乱封我号",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.xingin.xhs_hos_152",
+        "content": "乱改平板端的界面干什么，难看死了",
+        "device": "HUAWEI MatePad Mini 悦读版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_153",
+        "content": "能不能修复一下呀？编辑内容老有问题我在第三行打字，老跑到第二行，打标签的时候也会有问题，不知道为什么。尽快修复呀。",
+        "device": "HUAWEI Pura 80 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_154",
+        "content": "更新了很多回了，小红书认证的蓝V不显示！也没有专业号的栏目！完全把我们创作者排除在外了吗？",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_155",
+        "content": "鸿蒙版小红书，什么时候支持4K视频选项呀？",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_156",
+        "content": "私信发不了图片了为什么评论也发不了图片",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.xingin.xhs_hos_157",
+        "content": "交到了很好的朋友，也吸取到了很多教训",
+        "device": "HUAWEI MatePad 11.5\"S 灵动款"
+      },
+      {
+        "id": "com.xingin.xhs_hos_158",
+        "content": "历史记录默认是关闭的",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_159",
+        "content": "直播完全不行，客服完全给不了正常答案。我的要求是他完全进行不了除了人脸直播以外的任何直播，这个客服一直在说我在使用内测版。？",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_160",
+        "content": "小红书千帆更新一下，已经4个月没更新了！！！！！！！！！！\n快点更新",
+        "device": "nova 14 Ultra"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_153\",\n        \"User_Pain_Point\": \"编辑内容时光标跳跃，在第三行打字跑到第二行，打标签也有问题\",\n        \"Actionable_Suggestion\": \"修复编辑时光标跳跃和标签异常问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_154\",\n        \"User_Pain_Point\": \"认证蓝V不显示，没有专业号栏目，创作者功能缺失\",\n        \"Actionable_Suggestion\": \"增加蓝V显示和专业号栏目\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_155\",\n        \"User_Pain_Point\": \"不支持4K视频选项\",\n        \"Actionable_Suggestion\": \"增加4K视频上传选项\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_156\",\n        \"User_Pain_Point\": \"私信和评论发送图片功能失效\",\n        \"Actionable_Suggestion\": \"修复私信和评论中图片发送功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_159\",\n        \"User_Pain_Point\": \"直播功能严重受限，除人脸直播外其他直播无法进行\",\n        \"Actionable_Suggestion\": \"完善直播功能，支持多种直播模式\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_160\",\n        \"User_Pain_Point\": \"小红书千帆功能超过4个月未更新\",\n        \"Actionable_Suggestion\": \"加快千帆功能更新频率\"\n      }\n    ],\n    \"Neutral\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_158\",\n        \"User_Pain_Point\": \"历史记录默认关闭，用户可能需要手动开启\",\n        \"Actionable_Suggestion\": \"考虑默认开启历史记录或提供首次引导\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_152\",\n        \"User_Pain_Point\": \"平板端界面改版难看\",\n        \"Actionable_Suggestion\": \"重新评估平板端UI改版，参考用户意见优化设计\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_151\",\n        \"User_Pain_Point\": \"账号被乱封\",\n        \"Actionable_Suggestion\": \"优化封号机制，减少误封，增加申诉渠道\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_159\",\n        \"User_Pain_Point\": \"客服未能提供有效解决方案，推诿为内测版问题\",\n        \"Actionable_Suggestion\": \"加强客服培训，提升问题处理能力，明确版本支持范围\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_157\",\n        \"User_Pain_Point\": \"用户交到好友并学到教训，整体体验良好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 17,
+    "batch_ids": [
+      "com.xingin.xhs_hos_161",
+      "com.xingin.xhs_hos_162",
+      "com.xingin.xhs_hos_163",
+      "com.xingin.xhs_hos_164",
+      "com.xingin.xhs_hos_165",
+      "com.xingin.xhs_hos_166",
+      "com.xingin.xhs_hos_167",
+      "com.xingin.xhs_hos_168",
+      "com.xingin.xhs_hos_169",
+      "com.xingin.xhs_hos_170"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_161",
+        "content": "不能开通橱窗，说鸿蒙不支持，发文不能艾特！！！！！！很鸡肋",
+        "device": "HUAWEI Pura X 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_162",
+        "content": "实况图声音麻烦搞快点谢谢！还有最近几个版本为什么评论点赞推送都不及时啊？几个小时以后才有提示",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_163",
+        "content": "更新的是真的快，但是这次更新的调节音量跟亮度没有用啊，试了视频横屏怎么调节呢",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_164",
+        "content": "为什么评论看不到图片了",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.xingin.xhs_hos_165",
+        "content": "看不到评论的图片了！！！！！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_166",
+        "content": "鸿蒙系统看不到评论区图",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_167",
+        "content": "更新之后看不了评论区的图片了",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_168",
+        "content": "小红书真的非常好。",
+        "device": "nova Flip"
+      },
+      {
+        "id": "com.xingin.xhs_hos_169",
+        "content": "更新完评论区表情包看不到了，只显示一个转圈刷新图标",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_170",
+        "content": "为啥我鸿蒙系统上的小红书看不到人家发的售卖链接？？？",
+        "device": "nova 15"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_161\",\n        \"User_Pain_Point\": \"不能开通橱窗，说鸿蒙不支持\",\n        \"Actionable_Suggestion\": \"支持鸿蒙系统开通橱窗功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_161\",\n        \"User_Pain_Point\": \"发文不能艾特\",\n        \"Actionable_Suggestion\": \"修复发文艾特功能，使其在鸿蒙系统上可用\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_162\",\n        \"User_Pain_Point\": \"实况图声音功能开发慢\",\n        \"Actionable_Suggestion\": \"加快实况图声音功能的上线速度\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_162\",\n        \"User_Pain_Point\": \"评论点赞推送不及时，几个小时以后才有提示\",\n        \"Actionable_Suggestion\": \"优化评论点赞推送的及时性，减少延迟\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_163\",\n        \"User_Pain_Point\": \"调节音量与亮度功能无效，视频横屏无法调节\",\n        \"Actionable_Suggestion\": \"修复调节音量与亮度功能的bug，确保横屏下可用\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_164\",\n        \"User_Pain_Point\": \"评论看不到图片\",\n        \"Actionable_Suggestion\": \"修复评论中图片显示的问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_165\",\n        \"User_Pain_Point\": \"看不到评论的图片\",\n        \"Actionable_Suggestion\": \"修复评论中图片显示的问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_167\",\n        \"User_Pain_Point\": \"更新之后看不了评论区的图片\",\n        \"Actionable_Suggestion\": \"修复更新后评论区图片无法显示的问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_169\",\n        \"User_Pain_Point\": \"更新完评论区表情包看不到，只显示转圈刷新图标\",\n        \"Actionable_Suggestion\": \"修复评论区表情包显示异常的问题\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_166\",\n        \"User_Pain_Point\": \"鸿蒙系统看不到评论区图\",\n        \"Actionable_Suggestion\": \"适配鸿蒙系统，修复评论区图片显示问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_170\",\n        \"User_Pain_Point\": \"鸿蒙系统上看不到售卖链接\",\n        \"Actionable_Suggestion\": \"适配鸿蒙系统，支持售卖链接的显示和跳转\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_168\",\n        \"User_Pain_Point\": \"小红书真的非常好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 18,
+    "batch_ids": [
+      "com.xingin.xhs_hos_171",
+      "com.xingin.xhs_hos_172",
+      "com.xingin.xhs_hos_173",
+      "com.xingin.xhs_hos_174",
+      "com.xingin.xhs_hos_175",
+      "com.xingin.xhs_hos_176",
+      "com.xingin.xhs_hos_177",
+      "com.xingin.xhs_hos_178",
+      "com.xingin.xhs_hos_179",
+      "com.xingin.xhs_hos_180"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_171",
+        "content": "评论看不了图片！！",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_172",
+        "content": "昨天更新以后很多图片看不到了，快修复bug",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_173",
+        "content": "特别好但是官方你能不能代搬运工如初！",
+        "device": "HUAWEI MatePad Mini 悦读版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_174",
+        "content": "为什么我一点私信和评论通知都收不到",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_175",
+        "content": "星标提示功能什么时候开 耽误事啊",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_176",
+        "content": "评论区的图片看不了",
+        "device": "nova 14 活力版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_177",
+        "content": "点进去不显示图片",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_178",
+        "content": "鸿蒙版本看不到问一问，也不能@问一问😭😭😭😭",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.xingin.xhs_hos_179",
+        "content": "更新之后 点开帖子 第一张图片无法显示",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_180",
+        "content": "该版本还是不支持对方发来的卡片信息吗？",
+        "device": "HUAWEI Mate 60 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_171\",\n        \"User_Pain_Point\": \"评论看不了图片\",\n        \"Actionable_Suggestion\": \"优化图片加载功能，确保评论图片正常显示\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_173\",\n        \"User_Pain_Point\": \"官方不能恢复搬运工功能\",\n        \"Actionable_Suggestion\": \"恢复或改进搬运工功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_174\",\n        \"User_Pain_Point\": \"收不到私信和评论通知\",\n        \"Actionable_Suggestion\": \"优化通知推送机制，确保用户能收到私信和评论通知\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_175\",\n        \"User_Pain_Point\": \"星标提示功能未开放，耽误事\",\n        \"Actionable_Suggestion\": \"尽快上线星标提示功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_176\",\n        \"User_Pain_Point\": \"评论区的图片看不了\",\n        \"Actionable_Suggestion\": \"修复评论区图片加载问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_177\",\n        \"User_Pain_Point\": \"点进去不显示图片\",\n        \"Actionable_Suggestion\": \"修复图片显示问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_178\",\n        \"User_Pain_Point\": \"鸿蒙版本看不到问一问，也不能@问一问\",\n        \"Actionable_Suggestion\": \"尽快在鸿蒙版本中适配问一问功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_180\",\n        \"User_Pain_Point\": \"不支持对方发来的卡片信息\",\n        \"Actionable_Suggestion\": \"增加对卡片信息的支持\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_172\",\n        \"User_Pain_Point\": \"更新后很多图片看不到了，bug\",\n        \"Actionable_Suggestion\": \"修复更新导致的图片显示问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_179\",\n        \"User_Pain_Point\": \"更新后点开帖子第一张图片无法显示\",\n        \"Actionable_Suggestion\": \"修复更新导致的图片显示bug\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_173\",\n        \"User_Pain_Point\": \"特别好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 19,
+    "batch_ids": [
+      "com.xingin.xhs_hos_181",
+      "com.xingin.xhs_hos_182",
+      "com.xingin.xhs_hos_183",
+      "com.xingin.xhs_hos_184",
+      "com.xingin.xhs_hos_185",
+      "com.xingin.xhs_hos_186",
+      "com.xingin.xhs_hos_187",
+      "com.xingin.xhs_hos_188",
+      "com.xingin.xhs_hos_189",
+      "com.xingin.xhs_hos_190"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_181",
+        "content": "竖屏终于适配了",
+        "device": "HUAWEI MatePad Mini 悦读版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_182",
+        "content": "更新后评论图片加载不出来",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_183",
+        "content": "随意限流，工作人员严重不负责，本身是非常好的软件。希望公司高层引起重视",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_184",
+        "content": "最新版本更新了以后，横屏视频状态下还是无法用手势调节音量和亮度",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_185",
+        "content": "不错呢！",
+        "device": "HUAWEI MatePad 11.5 S 活力版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_186",
+        "content": "带话题的问题什么时候修复啊？",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_187",
+        "content": "横竖屏旋转不能跟随系统设定，希望尽快改善！",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_188",
+        "content": "什么时候鸿蒙系统可以在小红书群内打卡？求更新",
+        "device": "nova 15 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_189",
+        "content": "心愿单在哪里啊？😭😭",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_190",
+        "content": "适配速度真快，适配度所有系统使用最佳的，认真用心，上心，认真对待消费者，点赞，本来不怎么玩小红书的，看到这么认真的企业下载支持一下吧。",
+        "device": "nova 14"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_182\",\n        \"User_Pain_Point\": \"更新后评论图片加载不出来\",\n        \"Actionable_Suggestion\": \"修复评论图片加载问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_184\",\n        \"User_Pain_Point\": \"横屏视频状态下无法用手势调节音量和亮度\",\n        \"Actionable_Suggestion\": \"横屏视频状态添加手势调节音量和亮度功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_186\",\n        \"User_Pain_Point\": \"带话题的问题未修复\",\n        \"Actionable_Suggestion\": \"修复发布内容带话题的功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_187\",\n        \"User_Pain_Point\": \"横竖屏旋转不能跟随系统设定\",\n        \"Actionable_Suggestion\": \"实现横竖屏旋转跟随系统设定\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_181\",\n        \"User_Pain_Point\": \"竖屏终于适配了\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Neutral\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_188\",\n        \"User_Pain_Point\": \"希望在鸿蒙系统小红书群内打卡\",\n        \"Actionable_Suggestion\": \"考虑增加鸿蒙系统小红书群内打卡功能\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_183\",\n        \"User_Pain_Point\": \"随意限流，工作人员严重不负责\",\n        \"Actionable_Suggestion\": \"优化限流机制，加强工作人员培训与问责\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_189\",\n        \"User_Pain_Point\": \"心愿单找不到入口\",\n        \"Actionable_Suggestion\": \"优化心愿单入口，使其更易发现\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_190\",\n        \"User_Pain_Point\": \"适配速度快，适配度最佳，认真用心\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_185\",\n        \"User_Pain_Point\": \"不错呢！\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 20,
+    "batch_ids": [
+      "com.xingin.xhs_hos_191",
+      "com.xingin.xhs_hos_192",
+      "com.xingin.xhs_hos_193",
+      "com.xingin.xhs_hos_194",
+      "com.xingin.xhs_hos_195",
+      "com.xingin.xhs_hos_196",
+      "com.xingin.xhs_hos_197",
+      "com.xingin.xhs_hos_198",
+      "com.xingin.xhs_hos_199",
+      "com.xingin.xhs_hos_200"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_191",
+        "content": "什么时候更新 全屏图发布？",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_192",
+        "content": "能不能不让他们注册盗墓笔记命名的群和个人，还有关于发盗墓笔记的视频",
+        "device": "nova 14 活力版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_193",
+        "content": "为什么还能打上一颗星😅\n如果可以我愿给你负一万\n被吞赞，笔记发不成功，申诉是车轱辘话\n等回答是48小时内给你回复检测没有问‪...",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_194",
+        "content": "啥时候可以发长文啊，1000字限制的太难受了",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_195",
+        "content": "标签使用有问题，输入的时候打的字又看不见",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_196",
+        "content": "努力",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.xingin.xhs_hos_197",
+        "content": "没有卫生巾卖，歧视女性！",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_198",
+        "content": "小红书店铺领不了优惠券！真金白银的损失啊！",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_199",
+        "content": "能不能把我说的这个快点更新。关注的人改个备注还得一个个找，搜索到了改不了备注，几百个人里面找。",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_200",
+        "content": "分享生成图片不显示时间，无法直接转发，需要保存图片",
+        "device": "nova 14"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_191\",\n        \"User_Pain_Point\": \"用户希望发布全屏图，但当前版本不支持该功能。\",\n        \"Actionable_Suggestion\": \"增加全屏图发布功能，允许用户上传和发布全屏尺寸的图片。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_194\",\n        \"User_Pain_Point\": \"笔记发布有1000字限制，用户希望发布长文。\",\n        \"Actionable_Suggestion\": \"提高笔记字数限制，或提供长文发布模式（如展开全文）。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_197\",\n        \"User_Pain_Point\": \"用户反映平台没有卫生巾等女性用品售卖，认为存在性别歧视。\",\n        \"Actionable_Suggestion\": \"引入卫生巾等女性必需品品类，丰富商品种类，避免歧视。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_199\",\n        \"User_Pain_Point\": \"无法搜索关注人并直接修改备注，需要在列表逐一查找。\",\n        \"Actionable_Suggestion\": \"在关注列表增加搜索功能，支持直接修改备注名称。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_200\",\n        \"User_Pain_Point\": \"分享生成的图片不显示时间，且无法直接转发，需先保存图片。\",\n        \"Actionable_Suggestion\": \"优化分享功能：生成图片时包含时间戳，并支持一键转发到其他平台。\"\n      }\n    ]\n  },\n  \"内容生态\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_192\",\n        \"User_Pain_Point\": \"存在盗墓笔记相关侵权群组、个人及视频内容，影响正版权益。\",\n        \"Actionable_Suggestion\": \"加强内容审核，对侵权内容（如盗墓笔记）进行封禁，并阻止相关注册。\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_193\",\n        \"User_Pain_Point\": \"出现被吞赞、笔记发布不成功的故障。\",\n        \"Actionable_Suggestion\": \"排查并修复点赞计数和笔记发布功能的异常，确保数据准确和发布稳定。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_198\",\n        \"User_Pain_Point\": \"小红书店铺无法领取优惠券，造成经济损失。\",\n        \"Actionable_Suggestion\": \"修复优惠券领取功能的bug，确保用户能正常领取和使用优惠券。\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_193\",\n        \"User_Pain_Point\": \"申诉回复是车轱辘话，且需等待48小时，问题未解决。\",\n        \"Actionable_Suggestion\": \"优化申诉流程，提供更精准的反馈和更高效的解决方案，减少机械回复。\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_195\",\n        \"User_Pain_Point\": \"输入标签时，打的字被遮挡看不见。\",\n        \"Actionable_Suggestion\": \"调整标签输入框的UI，确保输入内容完全可见，避免遮挡。\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 21,
+    "batch_ids": [
+      "com.xingin.xhs_hos_201",
+      "com.xingin.xhs_hos_202",
+      "com.xingin.xhs_hos_203",
+      "com.xingin.xhs_hos_204",
+      "com.xingin.xhs_hos_205",
+      "com.xingin.xhs_hos_206",
+      "com.xingin.xhs_hos_207",
+      "com.xingin.xhs_hos_208",
+      "com.xingin.xhs_hos_209",
+      "com.xingin.xhs_hos_210"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_201",
+        "content": "最近版本更新以后，进小红书看不到人家回复我的评论了",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_202",
+        "content": "发帖的时候点tag乱跳格式，手打tag跳不出联想",
+        "device": "HUAWEI Pura 80 Ultra"
+      },
+      {
+        "id": "com.xingin.xhs_hos_203",
+        "content": "更新完发帖都不能正常引出话题了，客服还解决不了",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.xingin.xhs_hos_204",
+        "content": "求快更新鸿蒙系统版缺失的功能：进度条+时间点一键传送；筛选区分已读和未读……",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_205",
+        "content": "很多功能相比安卓版本少了很多，而且不能发送长文，有的时候话题插入会跑偏吗，不好用还不能装卓易通版本，糟心",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_206",
+        "content": "直播回放呀，一直不能全屏播放，甚至画面也是不全的",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_207",
+        "content": "群内分享的资料无法显示",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_208",
+        "content": "我啥都没干就说我违规 然后就给我锁上了 我真挺不理解的",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.xingin.xhs_hos_209",
+        "content": "还可以，就是有点bug",
+        "device": "HUAWEI MatePad Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_210",
+        "content": "一天三更新，爱你呦",
+        "device": "HUAWEI Mate 80 Pro Max"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_201\",\n        \"User_Pain_Point\": \"看不到别人回复我的评论\",\n        \"Actionable_Suggestion\": \"修复评论回复通知或显示问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_202\",\n        \"User_Pain_Point\": \"发帖时点tag乱跳格式，手打tag跳不出联想\",\n        \"Actionable_Suggestion\": \"优化tag编辑功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_203\",\n        \"User_Pain_Point\": \"发帖不能正常引出话题，客服解决不了\",\n        \"Actionable_Suggestion\": \"修复话题引出功能并改善客服\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_204\",\n        \"User_Pain_Point\": \"缺失进度条、时间点一键传送、筛选已读未读等功能\",\n        \"Actionable_Suggestion\": \"增加进度条、时间点传送、已读未读筛选功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_205\",\n        \"User_Pain_Point\": \"很多功能相比安卓版本少了很多\",\n        \"Actionable_Suggestion\": \"补充缺失功能，缩小与安卓版差距\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_205\",\n        \"User_Pain_Point\": \"不能发送长文\",\n        \"Actionable_Suggestion\": \"支持发送长文内容\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_205\",\n        \"User_Pain_Point\": \"话题插入会跑偏\",\n        \"Actionable_Suggestion\": \"修复话题插入功能，确保位置正确\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_206\",\n        \"User_Pain_Point\": \"直播回放不能全屏播放，画面不全\",\n        \"Actionable_Suggestion\": \"优化直播回放全屏和画面显示\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_207\",\n        \"User_Pain_Point\": \"群内分享的资料无法显示\",\n        \"Actionable_Suggestion\": \"修复群内资料显示问题\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_205\",\n        \"User_Pain_Point\": \"不能装卓易通版本\",\n        \"Actionable_Suggestion\": \"允许安装卓易通或提供替代兼容方案\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_209\",\n        \"User_Pain_Point\": \"存在一些bug\",\n        \"Actionable_Suggestion\": \"修复已知bug，提升稳定性\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_208\",\n        \"User_Pain_Point\": \"无故被判定违规并锁定账号\",\n        \"Actionable_Suggestion\": \"优化违规判定机制，增加申诉渠道\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_210\",\n        \"User_Pain_Point\": \"一天三更新，更新频繁\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 22,
+    "batch_ids": [
+      "com.xingin.xhs_hos_211",
+      "com.xingin.xhs_hos_212",
+      "com.xingin.xhs_hos_213",
+      "com.xingin.xhs_hos_214",
+      "com.xingin.xhs_hos_215",
+      "com.xingin.xhs_hos_216",
+      "com.xingin.xhs_hos_217",
+      "com.xingin.xhs_hos_218",
+      "com.xingin.xhs_hos_219",
+      "com.xingin.xhs_hos_220"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_211",
+        "content": "很流畅",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_212",
+        "content": "鸿蒙系统的小红书，把关注界面顶上显示的关注博主调回来啊，还有每条笔记的时间也不展示，阉割了好多功能啊",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_213",
+        "content": "小红书很好不错的平台，",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_214",
+        "content": "推送了几个版本，发布的笔记一直吞标签，怎么打都打不上去 添加#也不行，赶紧修复吧，已经持续好久了这bug",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.xingin.xhs_hos_215",
+        "content": "非常好",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_216",
+        "content": "没有负分，不然真的想给评负一万分！\n不要再推送不喜欢的笔记和作者\n1.添加了话题以后阅读量比没有话题更少\n2.不喜欢的笔记，不喜欢的作者重复推‪...",
+        "device": "HUAWEI Mate 60 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_217",
+        "content": "有时候向右划图片会划到博主主页，其它系统没有这个问题",
+        "device": "HUAWEI Pura 80 Ultra"
+      },
+      {
+        "id": "com.xingin.xhs_hos_218",
+        "content": "流量是一点不给",
+        "device": "nova 13 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_219",
+        "content": "你是很good的好吧",
+        "device": "HUAWEI MatePad 11.5 S"
+      },
+      {
+        "id": "com.xingin.xhs_hos_220",
+        "content": "小红书，YYDS",
+        "device": "HUAWEI Pura 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_212\",\n        \"User_Pain_Point\": \"关注界面顶上显示的关注博主被移除，每条笔记的时间也不展示。\",\n        \"Actionable_Suggestion\": \"恢复关注界面顶端显示关注的博主列表，并重新展示每条笔记的发布时间。\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_211\",\n        \"User_Pain_Point\": \"评论指出应用运行很流畅。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ],\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_214\",\n        \"User_Pain_Point\": \"发布的笔记一直吞标签，无法正常添加话题标签，该bug持续多个版本未修复。\",\n        \"Actionable_Suggestion\": \"立即定位并修复标签输入与保存的bug，确保添加功能正常。\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_217\",\n        \"User_Pain_Point\": \"向右划图片时容易误触划到博主主页，其他系统无此问题。\",\n        \"Actionable_Suggestion\": \"优化图片滑动交互，增加防误触机制或调整触发区域，避免与跳转博主主页的手势冲突。\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_216\",\n        \"User_Pain_Point\": \"推送不喜欢的笔记和作者，且添加话题后阅读量反而更少。\",\n        \"Actionable_Suggestion\": \"改进推荐算法，减少重复推荐不感兴趣内容，同时优化话题流量分配机制。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_216\",\n        \"User_Pain_Point\": \"系统持续推送不喜欢的笔记和作者。\",\n        \"Actionable_Suggestion\": \"增加“不感兴趣”反馈的权重，减少同类内容推荐。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_218\",\n        \"User_Pain_Point\": \"平台不给予流量，笔记几乎没有曝光。\",\n        \"Actionable_Suggestion\": \"优化流量分配策略，确保优质内容获得合理推荐，减少对特定内容的限流。\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_213\",\n        \"User_Pain_Point\": \"用户对小红书平台表示赞赏，认为是一个很好的平台。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_215\",\n        \"User_Pain_Point\": \"用户给予高度评价“非常好”。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_219\",\n        \"User_Pain_Point\": \"用户称赞“你是很good的好吧”。\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_220\",\n        \"User_Pain_Point\": \"用户称“小红书，YYDS”。\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 23,
+    "batch_ids": [
+      "com.xingin.xhs_hos_221",
+      "com.xingin.xhs_hos_222",
+      "com.xingin.xhs_hos_223",
+      "com.xingin.xhs_hos_224",
+      "com.xingin.xhs_hos_225",
+      "com.xingin.xhs_hos_226",
+      "com.xingin.xhs_hos_227",
+      "com.xingin.xhs_hos_228",
+      "com.xingin.xhs_hos_229",
+      "com.xingin.xhs_hos_230"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_221",
+        "content": "鸿蒙版推送是真积极比那破微信平凡多了",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_222",
+        "content": "什么时候更新到可以看个人售卖？分享的文件也下载不了",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_223",
+        "content": "需要修复的多了！直播间商品都不能点一键求讲解了，正常的功能少的还很多！",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_224",
+        "content": "用小红书发帖子，编辑文案加入话题的时候，话题会莫名其妙插入随机的文案中间，很不方便",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_225",
+        "content": "鸿蒙版小红书缺失以下功能\n1.没有心愿单\n2笔记带的文件不能查看\n3没有评论记录‪...",
+        "device": "HUAWEI Mate 70"
+      },
+      {
+        "id": "com.xingin.xhs_hos_226",
+        "content": "横屏播放视频的时候，不能翻页啊，而且还不能看评论",
+        "device": "HUAWEI Mate 70 Air"
+      },
+      {
+        "id": "com.xingin.xhs_hos_227",
+        "content": "鸿蒙每次都赶不上热门活动，能不能有活动同步更新啊！！！现在那个群里打卡就还没更上来，快更快更吧！球球了！！！！",
+        "device": "HUAWEI Pura X 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_228",
+        "content": "还挺好的，就是直播连不了线😭气死我了",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_229",
+        "content": "华为Mate 80看不到个人售卖商品，商家店铺无法查看店铺个人售卖管理",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_230",
+        "content": "点“好”功能为什么还没上线？快快快，我非常需要我欣赏的笔记，快速扩散！！！",
+        "device": "HUAWEI Mate 80 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_222\",\n        \"User_Pain_Point\": \"无法查看个人售卖商品\",\n        \"Actionable_Suggestion\": \"增加个人售卖商品查看功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_222\",\n        \"User_Pain_Point\": \"分享的文件无法下载\",\n        \"Actionable_Suggestion\": \"修复文件下载功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_223\",\n        \"User_Pain_Point\": \"直播间商品不能点一键求讲解\",\n        \"Actionable_Suggestion\": \"添加一键求讲解功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_223\",\n        \"User_Pain_Point\": \"正常功能缺失较多\",\n        \"Actionable_Suggestion\": \"增加更多常用功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_224\",\n        \"User_Pain_Point\": \"发帖时话题会插入到文案中间\",\n        \"Actionable_Suggestion\": \"修复话题插入位置逻辑\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_225\",\n        \"User_Pain_Point\": \"没有心愿单功能\",\n        \"Actionable_Suggestion\": \"添加心愿单功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_225\",\n        \"User_Pain_Point\": \"笔记带的文件不能查看\",\n        \"Actionable_Suggestion\": \"支持笔记内的文件查看\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_225\",\n        \"User_Pain_Point\": \"没有评论记录功能\",\n        \"Actionable_Suggestion\": \"增加评论记录查看功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_226\",\n        \"User_Pain_Point\": \"横屏播放视频时不能翻页\",\n        \"Actionable_Suggestion\": \"优化横屏模式下的翻页交互\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_226\",\n        \"User_Pain_Point\": \"横屏播放视频时不能看评论\",\n        \"Actionable_Suggestion\": \"横屏模式下支持评论展示\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_228\",\n        \"User_Pain_Point\": \"直播无法连线\",\n        \"Actionable_Suggestion\": \"修复直播连线功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_229\",\n        \"User_Pain_Point\": \"看不到个人售卖商品及管理\",\n        \"Actionable_Suggestion\": \"增加个人售卖商品查看和管理功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_230\",\n        \"User_Pain_Point\": \"点“好”功能未上线\",\n        \"Actionable_Suggestion\": \"尽快上线点“好”功能\"\n      }\n    ],\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_221\",\n        \"User_Pain_Point\": \"推送通知积极及时\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_227\",\n        \"User_Pain_Point\": \"热门活动更新滞后，群打卡功能未上线\",\n        \"Actionable_Suggestion\": \"加快活动同步与功能上线速度\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_228\",\n        \"User_Pain_Point\": \"整体使用感受良好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 24,
+    "batch_ids": [
+      "com.xingin.xhs_hos_231",
+      "com.xingin.xhs_hos_232",
+      "com.xingin.xhs_hos_233",
+      "com.xingin.xhs_hos_234",
+      "com.xingin.xhs_hos_235",
+      "com.xingin.xhs_hos_236",
+      "com.xingin.xhs_hos_237",
+      "com.xingin.xhs_hos_238",
+      "com.xingin.xhs_hos_239",
+      "com.xingin.xhs_hos_240"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_231",
+        "content": "笔记加不了话题",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_232",
+        "content": "更新了购物链接没了",
+        "device": "HUAWEI Pura 80 Ultra"
+      },
+      {
+        "id": "com.xingin.xhs_hos_233",
+        "content": "关注话题不显示",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_234",
+        "content": "快点更新吧 帖子可以带文件这个功能很需要。。。",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.xingin.xhs_hos_235",
+        "content": "直播间弹幕延迟超级超级超级超级超级严重！！！！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_236",
+        "content": "需要搜索热榜需要搜索热榜需要搜索热榜需要搜索热榜。",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_237",
+        "content": "群聊设置不了管理员",
+        "device": "HUAWEI MatePad 11.5 S 活力版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_238",
+        "content": "小红书真的超级好用，非常非常推荐😄",
+        "device": "HUAWEI MatePad 11.5 S"
+      },
+      {
+        "id": "com.xingin.xhs_hos_239",
+        "content": "新建笔记时不推荐标签了",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_240",
+        "content": "鸿蒙6的版本为什么无法编辑话题",
+        "device": "HUAWEI Mate 60 Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_231\",\n        \"User_Pain_Point\": \"笔记加不了话题\",\n        \"Actionable_Suggestion\": \"修复话题添加功能，确保用户可以在发布笔记时正常添加话题。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_232\",\n        \"User_Pain_Point\": \"更新后购物链接消失\",\n        \"Actionable_Suggestion\": \"恢复购物链接功能，检查更新带来的兼容性问题。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_233\",\n        \"User_Pain_Point\": \"关注话题不显示\",\n        \"Actionable_Suggestion\": \"修复关注话题的显示问题，确保用户关注的话题能正常展示。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_234\",\n        \"User_Pain_Point\": \"缺少帖子带文件功能\",\n        \"Actionable_Suggestion\": \"增加帖子带文件的功能，满足用户分享文件的需求。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_236\",\n        \"User_Pain_Point\": \"缺少搜索热榜功能\",\n        \"Actionable_Suggestion\": \"增加搜索热榜功能，提升内容发现效率。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_237\",\n        \"User_Pain_Point\": \"群聊设置不了管理员\",\n        \"Actionable_Suggestion\": \"增加群聊管理员设置功能，完善群组管理能力。\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_239\",\n        \"User_Pain_Point\": \"新建笔记时不推荐标签\",\n        \"Actionable_Suggestion\": \"恢复新建笔记时的标签推荐功能，提升内容发布效率。\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_235\",\n        \"User_Pain_Point\": \"直播间弹幕延迟严重\",\n        \"Actionable_Suggestion\": \"优化弹幕实时性，降低延迟以提升直播互动体验。\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_240\",\n        \"User_Pain_Point\": \"鸿蒙6版本无法编辑话题\",\n        \"Actionable_Suggestion\": \"修复鸿蒙6版本下编辑话题的功能，确保系统兼容性。\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_238\",\n        \"User_Pain_Point\": \"整体使用体验非常好，推荐使用\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 25,
+    "batch_ids": [
+      "com.xingin.xhs_hos_241",
+      "com.xingin.xhs_hos_242",
+      "com.xingin.xhs_hos_243",
+      "com.xingin.xhs_hos_244",
+      "com.xingin.xhs_hos_245",
+      "com.xingin.xhs_hos_246",
+      "com.xingin.xhs_hos_247",
+      "com.xingin.xhs_hos_248",
+      "com.xingin.xhs_hos_249",
+      "com.xingin.xhs_hos_250"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_241",
+        "content": "平板滑动评论掉帧",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_242",
+        "content": "关注还是没有备注功能！差评！",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_243",
+        "content": "个人售卖快点上呀",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_244",
+        "content": "推荐内容过于离谱",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_245",
+        "content": "发小红书为什么自主加不了话题呀",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_246",
+        "content": "华为鸿蒙版本没有直播预约功能，开发一下呢！",
+        "device": "HUAWEI Pocket 2"
+      },
+      {
+        "id": "com.xingin.xhs_hos_247",
+        "content": "为什么小红书不能支持多设备登陆？求解惑，太不方便了，连银行app都可以，抖音微信都行，为什么小红书不行？为什么？",
+        "device": "HUAWEI Mate X7 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_248",
+        "content": "个人售卖模块没有！速度更新啊！",
+        "device": "HUAWEI Mate X7 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_249",
+        "content": "能不能快点更新功能，为什么没有小程序？为什么没有小程序为什么没有小程序？",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_250",
+        "content": "无法点开别人发在评论区的链接",
+        "device": "HUAWEI Mate 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_242\",\n        \"User_Pain_Point\": \"关注没有备注功能\",\n        \"Actionable_Suggestion\": \"增加关注备注功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_243\",\n        \"User_Pain_Point\": \"个人售卖功能迟迟不上线\",\n        \"Actionable_Suggestion\": \"加快开发个人售卖功能并上线\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_245\",\n        \"User_Pain_Point\": \"发小红书自主加不了话题\",\n        \"Actionable_Suggestion\": \"允许用户在发帖时自主添加话题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_246\",\n        \"User_Pain_Point\": \"鸿蒙版本没有直播预约功能\",\n        \"Actionable_Suggestion\": \"开发鸿蒙版本直播预约功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_247\",\n        \"User_Pain_Point\": \"不支持多设备登录\",\n        \"Actionable_Suggestion\": \"增加多设备登录功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_248\",\n        \"User_Pain_Point\": \"个人售卖模块缺失\",\n        \"Actionable_Suggestion\": \"尽快更新个人售卖模块\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_249\",\n        \"User_Pain_Point\": \"没有小程序功能\",\n        \"Actionable_Suggestion\": \"开发小程序功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_250\",\n        \"User_Pain_Point\": \"无法点开评论区链接\",\n        \"Actionable_Suggestion\": \"支持点击打开评论区中的链接\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_241\",\n        \"User_Pain_Point\": \"平板滑动评论掉帧\",\n        \"Actionable_Suggestion\": \"优化滑动流畅性，减少掉帧\"\n      }\n    ]\n  },\n  \"内容生态\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_244\",\n        \"User_Pain_Point\": \"推荐内容过于离谱\",\n        \"Actionable_Suggestion\": \"优化推荐算法，提高内容相关性\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 26,
+    "batch_ids": [
+      "com.xingin.xhs_hos_251",
+      "com.xingin.xhs_hos_252",
+      "com.xingin.xhs_hos_253",
+      "com.xingin.xhs_hos_254",
+      "com.xingin.xhs_hos_255",
+      "com.xingin.xhs_hos_256",
+      "com.xingin.xhs_hos_257",
+      "com.xingin.xhs_hos_258",
+      "com.xingin.xhs_hos_259",
+      "com.xingin.xhs_hos_260"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_251",
+        "content": "鸿蒙版不能用云闪付支付，请尽快更新",
+        "device": "HUAWEI Pura 80 Ultra"
+      },
+      {
+        "id": "com.xingin.xhs_hos_252",
+        "content": "看直播回放的时候比例不正常，会吧画面放大了，希望能修复",
+        "device": "HUAWEI MatePad Mini 悦读版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_253",
+        "content": "别人帖子里面的附件都看不到了差评，卓易通的小红书还不给安装，到底要怎么样？",
+        "device": "nova 14 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_254",
+        "content": "为什么平板用户少了很多功能且不能语音直播，也不能发起群接龙？",
+        "device": "HUAWEI MatePad Air"
+      },
+      {
+        "id": "com.xingin.xhs_hos_255",
+        "content": "logo还是不能加",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_256",
+        "content": "记录日记莫名其妙违规 处罚机制不明确",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_257",
+        "content": "“展开评论区”这个功能必须得点蓝色区域，才能展开，我记得非纯血鸿蒙版只要是那一行，哪怕是点空白区域也可以展开评论区，请赶紧完善这个功能！完善后我会改评分",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_258",
+        "content": "小红书的群里还有很多评论无法查看",
+        "device": "HUAWEI Pura 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_259",
+        "content": "为什么现在添加不了话题，#之后输入东西没反应，还乱跳位置",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.xingin.xhs_hos_260",
+        "content": "聊天对话框里对方发过来的卡片、笔记什么的怎么都不显示？有新消息提醒，点开却什么都没有，都这样好久了",
+        "device": "nova 14"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_251\",\n        \"User_Pain_Point\": \"鸿蒙版不能用云闪付支付\",\n        \"Actionable_Suggestion\": \"增加云闪付支付方式\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_252\",\n        \"User_Pain_Point\": \"直播回放画面比例不正常，画面放大\",\n        \"Actionable_Suggestion\": \"修复直播回放画面比例问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_253\",\n        \"User_Pain_Point\": \"无法查看别人帖子里的附件\",\n        \"Actionable_Suggestion\": \"修复附件显示功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_254\",\n        \"User_Pain_Point\": \"平板用户缺少语音直播和群接龙功能\",\n        \"Actionable_Suggestion\": \"为平板用户补充语音直播和群接龙功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_255\",\n        \"User_Pain_Point\": \"无法添加logo\",\n        \"Actionable_Suggestion\": \"支持添加logo功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_258\",\n        \"User_Pain_Point\": \"群聊中评论无法查看\",\n        \"Actionable_Suggestion\": \"修复群聊评论查看功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_259\",\n        \"User_Pain_Point\": \"添加话题功能失效，输入无反应且光标乱跳\",\n        \"Actionable_Suggestion\": \"修复添加话题功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_260\",\n        \"User_Pain_Point\": \"聊天中对方发送的卡片、笔记不显示\",\n        \"Actionable_Suggestion\": \"修复聊天中卡片和笔记显示\"\n      }\n    ]\n  },\n  \"系统与机型适配\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_253\",\n        \"User_Pain_Point\": \"卓易通中无法安装小红书\",\n        \"Actionable_Suggestion\": \"支持在卓易通中安装小红书\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_257\",\n        \"User_Pain_Point\": \"展开评论区必须点击蓝色区域，点击区域太小\",\n        \"Actionable_Suggestion\": \"扩大评论区展开点击区域至整行可点\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_256\",\n        \"User_Pain_Point\": \"记录日记莫名其妙违规，处罚机制不明确\",\n        \"Actionable_Suggestion\": \"明确违规处罚机制，提供申诉渠道\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 27,
+    "batch_ids": [
+      "com.xingin.xhs_hos_261",
+      "com.xingin.xhs_hos_262",
+      "com.xingin.xhs_hos_263",
+      "com.xingin.xhs_hos_264",
+      "com.xingin.xhs_hos_265",
+      "com.xingin.xhs_hos_266",
+      "com.xingin.xhs_hos_267",
+      "com.xingin.xhs_hos_268",
+      "com.xingin.xhs_hos_269",
+      "com.xingin.xhs_hos_270"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_261",
+        "content": "为什么鸿蒙系统要阉割星光夜市和优惠券领取功能，使用感极差",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_262",
+        "content": "没有英文功能",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_263",
+        "content": "好，就是太容易上瘾",
+        "device": "nova 14 Ultra"
+      },
+      {
+        "id": "com.xingin.xhs_hos_264",
+        "content": "增加瞬时功能！！！！瞬时功能！！！",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_265",
+        "content": "可以多设备登录就好了",
+        "device": "HUAWEI Pura X 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_266",
+        "content": "这次更新后评论点赞提示数字不能消除了，希望尽快解决",
+        "device": "HUAWEI Pura X 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_267",
+        "content": "为什么一条笔记好好几天都发不出去，就几张照片而已",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_268",
+        "content": "加不上话题，用笔记里的#添加也是黑色的，不是蓝色的链接",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_269",
+        "content": "视频动图这么久都更不上？",
+        "device": "HUAWEI Mate 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_270",
+        "content": "为什么不能下载PDF",
+        "device": "华为畅享 90 Pro Max"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_261\",\n        \"User_Pain_Point\": \"鸿蒙系统阉割了星光夜市功能\",\n        \"Actionable_Suggestion\": \"恢复星光夜市功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_261\",\n        \"User_Pain_Point\": \"鸿蒙系统阉割了优惠券领取功能\",\n        \"Actionable_Suggestion\": \"恢复优惠券领取功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_262\",\n        \"User_Pain_Point\": \"没有英文功能\",\n        \"Actionable_Suggestion\": \"增加英文语言支持\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_264\",\n        \"User_Pain_Point\": \"缺少瞬时功能\",\n        \"Actionable_Suggestion\": \"增加瞬时功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_265\",\n        \"User_Pain_Point\": \"不支持多设备登录\",\n        \"Actionable_Suggestion\": \"支持多设备登录\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_266\",\n        \"User_Pain_Point\": \"评论点赞提示数字无法消除\",\n        \"Actionable_Suggestion\": \"修复点赞提示数字消除功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_268\",\n        \"User_Pain_Point\": \"话题添加功能异常，使用#添加显示黑色而非蓝色链接\",\n        \"Actionable_Suggestion\": \"修复话题添加功能，确保#显示为蓝色链接\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_269\",\n        \"User_Pain_Point\": \"视频动图功能长时间未更新\",\n        \"Actionable_Suggestion\": \"尽快更新视频动图功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_270\",\n        \"User_Pain_Point\": \"无法下载PDF\",\n        \"Actionable_Suggestion\": \"增加PDF下载功能\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_267\",\n        \"User_Pain_Point\": \"笔记发布失败，几天发不出去\",\n        \"Actionable_Suggestion\": \"优化发布流程，解决发布失败问题\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_263\",\n        \"User_Pain_Point\": \"应用体验好\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"内容生态\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_263\",\n        \"User_Pain_Point\": \"应用太容易上瘾\",\n        \"Actionable_Suggestion\": \"增加防沉迷机制或使用时长提醒\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 28,
+    "batch_ids": [
+      "com.xingin.xhs_hos_271",
+      "com.xingin.xhs_hos_272",
+      "com.xingin.xhs_hos_273",
+      "com.xingin.xhs_hos_274",
+      "com.xingin.xhs_hos_275",
+      "com.xingin.xhs_hos_276",
+      "com.xingin.xhs_hos_277",
+      "com.xingin.xhs_hos_278",
+      "com.xingin.xhs_hos_279",
+      "com.xingin.xhs_hos_280"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_271",
+        "content": "为啥我直播连麦不了",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_272",
+        "content": "更新快",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_273",
+        "content": "非常差 作品话题带不了\n小红书如果你是博主千万不要更新鸿蒙\n很多功能不完善\n超级差‪...",
+        "device": "HUAWEI Mate 70 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_274",
+        "content": "希望上架英语模式",
+        "device": "HUAWEI Pura 80 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_275",
+        "content": "莫名其妙被封号一封一个不吱声",
+        "device": "nova 12 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_276",
+        "content": "没有消息提醒",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_277",
+        "content": "不错😌",
+        "device": "HUAWEI MatePad 11.5"
+      },
+      {
+        "id": "com.xingin.xhs_hos_278",
+        "content": "鸿蒙系统的实况图听不到声音",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_279",
+        "content": "我去，挺好用的",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_280",
+        "content": "每次打开都要再登一次，何意味",
+        "device": "HUAWEI MatePad Pro"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_271\",\n        \"User_Pain_Point\": \"直播连麦不了\",\n        \"Actionable_Suggestion\": \"修复直播连麦功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_273\",\n        \"User_Pain_Point\": \"作品话题带不了，很多功能不完善\",\n        \"Actionable_Suggestion\": \"完善作品话题功能，优化其他不完善功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_274\",\n        \"User_Pain_Point\": \"希望上架英语模式\",\n        \"Actionable_Suggestion\": \"上架英语模式\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_276\",\n        \"User_Pain_Point\": \"没有消息提醒\",\n        \"Actionable_Suggestion\": \"添加消息提醒功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_278\",\n        \"User_Pain_Point\": \"鸿蒙系统的实况图听不到声音\",\n        \"Actionable_Suggestion\": \"修复实况图声音问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_280\",\n        \"User_Pain_Point\": \"每次打开都要再登一次\",\n        \"Actionable_Suggestion\": \"修复登录状态持久化问题\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_275\",\n        \"User_Pain_Point\": \"莫名其妙被封号一封一个不吱声\",\n        \"Actionable_Suggestion\": \"优化封号机制，增加通知说明\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_272\",\n        \"User_Pain_Point\": \"更新快\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_277\",\n        \"User_Pain_Point\": \"不错😌\",\n        \"Actionable_Suggestion\": \"无\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_279\",\n        \"User_Pain_Point\": \"我去，挺好用的\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 29,
+    "batch_ids": [
+      "com.xingin.xhs_hos_281",
+      "com.xingin.xhs_hos_282",
+      "com.xingin.xhs_hos_283",
+      "com.xingin.xhs_hos_284",
+      "com.xingin.xhs_hos_285",
+      "com.xingin.xhs_hos_286",
+      "com.xingin.xhs_hos_287",
+      "com.xingin.xhs_hos_288",
+      "com.xingin.xhs_hos_289",
+      "com.xingin.xhs_hos_290"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_281",
+        "content": "为什么聚光就是不上呢？有这么难吗？",
+        "device": "HUAWEI Pura 70"
+      },
+      {
+        "id": "com.xingin.xhs_hos_282",
+        "content": "怎么总是账号退出来",
+        "device": "HUAWEI Mate X5 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_283",
+        "content": "为什么不支持发长文功能啊！！！！！",
+        "device": "华为畅享 90 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_284",
+        "content": "鸿蒙系统进入小红书视频不能自动横屏。",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_285",
+        "content": "心愿单在哪里！！",
+        "device": "HUAWEI Pura X 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_286",
+        "content": "看不到笔记链接！！！！",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_287",
+        "content": "交到好多朋友！～",
+        "device": "HUAWEI MatePad Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_288",
+        "content": "居然自己的主页看不到蓝V，而且手机没有聚光入口，快点完善一下吧",
+        "device": "HUAWEI Mate 70 Pro 优享版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_289",
+        "content": "鸿蒙系统，直播间的商品，不能购买。",
+        "device": "HUAWEI Pura 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_290",
+        "content": "发笔记弄不进合集里，何意味，live图也没声音，快点补上吧好不好",
+        "device": "HUAWEI Mate 80"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_281\",\n        \"User_Pain_Point\": \"聚光功能一直未上线\",\n        \"Actionable_Suggestion\": \"加快聚光功能的开发与上线\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_283\",\n        \"User_Pain_Point\": \"不支持发长文功能\",\n        \"Actionable_Suggestion\": \"增加发长文功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_284\",\n        \"User_Pain_Point\": \"视频不能自动横屏\",\n        \"Actionable_Suggestion\": \"优化视频播放，支持自动横屏\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_285\",\n        \"User_Pain_Point\": \"找不到心愿单入口\",\n        \"Actionable_Suggestion\": \"添加心愿单功能或增加入口\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_286\",\n        \"User_Pain_Point\": \"看不到笔记链接\",\n        \"Actionable_Suggestion\": \"修复笔记链接显示问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_288\",\n        \"User_Pain_Point\": \"主页看不到蓝V标识\",\n        \"Actionable_Suggestion\": \"修复蓝V显示问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_288\",\n        \"User_Pain_Point\": \"手机没有聚光入口\",\n        \"Actionable_Suggestion\": \"添加聚光功能入口\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_289\",\n        \"User_Pain_Point\": \"直播间商品不能购买\",\n        \"Actionable_Suggestion\": \"修复购买功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_290\",\n        \"User_Pain_Point\": \"发笔记不能放进合集\",\n        \"Actionable_Suggestion\": \"优化笔记合集功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_290\",\n        \"User_Pain_Point\": \"live图没有声音\",\n        \"Actionable_Suggestion\": \"修复live图声音功能\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_282\",\n        \"User_Pain_Point\": \"账号频繁退出登录\",\n        \"Actionable_Suggestion\": \"修复账号稳定性问题\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_287\",\n        \"User_Pain_Point\": \"在平台上交到了很多朋友\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 30,
+    "batch_ids": [
+      "com.xingin.xhs_hos_291",
+      "com.xingin.xhs_hos_292",
+      "com.xingin.xhs_hos_293",
+      "com.xingin.xhs_hos_294",
+      "com.xingin.xhs_hos_295",
+      "com.xingin.xhs_hos_296",
+      "com.xingin.xhs_hos_297",
+      "com.xingin.xhs_hos_298",
+      "com.xingin.xhs_hos_299",
+      "com.xingin.xhs_hos_300"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_291",
+        "content": "商品浏览、评论等场景无深色模式，UX也很差。",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_292",
+        "content": "没有投屏功能",
+        "device": "nova 13"
+      },
+      {
+        "id": "com.xingin.xhs_hos_293",
+        "content": "私信没有看对方发送的卡片信息",
+        "device": "HUAWEI Mate 60"
+      },
+      {
+        "id": "com.xingin.xhs_hos_294",
+        "content": "里面什么人都有，绝了",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_295",
+        "content": "无缘无故封号 还不能解封 真绝了",
+        "device": "HUAWEI Mate 60 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_296",
+        "content": "现在是直播间打开所有商品，我都无法购买。。。。。。怎么不想挣我的钱吗",
+        "device": "HUAWEI Mate X7 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_297",
+        "content": "还行，比很多APP流畅多了",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_298",
+        "content": "太棒了！！！！！！！！！\nYYDS",
+        "device": "HUAWEI Pura X 典藏版"
+      },
+      {
+        "id": "com.xingin.xhs_hos_299",
+        "content": "快点更新！！！！！！很多东西都设置不了，连位置都设置不了",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.xingin.xhs_hos_300",
+        "content": "鸿蒙什么时候有市集功能啊？？！！",
+        "device": "HUAWEI Pura 80 Ultra"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_291\",\n        \"User_Pain_Point\": \"商品浏览、评论等场景无深色模式\",\n        \"Actionable_Suggestion\": \"增加深色模式功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_292\",\n        \"User_Pain_Point\": \"没有投屏功能\",\n        \"Actionable_Suggestion\": \"增加投屏功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_293\",\n        \"User_Pain_Point\": \"私信不能查看对方发送的卡片信息\",\n        \"Actionable_Suggestion\": \"增加私信卡片信息的查看功能\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_296\",\n        \"User_Pain_Point\": \"直播间所有商品都无法购买\",\n        \"Actionable_Suggestion\": \"修复购买功能，确保用户可以正常下单\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_299\",\n        \"User_Pain_Point\": \"很多东西都设置不了，包括位置设置\",\n        \"Actionable_Suggestion\": \"完善设置功能，特别是位置设置\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_300\",\n        \"User_Pain_Point\": \"鸿蒙版本没有市集功能\",\n        \"Actionable_Suggestion\": \"增加市集功能\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_291\",\n        \"User_Pain_Point\": \"UX很差\",\n        \"Actionable_Suggestion\": \"优化用户体验设计，提升交互流畅度和易用性\"\n      }\n    ]\n  },\n  \"内容生态\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_294\",\n        \"User_Pain_Point\": \"平台内容混杂，什么人都有\",\n        \"Actionable_Suggestion\": \"加强内容审核和用户管理，提升内容质量\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_295\",\n        \"User_Pain_Point\": \"无缘无故封号且不能解封\",\n        \"Actionable_Suggestion\": \"完善封号规则和解封流程，提供申诉渠道\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_297\",\n        \"User_Pain_Point\": \"比很多APP流畅\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  },\n  \"体验赞赏\": {\n    \"Positive\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_298\",\n        \"User_Pain_Point\": \"整体体验非常棒，YYDS\",\n        \"Actionable_Suggestion\": \"无\"\n      }\n    ]\n  }\n}",
+    "repair_response_text": null
+  },
+  {
+    "package": "com.xingin.xhs_hos",
+    "batch_index": 31,
+    "batch_ids": [
+      "com.xingin.xhs_hos_301",
+      "com.xingin.xhs_hos_302",
+      "com.xingin.xhs_hos_303",
+      "com.xingin.xhs_hos_304",
+      "com.xingin.xhs_hos_305",
+      "com.xingin.xhs_hos_306",
+      "com.xingin.xhs_hos_307",
+      "com.xingin.xhs_hos_308",
+      "com.xingin.xhs_hos_309"
+    ],
+    "request_comments": [
+      {
+        "id": "com.xingin.xhs_hos_301",
+        "content": "你们有打开消息时卡顿的吗？",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_302",
+        "content": "只能登录2个账号，添加第三个的时候，前面添加的两个账号直接被挤掉",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_303",
+        "content": "live图听不到声音啊啊啊！！",
+        "device": "HUAWEI Mate 80 Pro Max"
+      },
+      {
+        "id": "com.xingin.xhs_hos_304",
+        "content": "发视频压缩严重没，Ios好 ，能不能优化下",
+        "device": "HUAWEI Mate 70 Pro"
+      },
+      {
+        "id": "com.xingin.xhs_hos_305",
+        "content": "看不了评论区的文字链接。",
+        "device": "HUAWEI Pura X"
+      },
+      {
+        "id": "com.xingin.xhs_hos_306",
+        "content": "深色模式，字体是灰色，很不容易看清。有时候音量条、导航栏的时间全部都会变成灰色。",
+        "device": "HUAWEI Mate 80"
+      },
+      {
+        "id": "com.xingin.xhs_hos_307",
+        "content": "禁言的莫名其妙！超绝敏感肌",
+        "device": "nova 14"
+      },
+      {
+        "id": "com.xingin.xhs_hos_308",
+        "content": "底部状态栏适配下沉浸光感",
+        "device": "HUAWEI Pura 70 Pro+"
+      },
+      {
+        "id": "com.xingin.xhs_hos_309",
+        "content": "审核太严格了，被禁言了好几次了",
+        "device": "HUAWEI Mate X5 典藏版"
+      }
+    ],
+    "raw_response_text": "{\n  \"功能体验\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_302\",\n        \"User_Pain_Point\": \"只能登录2个账号，添加第三个时前两个被挤掉\",\n        \"Actionable_Suggestion\": \"支持多账号同时在线或优化账号管理逻辑\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_303\",\n        \"User_Pain_Point\": \"Live图听不到声音\",\n        \"Actionable_Suggestion\": \"修复Live图播放无声问题\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_304\",\n        \"User_Pain_Point\": \"发视频压缩严重，不如iOS\",\n        \"Actionable_Suggestion\": \"优化视频上传压缩算法\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_305\",\n        \"User_Pain_Point\": \"看不了评论区的文字链接\",\n        \"Actionable_Suggestion\": \"支持点击评论区的文字链接\"\n      }\n    ]\n  },\n  \"稳定性与性能\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_301\",\n        \"User_Pain_Point\": \"打开消息时卡顿\",\n        \"Actionable_Suggestion\": \"优化消息打开时的性能\"\n      }\n    ]\n  },\n  \"UI与交互\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_306\",\n        \"User_Pain_Point\": \"深色模式下字体灰色难以看清，音量条、导航栏时间变灰\",\n        \"Actionable_Suggestion\": \"优化深色模式下的对比度和颜色设计\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_308\",\n        \"User_Pain_Point\": \"底部状态栏不适配沉浸光感\",\n        \"Actionable_Suggestion\": \"优化底部状态栏适配沉浸式效果\"\n      }\n    ]\n  },\n  \"运营与规则\": {\n    \"Negative\": [\n      {\n        \"id\": \"com.xingin.xhs_hos_307\",\n        \"User_Pain_Point\": \"禁言莫名其妙，敏感词过滤过于敏感\",\n        \"Actionable_Suggestion\": \"优化审核机制，减少误禁言\"\n      },\n      {\n        \"id\": \"com.xingin.xhs_hos_309\",\n        \"User_Pain_Point\": \"审核太严格，被禁言多次\",\n        \"Actionable_Suggestion\": \"放宽审核标准，减少误判\"\n      }\n    ]\n  }\n}",
     "repair_response_text": null
   }
 ]

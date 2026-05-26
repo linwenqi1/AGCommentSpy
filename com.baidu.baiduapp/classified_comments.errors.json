@@ -1,0 +1,38 @@
+[
+  {
+    "package": "com.baidu.baiduapp",
+    "batch_index": 2,
+    "batch_ids": [
+      "com.baidu.baiduapp_11",
+      "com.baidu.baiduapp_12",
+      "com.baidu.baiduapp_13",
+      "com.baidu.baiduapp_14",
+      "com.baidu.baiduapp_15",
+      "com.baidu.baiduapp_16",
+      "com.baidu.baiduapp_17",
+      "com.baidu.baiduapp_18",
+      "com.baidu.baiduapp_19",
+      "com.baidu.baiduapp_20"
+    ],
+    "stage": "request_or_parse",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "package": "com.baidu.baiduapp",
+    "batch_index": 2,
+    "batch_ids": [
+      "com.baidu.baiduapp_11",
+      "com.baidu.baiduapp_12",
+      "com.baidu.baiduapp_13",
+      "com.baidu.baiduapp_14",
+      "com.baidu.baiduapp_15",
+      "com.baidu.baiduapp_16",
+      "com.baidu.baiduapp_17",
+      "com.baidu.baiduapp_18",
+      "com.baidu.baiduapp_19",
+      "com.baidu.baiduapp_20"
+    ],
+    "stage": "repair",
+    "error": "Skipped repair because no model output was returned"
+  }
+]

@@ -1,0 +1,2886 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.sankuai.hmeituan_1",
+        "User_Pain_Point": "锁屏界面还车功能设计无效，操作步骤繁琐",
+        "Actionable_Suggestion": "修复锁屏还车功能，简化操作流程，实现双击还车"
+      },
+      {
+        "id": "com.sankuai.hmeituan_2",
+        "User_Pain_Point": "更新后骑行实况窗消失",
+        "Actionable_Suggestion": "恢复骑行实况窗功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_3",
+        "User_Pain_Point": "配送位置不能实时自动更新",
+        "Actionable_Suggestion": "增加配送位置自动更新功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_6",
+        "User_Pain_Point": "无法查看自己的评论，评论区处于关闭状态",
+        "Actionable_Suggestion": "修复评论显示功能，确保用户可查看评论"
+      },
+      {
+        "id": "com.sankuai.hmeituan_9",
+        "User_Pain_Point": "缺少神枪手功能",
+        "Actionable_Suggestion": "增加神枪手功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_11",
+        "User_Pain_Point": "订单配送后联系骑手电话空号，联系商家却转到全国总部，无法变更地址",
+        "Actionable_Suggestion": "优化骑手电话有效性校验，确保商家电话直达门店，并提供便捷的地址变更渠道"
+      },
+      {
+        "id": "com.sankuai.hmeituan_12",
+        "User_Pain_Point": "被迫使用小游戏功能，影响使用体验",
+        "Actionable_Suggestion": "允许用户选择是否显示小游戏入口，或在设置中提供关闭选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_13",
+        "User_Pain_Point": "AI客服无法解决问题，找不到人工客服",
+        "Actionable_Suggestion": "优化AI客服转人工逻辑，增加明显的人工客服入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_21",
+        "User_Pain_Point": "浏览店铺时误报无网络，客服称因频繁操作导致",
+        "Actionable_Suggestion": "优化网络检测逻辑，减少误判；调整限制策略，避免正常操作被误拦截"
+      },
+      {
+        "id": "com.sankuai.hmeituan_24",
+        "User_Pain_Point": "搜索即时零售门店产品时无结果显示，属于重大bug",
+        "Actionable_Suggestion": "修复搜索功能，确保产品列表正确加载"
+      },
+      {
+        "id": "com.sankuai.hmeituan_26",
+        "User_Pain_Point": "无法查看骑手发送的信息",
+        "Actionable_Suggestion": "修复鸿蒙版消息通知与展示功能，确保骑手消息正常显示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_28",
+        "User_Pain_Point": "指定配送时间下单后，APP自动退出导致时间被改为即时送达",
+        "Actionable_Suggestion": "修复自动退出bug，并确保配送时间设置不会被意外修改"
+      },
+      {
+        "id": "com.sankuai.hmeituan_32",
+        "User_Pain_Point": "付款时优惠券没有自动匹配最合适的优惠券，导致用户忘记选择而多付钱。",
+        "Actionable_Suggestion": "优化优惠券自动匹配逻辑，在支付时默认使用最优惠的组合，并提供提示确认。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_35",
+        "User_Pain_Point": "外卖订单无法查看。",
+        "Actionable_Suggestion": "修复订单详情页显示问题，确保用户能正常查看订单信息。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_38",
+        "User_Pain_Point": "点外卖的实况窗时而显示时而不显示。",
+        "Actionable_Suggestion": "修复实况窗功能，确保在订单状态更新时稳定显示。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_39",
+        "User_Pain_Point": "电单车停放受限，不能随意停靠。",
+        "Actionable_Suggestion": "增加更多规范停车区域或提供临时停放点指引，优化停车体验。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_42",
+        "User_Pain_Point": "订火车票时，不选多花钱免登陆12306的选项，身份证填写后无法点击确认",
+        "Actionable_Suggestion": "修复身份证输入后确认按钮不可用的问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_44",
+        "User_Pain_Point": "无法接收骑手发的图片，且设置中没有相关选项",
+        "Actionable_Suggestion": "增加接收骑手图片的功能或设置项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_45",
+        "User_Pain_Point": "应用出现乱打电话的现象",
+        "Actionable_Suggestion": "检查并修正应用中的电话拨打逻辑，避免误触"
+      },
+      {
+        "id": "com.sankuai.hmeituan_48",
+        "User_Pain_Point": "经常自动更新且无法设置",
+        "Actionable_Suggestion": "提供手动更新开关或设置更新策略"
+      },
+      {
+        "id": "com.sankuai.hmeituan_49",
+        "User_Pain_Point": "骑手发的送货信息经常被吞，无法接收",
+        "Actionable_Suggestion": "修复消息接收逻辑，确保骑手消息及时送达"
+      },
+      {
+        "id": "com.sankuai.hmeituan_51",
+        "User_Pain_Point": "美团住宿的订单不能评价",
+        "Actionable_Suggestion": "添加住宿订单的评价功能，允许用户对住宿体验进行评价"
+      },
+      {
+        "id": "com.sankuai.hmeituan_53",
+        "User_Pain_Point": "点餐没有骑手接单且不能退款",
+        "Actionable_Suggestion": "增加无骑手接单时的自动退款机制或提供补偿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_57",
+        "User_Pain_Point": "定位不准，偏差达2公里以上",
+        "Actionable_Suggestion": "优化定位算法，提高定位精度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_60",
+        "User_Pain_Point": "今天无法点外卖",
+        "Actionable_Suggestion": "排查并修复点外卖功能的故障，确保服务可用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_61",
+        "User_Pain_Point": "消息页空白，没有和商家的聊天记录",
+        "Actionable_Suggestion": "修复消息页显示，加载聊天记录"
+      },
+      {
+        "id": "com.sankuai.hmeituan_66",
+        "User_Pain_Point": "深色模式未适配",
+        "Actionable_Suggestion": "尽快适配深色模式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_69",
+        "User_Pain_Point": "缺少扫支付款码功能",
+        "Actionable_Suggestion": "添加扫支付款码功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_69",
+        "User_Pain_Point": "美团钱包/支付不完善",
+        "Actionable_Suggestion": "完善美团支付功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_70",
+        "User_Pain_Point": "缺少美团优选功能",
+        "Actionable_Suggestion": "安排上线美团优选"
+      },
+      {
+        "id": "com.sankuai.hmeituan_72",
+        "User_Pain_Point": "点完商品购物车有时会不见",
+        "Actionable_Suggestion": "修复购物车状态显示问题，确保添加商品后购物车可见"
+      },
+      {
+        "id": "com.sankuai.hmeituan_72",
+        "User_Pain_Point": "添加商品有时点了没反应，但购物车里面却添加成功",
+        "Actionable_Suggestion": "修复添加按钮的响应反馈，点击后应即时显示加载状态并同步购物车数据"
+      },
+      {
+        "id": "com.sankuai.hmeituan_76",
+        "User_Pain_Point": "明明到店了，每次都延迟几十秒至一分钟",
+        "Actionable_Suggestion": "优化定位算法，减少到店判断的延迟时间"
+      },
+      {
+        "id": "com.sankuai.hmeituan_77",
+        "User_Pain_Point": "缺少或未及时更新骑车相关功能",
+        "Actionable_Suggestion": "尽快上线或优化骑车功能，完善骑行服务"
+      },
+      {
+        "id": "com.sankuai.hmeituan_81",
+        "User_Pain_Point": "系统误判账户有风险，无法享受折扣，强制原价下单",
+        "Actionable_Suggestion": "优化风险检测机制，减少误判，允许用户申诉"
+      },
+      {
+        "id": "com.sankuai.hmeituan_85",
+        "User_Pain_Point": "无法在美团上购买火车票",
+        "Actionable_Suggestion": "增加火车票购买功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_90",
+        "User_Pain_Point": "不支持打车实况窗",
+        "Actionable_Suggestion": "支持打车实况窗功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_92",
+        "User_Pain_Point": "定位不准确",
+        "Actionable_Suggestion": "优化定位算法，提高定位精度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_92",
+        "User_Pain_Point": "人工客服纯人机不能解决问题",
+        "Actionable_Suggestion": "增强人工客服能力，提供有效的人工服务入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_93",
+        "User_Pain_Point": "无法购买汽车票",
+        "Actionable_Suggestion": "增加汽车票购买功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_95",
+        "User_Pain_Point": "大部分内容无法使用",
+        "Actionable_Suggestion": "补齐核心功能，确保内容可用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_96",
+        "User_Pain_Point": "骑手发的信息不显示",
+        "Actionable_Suggestion": "修复消息显示问题，确保骑手信息正常展示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_100",
+        "User_Pain_Point": "看不到骑手发的照片，无法确认送错地方",
+        "Actionable_Suggestion": "增加骑手照片显示功能，改善沟通体验"
+      },
+      {
+        "id": "com.sankuai.hmeituan_102",
+        "User_Pain_Point": "共享单车还车流程繁琐，强制开启免密支付，弹窗过多，用户体验差。",
+        "Actionable_Suggestion": "优化共享单车还车流程，允许用户使用账户余额正常还车，减少不必要的弹窗，不强制绑定免密支付。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_103",
+        "User_Pain_Point": "购买骑车卡自动续费套餐不支持微信支付，只能绑定银行卡。",
+        "Actionable_Suggestion": "增加微信支付选项，支持更多支付方式。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_107",
+        "User_Pain_Point": "应用偷偷删除用户图片，侵犯用户数据安全。",
+        "Actionable_Suggestion": "停止未经用户允许删除图片的行为，尊重用户数据，并明确告知用户权限用途。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_108",
+        "User_Pain_Point": "天天赚鸡蛋板块功能不支持，从小美果园跳转后无法使用。",
+        "Actionable_Suggestion": "尽快更新天天赚鸡蛋板块，修复从小美果园跳转的功能。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_112",
+        "User_Pain_Point": "设置静音模式后，滑动时容易解除静音",
+        "Actionable_Suggestion": "修复静音模式被滑动误解除的问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_112",
+        "User_Pain_Point": "视频提现所需时间越来越长",
+        "Actionable_Suggestion": "优化视频提现的处理速度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_114",
+        "User_Pain_Point": "实况窗不更新，支付后一直显示待支付状态",
+        "Actionable_Suggestion": "修复实况窗的更新机制，确保支付状态正确同步"
+      },
+      {
+        "id": "com.sankuai.hmeituan_121",
+        "User_Pain_Point": "升级最新版本后，外卖小哥无法发信息，导致无法得知外卖放置位置",
+        "Actionable_Suggestion": "确保新版本兼容即时通讯功能，或提供替代通知方式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_122",
+        "User_Pain_Point": "消息页面看不到商家的消息",
+        "Actionable_Suggestion": "恢复消息页面显示商家消息的功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_125",
+        "User_Pain_Point": "联系骑手显示空号",
+        "Actionable_Suggestion": "修复骑手联系电话显示错误的问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_126",
+        "User_Pain_Point": "定位功能不准确",
+        "Actionable_Suggestion": "优化定位算法，提高定位精度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_127",
+        "User_Pain_Point": "会员升星礼送的免单券无法使用",
+        "Actionable_Suggestion": "适配免单券功能，确保正常使用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_131",
+        "User_Pain_Point": "缺少长辈版本。",
+        "Actionable_Suggestion": "增加长辈版本，提供大字、简化操作等功能。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_132",
+        "User_Pain_Point": "没有华为支付。",
+        "Actionable_Suggestion": "接入华为支付，提供更多支付选择。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_134",
+        "User_Pain_Point": "更新后骑车实况窗难用，原来锁屏直接关锁，现在需打开APP操作。",
+        "Actionable_Suggestion": "恢复锁屏直接关锁功能，或优化实况窗操作流程。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_140",
+        "User_Pain_Point": "什么都设置不了，默认支付方式都改不了。",
+        "Actionable_Suggestion": "完善设置功能，允许用户修改默认支付方式和其他设置项。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_141",
+        "User_Pain_Point": "支付时无法使用指纹验证",
+        "Actionable_Suggestion": "增加指纹支付功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_142",
+        "User_Pain_Point": "缺少老年版本，操作不便",
+        "Actionable_Suggestion": "推出老年版模式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_143",
+        "User_Pain_Point": "外卖订单位置显示不全，找不到放置位置",
+        "Actionable_Suggestion": "优化订单位置显示功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_146",
+        "User_Pain_Point": "应用内集成小游戏和视频功能，使用体验差",
+        "Actionable_Suggestion": "移除或单独提供小游戏和视频应用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_148",
+        "User_Pain_Point": "骑手端无法查看方向指示图和聊天文字，只收到提示音",
+        "Actionable_Suggestion": "修复骑手端消息显示问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_151",
+        "User_Pain_Point": "不能取消极速支付",
+        "Actionable_Suggestion": "增加取消极速支付的设置选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_153",
+        "User_Pain_Point": "神券会显示版本低不允许使用",
+        "Actionable_Suggestion": "优化版本兼容逻辑，确保神券正常使用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_153",
+        "User_Pain_Point": "客服聊天点开图片后无法退出",
+        "Actionable_Suggestion": "修复图片查看界面，增加退出按钮或手势"
+      },
+      {
+        "id": "com.sankuai.hmeituan_153",
+        "User_Pain_Point": "核销团购跳转有问题只会到主页就没反应",
+        "Actionable_Suggestion": "修复团购核销跳转逻辑，跳转到正确页面"
+      },
+      {
+        "id": "com.sankuai.hmeituan_153",
+        "User_Pain_Point": "强制退出会话",
+        "Actionable_Suggestion": "优化聊天会话稳定性，避免强制退出"
+      },
+      {
+        "id": "com.sankuai.hmeituan_154",
+        "User_Pain_Point": "没有拼好饭功能",
+        "Actionable_Suggestion": "增加拼好饭入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_155",
+        "User_Pain_Point": "拼好饭中瑞幸不能点外卖，而安卓用户可以",
+        "Actionable_Suggestion": "解决鸿蒙下拼好饭部分商家不可点问题，与安卓保持一致"
+      },
+      {
+        "id": "com.sankuai.hmeituan_157",
+        "User_Pain_Point": "评论发图片会被吞",
+        "Actionable_Suggestion": "修复评论图片上传功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_160",
+        "User_Pain_Point": "搜索页面价格都看不到了，要点进去才能看见",
+        "Actionable_Suggestion": "搜索页面直接显示价格，方便对比"
+      },
+      {
+        "id": "com.sankuai.hmeituan_161",
+        "User_Pain_Point": "搜索没有价格对比，看不到价格",
+        "Actionable_Suggestion": "增加搜索结果的价格对比功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_164",
+        "User_Pain_Point": "软件包含过多无关功能（小游戏、听小说、短视频），偏离团购核心",
+        "Actionable_Suggestion": "精简非核心功能，聚焦团购体验"
+      },
+      {
+        "id": "com.sankuai.hmeituan_167",
+        "User_Pain_Point": "缺少骑行校园优惠功能",
+        "Actionable_Suggestion": "增加骑行校园优惠功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_171",
+        "User_Pain_Point": "实况窗有时出现有时不出现，行为不一致",
+        "Actionable_Suggestion": "建议统一实况窗的显示逻辑，确保在所有适用场景下稳定出现"
+      },
+      {
+        "id": "com.sankuai.hmeituan_172",
+        "User_Pain_Point": "扫码功能无法使用，导致住酒店等场景无法支付",
+        "Actionable_Suggestion": "修复扫码功能，确保在酒店等场景下正常使用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_174",
+        "User_Pain_Point": "找不到骑车选项，无法使用美团电单车",
+        "Actionable_Suggestion": "恢复骑车功能入口，或明确告知用户如何找到该选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_178",
+        "User_Pain_Point": "缺少领券功能入口",
+        "Actionable_Suggestion": "在显著位置增加领券功能，确保用户能便捷获取优惠券"
+      },
+      {
+        "id": "com.sankuai.hmeituan_179",
+        "User_Pain_Point": "聊天记录丢失，系统日志被开发者使用",
+        "Actionable_Suggestion": "修复聊天记录保存机制，确保消息不丢失"
+      },
+      {
+        "id": "com.sankuai.hmeituan_181",
+        "User_Pain_Point": "无法查看各个榜单",
+        "Actionable_Suggestion": "修复榜单功能，确保用户可以正常查看"
+      },
+      {
+        "id": "com.sankuai.hmeituan_182",
+        "User_Pain_Point": "常用功能“骑车”未放在首页，且不能自定义排序",
+        "Actionable_Suggestion": "允许用户自定义首页功能模块的顺序，或将高频功能默认置于首页"
+      },
+      {
+        "id": "com.sankuai.hmeituan_183",
+        "User_Pain_Point": "预约时定位不准，搜索不到本地店铺",
+        "Actionable_Suggestion": "优化定位功能，确保基于当前位置准确显示附近商家"
+      },
+      {
+        "id": "com.sankuai.hmeituan_186",
+        "User_Pain_Point": "部分商家的团购信息不显示",
+        "Actionable_Suggestion": "修复团购显示问题，确保所有商家团购正常展示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_187",
+        "User_Pain_Point": "关键时候定位未自动更新，导致配送地址错误",
+        "Actionable_Suggestion": "优化定位更新机制，确保在用户移动时自动更新地址，或提醒用户确认地址"
+      },
+      {
+        "id": "com.sankuai.hmeituan_189",
+        "User_Pain_Point": "骑手无法在订单中发送照片",
+        "Actionable_Suggestion": "增加骑手发送照片的功能，便于沟通"
+      },
+      {
+        "id": "com.sankuai.hmeituan_190",
+        "User_Pain_Point": "无法使用微信支付",
+        "Actionable_Suggestion": "调查为何鸿蒙版美团不支持微信支付并修复"
+      },
+      {
+        "id": "com.sankuai.hmeituan_192",
+        "User_Pain_Point": "支付了一对一配送费用但骑手无法进入校园，未得到服务",
+        "Actionable_Suggestion": "优化配送范围判断或提示用户配送可行性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_194",
+        "User_Pain_Point": "骑手送餐定位刷新不及时，定位界面显示异常",
+        "Actionable_Suggestion": "优化定位刷新频率和准确性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_195",
+        "User_Pain_Point": "扫码骑车后解屏还车提交失败，需重启App",
+        "Actionable_Suggestion": "修复解屏后还车提交失败的bug"
+      },
+      {
+        "id": "com.sankuai.hmeituan_196",
+        "User_Pain_Point": "默认校内配送导致配送时间过长",
+        "Actionable_Suggestion": "增加配送地址分类设置，允许用户关闭校内配送默认"
+      },
+      {
+        "id": "com.sankuai.hmeituan_198",
+        "User_Pain_Point": "外卖柜送达后无显示，订单已完成但找不到外卖",
+        "Actionable_Suggestion": "优化外卖柜状态同步，提供取件码或准确位置"
+      },
+      {
+        "id": "com.sankuai.hmeituan_201",
+        "User_Pain_Point": "本地买菜功能缺失",
+        "Actionable_Suggestion": "增加本地买菜服务"
+      },
+      {
+        "id": "com.sankuai.hmeituan_203",
+        "User_Pain_Point": "多次更新后定位不准问题仍未解决",
+        "Actionable_Suggestion": "优化定位算法，提高定位准确性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_208",
+        "User_Pain_Point": "定位功能太差，无法定位",
+        "Actionable_Suggestion": "改进定位准确性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_210",
+        "User_Pain_Point": "与外卖小哥文字联系时对方看不见消息",
+        "Actionable_Suggestion": "修复聊天功能，确保消息正常显示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_212",
+        "User_Pain_Point": "定位不准，导致花冤枉钱",
+        "Actionable_Suggestion": "优化定位算法，提高准确性，避免因定位错误增加用户费用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_213",
+        "User_Pain_Point": "历史记录功能缺失，无法查看",
+        "Actionable_Suggestion": "增加历史记录查看功能，方便用户追溯"
+      },
+      {
+        "id": "com.sankuai.hmeituan_215",
+        "User_Pain_Point": "骑手发送的消息接收不到",
+        "Actionable_Suggestion": "优化消息推送机制，确保用户及时收到骑手消息"
+      },
+      {
+        "id": "com.sankuai.hmeituan_217",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "增加夜间模式，满足用户不同场景需求"
+      },
+      {
+        "id": "com.sankuai.hmeituan_218",
+        "User_Pain_Point": "更新后无法跳转其他地图，强制使用美团地图",
+        "Actionable_Suggestion": "允许用户选择默认地图应用，恢复第三方地图跳转功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_218",
+        "User_Pain_Point": "更新后定位不准，经常找不到位置",
+        "Actionable_Suggestion": "优化定位服务，提升位置获取的准确性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_219",
+        "User_Pain_Point": "预约功能消失，无法使用",
+        "Actionable_Suggestion": "恢复预约功能，或提供替代方案"
+      },
+      {
+        "id": "com.sankuai.hmeituan_224",
+        "User_Pain_Point": "骑手未送货到提前点完成订单，且无法按出骑手电话，只能评价",
+        "Actionable_Suggestion": "完善订单完成逻辑，确保骑手送达后才能点完成，并修复电话按钮功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_226",
+        "User_Pain_Point": "定位功能经常失灵，影响使用",
+        "Actionable_Suggestion": "修复定位功能，提高准确性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_230",
+        "User_Pain_Point": "定位非常不准，影响使用",
+        "Actionable_Suggestion": "优化定位算法，提升定位精度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_231",
+        "User_Pain_Point": "美团会删手机照片，担心隐私安全",
+        "Actionable_Suggestion": "修复图片删除问题，增加隐私保护说明"
+      },
+      {
+        "id": "com.sankuai.hmeituan_233",
+        "User_Pain_Point": "询问当前版本是否删除图片，存在担忧",
+        "Actionable_Suggestion": "确认并修复图片删除问题，发布官方说明"
+      },
+      {
+        "id": "com.sankuai.hmeituan_234",
+        "User_Pain_Point": "听说会自动删图片，感到害怕",
+        "Actionable_Suggestion": "澄清并修复图片自动删除问题，加强用户信任"
+      },
+      {
+        "id": "com.sankuai.hmeituan_235",
+        "User_Pain_Point": "订单送达后状态不自动关闭，需手动操作",
+        "Actionable_Suggestion": "优化订单状态自动更新逻辑，送达后自动关闭"
+      },
+      {
+        "id": "com.sankuai.hmeituan_236",
+        "User_Pain_Point": "不显示中通快递页面，无法查看物流",
+        "Actionable_Suggestion": "接入中通快递查询接口，增加物流显示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_237",
+        "User_Pain_Point": "缺少扫一扫支付功能，只能被扫",
+        "Actionable_Suggestion": "开发上线扫一扫支付功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_239",
+        "User_Pain_Point": "骑车实况窗无法直接进入还车，需要中转，操作倒退",
+        "Actionable_Suggestion": "恢复或优化实况窗直接进入还车功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_242",
+        "User_Pain_Point": "付款流程不流畅",
+        "Actionable_Suggestion": "优化付款流程，提升流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_243",
+        "User_Pain_Point": "鸿蒙系统无法在免费水果页面领取肥料",
+        "Actionable_Suggestion": "修复鸿蒙系统下领取肥料的功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_244",
+        "User_Pain_Point": "无法观看视频做任务",
+        "Actionable_Suggestion": "恢复视频任务功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_245",
+        "User_Pain_Point": "收藏的店铺无法查看详情，只能看到团购",
+        "Actionable_Suggestion": "完善收藏店铺的详情展示功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_246",
+        "User_Pain_Point": "鸿蒙版缺少视频功能",
+        "Actionable_Suggestion": "恢复鸿蒙版的视频功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_248",
+        "User_Pain_Point": "首页焕新后视频入口消失",
+        "Actionable_Suggestion": "恢复首页视频入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_250",
+        "User_Pain_Point": "视频功能不稳定，时有时无",
+        "Actionable_Suggestion": "修复视频功能，确保稳定可用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_251",
+        "User_Pain_Point": "收货地址完成后保存不了，无法购",
+        "Actionable_Suggestion": "修复保存地址功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_253",
+        "User_Pain_Point": "定位不了",
+        "Actionable_Suggestion": "优化定位功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_260",
+        "User_Pain_Point": "从浏览记录进去点不了链接",
+        "Actionable_Suggestion": "修复浏览记录链接点击功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_262",
+        "User_Pain_Point": "找不到美团小游戏入口",
+        "Actionable_Suggestion": "优化小游戏入口的可见性，或添加引导提示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_263",
+        "User_Pain_Point": "不支持面容支付",
+        "Actionable_Suggestion": "增加面容支付功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_265",
+        "User_Pain_Point": "改版后查看订单没有二维码，体验差",
+        "Actionable_Suggestion": "恢复订单详情页二维码显示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_267",
+        "User_Pain_Point": "无法查看浏览记录",
+        "Actionable_Suggestion": "增加浏览记录功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_268",
+        "User_Pain_Point": "美团视频没有领红包功能",
+        "Actionable_Suggestion": "在美团视频中增加领红包入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_269",
+        "User_Pain_Point": "新增加的评价功能让用户感到烦扰",
+        "Actionable_Suggestion": "优化评价功能，或提供关闭选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_271",
+        "User_Pain_Point": "打开和商家对话时卡顿，其他应用正常",
+        "Actionable_Suggestion": "优化聊天功能性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_276",
+        "User_Pain_Point": "付款码支付后亮度不能自动调节回来",
+        "Actionable_Suggestion": "支付结束后恢复自动亮度调节"
+      },
+      {
+        "id": "com.sankuai.hmeituan_276",
+        "User_Pain_Point": "付款码界面没有扫码功能",
+        "Actionable_Suggestion": "在付款码界面增加扫码功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_279",
+        "User_Pain_Point": "发给骑手的消息对方看不到",
+        "Actionable_Suggestion": "修复消息发送功能，确保骑手能看到用户消息"
+      },
+      {
+        "id": "com.sankuai.hmeituan_283",
+        "User_Pain_Point": "购买后无法返回商家主界面，必须大退",
+        "Actionable_Suggestion": "修复购买后无法返回商家主界面的问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_285",
+        "User_Pain_Point": "抢券功能不可用",
+        "Actionable_Suggestion": "修复抢券功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_287",
+        "User_Pain_Point": "拼好饭实况窗消失",
+        "Actionable_Suggestion": "恢复拼好饭实况窗功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_289",
+        "User_Pain_Point": "拼好饭实况窗消失",
+        "Actionable_Suggestion": "恢复拼好饭实况窗功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_290",
+        "User_Pain_Point": "市中心没有人接单",
+        "Actionable_Suggestion": "优化接单分配机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_293",
+        "User_Pain_Point": "无法定位，其余所有APP都可以定位，只有你这个APP无法定位，即便已经开启定位。",
+        "Actionable_Suggestion": "修复定位功能，确保与系统定位服务兼容。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_297",
+        "User_Pain_Point": "定位不准什么原因呢",
+        "Actionable_Suggestion": "提高定位精度。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_301",
+        "User_Pain_Point": "视频金币任务不完善",
+        "Actionable_Suggestion": "优化视频金币任务的完整性和用户体验"
+      },
+      {
+        "id": "com.sankuai.hmeituan_303",
+        "User_Pain_Point": "更新后外卖实况窗功能消失",
+        "Actionable_Suggestion": "恢复或重新提供外卖实况窗功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_306",
+        "User_Pain_Point": "浏览记录无法点开查看详情",
+        "Actionable_Suggestion": "支持点击浏览记录查看详情"
+      },
+      {
+        "id": "com.sankuai.hmeituan_307",
+        "User_Pain_Point": "地图定位不准导致下单地址错误",
+        "Actionable_Suggestion": "优化定位准确性，修复地图定位偏差"
+      },
+      {
+        "id": "com.sankuai.hmeituan_310",
+        "User_Pain_Point": "预约配送订单付款后配送时间被自动修改导致延迟",
+        "Actionable_Suggestion": "修复预约配送时间被修改的bug，确保用户选择的配送时间不被更改"
+      },
+      {
+        "id": "com.sankuai.hmeituan_311",
+        "User_Pain_Point": "使用神枪手券后无法继续点该店其他商品",
+        "Actionable_Suggestion": "优化券使用逻辑，允许在享受优惠同时加购其他商品"
+      },
+      {
+        "id": "com.sankuai.hmeituan_312",
+        "User_Pain_Point": "打车时实况窗不显示，已授权但仍无显示",
+        "Actionable_Suggestion": "排查实况窗功能，确保打车场景下正确显示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_313",
+        "User_Pain_Point": "扫码取餐无反应，只能用微信扫",
+        "Actionable_Suggestion": "修复外卖柜扫码功能，支持APP内扫码"
+      },
+      {
+        "id": "com.sankuai.hmeituan_317",
+        "User_Pain_Point": "不能根据定位自动跳转地址",
+        "Actionable_Suggestion": "增加自动定位并跳转地址功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_318",
+        "User_Pain_Point": "拼好饭没有实况窗",
+        "Actionable_Suggestion": "为拼好饭订单添加实况窗支持"
+      },
+      {
+        "id": "com.sankuai.hmeituan_319",
+        "User_Pain_Point": "骑车结束后需要关闭后台重新进入才能结束",
+        "Actionable_Suggestion": "优化结束骑车逻辑，无需关闭后台"
+      },
+      {
+        "id": "com.sankuai.hmeituan_322",
+        "User_Pain_Point": "送的券不能用，提示更新版本但已是最新。",
+        "Actionable_Suggestion": "修复版本检测逻辑，确保券可使用。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_323",
+        "User_Pain_Point": "点不进去榜单，看不见排序。",
+        "Actionable_Suggestion": "修复榜单点击响应。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_324",
+        "User_Pain_Point": "没有已读功能。",
+        "Actionable_Suggestion": "增加已读功能。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_326",
+        "User_Pain_Point": "赚鸡蛋的入口找不到。",
+        "Actionable_Suggestion": "确保入口可见或提供指引。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_327",
+        "User_Pain_Point": "浏览历史记录不支持查看。",
+        "Actionable_Suggestion": "增加浏览历史查看功能。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_327",
+        "User_Pain_Point": "不能扫码支付。",
+        "Actionable_Suggestion": "添加扫码支付功能。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_332",
+        "User_Pain_Point": "黑金会员领券功能无法正常使用",
+        "Actionable_Suggestion": "修复会员领券功能，确保会员权益正常领取"
+      },
+      {
+        "id": "com.sankuai.hmeituan_333",
+        "User_Pain_Point": "药品配送距离过远，达到30公里",
+        "Actionable_Suggestion": "优化配送范围设置，限制合理距离或提供多门店选择"
+      },
+      {
+        "id": "com.sankuai.hmeituan_338",
+        "User_Pain_Point": "交易评价功能尚未开发完成",
+        "Actionable_Suggestion": "加快开发交易评价功能，上线后引导用户使用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_340",
+        "User_Pain_Point": "无法查看具体榜单，影响使用",
+        "Actionable_Suggestion": "增加榜单详情展示功能，让用户可查看具体排名和内容"
+      },
+      {
+        "id": "com.sankuai.hmeituan_342",
+        "User_Pain_Point": "果园小程序领水滴页面点不开",
+        "Actionable_Suggestion": "修复果园小程序领水滴页面，确保功能正常"
+      },
+      {
+        "id": "com.sankuai.hmeituan_349",
+        "User_Pain_Point": "点外卖时实时定位不准，需手动重新定位",
+        "Actionable_Suggestion": "优化实时定位功能，提高自动定位准确性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_351",
+        "User_Pain_Point": "开定位显示无法定位",
+        "Actionable_Suggestion": "修复定位功能，确保在开启定位时能正常定位。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_352",
+        "User_Pain_Point": "点外卖耗用1G流量，流量消耗过大",
+        "Actionable_Suggestion": "优化网络请求，降低流量消耗，例如压缩数据或减少非必要加载。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_353",
+        "User_Pain_Point": "骑手打赏界面打开是简介，无法打赏",
+        "Actionable_Suggestion": "修复打赏功能，确保打赏界面可正常使用。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_354",
+        "User_Pain_Point": "定位不了",
+        "Actionable_Suggestion": "修复定位功能，确保定位准确。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_354",
+        "User_Pain_Point": "买劵跳转到其他门店",
+        "Actionable_Suggestion": "修复买券跳转逻辑，确保跳转到正确的门店。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_355",
+        "User_Pain_Point": "定位偏离几公里，漂移不定，其他App正常",
+        "Actionable_Suggestion": "优化定位算法，确保定位准确性，避免漂移。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_356",
+        "User_Pain_Point": "更改地址刷新不出来",
+        "Actionable_Suggestion": "修复地址刷新功能，确保地址更改后能正常显示。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_357",
+        "User_Pain_Point": "联系商家和骑手消息没有已读功能",
+        "Actionable_Suggestion": "增加消息已读状态显示，方便用户追踪沟通。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_358",
+        "User_Pain_Point": "骑手提前点送达，用户未收到餐",
+        "Actionable_Suggestion": "加强骑手行为监管，完善点送达验证机制。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_360",
+        "User_Pain_Point": "联系商家后在消息列表找不到对话框",
+        "Actionable_Suggestion": "改进消息列表，自动显示与商家/骑手的对话框。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_360",
+        "User_Pain_Point": "订单搜索功能无法使用",
+        "Actionable_Suggestion": "修复订单搜索功能。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_360",
+        "User_Pain_Point": "开发票功能不好用，缺少开发票助手",
+        "Actionable_Suggestion": "优化发票功能，完善开发票助手。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_360",
+        "User_Pain_Point": "黑钻会员权益用不了",
+        "Actionable_Suggestion": "修复黑钻会员权益功能，确保权益可正常使用。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_360",
+        "User_Pain_Point": "更新后反而退步，点外卖没有骑手电话，联系不上",
+        "Actionable_Suggestion": "恢复显示骑手联系电话，或提供紧急联系方式。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_361",
+        "User_Pain_Point": "看视频时无法查看别人的作品",
+        "Actionable_Suggestion": "优化视频播放界面，增加查看别人作品入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_362",
+        "User_Pain_Point": "订单完成后骑手电话不可见，导致联系不上骑手，餐未送达",
+        "Actionable_Suggestion": "订单完成后保留骑手联系方式直至订单完全结束"
+      },
+      {
+        "id": "com.sankuai.hmeituan_363",
+        "User_Pain_Point": "消息页不显示与商家在线咨询的消息内容",
+        "Actionable_Suggestion": "修复消息页显示问题，确保所有咨询消息同步显示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_366",
+        "User_Pain_Point": "无法正常下单点外卖",
+        "Actionable_Suggestion": "排查并修复下单流程的bug"
+      },
+      {
+        "id": "com.sankuai.hmeituan_367",
+        "User_Pain_Point": "关锁操作慢导致超时多计费",
+        "Actionable_Suggestion": "优化关锁逻辑，减少关锁时间，并合理处理超时计费争议"
+      },
+      {
+        "id": "com.sankuai.hmeituan_368",
+        "User_Pain_Point": "定位不准",
+        "Actionable_Suggestion": "优化定位算法"
+      },
+      {
+        "id": "com.sankuai.hmeituan_369",
+        "User_Pain_Point": "扫码获取团购券报错，无法使用",
+        "Actionable_Suggestion": "修复扫码获取团购券的bug"
+      },
+      {
+        "id": "com.sankuai.hmeituan_377",
+        "User_Pain_Point": "换手机登录需要地址验证，但地址不记得",
+        "Actionable_Suggestion": "优化账号验证流程，提供多种验证方式替代地址验证，或允许跳过/修改"
+      },
+      {
+        "id": "com.sankuai.hmeituan_381",
+        "User_Pain_Point": "缺少钱包功能，支付时只能用极速付款，不够方便",
+        "Actionable_Suggestion": "增加钱包功能，提供多种支付方式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_382",
+        "User_Pain_Point": "与骑手商家对话没有已读功能，沟通不便",
+        "Actionable_Suggestion": "增加消息已读回执功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_383",
+        "User_Pain_Point": "配送算法不优，骑手在附近但无法统筹配送",
+        "Actionable_Suggestion": "优化配送算法，提高匹配效率"
+      },
+      {
+        "id": "com.sankuai.hmeituan_386",
+        "User_Pain_Point": "联系骑手商家时没有常用语功能，输入不便",
+        "Actionable_Suggestion": "增加常用语快捷回复功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_388",
+        "User_Pain_Point": "无法使用团购功能",
+        "Actionable_Suggestion": "支持团购功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_390",
+        "User_Pain_Point": "实况窗突然消失，影响使用",
+        "Actionable_Suggestion": "修复实况窗显示问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_391",
+        "User_Pain_Point": "消息收不到，无法及时获取用户通知",
+        "Actionable_Suggestion": "优化消息推送机制，确保用户能实时收到消息通知"
+      },
+      {
+        "id": "com.sankuai.hmeituan_391",
+        "User_Pain_Point": "送达无通知，用户无法知道订单送达状态",
+        "Actionable_Suggestion": "增加送达通知功能，在订单送达时推送提醒"
+      },
+      {
+        "id": "com.sankuai.hmeituan_391",
+        "User_Pain_Point": "店铺消息无提示，用户错过店铺更新信息",
+        "Actionable_Suggestion": "确保店铺消息能正常推送，并提示用户查看"
+      },
+      {
+        "id": "com.sankuai.hmeituan_392",
+        "User_Pain_Point": "预定界面按钮无响应，无法取消或修改订单",
+        "Actionable_Suggestion": "修复预定界面按钮点击无响应的问题，确保功能正常"
+      },
+      {
+        "id": "com.sankuai.hmeituan_394",
+        "User_Pain_Point": "美团单车关锁按钮无反应，需重启App才能锁车",
+        "Actionable_Suggestion": "修复关锁功能Bug，确保点击关锁后能正常响应"
+      },
+      {
+        "id": "com.sankuai.hmeituan_395",
+        "User_Pain_Point": "缺少实况窗功能，用户无法便捷查看实时信息",
+        "Actionable_Suggestion": "增加实况窗功能，提升用户实时信息获取体验"
+      },
+      {
+        "id": "com.sankuai.hmeituan_397",
+        "User_Pain_Point": "快递柜号不提示，用户无法找到快递",
+        "Actionable_Suggestion": "在取件通知中增加快递柜号显示，方便用户取件"
+      },
+      {
+        "id": "com.sankuai.hmeituan_399",
+        "User_Pain_Point": "无法使用问小团功能",
+        "Actionable_Suggestion": "排查问小团功能兼容性问题，确保用户能够正常使用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_401",
+        "User_Pain_Point": "越来越臃肿了，小游戏啥的一堆，正经业务优化是一点不干",
+        "Actionable_Suggestion": "精简功能，优化核心业务体验"
+      },
+      {
+        "id": "com.sankuai.hmeituan_402",
+        "User_Pain_Point": "商家地址有问题  不支持跳转到地图进行导航",
+        "Actionable_Suggestion": "支持跳转地图导航功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_405",
+        "User_Pain_Point": "快点更新问小团啊 春节红包都领不了",
+        "Actionable_Suggestion": "尽快修复春节红包领取问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_406",
+        "User_Pain_Point": "小象超市不能开发票",
+        "Actionable_Suggestion": "增加小象超市开发票功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_407",
+        "User_Pain_Point": "无法主动给外卖骑手打电话",
+        "Actionable_Suggestion": "增加主动给外卖骑手打电话功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_407",
+        "User_Pain_Point": "在线联系外卖商家，对方看不到我发的图片",
+        "Actionable_Suggestion": "优化图片发送功能，确保商家可见"
+      },
+      {
+        "id": "com.sankuai.hmeituan_408",
+        "User_Pain_Point": "配送时间成倍增长",
+        "Actionable_Suggestion": "优化配送效率，减少配送时间"
+      },
+      {
+        "id": "com.sankuai.hmeituan_410",
+        "User_Pain_Point": "短信通知太多，关不掉",
+        "Actionable_Suggestion": "提供关闭短信通知的选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_411",
+        "User_Pain_Point": "骑手送错餐且无回复，投诉入口找不到，导致问题无法解决。",
+        "Actionable_Suggestion": "优化骑手配送流程和投诉入口，提供明确的投诉路径和人工客服转接。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_413",
+        "User_Pain_Point": "首页搜索无法显示搜索内容。",
+        "Actionable_Suggestion": "修复搜索功能，确保输入后正常显示结果。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_414",
+        "User_Pain_Point": "美团小游戏一个都打不开。",
+        "Actionable_Suggestion": "排查小游戏兼容性问题，修复无法打开的问题。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_415",
+        "User_Pain_Point": "商家出餐晚，骑手不接单，导致用户等待时间过长。",
+        "Actionable_Suggestion": "加强商家的出餐时间管控，优化骑手接单调度机制。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_416",
+        "User_Pain_Point": "美团优先功能入口消失，找不到打开位置。",
+        "Actionable_Suggestion": "恢复美团优先的入口，并在明显位置显示。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_421",
+        "User_Pain_Point": "没骑手配送，也不提醒，过了时间点影响用餐",
+        "Actionable_Suggestion": "增加配送超时提醒功能，并确保有骑手接单时通知用户"
+      },
+      {
+        "id": "com.sankuai.hmeituan_422",
+        "User_Pain_Point": "无法联系骑手，缺少电话键，只能发消息",
+        "Actionable_Suggestion": "添加直接拨打骑手电话的按钮"
+      },
+      {
+        "id": "com.sankuai.hmeituan_424",
+        "User_Pain_Point": "同一账号优惠券无法显示",
+        "Actionable_Suggestion": "修复优惠券显示逻辑，确保账号下优惠券正常展示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_425",
+        "User_Pain_Point": "锁屏状态下收不到骑手消息，没有通知音",
+        "Actionable_Suggestion": "优化锁屏通知策略，确保消息推送和铃声正常"
+      },
+      {
+        "id": "com.sankuai.hmeituan_428",
+        "User_Pain_Point": "无法调用企业美团支付功能",
+        "Actionable_Suggestion": "尽快上架企业美团支付功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_430",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "增加深色模式选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_431",
+        "User_Pain_Point": "拼好饭缺少实况窗功能",
+        "Actionable_Suggestion": "建议为拼好饭添加实况窗功能，方便用户查看外卖进度。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_433",
+        "User_Pain_Point": "骑行功能不直接显示在页面，每次需搜索",
+        "Actionable_Suggestion": "建议将骑行功能图标直接放置在首页或显眼位置。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_435",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "建议适配夜间/深色模式。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_436",
+        "User_Pain_Point": "打开照片无法查看店家实拍照",
+        "Actionable_Suggestion": "修复图片加载或显示问题。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_438",
+        "User_Pain_Point": "定位不准确",
+        "Actionable_Suggestion": "优化定位算法或接入更准确的定位服务。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_440",
+        "User_Pain_Point": "需要深色模式",
+        "Actionable_Suggestion": "建议适配系统深色模式。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_441",
+        "User_Pain_Point": "搜索商品不显示价格",
+        "Actionable_Suggestion": "修复搜索结果显示价格的功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_442",
+        "User_Pain_Point": "搜不到乐享湖南活动，无法领优惠券",
+        "Actionable_Suggestion": "增加乐享湖南活动的搜索入口或修复搜索功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_445",
+        "User_Pain_Point": "无法使用红包",
+        "Actionable_Suggestion": "修复红包使用功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_446",
+        "User_Pain_Point": "缺少免费种水果功能",
+        "Actionable_Suggestion": "增加免费种水果功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_448",
+        "User_Pain_Point": "缺少免费果园功能",
+        "Actionable_Suggestion": "增加免费果园功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_449",
+        "User_Pain_Point": "外卖商家菜品页面无法打开",
+        "Actionable_Suggestion": "修复外卖商家菜品页面的加载问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_450",
+        "User_Pain_Point": "企业版无法跳转刷企业补助",
+        "Actionable_Suggestion": "修复企业版跳转功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_451",
+        "User_Pain_Point": "无法直接给外卖小哥打电话，缺少入口",
+        "Actionable_Suggestion": "增加联系外卖小哥的电话入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_452",
+        "User_Pain_Point": "拼好饭功能无骑手配送，导致无法使用",
+        "Actionable_Suggestion": "确保拼好饭有骑手配送服务，否则移除该功能入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_453",
+        "User_Pain_Point": "找不到视频提现功能",
+        "Actionable_Suggestion": "在明显位置提供视频提现入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_455",
+        "User_Pain_Point": "缺少小美果园和问小团功能",
+        "Actionable_Suggestion": "恢复小美果园和问小团功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_456",
+        "User_Pain_Point": "联系骑手时号码被屏蔽，无法拨打电话",
+        "Actionable_Suggestion": "修复号码打码问题，确保可正常拨打"
+      },
+      {
+        "id": "com.sankuai.hmeituan_457",
+        "User_Pain_Point": "从美团地图切换百度导航后没有导航历史记录",
+        "Actionable_Suggestion": "增加导航历史记录功能，或保留切换后的记录"
+      },
+      {
+        "id": "com.sankuai.hmeituan_458",
+        "User_Pain_Point": "定位每次都不准",
+        "Actionable_Suggestion": "优化定位算法，提高定位准确性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_459",
+        "User_Pain_Point": "定位飘移严重",
+        "Actionable_Suggestion": "修复定位飘移问题，提升定位稳定性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_461",
+        "User_Pain_Point": "企业美团功能不可用",
+        "Actionable_Suggestion": "尽快完善并上线企业版美团功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_462",
+        "User_Pain_Point": "缺少深色模式，夜间使用刺眼",
+        "Actionable_Suggestion": "尽快适配深色模式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_464",
+        "User_Pain_Point": "没有团购评价功能，使用不便",
+        "Actionable_Suggestion": "增加团购评价功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_465",
+        "User_Pain_Point": "全城找药功能缺失，功能细节不完善",
+        "Actionable_Suggestion": "加快全城找药功能开发上线"
+      },
+      {
+        "id": "com.sankuai.hmeituan_470",
+        "User_Pain_Point": "缺少拍照识别购物功能",
+        "Actionable_Suggestion": "尽快上线拍照识别购物功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_475",
+        "User_Pain_Point": "购票系统不完善，比如香港迪士尼门票没有买票界面，买票后看不到凭证",
+        "Actionable_Suggestion": "完善购票系统，增加购票界面和凭证查看功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_479",
+        "User_Pain_Point": "登录验证设计不合理，无法提供历史订单信息，导致无法验证",
+        "Actionable_Suggestion": "优化登录验证方式，提供替代验证途径如短信或邮箱"
+      },
+      {
+        "id": "com.sankuai.hmeituan_481",
+        "User_Pain_Point": "小美果园功能被移除",
+        "Actionable_Suggestion": "恢复小美果园功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_482",
+        "User_Pain_Point": "问小团功能迟迟未上线",
+        "Actionable_Suggestion": "尽快上线问小团功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_483",
+        "User_Pain_Point": "无法按最新发布搜索团购",
+        "Actionable_Suggestion": "增加按最新发布排序的搜索选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_484",
+        "User_Pain_Point": "天天现金功能需要更新",
+        "Actionable_Suggestion": "更新天天现金功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_485",
+        "User_Pain_Point": "自动定位功能差，导致送货地址错误",
+        "Actionable_Suggestion": "优化定位算法或提供手动地址选择"
+      },
+      {
+        "id": "com.sankuai.hmeituan_487",
+        "User_Pain_Point": "免费水果活动取消或未恢复",
+        "Actionable_Suggestion": "恢复免费水果活动"
+      },
+      {
+        "id": "com.sankuai.hmeituan_491",
+        "User_Pain_Point": "小美果园功能缺失",
+        "Actionable_Suggestion": "恢复小美果园功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_492",
+        "User_Pain_Point": "定位偏差在三四公里",
+        "Actionable_Suggestion": "修复定位精度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_493",
+        "User_Pain_Point": "免费领水果板块缺失",
+        "Actionable_Suggestion": "适配机型增加该板块"
+      },
+      {
+        "id": "com.sankuai.hmeituan_494",
+        "User_Pain_Point": "拼好饭选项无法打开",
+        "Actionable_Suggestion": "修复拼好饭功能或适配"
+      },
+      {
+        "id": "com.sankuai.hmeituan_497",
+        "User_Pain_Point": "定位bug导致乱定位",
+        "Actionable_Suggestion": "修复定位bug"
+      },
+      {
+        "id": "com.sankuai.hmeituan_498",
+        "User_Pain_Point": "拼好饭功能消失",
+        "Actionable_Suggestion": "恢复拼好饭功能"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.sankuai.hmeituan_120",
+        "User_Pain_Point": "修复了单车无法定位的问题",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_223",
+        "User_Pain_Point": "买药便宜",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_400",
+        "User_Pain_Point": "送货上门服务非常好，用户满意",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.sankuai.hmeituan_14",
+        "User_Pain_Point": "缺少线上医保买药功能",
+        "Actionable_Suggestion": "尽快开发并上线线上医保买药功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_31",
+        "User_Pain_Point": "询问最新版本是否有内插广告。",
+        "Actionable_Suggestion": "明确告知用户广告策略，如无广告可说明，如有则提供关闭选项。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_115",
+        "User_Pain_Point": "骑车功能不支持手动输入车牌号及蓝牙识别输入",
+        "Actionable_Suggestion": "增加手动输入车牌号和蓝牙识别功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_138",
+        "User_Pain_Point": "询问美团游戏何时上线。",
+        "Actionable_Suggestion": "明确美团游戏的上线计划或增加功能预告。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_304",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "增加深色模式选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_373",
+        "User_Pain_Point": "缺少企业支付功能",
+        "Actionable_Suggestion": "增加扫码支付的企业支付选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_389",
+        "User_Pain_Point": "希望引入智能体场景，通过语音或手写简化点餐流程",
+        "Actionable_Suggestion": "开发语音智能体点餐功能，提高便捷性"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.sankuai.hmeituan_7",
+        "User_Pain_Point": "鸿蒙系统更新后无法领取美团币",
+        "Actionable_Suggestion": "修复系统更新后的兼容性问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_8",
+        "User_Pain_Point": "缺少光感视效适配",
+        "Actionable_Suggestion": "增加光感视效适配"
+      },
+      {
+        "id": "com.sankuai.hmeituan_23",
+        "User_Pain_Point": "鸿蒙系统无法购买学生票，被以无票理由退款，而其他手机可正常购买",
+        "Actionable_Suggestion": "排查并修复鸿蒙系统下学生票购买接口的兼容性问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_27",
+        "User_Pain_Point": "鸿蒙版购票强制加收40元服务费，安卓版无此限制",
+        "Actionable_Suggestion": "统一各平台购票服务规则，移除鸿蒙版不合理的强制收费"
+      },
+      {
+        "id": "com.sankuai.hmeituan_30",
+        "User_Pain_Point": "鸿蒙6.1系统下，APP无法显示骑手送达照片，但微信小程序正常",
+        "Actionable_Suggestion": "修复鸿蒙版APP的骑手消息展示问题，确保与微信小程序同步"
+      },
+      {
+        "id": "com.sankuai.hmeituan_47",
+        "User_Pain_Point": "鸿蒙系统不可以用升星券",
+        "Actionable_Suggestion": "适配鸿蒙系统，支持升星券功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_63",
+        "User_Pain_Point": "在华为mate80上经常闪退",
+        "Actionable_Suggestion": "修复闪退问题，加强机型适配"
+      },
+      {
+        "id": "com.sankuai.hmeituan_87",
+        "User_Pain_Point": "应用卡顿严重，与鸿蒙系统适配性差",
+        "Actionable_Suggestion": "优化与鸿蒙系统的适配，提升运行流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_99",
+        "User_Pain_Point": "实况窗时有时无",
+        "Actionable_Suggestion": "修复实况窗功能，确保稳定适配"
+      },
+      {
+        "id": "com.sankuai.hmeituan_110",
+        "User_Pain_Point": "鸿蒙版预订功能存在缺陷，商品显示为“不再可售”。",
+        "Actionable_Suggestion": "修复鸿蒙版预订功能，确保商品可售状态正确显示。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_135",
+        "User_Pain_Point": "带有美小标认证的商品在鸿蒙6上无法购买，反馈后未修复。",
+        "Actionable_Suggestion": "修复鸿蒙6系统下购买认证商品的兼容性问题。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_143",
+        "User_Pain_Point": "鸿蒙系统下无法接收美团照片",
+        "Actionable_Suggestion": "修复鸿蒙系统下图片接收问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_145",
+        "User_Pain_Point": "实况窗在鸿蒙6上不稳定，经常不显示",
+        "Actionable_Suggestion": "优化实况窗在鸿蒙系统的稳定性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_150",
+        "User_Pain_Point": "平板端显示比例不合适，页面内容显示不全",
+        "Actionable_Suggestion": "优化平板端的显示适配"
+      },
+      {
+        "id": "com.sankuai.hmeituan_175",
+        "User_Pain_Point": "鸿蒙版体验不好，存在适配问题",
+        "Actionable_Suggestion": "加强鸿蒙系统适配，提升使用体验"
+      },
+      {
+        "id": "com.sankuai.hmeituan_191",
+        "User_Pain_Point": "鸿蒙版美团给骑手发信息，骑手手机显示版本不支持",
+        "Actionable_Suggestion": "适配鸿蒙版与骑手端消息协议，确保跨版本兼容"
+      },
+      {
+        "id": "com.sankuai.hmeituan_199",
+        "User_Pain_Point": "更新后实况窗不显示通知",
+        "Actionable_Suggestion": "检查更新对实况窗通知的影响，及时适配修复"
+      },
+      {
+        "id": "com.sankuai.hmeituan_266",
+        "User_Pain_Point": "鸿蒙6的深色模式未适配",
+        "Actionable_Suggestion": "适配鸿蒙6深色模式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_272",
+        "User_Pain_Point": "系统6.0以上版本榜单功能点不开",
+        "Actionable_Suggestion": "修复鸿蒙6.0及以上版本的榜单功能兼容性问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_292",
+        "User_Pain_Point": "为什么没有实况窗了",
+        "Actionable_Suggestion": "恢复实况窗功能或提供替代方案。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_295",
+        "User_Pain_Point": "更新之后实况窗不显示了",
+        "Actionable_Suggestion": "检查更新后实况窗消失原因，恢复功能。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_300",
+        "User_Pain_Point": "实况窗怎么优化没了",
+        "Actionable_Suggestion": "恢复实况窗功能。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_302",
+        "User_Pain_Point": "鸿蒙6系统下在线联系骑手的消息出现乱码",
+        "Actionable_Suggestion": "修复鸿蒙6系统下消息编码问题，确保消息正常显示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_314",
+        "User_Pain_Point": "声称适配Pad端但实际无法使用",
+        "Actionable_Suggestion": "完善Pad端适配，确保功能可用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_316",
+        "User_Pain_Point": "团购线上预约功能未适配",
+        "Actionable_Suggestion": "开发并适配团购线上预约功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_320",
+        "User_Pain_Point": "美团果园摇一摇不支持新系统",
+        "Actionable_Suggestion": "兼容新系统，确保摇一摇功能正常"
+      },
+      {
+        "id": "com.sankuai.hmeituan_330",
+        "User_Pain_Point": "鸿蒙系统下建设银行数字人民币好礼打不开。",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复兼容性问题。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_368",
+        "User_Pain_Point": "适配非常差",
+        "Actionable_Suggestion": "优化对当前机型的适配"
+      },
+      {
+        "id": "com.sankuai.hmeituan_370",
+        "User_Pain_Point": "版本太低，不接受第三方授权",
+        "Actionable_Suggestion": "升级版本以支持第三方授权"
+      },
+      {
+        "id": "com.sankuai.hmeituan_379",
+        "User_Pain_Point": "鸿蒙版本非常差，客服告知版本太低无法联系，且无法升级",
+        "Actionable_Suggestion": "优化鸿蒙版本的适配，解决版本升级问题，确保客服能够处理低版本用户"
+      },
+      {
+        "id": "com.sankuai.hmeituan_396",
+        "User_Pain_Point": "定位不准确，怀疑是App或鸿蒙系统问题",
+        "Actionable_Suggestion": "优化定位算法，适配鸿蒙系统，确保定位精准"
+      },
+      {
+        "id": "com.sankuai.hmeituan_443",
+        "User_Pain_Point": "鸿蒙6系统下群消息看不了，群内打折链接不支持",
+        "Actionable_Suggestion": "尽快适配鸿蒙6系统，修复群消息和链接支持"
+      },
+      {
+        "id": "com.sankuai.hmeituan_463",
+        "User_Pain_Point": "希望更深度适配当前设备",
+        "Actionable_Suggestion": "加强鸿蒙原生适配，优化设备兼容性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_488",
+        "User_Pain_Point": "鸿蒙6版本不完善，很多功能不能用",
+        "Actionable_Suggestion": "加快鸿蒙系统的适配与完善"
+      },
+      {
+        "id": "com.sankuai.hmeituan_489",
+        "User_Pain_Point": "鸿蒙系统支付缺少信用卡积分抵扣功能",
+        "Actionable_Suggestion": "在鸿蒙系统支付中加入信用卡积分抵扣"
+      },
+      {
+        "id": "com.sankuai.hmeituan_499",
+        "User_Pain_Point": "优化适配是目前用的软件最差的",
+        "Actionable_Suggestion": "加强机型适配优化"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.sankuai.hmeituan_50",
+        "User_Pain_Point": "现在适配的还好了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_346",
+        "User_Pain_Point": "适配度已经非常高了",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.sankuai.hmeituan_4",
+        "User_Pain_Point": "订购页面打不开，无法选择菜品",
+        "Actionable_Suggestion": "修复页面加载问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_5",
+        "User_Pain_Point": "打开加载卡顿",
+        "Actionable_Suggestion": "优化加载性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_10",
+        "User_Pain_Point": "应用卡顿且发热严重",
+        "Actionable_Suggestion": "优化性能，降低发热"
+      },
+      {
+        "id": "com.sankuai.hmeituan_17",
+        "User_Pain_Point": "不论怎么更新，应用依然卡顿",
+        "Actionable_Suggestion": "深入优化应用性能，修复卡顿问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_20",
+        "User_Pain_Point": "使用美团过程中手机发烫发卡，其他软件正常",
+        "Actionable_Suggestion": "优化应用功耗和性能，排查并解决发热卡顿原因"
+      },
+      {
+        "id": "com.sankuai.hmeituan_22",
+        "User_Pain_Point": "应用存在大量bug，且运行卡顿、发热严重",
+        "Actionable_Suggestion": "全面修复已知bug，优化内存与性能，降低发热"
+      },
+      {
+        "id": "com.sankuai.hmeituan_28",
+        "User_Pain_Point": "结算时APP自动退出，导致订单信息丢失",
+        "Actionable_Suggestion": "修复自动退出崩溃问题，增强应用稳定性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_32",
+        "User_Pain_Point": "点餐时操作卡顿，反应慢。",
+        "Actionable_Suggestion": "优化点餐页面的性能，减少卡顿，提升响应速度。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_36",
+        "User_Pain_Point": "使用美团点外卖时手机发热严重。",
+        "Actionable_Suggestion": "优化应用能耗，减少CPU占用和发热，尤其是在点餐流程中。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_37",
+        "User_Pain_Point": "应用卡顿。",
+        "Actionable_Suggestion": "全面性能优化，修复卡顿问题。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_43",
+        "User_Pain_Point": "应用太卡了",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_54",
+        "User_Pain_Point": "APP卡顿，无法添加删除选择",
+        "Actionable_Suggestion": "优化界面响应性能，修复卡顿问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_56",
+        "User_Pain_Point": "线下扫码排队页面打不开，一直转圈",
+        "Actionable_Suggestion": "修复扫码排队页面的加载问题，确保快速打开"
+      },
+      {
+        "id": "com.sankuai.hmeituan_59",
+        "User_Pain_Point": "APP偶尔崩溃，显示无连接",
+        "Actionable_Suggestion": "修复崩溃和无连接问题，增强应用稳定性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_62",
+        "User_Pain_Point": "更新后出现卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_64",
+        "User_Pain_Point": "应用卡死",
+        "Actionable_Suggestion": "优化性能，解决卡死问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_65",
+        "User_Pain_Point": "二级页面卡顿严重",
+        "Actionable_Suggestion": "优化二级页面性能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_80",
+        "User_Pain_Point": "再买处方药时直接卡死，一直在加载",
+        "Actionable_Suggestion": "修复处方药购买页面的卡死问题，优化加载性能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_83",
+        "User_Pain_Point": "应用经常卡住",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_89",
+        "User_Pain_Point": "应用经常提示网络不好导致加载失败，实际网络正常",
+        "Actionable_Suggestion": "优化网络检测逻辑，减少误报；提升加载性能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_91",
+        "User_Pain_Point": "商家聊天卡死",
+        "Actionable_Suggestion": "优化聊天性能，解决卡死问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_98",
+        "User_Pain_Point": "页面卡顿、图片加载慢、商家页面加载慢",
+        "Actionable_Suggestion": "优化启动速度和图片加载性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_104",
+        "User_Pain_Point": "实况窗还车按钮点击后跳转到主界面而非直接还车，需要多次操作。",
+        "Actionable_Suggestion": "修复实况窗还车按钮逻辑，点击后直接完成还车或进入还车确认页面。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_106",
+        "User_Pain_Point": "应用后台几乎百分百被杀，资源占用过高。",
+        "Actionable_Suggestion": "优化后台进程管理，减少杀后台频率，降低资源占用。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_109",
+        "User_Pain_Point": "订单界面频繁显示网络不给力，但其他网络功能正常。",
+        "Actionable_Suggestion": "修复订单界面网络加载逻辑，确保正常网络下能加载订单。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_111",
+        "User_Pain_Point": "页面卡顿，选择酒店和地图操作不流畅",
+        "Actionable_Suggestion": "优化页面滑动和地图加载的流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_112",
+        "User_Pain_Point": "应用越来越卡",
+        "Actionable_Suggestion": "优化整体性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_113",
+        "User_Pain_Point": "外卖页面卡顿严重",
+        "Actionable_Suggestion": "提升外卖模块的流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_123",
+        "User_Pain_Point": "在电影演出模块中，进入待映电影详情返回后列表自动回到顶部，该bug长期存在",
+        "Actionable_Suggestion": "修复返回后列表位置丢失的bug，保持滚动位置"
+      },
+      {
+        "id": "com.sankuai.hmeituan_124",
+        "User_Pain_Point": "应用卡顿严重，给骑手发消息需等待很久，且bug频发",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿，修复已知bug"
+      },
+      {
+        "id": "com.sankuai.hmeituan_139",
+        "User_Pain_Point": "看评论时发热耗电快。",
+        "Actionable_Suggestion": "优化电源管理，降低浏览评论时的功耗和发热。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_141",
+        "User_Pain_Point": "天天津贴滑动非常卡顿",
+        "Actionable_Suggestion": "优化天天津贴的滑动流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_144",
+        "User_Pain_Point": "配送经常超时",
+        "Actionable_Suggestion": "改进配送时效管理"
+      },
+      {
+        "id": "com.sankuai.hmeituan_147",
+        "User_Pain_Point": "评论区无法点击打开",
+        "Actionable_Suggestion": "修复评论区点击无响应问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_149",
+        "User_Pain_Point": "更新后页面浏览卡顿，反应慢",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_152",
+        "User_Pain_Point": "联系商家和骑手打字页面发送特别卡",
+        "Actionable_Suggestion": "优化打字页面的性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_152",
+        "User_Pain_Point": "进入配送那个页面的查看那个页面进去有点卡",
+        "Actionable_Suggestion": "优化配送页面的加载性能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_156",
+        "User_Pain_Point": "小象超市入口打不开无限加载",
+        "Actionable_Suggestion": "修复小象超市入口页面，解决无限加载问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_159",
+        "User_Pain_Point": "乱删别人照片",
+        "Actionable_Suggestion": "修复可能导致的误删照片问题，增加确认机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_162",
+        "User_Pain_Point": "一键清理私信卡顿，点击无反应",
+        "Actionable_Suggestion": "优化一键清理私信功能的性能，修复无响应问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_165",
+        "User_Pain_Point": "应用运行卡顿且导致设备发热",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿和发热问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_168",
+        "User_Pain_Point": "滑动卡顿",
+        "Actionable_Suggestion": "优化滑动性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_173",
+        "User_Pain_Point": "应用不流畅、卡顿、无响应",
+        "Actionable_Suggestion": "优化性能，减少卡顿，提升响应速度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_178",
+        "User_Pain_Point": "定位反复横跳，不稳定",
+        "Actionable_Suggestion": "优化定位算法，确保定位稳定准确"
+      },
+      {
+        "id": "com.sankuai.hmeituan_180",
+        "User_Pain_Point": "美团外卖配送页面卡顿明显，其他页面流畅",
+        "Actionable_Suggestion": "针对配送页面进行性能优化，消除卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_193",
+        "User_Pain_Point": "打开应用一分钟左右开始越来越卡",
+        "Actionable_Suggestion": "优化性能，减少内存占用，改善流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_204",
+        "User_Pain_Point": "最新更新后应用卡顿严重",
+        "Actionable_Suggestion": "优化更新后的性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_205",
+        "User_Pain_Point": "打开商家、购物车、支付时特别卡，转圈",
+        "Actionable_Suggestion": "优化加载速度，减少转圈等待"
+      },
+      {
+        "id": "com.sankuai.hmeituan_216",
+        "User_Pain_Point": "使用起来略卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿，提升流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_221",
+        "User_Pain_Point": "打开美团点个外卖电量狂掉，耗电严重",
+        "Actionable_Suggestion": "优化电量消耗，降低后台运行功耗"
+      },
+      {
+        "id": "com.sankuai.hmeituan_221",
+        "User_Pain_Point": "使用卡顿，不流畅",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_222",
+        "User_Pain_Point": "卡顿，优化差",
+        "Actionable_Suggestion": "提升应用流畅度，加强性能优化"
+      },
+      {
+        "id": "com.sankuai.hmeituan_241",
+        "User_Pain_Point": "应用运行卡顿",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿现象"
+      },
+      {
+        "id": "com.sankuai.hmeituan_255",
+        "User_Pain_Point": "卡成啥了",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_264",
+        "User_Pain_Point": "活动页面点不开",
+        "Actionable_Suggestion": "修复活动页面点击无响应的问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_273",
+        "User_Pain_Point": "应用卡顿，怀疑是短视频、小程序等非核心功能导致",
+        "Actionable_Suggestion": "优化性能，减少非核心功能对性能的影响，或增加性能模式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_274",
+        "User_Pain_Point": "使用外卖功能时发热严重",
+        "Actionable_Suggestion": "优化应用功耗，减少发热"
+      },
+      {
+        "id": "com.sankuai.hmeituan_278",
+        "User_Pain_Point": "新版启动速度变慢，不再是秒开",
+        "Actionable_Suggestion": "优化应用启动速度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_281",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_282",
+        "User_Pain_Point": "聊天界面卡顿",
+        "Actionable_Suggestion": "修复聊天界面卡顿问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_283",
+        "User_Pain_Point": "太卡了，发热严重",
+        "Actionable_Suggestion": "优化性能降低发热"
+      },
+      {
+        "id": "com.sankuai.hmeituan_284",
+        "User_Pain_Point": "启动速度慢",
+        "Actionable_Suggestion": "优化启动速度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_288",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化性能减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_296",
+        "User_Pain_Point": "为何感觉现在美团用起来感觉一卡一卡呢？",
+        "Actionable_Suggestion": "优化性能，减少卡顿。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_299",
+        "User_Pain_Point": "卡的要死",
+        "Actionable_Suggestion": "优化性能，提升流畅度。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_304",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_321",
+        "User_Pain_Point": "还车功能频闪无反应，需要清后台重进才能还车。",
+        "Actionable_Suggestion": "修复频闪问题，优化还车功能稳定性。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_325",
+        "User_Pain_Point": "应用越来越卡。",
+        "Actionable_Suggestion": "优化性能，减少卡顿。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_328",
+        "User_Pain_Point": "使用一会就发烫，耗电量大。",
+        "Actionable_Suggestion": "优化功耗，减少发热和耗电。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_332",
+        "User_Pain_Point": "应用不流畅，频繁提示网络卡顿但设备网络正常",
+        "Actionable_Suggestion": "优化网络请求逻辑，减少误报，提升应用流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_334",
+        "User_Pain_Point": "应用越来越卡",
+        "Actionable_Suggestion": "进行性能优化，减少内存占用和卡顿现象"
+      },
+      {
+        "id": "com.sankuai.hmeituan_337",
+        "User_Pain_Point": "点酒店页面长时间加载转圈",
+        "Actionable_Suggestion": "优化酒店搜索加载速度，提高数据响应效率"
+      },
+      {
+        "id": "com.sankuai.hmeituan_339",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优先解决性能问题，降低卡顿发生率"
+      },
+      {
+        "id": "com.sankuai.hmeituan_345",
+        "User_Pain_Point": "有些场景使用卡顿",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_368",
+        "User_Pain_Point": "稳定性不行",
+        "Actionable_Suggestion": "修复稳定性bug"
+      },
+      {
+        "id": "com.sankuai.hmeituan_376",
+        "User_Pain_Point": "神券页面点不开，怀疑系统bug或优化不到位",
+        "Actionable_Suggestion": "修复神券页面无法打开的bug，优化页面加载稳定性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_382",
+        "User_Pain_Point": "应用卡顿，与骑手商家对话必卡",
+        "Actionable_Suggestion": "优化应用性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_385",
+        "User_Pain_Point": "应用卡顿且锁帧，不流畅",
+        "Actionable_Suggestion": "优化帧率，提升流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_386",
+        "User_Pain_Point": "没有安卓流畅，体验差",
+        "Actionable_Suggestion": "优化性能，提高流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_387",
+        "User_Pain_Point": "系统卡顿",
+        "Actionable_Suggestion": "优化系统性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_419",
+        "User_Pain_Point": "WiFi状态下难以打开APP页面，关闭WiFi后正常。",
+        "Actionable_Suggestion": "优化WiFi网络下的页面加载性能，排查DNS或网络请求问题。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_420",
+        "User_Pain_Point": "选购商品时页面非常卡顿。",
+        "Actionable_Suggestion": "优化选购页面的渲染和交互性能，减少卡顿。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_427",
+        "User_Pain_Point": "外卖商品详情页滑动卡顿",
+        "Actionable_Suggestion": "优化页面滑动性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_429",
+        "User_Pain_Point": "使用时有卡顿，流畅度不足",
+        "Actionable_Suggestion": "优化整体流畅度，减少卡顿现象"
+      },
+      {
+        "id": "com.sankuai.hmeituan_437",
+        "User_Pain_Point": "拼好饭界面经常没网且一直加载，其他界面正常",
+        "Actionable_Suggestion": "排查拼好饭模块的网络请求或数据加载问题，进行优化。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_454",
+        "User_Pain_Point": "应用卡顿，体验差",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_464",
+        "User_Pain_Point": "联系骑手时出现卡顿",
+        "Actionable_Suggestion": "优化联系骑手功能的性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_468",
+        "User_Pain_Point": "卡顿严重，不流畅",
+        "Actionable_Suggestion": "优化整体性能，提升流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_471",
+        "User_Pain_Point": "每个页面切换和动画卡顿",
+        "Actionable_Suggestion": "优化页面切换和动画性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_472",
+        "User_Pain_Point": "点到店自取里的商品一直在转圈",
+        "Actionable_Suggestion": "优化加载速度或解决转圈问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_480",
+        "User_Pain_Point": "应用太卡顿",
+        "Actionable_Suggestion": "优化整体性能，减少卡顿"
+      },
+      {
+        "id": "com.sankuai.hmeituan_499",
+        "User_Pain_Point": "使用5分钟手机发热严重",
+        "Actionable_Suggestion": "优化功耗降低发热"
+      },
+      {
+        "id": "com.sankuai.hmeituan_499",
+        "User_Pain_Point": "跳转支付宝卡成PPT",
+        "Actionable_Suggestion": "优化跳转流畅度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_500",
+        "User_Pain_Point": "应用卡顿严重",
+        "Actionable_Suggestion": "优化性能减少卡顿"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.sankuai.hmeituan_136",
+        "User_Pain_Point": "最新版本流畅程度非常不错。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_378",
+        "User_Pain_Point": "无",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.sankuai.hmeituan_228",
+        "User_Pain_Point": "担心鸿蒙版美团是否会在未经允许的情况下访问本地数据或删除相册照片",
+        "Actionable_Suggestion": "公开隐私政策说明，增强用户信任"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.sankuai.hmeituan_67",
+        "User_Pain_Point": "付款时强制提示开启免密支付",
+        "Actionable_Suggestion": "优化付款流程，允许用户选择是否开启免密支付"
+      },
+      {
+        "id": "com.sankuai.hmeituan_74",
+        "User_Pain_Point": "整个“我的”页面，字体与系统不匹配，不会随系统字体改变而跟着一起改变",
+        "Actionable_Suggestion": "适配系统字体设置，使“我的”页面的字体大小和样式跟随系统变化"
+      },
+      {
+        "id": "com.sankuai.hmeituan_82",
+        "User_Pain_Point": "小美评审团和美团果园缺少桌面卡片入口",
+        "Actionable_Suggestion": "为小美评审团和美团果园添加桌面卡片功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_86",
+        "User_Pain_Point": "导航栏设置不合理，新增的小团AI功能无用且影响聊天记录查找",
+        "Actionable_Suggestion": "重新设计导航栏，将AI功能集成到搜索栏，优化商家聊天入口"
+      },
+      {
+        "id": "com.sankuai.hmeituan_86",
+        "User_Pain_Point": "聊天咨询界面难以找到，需要先找到商家再点进去",
+        "Actionable_Suggestion": "优化聊天记录入口，提供直接访问聊天界面的方式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_94",
+        "User_Pain_Point": "直播页面子页面不响应系统返回指令，必须点击小叉关闭",
+        "Actionable_Suggestion": "修复返回逻辑，使其尊重系统返回手势"
+      },
+      {
+        "id": "com.sankuai.hmeituan_107",
+        "User_Pain_Point": "底部AI功能无法关闭，强迫用户使用。",
+        "Actionable_Suggestion": "提供关闭底部AI功能的选项，让用户自主选择是否启用。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_202",
+        "User_Pain_Point": "二维码页面亮度自动最大且退出后无法恢复，需清后台",
+        "Actionable_Suggestion": "修复亮度自动调节逻辑，退出页面后恢复默认亮度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_220",
+        "User_Pain_Point": "我的外卖页面前端显示异常，只显示满22减，布局难看",
+        "Actionable_Suggestion": "修复前端显示问题，优化页面布局和样式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_242",
+        "User_Pain_Point": "窗口界面复杂",
+        "Actionable_Suggestion": "简化界面层次，提高操作直观性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_247",
+        "User_Pain_Point": "骑行订单结束后仍占用灵动岛",
+        "Actionable_Suggestion": "优化灵动岛逻辑，订单结束后及时释放"
+      },
+      {
+        "id": "com.sankuai.hmeituan_257",
+        "User_Pain_Point": "深色模式什么时候适配啊",
+        "Actionable_Suggestion": "适配深色模式"
+      },
+      {
+        "id": "com.sankuai.hmeituan_275",
+        "User_Pain_Point": "更新后灵动岛功能消失",
+        "Actionable_Suggestion": "恢复或说明灵动岛功能的变化"
+      },
+      {
+        "id": "com.sankuai.hmeituan_280",
+        "User_Pain_Point": "实况窗功能消失",
+        "Actionable_Suggestion": "恢复实况窗功能或提供解释"
+      },
+      {
+        "id": "com.sankuai.hmeituan_315",
+        "User_Pain_Point": "消息红色数字0显示让人难受",
+        "Actionable_Suggestion": "改为非红色或提供自定义颜色选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_336",
+        "User_Pain_Point": "不支持跟随系统的深色模式",
+        "Actionable_Suggestion": "增加深色模式适配，跟随系统设置自动切换"
+      },
+      {
+        "id": "com.sankuai.hmeituan_337",
+        "User_Pain_Point": "平板横屏界面尺寸不稳定，忽大忽小",
+        "Actionable_Suggestion": "修复平板横屏适配问题，确保界面尺寸一致性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_380",
+        "User_Pain_Point": "实况窗不显示",
+        "Actionable_Suggestion": "检查并修复实况窗功能，确保正常显示"
+      },
+      {
+        "id": "com.sankuai.hmeituan_403",
+        "User_Pain_Point": "改图标了，不更新！",
+        "Actionable_Suggestion": "保持图标设计一致性或提供更换图标选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_418",
+        "User_Pain_Point": "小美果园的样式显示有问题。",
+        "Actionable_Suggestion": "调整小美果园的UI样式，确保正常显示。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_423",
+        "User_Pain_Point": "折叠屏平行视界一二级菜单左右屏显示位置不合理",
+        "Actionable_Suggestion": "优化平行视界布局，左屏显示搜索列表，右屏显示商家详情"
+      },
+      {
+        "id": "com.sankuai.hmeituan_447",
+        "User_Pain_Point": "MatePad上显示混乱",
+        "Actionable_Suggestion": "优化MatePad的显示布局"
+      },
+      {
+        "id": "com.sankuai.hmeituan_460",
+        "User_Pain_Point": "缺少丽人美团中通UI",
+        "Actionable_Suggestion": "开发并推出丽人美团中通UI"
+      },
+      {
+        "id": "com.sankuai.hmeituan_477",
+        "User_Pain_Point": "直播间内点击展开上架的商品后，无法使用侧边返回，只能点击✗按钮",
+        "Actionable_Suggestion": "支持侧边返回手势，提升交互一致性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_486",
+        "User_Pain_Point": "找不到修改订单地址的入口",
+        "Actionable_Suggestion": "优化修改地址的交互路径，使其更易找到"
+      },
+      {
+        "id": "com.sankuai.hmeituan_488",
+        "User_Pain_Point": "换地址操作困难",
+        "Actionable_Suggestion": "简化修改地址的流程和界面"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.sankuai.hmeituan_238",
+        "User_Pain_Point": "界面整体效果舒服，赞赏设计",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.sankuai.hmeituan_166",
+        "User_Pain_Point": "缺少黑暗模式",
+        "Actionable_Suggestion": "增加黑暗模式支持"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.sankuai.hmeituan_18",
+        "User_Pain_Point": "同一家店价格比其他平台贵很多",
+        "Actionable_Suggestion": "调整定价策略，提供价格比对或价格保护机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_19",
+        "User_Pain_Point": "用久后不再赠送优惠券，服务变差",
+        "Actionable_Suggestion": "改善老用户优惠券发放策略，保持服务质量"
+      },
+      {
+        "id": "com.sankuai.hmeituan_25",
+        "User_Pain_Point": "使用新人优惠券下错单后，退单导致优惠券不返还",
+        "Actionable_Suggestion": "优化退单优惠券策略，合理返还或补偿用户"
+      },
+      {
+        "id": "com.sankuai.hmeituan_28",
+        "User_Pain_Point": "订单问题反馈客服后，客服推诿责任，不承认系统故障",
+        "Actionable_Suggestion": "加强客服培训，建立完善的异常订单处理流程，主动承认并解决问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_29",
+        "User_Pain_Point": "2公里配送费高达6.3元，用户认为不合理",
+        "Actionable_Suggestion": "重新评估配送费定价策略，使其更合理透明"
+      },
+      {
+        "id": "com.sankuai.hmeituan_33",
+        "User_Pain_Point": "同一外卖商品定价比其他平台贵20元，感觉被欺骗。",
+        "Actionable_Suggestion": "规范定价策略，确保平台价格合理且有竞争力，避免恶意加价。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_34",
+        "User_Pain_Point": "外卖经常晚到，且似乎是针对特定用户。",
+        "Actionable_Suggestion": "优化配送调度算法，减少配送延迟，并确保公平对待所有用户。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_41",
+        "User_Pain_Point": "拼好饭偷偷涨价",
+        "Actionable_Suggestion": "明确涨价规则或提供价格变动通知"
+      },
+      {
+        "id": "com.sankuai.hmeituan_46",
+        "User_Pain_Point": "有开屏广告了",
+        "Actionable_Suggestion": "提供关闭开屏广告的选项或减少广告频率"
+      },
+      {
+        "id": "com.sankuai.hmeituan_52",
+        "User_Pain_Point": "更新后出现广告",
+        "Actionable_Suggestion": "减少广告数量或提供去广告选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_55",
+        "User_Pain_Point": "酒店推荐基于返点而非真实质量，误导用户",
+        "Actionable_Suggestion": "改进酒店推荐算法，确保推荐基于用户评价和真实质量"
+      },
+      {
+        "id": "com.sankuai.hmeituan_58",
+        "User_Pain_Point": "客服是机器人，处理不了问题",
+        "Actionable_Suggestion": "增加人工客服支持或提升机器人客服的问题处理能力"
+      },
+      {
+        "id": "com.sankuai.hmeituan_65",
+        "User_Pain_Point": "天天津贴活动缺失",
+        "Actionable_Suggestion": "恢复或完善补贴活动"
+      },
+      {
+        "id": "com.sankuai.hmeituan_66",
+        "User_Pain_Point": "大数据杀熟",
+        "Actionable_Suggestion": "停止杀熟行为，提升公平性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_68",
+        "User_Pain_Point": "应用内开始加载广告",
+        "Actionable_Suggestion": "减少广告或提供广告关闭选项"
+      },
+      {
+        "id": "com.sankuai.hmeituan_78",
+        "User_Pain_Point": "平台算法过度压缩骑士配送时间，导致闯红灯等安全问题",
+        "Actionable_Suggestion": "调整配送算法，延长合理配送时间，保障骑士安全"
+      },
+      {
+        "id": "com.sankuai.hmeituan_79",
+        "User_Pain_Point": "每次都超时",
+        "Actionable_Suggestion": "优化配送路线和时间预估，减少超时"
+      },
+      {
+        "id": "com.sankuai.hmeituan_79",
+        "User_Pain_Point": "提前点送达，未到提前点击送达",
+        "Actionable_Suggestion": "加强骑手行为规范，禁止提前点送达，并添加到达确认机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_79",
+        "User_Pain_Point": "每次拿都找不到外卖，问骑手就是还没送达",
+        "Actionable_Suggestion": "优化取餐通知，提供实时位置共享，确保用户能找到外卖"
+      },
+      {
+        "id": "com.sankuai.hmeituan_84",
+        "User_Pain_Point": "平台存在大量虚假评价",
+        "Actionable_Suggestion": "加强评价审核，打击虚假评价"
+      },
+      {
+        "id": "com.sankuai.hmeituan_88",
+        "User_Pain_Point": "平台存在杀熟行为",
+        "Actionable_Suggestion": "优化定价策略，消除杀熟现象"
+      },
+      {
+        "id": "com.sankuai.hmeituan_95",
+        "User_Pain_Point": "点餐价格比安卓系统更贵",
+        "Actionable_Suggestion": "统一各平台价格策略，消除差异"
+      },
+      {
+        "id": "com.sankuai.hmeituan_95",
+        "User_Pain_Point": "大部分优惠券领不了，领了也优惠很少",
+        "Actionable_Suggestion": "修复优惠券领取功能，确保优惠力度一致"
+      },
+      {
+        "id": "com.sankuai.hmeituan_116",
+        "User_Pain_Point": "存在幽灵外卖问题，商家或订单虚假",
+        "Actionable_Suggestion": "加强商家审核和订单真实性监控"
+      },
+      {
+        "id": "com.sankuai.hmeituan_117",
+        "User_Pain_Point": "团购价格存在大数据杀熟，不同用户看到价格不同",
+        "Actionable_Suggestion": "透明化定价机制，杜绝杀熟行为"
+      },
+      {
+        "id": "com.sankuai.hmeituan_119",
+        "User_Pain_Point": "平台与商家勾结，损害消费者权益",
+        "Actionable_Suggestion": "加强消费者权益保护，建立公平交易机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_125",
+        "User_Pain_Point": "没有半价券",
+        "Actionable_Suggestion": "增加半价券的发放或调整活动规则"
+      },
+      {
+        "id": "com.sankuai.hmeituan_128",
+        "User_Pain_Point": "平台不强制要求外卖商家上传门店照片，监管不作为",
+        "Actionable_Suggestion": "强制要求商家上传门店照片，加强审核"
+      },
+      {
+        "id": "com.sankuai.hmeituan_129",
+        "User_Pain_Point": "价格越来越贵",
+        "Actionable_Suggestion": "优化定价策略，保持价格透明合理"
+      },
+      {
+        "id": "com.sankuai.hmeituan_130",
+        "User_Pain_Point": "刷视频赚金币活动存在套路，实际收益不符预期",
+        "Actionable_Suggestion": "优化活动规则，减少套路，提升用户信任"
+      },
+      {
+        "id": "com.sankuai.hmeituan_133",
+        "User_Pain_Point": "平台为了不超时，随意修改预计送达时间。",
+        "Actionable_Suggestion": "规范预计送达时间修改规则，保障用户知情权和权益。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_169",
+        "User_Pain_Point": "每次更新日志内容相同，缺乏诚意",
+        "Actionable_Suggestion": "更新日志应反映真实更新内容，避免敷衍"
+      },
+      {
+        "id": "com.sankuai.hmeituan_172",
+        "User_Pain_Point": "长时间未使用后没有优惠券，且无法评价",
+        "Actionable_Suggestion": "优化优惠券发放策略，恢复评价功能"
+      },
+      {
+        "id": "com.sankuai.hmeituan_175",
+        "User_Pain_Point": "客服质量差，解决问题能力不足",
+        "Actionable_Suggestion": "加强客服培训，提升服务质量"
+      },
+      {
+        "id": "com.sankuai.hmeituan_176",
+        "User_Pain_Point": "骑行卡自动续费仅支持美团支付，缺少微信等支付方式",
+        "Actionable_Suggestion": "增加更多支付方式，如微信支付、支付宝等"
+      },
+      {
+        "id": "com.sankuai.hmeituan_177",
+        "User_Pain_Point": "价格高、神券秒没，优惠力度下降",
+        "Actionable_Suggestion": "调整定价策略，增加优惠券发放数量，提升用户获得感"
+      },
+      {
+        "id": "com.sankuai.hmeituan_188",
+        "User_Pain_Point": "外卖配送频繁超时，平台对骑手约束不足",
+        "Actionable_Suggestion": "加强对外卖配送的监管和处罚机制，减少超时情况"
+      },
+      {
+        "id": "com.sankuai.hmeituan_192",
+        "User_Pain_Point": "申请退款美团要求投诉骑手，无法直接退款",
+        "Actionable_Suggestion": "修改退款政策，当配送未完成时自动退款"
+      },
+      {
+        "id": "com.sankuai.hmeituan_197",
+        "User_Pain_Point": "骑手素质低下",
+        "Actionable_Suggestion": "加强骑手培训与考核，建立投诉处理机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_200",
+        "User_Pain_Point": "商家审核不严，无良商家多且无法处理",
+        "Actionable_Suggestion": "加强商家资质审核与投诉处理机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_206",
+        "User_Pain_Point": "美团充电宝误扣99元，显示未还但实际未去该位置",
+        "Actionable_Suggestion": "核实充电宝归还记录，提供申诉渠道，避免误扣"
+      },
+      {
+        "id": "com.sankuai.hmeituan_207",
+        "User_Pain_Point": "对商家不友好，压榨佣金，纵容恶意差评和退款，不给合理申诉机会",
+        "Actionable_Suggestion": "优化佣金抽成，公正处理差评和退款，给予商家合理申诉机会"
+      },
+      {
+        "id": "com.sankuai.hmeituan_209",
+        "User_Pain_Point": "无法找到美团客服反馈问题",
+        "Actionable_Suggestion": "增加客服反馈入口，优化客服响应"
+      },
+      {
+        "id": "com.sankuai.hmeituan_211",
+        "User_Pain_Point": "平台纵容骑手偷外卖，感到失望",
+        "Actionable_Suggestion": "加强对骑手的管理和监督，建立有效的投诉处理机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_225",
+        "User_Pain_Point": "经常有机器人电话广告骚扰",
+        "Actionable_Suggestion": "减少或取消机器人电话广告推送"
+      },
+      {
+        "id": "com.sankuai.hmeituan_229",
+        "User_Pain_Point": "购买后膨胀券消失，无法使用",
+        "Actionable_Suggestion": "修复膨胀券发放逻辑，确保用户购买后券仍可用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_240",
+        "User_Pain_Point": "小站点不派送、虚假送达、需自己退款，服务体验差",
+        "Actionable_Suggestion": "加强站点管理，惩罚虚假送达行为，简化退款流程"
+      },
+      {
+        "id": "com.sankuai.hmeituan_249",
+        "User_Pain_Point": "老用户价格更高，疑似杀熟",
+        "Actionable_Suggestion": "优化定价策略，保证公平性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_254",
+        "User_Pain_Point": "用了也没人送",
+        "Actionable_Suggestion": "加强配送管理"
+      },
+      {
+        "id": "com.sankuai.hmeituan_254",
+        "User_Pain_Point": "准时宝压根就是霸王条款",
+        "Actionable_Suggestion": "修改准时宝条款使其更公平"
+      },
+      {
+        "id": "com.sankuai.hmeituan_256",
+        "User_Pain_Point": "配送非常慢",
+        "Actionable_Suggestion": "提升配送速度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_258",
+        "User_Pain_Point": "给骗子提供诈骗平台，被骗后平台不作为",
+        "Actionable_Suggestion": "加强反诈骗措施，建立用户投诉处理机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_259",
+        "User_Pain_Point": "打不进客服电话，都是人机",
+        "Actionable_Suggestion": "改进客服系统，提供人工服务"
+      },
+      {
+        "id": "com.sankuai.hmeituan_270",
+        "User_Pain_Point": "鸿蒙用户下单优惠较低，被店员调侃",
+        "Actionable_Suggestion": "提高鸿蒙用户的优惠力度，避免差异化对待"
+      },
+      {
+        "id": "com.sankuai.hmeituan_285",
+        "User_Pain_Point": "版本不更新",
+        "Actionable_Suggestion": "加快版本更新"
+      },
+      {
+        "id": "com.sankuai.hmeituan_286",
+        "User_Pain_Point": "卖假酒，维权难",
+        "Actionable_Suggestion": "加强商家审核，完善维权流程"
+      },
+      {
+        "id": "com.sankuai.hmeituan_290",
+        "User_Pain_Point": "客服未经同意取消订单",
+        "Actionable_Suggestion": "规范客服操作流程，需用户同意才取消订单"
+      },
+      {
+        "id": "com.sankuai.hmeituan_291",
+        "User_Pain_Point": "售后服务不行",
+        "Actionable_Suggestion": "改善售后服务质量。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_294",
+        "User_Pain_Point": "安心闪购假一赔十解决了吗",
+        "Actionable_Suggestion": "落实假一赔十承诺，加强商品质量监管。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_298",
+        "User_Pain_Point": "在网上卖假酒，宣传假一赔10，安心购，很多人都买到过这种假酒，然后，甚至还有威胁电话。",
+        "Actionable_Suggestion": "严查假货，履行假一赔十承诺，处理威胁电话。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_309",
+        "User_Pain_Point": "更新后看视频短剧的红包消失",
+        "Actionable_Suggestion": "修复更新导致的红包丢失问题，确保用户奖励不变"
+      },
+      {
+        "id": "com.sankuai.hmeituan_329",
+        "User_Pain_Point": "美团越用越贵，比别人的贵几块。",
+        "Actionable_Suggestion": "统一价格策略，避免差异化定价。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_331",
+        "User_Pain_Point": "包庇黑心商户，坑害消费者",
+        "Actionable_Suggestion": "加强商户审核机制，建立严格的投诉处理流程，及时下架违规商户"
+      },
+      {
+        "id": "com.sankuai.hmeituan_335",
+        "User_Pain_Point": "商品价格虚高，比超市贵近一倍",
+        "Actionable_Suggestion": "优化商品定价策略，比对市场价格，提供合理价格或优惠"
+      },
+      {
+        "id": "com.sankuai.hmeituan_341",
+        "User_Pain_Point": "更新只有版本号变化，更新说明敷衍，不如写修复了已知问题",
+        "Actionable_Suggestion": "改进更新说明，详细列出每次更新的具体内容"
+      },
+      {
+        "id": "com.sankuai.hmeituan_344",
+        "User_Pain_Point": "杀熟，感受到价格歧视",
+        "Actionable_Suggestion": "优化定价算法，确保公平对待所有用户"
+      },
+      {
+        "id": "com.sankuai.hmeituan_347",
+        "User_Pain_Point": "诱导欺骗开通金融付款功能",
+        "Actionable_Suggestion": "停止诱导行为，明确告知用户金融功能详情"
+      },
+      {
+        "id": "com.sankuai.hmeituan_348",
+        "User_Pain_Point": "吃相难看，点两次就疯狂涨价",
+        "Actionable_Suggestion": "控制涨价频率，提高定价透明度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_350",
+        "User_Pain_Point": "平台不给消费者解决问题，客服电话打不进去",
+        "Actionable_Suggestion": "改善客服响应流程，确保电话畅通和问题解决"
+      },
+      {
+        "id": "com.sankuai.hmeituan_358",
+        "User_Pain_Point": "申请赔偿优惠券被拒",
+        "Actionable_Suggestion": "优化理赔规则，对因骑手原因导致的餐损提供合理补偿。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_364",
+        "User_Pain_Point": "推荐不合理，推送距离过远；搜索推荐偏差（搜蛋糕推荐成人用品）",
+        "Actionable_Suggestion": "优化推荐算法，减少远距离推荐；改善搜索相关性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_365",
+        "User_Pain_Point": "吃到黑金，食品有异物",
+        "Actionable_Suggestion": "加强商家食品安全审核，建立快速投诉处理机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_365",
+        "User_Pain_Point": "被骑手骂，服务态度差",
+        "Actionable_Suggestion": "加强骑手培训，设立骑手服务评价与惩罚机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_365",
+        "User_Pain_Point": "客服不解决问题",
+        "Actionable_Suggestion": "优化客服流程，确保问题得到及时有效解决"
+      },
+      {
+        "id": "com.sankuai.hmeituan_367",
+        "User_Pain_Point": "客服机器人回复，不解决实际问题",
+        "Actionable_Suggestion": "增加人工客服介入机制，尤其是在计费争议时"
+      },
+      {
+        "id": "com.sankuai.hmeituan_367",
+        "User_Pain_Point": "因小额费用被威胁影响信用，体验差",
+        "Actionable_Suggestion": "调整信用策略，避免因小额争议过度影响用户信用"
+      },
+      {
+        "id": "com.sankuai.hmeituan_371",
+        "User_Pain_Point": "券膨胀的特别小",
+        "Actionable_Suggestion": "优化优惠券膨胀机制，提供更大幅度膨胀或明确膨胀规则"
+      },
+      {
+        "id": "com.sankuai.hmeituan_372",
+        "User_Pain_Point": "白金会员领券少于黄金会员，权益分配不合理",
+        "Actionable_Suggestion": "检查会员体系，确保等级越高权益越多，调整领券策略"
+      },
+      {
+        "id": "com.sankuai.hmeituan_374",
+        "User_Pain_Point": "客服联系不上，无法转人工",
+        "Actionable_Suggestion": "优化客服接入流程，增加人工客服通道，减少等待时间"
+      },
+      {
+        "id": "com.sankuai.hmeituan_375",
+        "User_Pain_Point": "客服重复套话、不解决问题，服务差",
+        "Actionable_Suggestion": "加强客服培训，提升问题解决能力，建立有效的反馈机制"
+      },
+      {
+        "id": "com.sankuai.hmeituan_384",
+        "User_Pain_Point": "平台乱打骚扰电话，收集用户信息，影响用户",
+        "Actionable_Suggestion": "停止骚扰电话，加强用户信息保护"
+      },
+      {
+        "id": "com.sankuai.hmeituan_393",
+        "User_Pain_Point": "商家货不对板退款难，平台处理不彻底，仅补贴部分金额",
+        "Actionable_Suggestion": "完善退款规则，加强商家监管，确保用户权益得到保障"
+      },
+      {
+        "id": "com.sankuai.hmeituan_408",
+        "User_Pain_Point": "优惠越来越少",
+        "Actionable_Suggestion": "增加优惠活动力度"
+      },
+      {
+        "id": "com.sankuai.hmeituan_409",
+        "User_Pain_Point": "一堆活动参加不了",
+        "Actionable_Suggestion": "修复活动参与功能，确保用户能正常参加"
+      },
+      {
+        "id": "com.sankuai.hmeituan_411",
+        "User_Pain_Point": "客服像机器人一样，无法有效解决问题。",
+        "Actionable_Suggestion": "提升客服智能化水平，增加人工客服快速接入通道。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_412",
+        "User_Pain_Point": "外卖默认不需要餐具，且忘记修改后无法补要。",
+        "Actionable_Suggestion": "修改默认餐具选项为“需要”，或在订单详情中提供修改餐具的入口。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_415",
+        "User_Pain_Point": "用户被迫充当商家和骑手之间的沟通中介，体验极差。",
+        "Actionable_Suggestion": "建立平台自动协调机制，当出现出餐晚或无骑手接单时主动介入，减少用户沟通成本。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_417",
+        "User_Pain_Point": "支付宝付款功能未上架，影响支付体验。",
+        "Actionable_Suggestion": "尽快上架支付宝支付方式，满足用户多样支付需求。"
+      },
+      {
+        "id": "com.sankuai.hmeituan_426",
+        "User_Pain_Point": "红包券比安卓少",
+        "Actionable_Suggestion": "统一各平台红包券发放数量"
+      },
+      {
+        "id": "com.sankuai.hmeituan_458",
+        "User_Pain_Point": "美团客服推卸责任，不解决定位问题",
+        "Actionable_Suggestion": "加强客服培训，避免推诿，主动解决问题"
+      },
+      {
+        "id": "com.sankuai.hmeituan_466",
+        "User_Pain_Point": "商品价格偏高，缺少美团券等优惠",
+        "Actionable_Suggestion": "增加优惠券活动，下调部分商品价格"
+      },
+      {
+        "id": "com.sankuai.hmeituan_473",
+        "User_Pain_Point": "感觉东西比之前手机贵",
+        "Actionable_Suggestion": "检查价格显示或定价策略，确保一致性"
+      },
+      {
+        "id": "com.sankuai.hmeituan_483",
+        "User_Pain_Point": "大数据杀熟，只推荐常浏览内容",
+        "Actionable_Suggestion": "推荐算法应更加公平，避免定向推荐"
+      },
+      {
+        "id": "com.sankuai.hmeituan_496",
+        "User_Pain_Point": "外卖员言语不当，影响体验",
+        "Actionable_Suggestion": "加强骑手培训与沟通规范"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.sankuai.hmeituan_15",
+        "User_Pain_Point": "更新频率高，用户赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_16",
+        "User_Pain_Point": "更新快且适配完美，特别赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_40",
+        "User_Pain_Point": "对比其他平台后表示永远拥护美团。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_71",
+        "User_Pain_Point": "很方便，每天都离不开它。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_73",
+        "User_Pain_Point": "鸿蒙越用越好用，加油👍",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_75",
+        "User_Pain_Point": "比淘宝好用多了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_97",
+        "User_Pain_Point": "近期更新频繁，功能追赶安卓，有望年前平齐",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_101",
+        "User_Pain_Point": "应用很好用，团购很划算。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_118",
+        "User_Pain_Point": "整体使用体验非常棒",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_137",
+        "User_Pain_Point": "好好（整体体验好）。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_163",
+        "User_Pain_Point": "用户整体评价非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_170",
+        "User_Pain_Point": "用户称赞更新频率高",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_184",
+        "User_Pain_Point": "长期使用并给予好评，期望获得额度",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_185",
+        "User_Pain_Point": "整体体验好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_190",
+        "User_Pain_Point": "整体体验好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_214",
+        "User_Pain_Point": "基本拉齐安卓，功能完善",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_227",
+        "User_Pain_Point": "好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_252",
+        "User_Pain_Point": "很好，半年时间功能都赶上了，比网易给力多了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_261",
+        "User_Pain_Point": "外卖被偷后立即退款，体验好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_277",
+        "User_Pain_Point": "非常好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_296",
+        "User_Pain_Point": "唯一好就是没有广告了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_305",
+        "User_Pain_Point": "短视频和直播功能推出速度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_308",
+        "User_Pain_Point": "用户鼓励团队继续努力",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_343",
+        "User_Pain_Point": "加油，越来越完善了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_376",
+        "User_Pain_Point": "无",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_398",
+        "User_Pain_Point": "整体使用体验不错，用户给予鼓励",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_404",
+        "User_Pain_Point": "美团让我赶到非常好，物美价廉，值得购买，服务也很好，真心喜欢",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_423",
+        "User_Pain_Point": "赞赏美团支持折叠屏平行视界，图片比例正常",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_432",
+        "User_Pain_Point": "整体体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_439",
+        "User_Pain_Point": "日常试用没问题，希望再接再厉",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_444",
+        "User_Pain_Point": "最近一次更新解决了很多痛点",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_467",
+        "User_Pain_Point": "接近安卓版，支持直播间下单，更新快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_469",
+        "User_Pain_Point": "功能修补速度快",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_474",
+        "User_Pain_Point": "会员终于能用了，可以把老华为卖喽",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_476",
+        "User_Pain_Point": "又更新了，不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_484",
+        "User_Pain_Point": "基本功能都有了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_490",
+        "User_Pain_Point": "功能越来越全了",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.sankuai.hmeituan_495",
+        "User_Pain_Point": "无",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.sankuai.hmeituan_158",
+        "User_Pain_Point": "小游戏界面出现的还是视频和短剧",
+        "Actionable_Suggestion": "小游戏界面只展示游戏内容，去掉视频和短剧"
+      },
+      {
+        "id": "com.sankuai.hmeituan_333",
+        "User_Pain_Point": "鸿蒙版推荐内容质量差，包含无关内容如纹身",
+        "Actionable_Suggestion": "优化推荐算法，根据用户兴趣精准推荐，过滤低质内容"
+      },
+      {
+        "id": "com.sankuai.hmeituan_359",
+        "User_Pain_Point": "团团转功能下架，找不到",
+        "Actionable_Suggestion": "恢复团团转功能或提供替代方案，并在更新日志说明。"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.sankuai.hmeituan_478",
+        "User_Pain_Point": "线上娱乐希望增加免费水果功能",
+        "Actionable_Suggestion": "考虑增加免费水果功能或活动"
+      }
+    ]
+  }
+}

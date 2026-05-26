@@ -1,0 +1,3133 @@
+{
+  "功能体验": {
+    "Negative": [
+      {
+        "id": "com.kuaishou.hmapp_1",
+        "User_Pain_Point": "缺少一键成片功能",
+        "Actionable_Suggestion": "更新一键成片功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_1",
+        "User_Pain_Point": "缺少听视频功能",
+        "Actionable_Suggestion": "增加听视频功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_3",
+        "User_Pain_Point": "无法发动图",
+        "Actionable_Suggestion": "增加动图发布功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_4",
+        "User_Pain_Point": "无法看直播或分享直播间",
+        "Actionable_Suggestion": "完善直播观看和分享功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_6",
+        "User_Pain_Point": "无法查看谁浏览了作品",
+        "Actionable_Suggestion": "恢复浏览记录功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_7",
+        "User_Pain_Point": "缺少与豆包视频通话功能",
+        "Actionable_Suggestion": "尽快开通与豆包视频通话功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_8",
+        "User_Pain_Point": "无法进群",
+        "Actionable_Suggestion": "修复进群功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_8",
+        "User_Pain_Point": "家人团队亲密关系暂不支持",
+        "Actionable_Suggestion": "开发家人团队亲密关系功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_8",
+        "User_Pain_Point": "无法同意朋友邀请",
+        "Actionable_Suggestion": "修复邀请同意功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_11",
+        "User_Pain_Point": "直播缺少聊天室功能",
+        "Actionable_Suggestion": "增加直播聊天室功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_12",
+        "User_Pain_Point": "聊天气泡和人物装扮需要升级",
+        "Actionable_Suggestion": "升级聊天气泡和人物装扮"
+      },
+      {
+        "id": "com.kuaishou.hmapp_12",
+        "User_Pain_Point": "无法查看群聊人物",
+        "Actionable_Suggestion": "增加群聊人物查看功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_12",
+        "User_Pain_Point": "无法查看电量",
+        "Actionable_Suggestion": "增加电量显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_12",
+        "User_Pain_Point": "需要升级新版本",
+        "Actionable_Suggestion": "发布新版本更新"
+      },
+      {
+        "id": "com.kuaishou.hmapp_13",
+        "User_Pain_Point": "缺少卖家版应用",
+        "Actionable_Suggestion": "推出卖家版应用"
+      },
+      {
+        "id": "com.kuaishou.hmapp_14",
+        "User_Pain_Point": "无法设置深色模式",
+        "Actionable_Suggestion": "增加深色模式开关"
+      },
+      {
+        "id": "com.kuaishou.hmapp_14",
+        "User_Pain_Point": "无法养火崽崽",
+        "Actionable_Suggestion": "增加养火崽崽功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_17",
+        "User_Pain_Point": "PK分数不可见",
+        "Actionable_Suggestion": "在PK界面显示分数"
+      },
+      {
+        "id": "com.kuaishou.hmapp_18",
+        "User_Pain_Point": "无法转发照片",
+        "Actionable_Suggestion": "增加转发照片功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_18",
+        "User_Pain_Point": "私信无法发送实况照片",
+        "Actionable_Suggestion": "支持私信发送实况照片"
+      },
+      {
+        "id": "com.kuaishou.hmapp_18",
+        "User_Pain_Point": "对方发来的实况保存后变成静态照片",
+        "Actionable_Suggestion": "修复实况照片保存为动图或视频"
+      },
+      {
+        "id": "com.kuaishou.hmapp_18",
+        "User_Pain_Point": "背景图设置为视频后不显示",
+        "Actionable_Suggestion": "修复背景图视频显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_19",
+        "User_Pain_Point": "应用版本过旧，需要尽快更新",
+        "Actionable_Suggestion": "加速新版本发布"
+      },
+      {
+        "id": "com.kuaishou.hmapp_20",
+        "User_Pain_Point": "缺少个人小店功能",
+        "Actionable_Suggestion": "增加个人小店功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_21",
+        "User_Pain_Point": "聊天界面中滑动视频功能失效，无法上下滑动视频。",
+        "Actionable_Suggestion": "修复聊天界面视频滑动功能，确保用户能正常上下滑动视频。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_22",
+        "User_Pain_Point": "缺少动图功能。",
+        "Actionable_Suggestion": "尽快增加动图（GIF）支持。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_23",
+        "User_Pain_Point": "快手小店商品二维码无法扫描，影响电商使用。",
+        "Actionable_Suggestion": "修复快手小店二维码扫描功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_25",
+        "User_Pain_Point": "缺少语音上麦聊天功能。",
+        "Actionable_Suggestion": "增加语音上麦聊天功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_26",
+        "User_Pain_Point": "缺少语音和视频连麦功能。",
+        "Actionable_Suggestion": "尽快更新语音和视频连麦功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_27",
+        "User_Pain_Point": "直播缺少连麦和PK功能。",
+        "Actionable_Suggestion": "增加直播连麦和PK功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_28",
+        "User_Pain_Point": "评论区缺少语音功能。",
+        "Actionable_Suggestion": "在评论区增加语音留言功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_30",
+        "User_Pain_Point": "缺少“拍同款”功能。",
+        "Actionable_Suggestion": "增加“拍同款”功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_31",
+        "User_Pain_Point": "不能和主播连麦和语音",
+        "Actionable_Suggestion": "增加连麦和语音功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_32",
+        "User_Pain_Point": "找不到创作者中心",
+        "Actionable_Suggestion": "增加创作者中心入口"
+      },
+      {
+        "id": "com.kuaishou.hmapp_34",
+        "User_Pain_Point": "赚金币功能不稳定",
+        "Actionable_Suggestion": "优化赚金币功能的稳定性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_34",
+        "User_Pain_Point": "聊天功能需改进",
+        "Actionable_Suggestion": "改进聊天功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_36",
+        "User_Pain_Point": "商城打不开我的订单",
+        "Actionable_Suggestion": "修复商城订单页面无法打开的问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_37",
+        "User_Pain_Point": "不能发动图",
+        "Actionable_Suggestion": "增加发动态图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_37",
+        "User_Pain_Point": "发作品时不能不让个别人看",
+        "Actionable_Suggestion": "增加作品可见范围设置"
+      },
+      {
+        "id": "com.kuaishou.hmapp_38",
+        "User_Pain_Point": "没有手动刷新开关，自动刷新导致视频列表变化",
+        "Actionable_Suggestion": "增加手动刷新开关并优化自动刷新逻辑"
+      },
+      {
+        "id": "com.kuaishou.hmapp_40",
+        "User_Pain_Point": "语音评论功能需要提升",
+        "Actionable_Suggestion": "优化语音评论功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_41",
+        "User_Pain_Point": "视频音乐残留，上一个视频的音乐会延续到下一个视频",
+        "Actionable_Suggestion": "修复音频播放逻辑，确保切换视频时清除上一个视频的音乐"
+      },
+      {
+        "id": "com.kuaishou.hmapp_42",
+        "User_Pain_Point": "页面缺少火崽功能",
+        "Actionable_Suggestion": "检查火崽功能是否对所有用户开放或修复显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_43",
+        "User_Pain_Point": "火崽崽功能缺失，且缺少深色模式",
+        "Actionable_Suggestion": "尽快回归火崽功能并增加深色模式"
+      },
+      {
+        "id": "com.kuaishou.hmapp_44",
+        "User_Pain_Point": "缺少幸运星、好运来等更新",
+        "Actionable_Suggestion": "规划并尽快推出幸运星、好运来等功能更新"
+      },
+      {
+        "id": "com.kuaishou.hmapp_45",
+        "User_Pain_Point": "视频分享时不能快捷搜索好友",
+        "Actionable_Suggestion": "在分享界面增加好友搜索功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_45",
+        "User_Pain_Point": "直播无法投屏",
+        "Actionable_Suggestion": "增加直播投屏功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_45",
+        "User_Pain_Point": "通知和私信没有提示显示",
+        "Actionable_Suggestion": "修复通知和私信的提示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_46",
+        "User_Pain_Point": "创作中心无法进入",
+        "Actionable_Suggestion": "修复创作中心入口或后台问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_46",
+        "User_Pain_Point": "功能上架速度慢",
+        "Actionable_Suggestion": "加快功能迭代和上架速度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_49",
+        "User_Pain_Point": "不支持动图发作品",
+        "Actionable_Suggestion": "增加动图发作品功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_50",
+        "User_Pain_Point": "不支持QQ号登录",
+        "Actionable_Suggestion": "增加QQ号登录方式"
+      },
+      {
+        "id": "com.kuaishou.hmapp_51",
+        "User_Pain_Point": "直播间没有连麦功能",
+        "Actionable_Suggestion": "增加直播间连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_52",
+        "User_Pain_Point": "语音厅玩法缺失",
+        "Actionable_Suggestion": "恢复语音厅玩法"
+      },
+      {
+        "id": "com.kuaishou.hmapp_53",
+        "User_Pain_Point": "打赏礼物页面缺少许多礼物",
+        "Actionable_Suggestion": "补全打赏礼物页面"
+      },
+      {
+        "id": "com.kuaishou.hmapp_53",
+        "User_Pain_Point": "缺少创作者中心",
+        "Actionable_Suggestion": "添加创作者中心"
+      },
+      {
+        "id": "com.kuaishou.hmapp_55",
+        "User_Pain_Point": "不能发长图，没有头像圈功能",
+        "Actionable_Suggestion": "增加发长图和头像圈功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_56",
+        "User_Pain_Point": "发视频时语音转文字功能缺失",
+        "Actionable_Suggestion": "恢复语音转文字功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_58",
+        "User_Pain_Point": "拍的照片必须发布才能保存",
+        "Actionable_Suggestion": "允许拍摄后直接保存照片"
+      },
+      {
+        "id": "com.kuaishou.hmapp_60",
+        "User_Pain_Point": "聊天频道未显示",
+        "Actionable_Suggestion": "修复聊天频道显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_61",
+        "User_Pain_Point": "缺少创作者中心功能",
+        "Actionable_Suggestion": "添加创作者中心功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_62",
+        "User_Pain_Point": "短视频页面很多细节待完善",
+        "Actionable_Suggestion": "完善短视频页面细节"
+      },
+      {
+        "id": "com.kuaishou.hmapp_63",
+        "User_Pain_Point": "配音功能体验差",
+        "Actionable_Suggestion": "优化配音功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_64",
+        "User_Pain_Point": "无法发布实况照片",
+        "Actionable_Suggestion": "支持发布实况照片"
+      },
+      {
+        "id": "com.kuaishou.hmapp_65",
+        "User_Pain_Point": "版本更新慢，很多功能暂不支持",
+        "Actionable_Suggestion": "加快更新频率，支持更多功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_68",
+        "User_Pain_Point": "无法查看作品浏览记录",
+        "Actionable_Suggestion": "增加作品浏览记录查看功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_69",
+        "User_Pain_Point": "不能发实况动图作品",
+        "Actionable_Suggestion": "支持发布实况动图作品"
+      },
+      {
+        "id": "com.kuaishou.hmapp_70",
+        "User_Pain_Point": "作品查看不支持按时间或热度排序",
+        "Actionable_Suggestion": "增加作品排序功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_70",
+        "User_Pain_Point": "收藏失效作品清理不便",
+        "Actionable_Suggestion": "增加收藏失效清理选项"
+      },
+      {
+        "id": "com.kuaishou.hmapp_72",
+        "User_Pain_Point": "语音厅功能不完善，只能进去但无法操作，无法查看几号麦",
+        "Actionable_Suggestion": "完善语音厅功能，支持查看麦位和互动操作"
+      },
+      {
+        "id": "com.kuaishou.hmapp_73",
+        "User_Pain_Point": "缺少创作中心入口",
+        "Actionable_Suggestion": "增加创作中心功能入口"
+      },
+      {
+        "id": "com.kuaishou.hmapp_74",
+        "User_Pain_Point": "调声音大小的功能不可见或缺失",
+        "Actionable_Suggestion": "恢复音量调节功能并正常显示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_74",
+        "User_Pain_Point": "礼物没有分类展示",
+        "Actionable_Suggestion": "增加礼物分类功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_74",
+        "User_Pain_Point": "快手活动没有显示出来",
+        "Actionable_Suggestion": "修复活动显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_74",
+        "User_Pain_Point": "礼物效果没有展示",
+        "Actionable_Suggestion": "恢复礼物效果展示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_75",
+        "User_Pain_Point": "语音功能需要完善",
+        "Actionable_Suggestion": "完善语音功能，至少提供基础操作"
+      },
+      {
+        "id": "com.kuaishou.hmapp_76",
+        "User_Pain_Point": "群聊页面无法查找之前的聊天照片和视频",
+        "Actionable_Suggestion": "增加群聊聊天记录搜索和查看照片视频的功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_77",
+        "User_Pain_Point": "游览功能缺失",
+        "Actionable_Suggestion": "上线游览功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_77",
+        "User_Pain_Point": "推荐作品功能缺失",
+        "Actionable_Suggestion": "增加推荐作品功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_77",
+        "User_Pain_Point": "发视频配音乐功能缺失",
+        "Actionable_Suggestion": "增加发视频配音乐功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_77",
+        "User_Pain_Point": "多段动图功能缺失",
+        "Actionable_Suggestion": "增加多段动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_77",
+        "User_Pain_Point": "新增的备注显示功能没有了",
+        "Actionable_Suggestion": "恢复备注显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_78",
+        "User_Pain_Point": "无法观看九宫格打PK",
+        "Actionable_Suggestion": "增加九宫格打PK功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_80",
+        "User_Pain_Point": "幸运星功能不显示",
+        "Actionable_Suggestion": "修复幸运星显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_81",
+        "User_Pain_Point": "直播评论无法复制粘贴",
+        "Actionable_Suggestion": "增加直播评论复制粘贴功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_82",
+        "User_Pain_Point": "视频时没有美颜功能",
+        "Actionable_Suggestion": "增加视频美颜功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_83",
+        "User_Pain_Point": "缺少直播连麦和语音功能",
+        "Actionable_Suggestion": "增加直播连麦和语音功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_83",
+        "User_Pain_Point": "缺少草稿箱中的相片编辑功能",
+        "Actionable_Suggestion": "增加相片编辑功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_84",
+        "User_Pain_Point": "不能连麦",
+        "Actionable_Suggestion": "增加连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_85",
+        "User_Pain_Point": "无法选择歌词",
+        "Actionable_Suggestion": "增加歌词选择功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_86",
+        "User_Pain_Point": "缺少连麦互动功能",
+        "Actionable_Suggestion": "增加连麦互动功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_86",
+        "User_Pain_Point": "不能直播",
+        "Actionable_Suggestion": "增加直播功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_86",
+        "User_Pain_Point": "不能确定关系",
+        "Actionable_Suggestion": "增加确定关系功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_86",
+        "User_Pain_Point": "缺少粉丝团功能",
+        "Actionable_Suggestion": "增加粉丝团功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_86",
+        "User_Pain_Point": "缺少星耀等级功能",
+        "Actionable_Suggestion": "增加星耀等级功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_86",
+        "User_Pain_Point": "缺少守护等级功能",
+        "Actionable_Suggestion": "增加守护等级功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_87",
+        "User_Pain_Point": "视频时没有特效",
+        "Actionable_Suggestion": "增加视频特效功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_88",
+        "User_Pain_Point": "语音厅聊天室功能未完善",
+        "Actionable_Suggestion": "完善语音厅聊天室功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_89",
+        "User_Pain_Point": "直播不显示灯牌",
+        "Actionable_Suggestion": "增加直播灯牌显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_89",
+        "User_Pain_Point": "开播时不显示礼物个数",
+        "Actionable_Suggestion": "增加礼物个数显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_90",
+        "User_Pain_Point": "不能发动图",
+        "Actionable_Suggestion": "增加发动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_91",
+        "User_Pain_Point": "没有语音功能，太不好用",
+        "Actionable_Suggestion": "增加语音功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_92",
+        "User_Pain_Point": "连个表情都发不了",
+        "Actionable_Suggestion": "增加表情发送功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_94",
+        "User_Pain_Point": "作品还不能添加文字，不能设置封面",
+        "Actionable_Suggestion": "添加文字和封面设置功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_95",
+        "User_Pain_Point": "发链接商品打开不了",
+        "Actionable_Suggestion": "修复链接商品打开问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_96",
+        "User_Pain_Point": "礼物减分的功能还没有开发好",
+        "Actionable_Suggestion": "尽快开发礼物减分功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_98",
+        "User_Pain_Point": "没有幸运星和抢红包功能",
+        "Actionable_Suggestion": "增加幸运星和抢红包功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_99",
+        "User_Pain_Point": "直播间@不了其他人",
+        "Actionable_Suggestion": "修复直播间@功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_101",
+        "User_Pain_Point": "无法发布长图作品，影响分享",
+        "Actionable_Suggestion": "增加长图发布功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_102",
+        "User_Pain_Point": "直播功能缺失：无法看到直播画面、没有表情包、不能连麦",
+        "Actionable_Suggestion": "完善直播功能，支持画面显示、表情包和连麦"
+      },
+      {
+        "id": "com.kuaishou.hmapp_104",
+        "User_Pain_Point": "访客记录无法关闭，导致无法匿名浏览",
+        "Actionable_Suggestion": "增加关闭访客记录的选项"
+      },
+      {
+        "id": "com.kuaishou.hmapp_106",
+        "User_Pain_Point": "创作者中心功能未接入或缺失",
+        "Actionable_Suggestion": "尽快接入创作者中心"
+      },
+      {
+        "id": "com.kuaishou.hmapp_107",
+        "User_Pain_Point": "不支持动图",
+        "Actionable_Suggestion": "增加动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_108",
+        "User_Pain_Point": "直播间聊天室功能异常，无法正常聊天",
+        "Actionable_Suggestion": "修复聊天室功能，恢复正常聊天"
+      },
+      {
+        "id": "com.kuaishou.hmapp_110",
+        "User_Pain_Point": "鸿蒙版直播功能不完善，游戏直播特有功能无法使用",
+        "Actionable_Suggestion": "尽快更新直播功能，支持游戏直播特有功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_111",
+        "User_Pain_Point": "关系等级达到100级才能养猫咪，等级要求太高",
+        "Actionable_Suggestion": "将等级要求降低到50级"
+      },
+      {
+        "id": "com.kuaishou.hmapp_112",
+        "User_Pain_Point": "无法发送长图",
+        "Actionable_Suggestion": "增加发长图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_113",
+        "User_Pain_Point": "无法发动图",
+        "Actionable_Suggestion": "尽快开发发动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_115",
+        "User_Pain_Point": "无法更新动图",
+        "Actionable_Suggestion": "尽快支持动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_117",
+        "User_Pain_Point": "缺少创作者中心和快手小店切换买家选项",
+        "Actionable_Suggestion": "增加创作者中心，添加快手小店切换买家选项"
+      },
+      {
+        "id": "com.kuaishou.hmapp_118",
+        "User_Pain_Point": "直播间无法上麦聊天",
+        "Actionable_Suggestion": "开发直播间上麦聊天功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_120",
+        "User_Pain_Point": "缺少快聘管家功能",
+        "Actionable_Suggestion": "增加快聘管家功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_121",
+        "User_Pain_Point": "直播聊天室提示版本低且无法看到人，功能不可用。",
+        "Actionable_Suggestion": "修复聊天室版本兼容问题，确保用户可正常进入并使用聊天功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_122",
+        "User_Pain_Point": "在快手购买的课程‘易只课堂’打不开看不了。",
+        "Actionable_Suggestion": "检查课程购买与播放逻辑，确保用户可正常访问已购买内容。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_127",
+        "User_Pain_Point": "缺少实况功能（Live Photo）。",
+        "Actionable_Suggestion": "增加实况照片功能，满足用户需求。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_132",
+        "User_Pain_Point": "连麦功能长期无法使用",
+        "Actionable_Suggestion": "尽快修复连麦功能恢复正常使用"
+      },
+      {
+        "id": "com.kuaishou.hmapp_134",
+        "User_Pain_Point": "语音功能无法收听",
+        "Actionable_Suggestion": "修复语音播放功能异常"
+      },
+      {
+        "id": "com.kuaishou.hmapp_135",
+        "User_Pain_Point": "直播间不显示粉丝团等级",
+        "Actionable_Suggestion": "在直播间添加粉丝团等级显示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_136",
+        "User_Pain_Point": "无法观看PK功能",
+        "Actionable_Suggestion": "修复PK功能无法观看的问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_138",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "尽快开发并上线深色模式"
+      },
+      {
+        "id": "com.kuaishou.hmapp_140",
+        "User_Pain_Point": "博主视频主页缺少点亮爱心功能",
+        "Actionable_Suggestion": "完善博主视频主页点亮爱心功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_140",
+        "User_Pain_Point": "缺少封面编辑功能",
+        "Actionable_Suggestion": "添加封面编辑功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_142",
+        "User_Pain_Point": "店铺里不能看直播回放",
+        "Actionable_Suggestion": "增加直播回放功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_143",
+        "User_Pain_Point": "语音不能用",
+        "Actionable_Suggestion": "修复语音功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_144",
+        "User_Pain_Point": "拍照保存不了相册",
+        "Actionable_Suggestion": "修复拍照保存功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_146",
+        "User_Pain_Point": "看直播不能清屏",
+        "Actionable_Suggestion": "增加清屏功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_149",
+        "User_Pain_Point": "打PK看不到分数和PK时间",
+        "Actionable_Suggestion": "显示PK分数和时间"
+      },
+      {
+        "id": "com.kuaishou.hmapp_150",
+        "User_Pain_Point": "评论区不能看动图和发多图",
+        "Actionable_Suggestion": "支持评论区动图和多图"
+      },
+      {
+        "id": "com.kuaishou.hmapp_151",
+        "User_Pain_Point": "缺少手游直播功能",
+        "Actionable_Suggestion": "添加手游直播功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_153",
+        "User_Pain_Point": "直播中看不见灯牌",
+        "Actionable_Suggestion": "修复直播中灯牌显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_154",
+        "User_Pain_Point": "无法更新版本",
+        "Actionable_Suggestion": "提供版本更新渠道或修复更新功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_155",
+        "User_Pain_Point": "分享链接无法打开",
+        "Actionable_Suggestion": "修复分享链接打开问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_157",
+        "User_Pain_Point": "闪电购小黄车不弹出和商品讲解回放不可见",
+        "Actionable_Suggestion": "修复闪电购小黄车弹出和商品讲解回放功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_160",
+        "User_Pain_Point": "缺少你画我猜功能",
+        "Actionable_Suggestion": "添加你画我猜功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_161",
+        "User_Pain_Point": "看不到群成员",
+        "Actionable_Suggestion": "添加查看群成员功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_162",
+        "User_Pain_Point": "没有共享电量权益",
+        "Actionable_Suggestion": "增加共享电量权益功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_163",
+        "User_Pain_Point": "收藏不能分类",
+        "Actionable_Suggestion": "添加收藏分类功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_165",
+        "User_Pain_Point": "直播功能没有显示 null",
+        "Actionable_Suggestion": "修复直播功能显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_165",
+        "User_Pain_Point": "快手小游戏没有",
+        "Actionable_Suggestion": "添加快手小游戏功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_165",
+        "User_Pain_Point": "团购功能没有",
+        "Actionable_Suggestion": "添加团购功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_165",
+        "User_Pain_Point": "商城功能没有",
+        "Actionable_Suggestion": "添加商城功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_166",
+        "User_Pain_Point": "看直播不能上麦",
+        "Actionable_Suggestion": "添加直播上麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_169",
+        "User_Pain_Point": "我的花园功能没有了",
+        "Actionable_Suggestion": "恢复我的花园功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_170",
+        "User_Pain_Point": "表情包添加不了了",
+        "Actionable_Suggestion": "修复表情包添加功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_171",
+        "User_Pain_Point": "缺少备注、打电话消息、分享评论消息等功能",
+        "Actionable_Suggestion": "建议增加备注、打电话消息、分享评论消息等功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_172",
+        "User_Pain_Point": "无法分享私信消息，无法保存朋友发的视频",
+        "Actionable_Suggestion": "建议增加私信消息分享和视频保存功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_173",
+        "User_Pain_Point": "快手钱包提现功能缺失",
+        "Actionable_Suggestion": "建议尽快更新钱包提现功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_175",
+        "User_Pain_Point": "无法看到直播画面和连线",
+        "Actionable_Suggestion": "建议增加直播画面和连线功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_176",
+        "User_Pain_Point": "新机型上直播间功能缺失",
+        "Actionable_Suggestion": "建议适配新机型，补齐直播功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_177",
+        "User_Pain_Point": "分享数量显示为零",
+        "Actionable_Suggestion": "建议修复分享数量显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_181",
+        "User_Pain_Point": "多人PK局看不到每个直播间实时送礼明细",
+        "Actionable_Suggestion": "优化PK直播功能，显示实时送礼明细"
+      },
+      {
+        "id": "com.kuaishou.hmapp_182",
+        "User_Pain_Point": "自己等级看不见",
+        "Actionable_Suggestion": "修复用户等级显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_182",
+        "User_Pain_Point": "礼物功能缺失",
+        "Actionable_Suggestion": "恢复礼物功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_182",
+        "User_Pain_Point": "版本落后，功能仍为老版",
+        "Actionable_Suggestion": "加快版本更新，补齐老版缺失功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_183",
+        "User_Pain_Point": "评论数显示错误，从132亿变为四千多万",
+        "Actionable_Suggestion": "修复评论数统计逻辑，确保数据准确"
+      },
+      {
+        "id": "com.kuaishou.hmapp_184",
+        "User_Pain_Point": "私信视频不能下载",
+        "Actionable_Suggestion": "支持下载私信视频"
+      },
+      {
+        "id": "com.kuaishou.hmapp_184",
+        "User_Pain_Point": "作品不能发动图",
+        "Actionable_Suggestion": "支持发布动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_186",
+        "User_Pain_Point": "备注功能消失",
+        "Actionable_Suggestion": "恢复备注功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_187",
+        "User_Pain_Point": "缺少一起看功能",
+        "Actionable_Suggestion": "增加一起看功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_188",
+        "User_Pain_Point": "打PK看不见分数和血条",
+        "Actionable_Suggestion": "修复PK功能，显示分数和血条"
+      },
+      {
+        "id": "com.kuaishou.hmapp_189",
+        "User_Pain_Point": "出现暂不支持的消息提示",
+        "Actionable_Suggestion": "明确暂不支持原因并尽快支持相关功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_190",
+        "User_Pain_Point": "无法进入快手群",
+        "Actionable_Suggestion": "尽快开放快手群功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_191",
+        "User_Pain_Point": "找不到创作者中心",
+        "Actionable_Suggestion": "建议在设置或首页添加创作者中心入口"
+      },
+      {
+        "id": "com.kuaishou.hmapp_191",
+        "User_Pain_Point": "发短视频前的小程序和网络推广功能缺失",
+        "Actionable_Suggestion": "建议恢复小程序和网络推广功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_192",
+        "User_Pain_Point": "发作品的长图功能需要更新",
+        "Actionable_Suggestion": "建议优化长图发布功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_194",
+        "User_Pain_Point": "表情包功能缺失",
+        "Actionable_Suggestion": "建议恢复表情包功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_195",
+        "User_Pain_Point": "福袋幸运星功能不显示，无法参加",
+        "Actionable_Suggestion": "建议开发福袋幸运星功能并显示入口"
+      },
+      {
+        "id": "com.kuaishou.hmapp_196",
+        "User_Pain_Point": "发作品添加音乐没效果",
+        "Actionable_Suggestion": "建议修复音乐添加功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_198",
+        "User_Pain_Point": "福袋功能没什么内容或不好用",
+        "Actionable_Suggestion": "建议丰富福袋内容或优化福袋功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_199",
+        "User_Pain_Point": "发不了长图模式",
+        "Actionable_Suggestion": "建议支持长图发布模式"
+      },
+      {
+        "id": "com.kuaishou.hmapp_199",
+        "User_Pain_Point": "私信有的消息看不到",
+        "Actionable_Suggestion": "建议修复私信消息显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_200",
+        "User_Pain_Point": "不能看对方的点赞",
+        "Actionable_Suggestion": "建议增加查看对方点赞的功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_201",
+        "User_Pain_Point": "买东西时没有产品介绍视频",
+        "Actionable_Suggestion": "增加产品介绍视频功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_202",
+        "User_Pain_Point": "聊天室功能两年不增加，需要的功能缺失",
+        "Actionable_Suggestion": "增加聊天室相关功能，如语音、视频等"
+      },
+      {
+        "id": "com.kuaishou.hmapp_202",
+        "User_Pain_Point": "不需要的功能在瞎更新，不聚焦用户需求",
+        "Actionable_Suggestion": "根据用户需求优化更新计划"
+      },
+      {
+        "id": "com.kuaishou.hmapp_203",
+        "User_Pain_Point": "很多信息不支持查看",
+        "Actionable_Suggestion": "支持查看各类信息"
+      },
+      {
+        "id": "com.kuaishou.hmapp_204",
+        "User_Pain_Point": "缺少和朋友语音通话和视频通话功能",
+        "Actionable_Suggestion": "增加语音/视频通话功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_204",
+        "User_Pain_Point": "缺少直播间视频通话连麦模式",
+        "Actionable_Suggestion": "增加直播间连麦模式"
+      },
+      {
+        "id": "com.kuaishou.hmapp_204",
+        "User_Pain_Point": "个人直播功能未开通",
+        "Actionable_Suggestion": "考虑开放直播功能给用户"
+      },
+      {
+        "id": "com.kuaishou.hmapp_205",
+        "User_Pain_Point": "直播抢东西没有弹窗提醒",
+        "Actionable_Suggestion": "增加直播抢购弹窗提醒"
+      },
+      {
+        "id": "com.kuaishou.hmapp_206",
+        "User_Pain_Point": "视频不能分享到群",
+        "Actionable_Suggestion": "增加视频分享到群聊功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_207",
+        "User_Pain_Point": "屏蔽或拉黑后仍能刷到不想看的内容",
+        "Actionable_Suggestion": "优化屏蔽/拉黑功能的生效机制"
+      },
+      {
+        "id": "com.kuaishou.hmapp_208",
+        "User_Pain_Point": "不能发动态照片",
+        "Actionable_Suggestion": "增加发布动态照片的功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_209",
+        "User_Pain_Point": "分享视频不能添加群聊",
+        "Actionable_Suggestion": "增加分享视频到群聊功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_210",
+        "User_Pain_Point": "部分消息无法打开显示",
+        "Actionable_Suggestion": "修复消息显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_211",
+        "User_Pain_Point": "刷视频人像模糊发虚有重影，开启高刷新率和高分辨率无效",
+        "Actionable_Suggestion": "优化视频播放画质算法"
+      },
+      {
+        "id": "com.kuaishou.hmapp_212",
+        "User_Pain_Point": "无法查看多人聊天对话框，提示此版本不支持",
+        "Actionable_Suggestion": "尽快支持多人聊天对话框功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_213",
+        "User_Pain_Point": "界面分享功能缺少转发选项",
+        "Actionable_Suggestion": "添加分享转发功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_214",
+        "User_Pain_Point": "无法开启视频美颜功能",
+        "Actionable_Suggestion": "修复美颜功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_215",
+        "User_Pain_Point": "一起看视频功能无法接听或使用",
+        "Actionable_Suggestion": "修复一起看视频功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_216",
+        "User_Pain_Point": "缺少实名认证功能",
+        "Actionable_Suggestion": "增加实名认证功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_218",
+        "User_Pain_Point": "视频连麦不行，无法进入聊天室",
+        "Actionable_Suggestion": "修复视频连麦和聊天室功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_219",
+        "User_Pain_Point": "拍视频没有特效",
+        "Actionable_Suggestion": "增加视频特效功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_220",
+        "User_Pain_Point": "聊天室看不到人且不能发语音",
+        "Actionable_Suggestion": "修复聊天室显示和语音功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_221",
+        "User_Pain_Point": "聊天气泡功能不可用",
+        "Actionable_Suggestion": "修复聊天气泡功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_221",
+        "User_Pain_Point": "查看成员功能不可用",
+        "Actionable_Suggestion": "修复查看成员功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_221",
+        "User_Pain_Point": "放大图片功能不可用",
+        "Actionable_Suggestion": "修复放大图片功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_223",
+        "User_Pain_Point": "发作品不能编辑",
+        "Actionable_Suggestion": "增加编辑作品功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_224",
+        "User_Pain_Point": "不能保存视频",
+        "Actionable_Suggestion": "增加保存视频功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_225",
+        "User_Pain_Point": "不能修改网名",
+        "Actionable_Suggestion": "增加修改网名功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_225",
+        "User_Pain_Point": "不能修改个性签名",
+        "Actionable_Suggestion": "增加修改个性签名功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_225",
+        "User_Pain_Point": "不能发送实况动图",
+        "Actionable_Suggestion": "增加发送实况动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_226",
+        "User_Pain_Point": "养宠物缺少喂食按键",
+        "Actionable_Suggestion": "增加喂食功能按键"
+      },
+      {
+        "id": "com.kuaishou.hmapp_226",
+        "User_Pain_Point": "养宠物缺少晒崽按键",
+        "Actionable_Suggestion": "增加晒崽功能按键"
+      },
+      {
+        "id": "com.kuaishou.hmapp_228",
+        "User_Pain_Point": "快手HD无法更换绑定手机号",
+        "Actionable_Suggestion": "增加更换绑定手机号功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_229",
+        "User_Pain_Point": "无法删除访客记录",
+        "Actionable_Suggestion": "修复删除功能或增加删除选项"
+      },
+      {
+        "id": "com.kuaishou.hmapp_230",
+        "User_Pain_Point": "无法转发信息",
+        "Actionable_Suggestion": "增加转发信息功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_230",
+        "User_Pain_Point": "不刷新看不到信息",
+        "Actionable_Suggestion": "优化消息刷新机制"
+      },
+      {
+        "id": "com.kuaishou.hmapp_232",
+        "User_Pain_Point": "找不到创作者中心入口",
+        "Actionable_Suggestion": "恢复创作者中心入口"
+      },
+      {
+        "id": "com.kuaishou.hmapp_233",
+        "User_Pain_Point": "不能发动态图",
+        "Actionable_Suggestion": "支持发动态图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_235",
+        "User_Pain_Point": "直播没有连麦功能",
+        "Actionable_Suggestion": "增加直播连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_237",
+        "User_Pain_Point": "看不到直播间粉丝团和等级",
+        "Actionable_Suggestion": "恢复显示直播间粉丝团和等级"
+      },
+      {
+        "id": "com.kuaishou.hmapp_239",
+        "User_Pain_Point": "不能发动图作品",
+        "Actionable_Suggestion": "支持发动图作品"
+      },
+      {
+        "id": "com.kuaishou.hmapp_240",
+        "User_Pain_Point": "无法评论",
+        "Actionable_Suggestion": "修复评论功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_241",
+        "User_Pain_Point": "不支持黑暗模式",
+        "Actionable_Suggestion": "增加黑暗模式功能支持"
+      },
+      {
+        "id": "com.kuaishou.hmapp_242",
+        "User_Pain_Point": "发作品不能发动图",
+        "Actionable_Suggestion": "支持在作品发布时选择动图"
+      },
+      {
+        "id": "com.kuaishou.hmapp_244",
+        "User_Pain_Point": "玩不了快手弹幕游戏",
+        "Actionable_Suggestion": "修复弹幕游戏功能，使其在鸿蒙系统上正常运行"
+      },
+      {
+        "id": "com.kuaishou.hmapp_245",
+        "User_Pain_Point": "评论功能异常，无法评论",
+        "Actionable_Suggestion": "修复评论功能，确保用户可以正常评论"
+      },
+      {
+        "id": "com.kuaishou.hmapp_247",
+        "User_Pain_Point": "缺少实况动图功能，整体功能缺失",
+        "Actionable_Suggestion": "增加实况动图发布功能，并完善其他功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_248",
+        "User_Pain_Point": "看不到主播左上角的礼物清单",
+        "Actionable_Suggestion": "修复礼物清单显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_249",
+        "User_Pain_Point": "版本过低，长时间无法发动图",
+        "Actionable_Suggestion": "加快版本更新，尽快支持动图发布"
+      },
+      {
+        "id": "com.kuaishou.hmapp_251",
+        "User_Pain_Point": "发作品时不能发动图",
+        "Actionable_Suggestion": "支持在发布作品时选择动图"
+      },
+      {
+        "id": "com.kuaishou.hmapp_252",
+        "User_Pain_Point": "图库里的照片和视频不能直接分享到快手",
+        "Actionable_Suggestion": "增加从系统图库直接分享到快手的功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_257",
+        "User_Pain_Point": "缺少实况功能",
+        "Actionable_Suggestion": "开发实况功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_258",
+        "User_Pain_Point": "语音聊天室未开放",
+        "Actionable_Suggestion": "尽快开放语音聊天室"
+      },
+      {
+        "id": "com.kuaishou.hmapp_259",
+        "User_Pain_Point": "私信没有通知",
+        "Actionable_Suggestion": "添加私信通知功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_260",
+        "User_Pain_Point": "缺少暗黑模式",
+        "Actionable_Suggestion": "增加暗黑模式"
+      },
+      {
+        "id": "com.kuaishou.hmapp_261",
+        "User_Pain_Point": "我的没有显示幸运星，不知道为什么？",
+        "Actionable_Suggestion": "修复幸运星显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_262",
+        "User_Pain_Point": "直播不能清屏",
+        "Actionable_Suggestion": "增加直播清屏功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_263",
+        "User_Pain_Point": "火崽崽和图文发布页面打字功能呢。。",
+        "Actionable_Suggestion": "恢复火崽崽和图文发布页面的打字功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_264",
+        "User_Pain_Point": "都上架那么久了，为什么不支持视频带货功能，没有小黄车选项。",
+        "Actionable_Suggestion": "增加视频带货小黄车功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_265",
+        "User_Pain_Point": "快手为什么看不了，直播连麦请问，现在这个版本，请更新一下谢谢",
+        "Actionable_Suggestion": "修复直播连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_266",
+        "User_Pain_Point": "图片以前原本是可以两张一起发的现在就只能看一半",
+        "Actionable_Suggestion": "修复图片发布显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_266",
+        "User_Pain_Point": "还没有群通话",
+        "Actionable_Suggestion": "增加群通话功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_266",
+        "User_Pain_Point": "那个亲密关系我也不想多说了",
+        "Actionable_Suggestion": "优化亲密关系功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_266",
+        "User_Pain_Point": "打语音没有分屏显示",
+        "Actionable_Suggestion": "增加语音分屏显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_266",
+        "User_Pain_Point": "打视频又不能用特效",
+        "Actionable_Suggestion": "增加视频特效功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_268",
+        "User_Pain_Point": "聊天室，聊天室，聊天室",
+        "Actionable_Suggestion": "增加聊天室功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_270",
+        "User_Pain_Point": "快手直播间里面没有连麦功能",
+        "Actionable_Suggestion": "增加直播间连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_270",
+        "User_Pain_Point": "有些直播间开启聊天模式进去啥也没有只能听到声音。",
+        "Actionable_Suggestion": "修复聊天模式显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_271",
+        "User_Pain_Point": "在线状态显示卡顿，总是显示刚刚在线",
+        "Actionable_Suggestion": "优化在线状态刷新机制，确保实时更新"
+      },
+      {
+        "id": "com.kuaishou.hmapp_271",
+        "User_Pain_Point": "头像贴贴功能缺失",
+        "Actionable_Suggestion": "增加头像贴贴功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_271",
+        "User_Pain_Point": "视频电话不能开特效",
+        "Actionable_Suggestion": "视频电话增加特效功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_272",
+        "User_Pain_Point": "播放浏览记录无法查看",
+        "Actionable_Suggestion": "修复浏览记录显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_276",
+        "User_Pain_Point": "主播打PK看不到礼物个数",
+        "Actionable_Suggestion": "在PK界面显示礼物个数"
+      },
+      {
+        "id": "com.kuaishou.hmapp_277",
+        "User_Pain_Point": "发视频奖励金币功能异常，作品奖励的金币领不了",
+        "Actionable_Suggestion": "修复发视频奖励金币的领取功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_279",
+        "User_Pain_Point": "创作者功能简陋，不够丰富",
+        "Actionable_Suggestion": "丰富创作者工具和功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_281",
+        "User_Pain_Point": "直播间的幸运星鸿蒙没有，不显示也参与不了",
+        "Actionable_Suggestion": "适配鸿蒙系统，添加直播幸运星功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_282",
+        "User_Pain_Point": "拍摄功能需要更新",
+        "Actionable_Suggestion": "优化拍摄功能，增加拍摄相关特性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_283",
+        "User_Pain_Point": "无法添加表情包",
+        "Actionable_Suggestion": "支持表情包添加功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_284",
+        "User_Pain_Point": "快手小店提现不了",
+        "Actionable_Suggestion": "修复快手小店提现问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_285",
+        "User_Pain_Point": "缺少连麦语音和视频通话功能",
+        "Actionable_Suggestion": "增加连麦语音和视频通话功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_286",
+        "User_Pain_Point": "粉丝团不能送免费人气票",
+        "Actionable_Suggestion": "修复粉丝团送免费人气票功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_286",
+        "User_Pain_Point": "打PK时不能显示票数",
+        "Actionable_Suggestion": "修复PK票数显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_287",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "尽快支持深色模式"
+      },
+      {
+        "id": "com.kuaishou.hmapp_289",
+        "User_Pain_Point": "缺少合拍功能",
+        "Actionable_Suggestion": "恢复或添加合拍功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_291",
+        "User_Pain_Point": "粉丝团功能不可见，无法正常使用",
+        "Actionable_Suggestion": "修复粉丝团显示问题，确保用户能看到并正常使用粉丝团功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_291",
+        "User_Pain_Point": "幸运星功能无法使用",
+        "Actionable_Suggestion": "修复幸运星功能，确保用户能正常使用"
+      },
+      {
+        "id": "com.kuaishou.hmapp_292",
+        "User_Pain_Point": "直播间无法与主播连麦视频对话，看不到对方",
+        "Actionable_Suggestion": "修复连麦视频通话功能，确保画面正常显示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_293",
+        "User_Pain_Point": "新更新未实现应用内消息推送，与宣传不符",
+        "Actionable_Suggestion": "按规划上线应用内消息推送功能，并确保生效"
+      },
+      {
+        "id": "com.kuaishou.hmapp_297",
+        "User_Pain_Point": "消息中的图片不支持显示",
+        "Actionable_Suggestion": "增加对消息图片的支持，确保图片正常加载"
+      },
+      {
+        "id": "com.kuaishou.hmapp_299",
+        "User_Pain_Point": "直播间福袋不显示，但实际存在",
+        "Actionable_Suggestion": "修复福袋显示问题，确保用户能看到并参与福袋活动"
+      },
+      {
+        "id": "com.kuaishou.hmapp_301",
+        "User_Pain_Point": "已发布的作品有时加载不出画面，只有声音",
+        "Actionable_Suggestion": "优化视频加载逻辑，确保画面正常渲染"
+      },
+      {
+        "id": "com.kuaishou.hmapp_302",
+        "User_Pain_Point": "无法打开他人分享的链接",
+        "Actionable_Suggestion": "修复分享链接兼容性，支持跳转到应用内打开"
+      },
+      {
+        "id": "com.kuaishou.hmapp_303",
+        "User_Pain_Point": "缺少语音聊天室功能",
+        "Actionable_Suggestion": "添加语音聊天室功能，支持语音互动"
+      },
+      {
+        "id": "com.kuaishou.hmapp_304",
+        "User_Pain_Point": "更换动态背景图后会自动变成其他图",
+        "Actionable_Suggestion": "修复动态背景图更换逻辑，确保用户选择的背景图不会被自动替换"
+      },
+      {
+        "id": "com.kuaishou.hmapp_304",
+        "User_Pain_Point": "亲密关系功能更新后仍不好用",
+        "Actionable_Suggestion": "优化亲密关系功能，排查更新后未生效的bug"
+      },
+      {
+        "id": "com.kuaishou.hmapp_305",
+        "User_Pain_Point": "作品浏览记录功能消失",
+        "Actionable_Suggestion": "恢复浏览记录显示，并确保更新后功能稳定"
+      },
+      {
+        "id": "com.kuaishou.hmapp_308",
+        "User_Pain_Point": "缺少讲解回放功能",
+        "Actionable_Suggestion": "增加讲解回放功能，支持用户回看讲解内容"
+      },
+      {
+        "id": "com.kuaishou.hmapp_310",
+        "User_Pain_Point": "无法连麦",
+        "Actionable_Suggestion": "修复连麦功能，确保用户能正常发起连麦"
+      },
+      {
+        "id": "com.kuaishou.hmapp_311",
+        "User_Pain_Point": "火崽崽（小游戏宠物）功能没有及时更新导致快饿死",
+        "Actionable_Suggestion": "尽快更新火崽崽功能，增加喂养或状态维护"
+      },
+      {
+        "id": "com.kuaishou.hmapp_311",
+        "User_Pain_Point": "火花宝座显示不一致，别人能看到但自己看不到",
+        "Actionable_Suggestion": "修复火花宝座的显示逻辑，确保用户能正常查看"
+      },
+      {
+        "id": "com.kuaishou.hmapp_312",
+        "User_Pain_Point": "缺少快手聊天室功能",
+        "Actionable_Suggestion": "添加快手聊天室入口"
+      },
+      {
+        "id": "com.kuaishou.hmapp_313",
+        "User_Pain_Point": "更新后没有直播间抽奖功能",
+        "Actionable_Suggestion": "添加直播间抽奖功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_313",
+        "User_Pain_Point": "更新后缺少自动旋转功能",
+        "Actionable_Suggestion": "添加自动旋转功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_314",
+        "User_Pain_Point": "无法调节微信语音通话时的音乐音量",
+        "Actionable_Suggestion": "增加微信语音通话音乐调节功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_315",
+        "User_Pain_Point": "无法查看谁浏览了自己的作品",
+        "Actionable_Suggestion": "增加作品浏览记录功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_316",
+        "User_Pain_Point": "浏览记录功能被更新移除",
+        "Actionable_Suggestion": "恢复浏览记录功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_317",
+        "User_Pain_Point": "无法切换卖家端",
+        "Actionable_Suggestion": "增加卖家端切换功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_318",
+        "User_Pain_Point": "找不到开店按钮，无法开店",
+        "Actionable_Suggestion": "明确开店入口或修复开店功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_322",
+        "User_Pain_Point": "评论不能发送多张图片",
+        "Actionable_Suggestion": "增加评论多图发送功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_323",
+        "User_Pain_Point": "缺少视频转动图功能",
+        "Actionable_Suggestion": "尽快推出视频转动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_328",
+        "User_Pain_Point": "评论点赞不了",
+        "Actionable_Suggestion": "修复评论点赞功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_328",
+        "User_Pain_Point": "不能熄屏时自动上滑",
+        "Actionable_Suggestion": "增加熄屏自动上滑功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_329",
+        "User_Pain_Point": "缺少给崽崽喂饭的功能",
+        "Actionable_Suggestion": "增加崽崽喂饭的互动功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_330",
+        "User_Pain_Point": "缺少添加文字功能",
+        "Actionable_Suggestion": "增加添加文字功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_330",
+        "User_Pain_Point": "评论点赞不了",
+        "Actionable_Suggestion": "修复评论点赞功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_330",
+        "User_Pain_Point": "缺少发长图功能",
+        "Actionable_Suggestion": "增加发长图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_331",
+        "User_Pain_Point": "无法进入群聊",
+        "Actionable_Suggestion": "恢复进群功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_332",
+        "User_Pain_Point": "小店功能未更新",
+        "Actionable_Suggestion": "尽快更新小店功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_333",
+        "User_Pain_Point": "无法同意粉丝关注",
+        "Actionable_Suggestion": "修复关注同意功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_334",
+        "User_Pain_Point": "缺少图片连发、头像搜索不便、缺少不给谁看功能",
+        "Actionable_Suggestion": "增加图片连发功能，优化头像搜索，增加隐私设置"
+      },
+      {
+        "id": "com.kuaishou.hmapp_335",
+        "User_Pain_Point": "无法添加群聊",
+        "Actionable_Suggestion": "修复群聊添加功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_336",
+        "User_Pain_Point": "视频编辑功能缺失，只能改音乐",
+        "Actionable_Suggestion": "恢复以前的视频编辑功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_337",
+        "User_Pain_Point": "评论分享、私信、在线状态设置功能缺失",
+        "Actionable_Suggestion": "修复评论分享、私信功能，增加在线状态设置"
+      },
+      {
+        "id": "com.kuaishou.hmapp_338",
+        "User_Pain_Point": "缺少养火崽崽、多选删除、草稿箱功能",
+        "Actionable_Suggestion": "更新养火崽崽功能，增加多选删除和草稿箱"
+      },
+      {
+        "id": "com.kuaishou.hmapp_339",
+        "User_Pain_Point": "缺少草稿箱和编辑封面功能",
+        "Actionable_Suggestion": "增加草稿箱功能，增加编辑封面功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_340",
+        "User_Pain_Point": "无法续火花",
+        "Actionable_Suggestion": "修复续火花功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_341",
+        "User_Pain_Point": "领红包领不全",
+        "Actionable_Suggestion": "修复红包领取完整性问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_342",
+        "User_Pain_Point": "看不到给主播点赞的显示",
+        "Actionable_Suggestion": "增加给主播点赞的显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_343",
+        "User_Pain_Point": "不能放动图，只能视频转GIF",
+        "Actionable_Suggestion": "支持直接发送动图"
+      },
+      {
+        "id": "com.kuaishou.hmapp_344",
+        "User_Pain_Point": "缺少作品浏览记录功能",
+        "Actionable_Suggestion": "增加或优化作品浏览记录功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_346",
+        "User_Pain_Point": "不能发语音",
+        "Actionable_Suggestion": "增加语音发送功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_346",
+        "User_Pain_Point": "分享主页和发消息功能显示‘功能正在开发’",
+        "Actionable_Suggestion": "完善分享主页和消息功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_348",
+        "User_Pain_Point": "音乐不能单独开启",
+        "Actionable_Suggestion": "支持单独开启音乐"
+      },
+      {
+        "id": "com.kuaishou.hmapp_348",
+        "User_Pain_Point": "没有草稿箱",
+        "Actionable_Suggestion": "增加草稿箱功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_348",
+        "User_Pain_Point": "发动态照片只能是静态的",
+        "Actionable_Suggestion": "支持动态照片发布"
+      },
+      {
+        "id": "com.kuaishou.hmapp_350",
+        "User_Pain_Point": "直播上麦和PK连线功能未更新",
+        "Actionable_Suggestion": "尽快更新直播上麦和PK连线功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_351",
+        "User_Pain_Point": "看打PK没有分数显示",
+        "Actionable_Suggestion": "修复PK分数显示功能，确保鸿蒙版本与安卓版本一致。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_352",
+        "User_Pain_Point": "无法发动图功能",
+        "Actionable_Suggestion": "新增发动图功能，支持从相册选择GIF或动图。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_353",
+        "User_Pain_Point": "缺少宠物相关功能",
+        "Actionable_Suggestion": "优先开发宠物模块功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_354",
+        "User_Pain_Point": "更新后出现隐私或显示问题，别人可见不该看到的内容",
+        "Actionable_Suggestion": "检查更新后内容显示逻辑，修复隐私泄露或显示错误。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_355",
+        "User_Pain_Point": "缺少浏览记录功能",
+        "Actionable_Suggestion": "增加浏览记录功能，方便用户回看。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_356",
+        "User_Pain_Point": "语音直播间不支持上麦显示功能",
+        "Actionable_Suggestion": "在语音直播间添加上麦显示功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_359",
+        "User_Pain_Point": "更新后浏览记录消失",
+        "Actionable_Suggestion": "修复浏览记录功能，确保更新后数据不丢失。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_361",
+        "User_Pain_Point": "直播间不能艾特别人",
+        "Actionable_Suggestion": "修复直播间@功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_362",
+        "User_Pain_Point": "打开了浏览记录仍然看不见",
+        "Actionable_Suggestion": "修复浏览记录显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_363",
+        "User_Pain_Point": "直播回放没有拖动进度条的预览画面",
+        "Actionable_Suggestion": "增加进度条预览功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_364",
+        "User_Pain_Point": "缺少深色模式",
+        "Actionable_Suggestion": "增加深色模式"
+      },
+      {
+        "id": "com.kuaishou.hmapp_365",
+        "User_Pain_Point": "正式版浏览记录功能缺失",
+        "Actionable_Suggestion": "恢复浏览记录功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_366",
+        "User_Pain_Point": "缺少开店功能",
+        "Actionable_Suggestion": "增加开店功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_367",
+        "User_Pain_Point": "直播间多房间不出图像",
+        "Actionable_Suggestion": "修复多房间图像显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_368",
+        "User_Pain_Point": "缺少回车键发送信息功能",
+        "Actionable_Suggestion": "增加回车发送功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_369",
+        "User_Pain_Point": "主页无法更新",
+        "Actionable_Suggestion": "修复更新入口或提示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_369",
+        "User_Pain_Point": "新上头像框无法使用",
+        "Actionable_Suggestion": "修复头像框功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_370",
+        "User_Pain_Point": "不能视频",
+        "Actionable_Suggestion": "修复视频功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_371",
+        "User_Pain_Point": "作品浏览记录更新后消失，使用不便",
+        "Actionable_Suggestion": "恢复浏览记录功能，确保更新不丢失已有功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_372",
+        "User_Pain_Point": "直播间礼物等级不显示，缺乏参与感",
+        "Actionable_Suggestion": "尽快在鸿蒙版本中显示直播间礼物等级"
+      },
+      {
+        "id": "com.kuaishou.hmapp_373",
+        "User_Pain_Point": "作品浏览记录再次消失",
+        "Actionable_Suggestion": "修复浏览记录功能，并确保更新后不消失"
+      },
+      {
+        "id": "com.kuaishou.hmapp_374",
+        "User_Pain_Point": "版本过低，缺少视频和语音连麦版本",
+        "Actionable_Suggestion": "更新版本，增加视频和语音连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_376",
+        "User_Pain_Point": "鸿蒙系统缺少投票功能",
+        "Actionable_Suggestion": "在鸿蒙版本中恢复投票功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_378",
+        "User_Pain_Point": "打卡功能不好用",
+        "Actionable_Suggestion": "优化打卡功能，提升用户体验"
+      },
+      {
+        "id": "com.kuaishou.hmapp_379",
+        "User_Pain_Point": "幸运星不显示",
+        "Actionable_Suggestion": "修复幸运星显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_380",
+        "User_Pain_Point": "希望更新版本",
+        "Actionable_Suggestion": "尽快发布新版本，更新功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_381",
+        "User_Pain_Point": "无法发布带货视频",
+        "Actionable_Suggestion": "增加发布带货视频功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_382",
+        "User_Pain_Point": "小黄车不弹屏，无法正常显示购物车",
+        "Actionable_Suggestion": "修复小黄车弹屏问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_384",
+        "User_Pain_Point": "无法查看作品分享次数",
+        "Actionable_Suggestion": "增加分享次数显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_384",
+        "User_Pain_Point": "发不了动图作品",
+        "Actionable_Suggestion": "支持发布动图作品"
+      },
+      {
+        "id": "com.kuaishou.hmapp_385",
+        "User_Pain_Point": "聊天室功能更新缓慢",
+        "Actionable_Suggestion": "加速聊天室功能的更新"
+      },
+      {
+        "id": "com.kuaishou.hmapp_386",
+        "User_Pain_Point": "缺少点赞他人评论的功能",
+        "Actionable_Suggestion": "增加点赞他人评论的功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_390",
+        "User_Pain_Point": "直播时无法使用语音功能",
+        "Actionable_Suggestion": "增加直播语音功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_390",
+        "User_Pain_Point": "无法私聊",
+        "Actionable_Suggestion": "支持私聊功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_391",
+        "User_Pain_Point": "续火花功能不完善",
+        "Actionable_Suggestion": "完善续火花功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_391",
+        "User_Pain_Point": "评论区不完善",
+        "Actionable_Suggestion": "完善评论区功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_392",
+        "User_Pain_Point": "评论区缺少剪贴板功能，复制评论后无法直接粘贴",
+        "Actionable_Suggestion": "在评论区添加剪贴板功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_393",
+        "User_Pain_Point": "拍视频的美颜功能需要更新",
+        "Actionable_Suggestion": "更新美颜功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_394",
+        "User_Pain_Point": "缺少直播投屏功能",
+        "Actionable_Suggestion": "添加直播投屏功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_395",
+        "User_Pain_Point": "PK功能尚未开通",
+        "Actionable_Suggestion": "开通PK功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_396",
+        "User_Pain_Point": "创作者中心功能需要更新",
+        "Actionable_Suggestion": "更新创作者中心"
+      },
+      {
+        "id": "com.kuaishou.hmapp_399",
+        "User_Pain_Point": "拍卖直播间老铁锤无法出价",
+        "Actionable_Suggestion": "修复出价功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_400",
+        "User_Pain_Point": "鸿蒙系统动图功能需要更新",
+        "Actionable_Suggestion": "更新动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_401",
+        "User_Pain_Point": "鸿蒙系统下无法拍摄动态图",
+        "Actionable_Suggestion": "尽快添加动态图拍照功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_402",
+        "User_Pain_Point": "主播直播间公屏上看不到粉丝等级",
+        "Actionable_Suggestion": "建议增加粉丝等级显示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_403",
+        "User_Pain_Point": "无法更换直播封面",
+        "Actionable_Suggestion": "建议增加直播封面更换功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_404",
+        "User_Pain_Point": "作品上无法看到他人的点赞",
+        "Actionable_Suggestion": "建议优化点赞显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_405",
+        "User_Pain_Point": "缺少直播连麦功能",
+        "Actionable_Suggestion": "建议尽快开发直播连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_406",
+        "User_Pain_Point": "不能和主播连麦",
+        "Actionable_Suggestion": "建议增加连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_407",
+        "User_Pain_Point": "九宫格功能需要更新",
+        "Actionable_Suggestion": "建议优化九宫格功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_409",
+        "User_Pain_Point": "点赞的视频会自动推荐出去，关闭推荐无效",
+        "Actionable_Suggestion": "建议修复点赞推荐逻辑，确保关闭推荐后不再自动推荐"
+      },
+      {
+        "id": "com.kuaishou.hmapp_410",
+        "User_Pain_Point": "无法发送动态图",
+        "Actionable_Suggestion": "建议增加发送动态图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_411",
+        "User_Pain_Point": "RK礼物和显示功能未完善",
+        "Actionable_Suggestion": "加快RK礼物功能的开发与上线"
+      },
+      {
+        "id": "com.kuaishou.hmapp_412",
+        "User_Pain_Point": "视频无法连麦、复制、分享、转发",
+        "Actionable_Suggestion": "完善视频连麦、复制、分享、转发功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_413",
+        "User_Pain_Point": "直播间不显示灯牌等级",
+        "Actionable_Suggestion": "在直播间添加灯牌等级显示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_415",
+        "User_Pain_Point": "点赞列表看不到",
+        "Actionable_Suggestion": "尽快完善点赞列表的显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_416",
+        "User_Pain_Point": "无法关注用户",
+        "Actionable_Suggestion": "修复关注用户的功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_418",
+        "User_Pain_Point": "关注列表不显示关注用户开播状态，也无提示",
+        "Actionable_Suggestion": "改进关注列表，当关注用户开播时及时显示和提示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_419",
+        "User_Pain_Point": "直播功能不完善",
+        "Actionable_Suggestion": "加快直播功能的完善"
+      },
+      {
+        "id": "com.kuaishou.hmapp_420",
+        "User_Pain_Point": "小铃铛功能不可用",
+        "Actionable_Suggestion": "修复小铃铛功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_421",
+        "User_Pain_Point": "聊天室功能缺失且更新缓慢，一年多仍无法使用。",
+        "Actionable_Suggestion": "加快更新进度，优先上线聊天室功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_422",
+        "User_Pain_Point": "华为备用机上功能不可用，特效老旧。",
+        "Actionable_Suggestion": "优化华为设备兼容性，更新特效资源。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_423",
+        "User_Pain_Point": "创作者中心功能缺失或未更新。",
+        "Actionable_Suggestion": "尽快推出创作者中心功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_425",
+        "User_Pain_Point": "缺少举报功能。",
+        "Actionable_Suggestion": "增加举报功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_426",
+        "User_Pain_Point": "直播间礼物和免费人气票缺失。",
+        "Actionable_Suggestion": "补充直播间礼物和免费人气票功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_429",
+        "User_Pain_Point": "无法发动图。",
+        "Actionable_Suggestion": "增加发动图功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_430",
+        "User_Pain_Point": "直播间右上角红包不显示，常用软件功能异常。",
+        "Actionable_Suggestion": "修复直播间红包显示及常用软件功能。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_431",
+        "User_Pain_Point": "看不见粉丝团标志",
+        "Actionable_Suggestion": "建议增加粉丝团标志显示功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_431",
+        "User_Pain_Point": "连麦的人看不见",
+        "Actionable_Suggestion": "修复连麦人员可见性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_432",
+        "User_Pain_Point": "小黄车点不开",
+        "Actionable_Suggestion": "修复小黄车点击功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_432",
+        "User_Pain_Point": "买不了东西",
+        "Actionable_Suggestion": "修复购买功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_432",
+        "User_Pain_Point": "看不了视频讲解",
+        "Actionable_Suggestion": "修复视频讲解播放"
+      },
+      {
+        "id": "com.kuaishou.hmapp_434",
+        "User_Pain_Point": "不能和主播连麦",
+        "Actionable_Suggestion": "增加连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_435",
+        "User_Pain_Point": "直播没有视频功能",
+        "Actionable_Suggestion": "增加直播视频功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_435",
+        "User_Pain_Point": "没有刷礼物功能",
+        "Actionable_Suggestion": "增加刷礼物功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_437",
+        "User_Pain_Point": "已发布作品不能编辑",
+        "Actionable_Suggestion": "增加编辑已发布作品的功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_438",
+        "User_Pain_Point": "看视频自动锁屏",
+        "Actionable_Suggestion": "修复视频播放时自动锁屏问题或提供设置选项"
+      },
+      {
+        "id": "com.kuaishou.hmapp_439",
+        "User_Pain_Point": "卖家相关功能无法正常打开",
+        "Actionable_Suggestion": "修复卖家功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_440",
+        "User_Pain_Point": "发布视频的浏览人数无法点击查看",
+        "Actionable_Suggestion": "增加浏览人数点击查看功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_441",
+        "User_Pain_Point": "未登录状态下点击评论强制跳转登录，关闭后仍返回登录界面",
+        "Actionable_Suggestion": "优化未登录用户的浏览体验，允许查看评论而不强制登录"
+      },
+      {
+        "id": "com.kuaishou.hmapp_442",
+        "User_Pain_Point": "版本太低找不到更新入口",
+        "Actionable_Suggestion": "在设置中增加版本更新入口或自动检测更新提示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_442",
+        "User_Pain_Point": "PK功能中看不见分数",
+        "Actionable_Suggestion": "修复PK分数显示，确保数据正确加载"
+      },
+      {
+        "id": "com.kuaishou.hmapp_443",
+        "User_Pain_Point": "无法发送长图",
+        "Actionable_Suggestion": "支持发送长图功能，允许用户选择或编辑长图"
+      },
+      {
+        "id": "com.kuaishou.hmapp_445",
+        "User_Pain_Point": "直播中看不见分数",
+        "Actionable_Suggestion": "修复直播分数显示，确保实时更新"
+      },
+      {
+        "id": "com.kuaishou.hmapp_445",
+        "User_Pain_Point": "背包内没有任何物品",
+        "Actionable_Suggestion": "修复背包数据加载，确保用户物品正常显示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_446",
+        "User_Pain_Point": "缺少热门特效",
+        "Actionable_Suggestion": "更新热门特效，与安卓版保持一致"
+      },
+      {
+        "id": "com.kuaishou.hmapp_447",
+        "User_Pain_Point": "无法使用“一起看”功能",
+        "Actionable_Suggestion": "修复“一起看”功能，确保可用"
+      },
+      {
+        "id": "com.kuaishou.hmapp_449",
+        "User_Pain_Point": "无法改名",
+        "Actionable_Suggestion": "修复改名功能，允许用户修改昵称"
+      },
+      {
+        "id": "com.kuaishou.hmapp_449",
+        "User_Pain_Point": "无法分享名片",
+        "Actionable_Suggestion": "修复分享名片功能，支持一键分享"
+      },
+      {
+        "id": "com.kuaishou.hmapp_449",
+        "User_Pain_Point": "无法发动图",
+        "Actionable_Suggestion": "修复发动图功能，支持GIF或动态图片上传"
+      },
+      {
+        "id": "com.kuaishou.hmapp_449",
+        "User_Pain_Point": "无法给评论点赞",
+        "Actionable_Suggestion": "修复评论点赞功能，确保点赞交互有效"
+      },
+      {
+        "id": "com.kuaishou.hmapp_450",
+        "User_Pain_Point": "缺少自动全部背景图设置",
+        "Actionable_Suggestion": "增加自动全部背景图功能，允许用户一键设置"
+      },
+      {
+        "id": "com.kuaishou.hmapp_452",
+        "User_Pain_Point": "不知道如何保存私信中的视频",
+        "Actionable_Suggestion": "增加私信视频保存功能或提供操作指引"
+      },
+      {
+        "id": "com.kuaishou.hmapp_454",
+        "User_Pain_Point": "缺少创作者中心功能",
+        "Actionable_Suggestion": "增加创作者中心"
+      },
+      {
+        "id": "com.kuaishou.hmapp_455",
+        "User_Pain_Point": "某些内容无法查看（如小狗看不了）",
+        "Actionable_Suggestion": "排查并修复内容查看限制"
+      },
+      {
+        "id": "com.kuaishou.hmapp_456",
+        "User_Pain_Point": "合拍和常分享的人功能不完善",
+        "Actionable_Suggestion": "完善合拍和常分享功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_458",
+        "User_Pain_Point": "无法进入他人分享的群聊",
+        "Actionable_Suggestion": "修复群聊进入功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_459",
+        "User_Pain_Point": "每次打开应用自动将声音放到最大",
+        "Actionable_Suggestion": "优化声音初始化逻辑，避免自动最大音量"
+      },
+      {
+        "id": "com.kuaishou.hmapp_461",
+        "User_Pain_Point": "保存不了别人私信发的视频或照片",
+        "Actionable_Suggestion": "增加私信内容保存功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_461",
+        "User_Pain_Point": "分享朋友的根本找不到自己的好友",
+        "Actionable_Suggestion": "优化分享好友列表，显示最近联系或常用好友"
+      },
+      {
+        "id": "com.kuaishou.hmapp_461",
+        "User_Pain_Point": "给评论点赞之后刷新一下之后自己点的赞就没了",
+        "Actionable_Suggestion": "修复点赞数据不同步问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_462",
+        "User_Pain_Point": "视频的弹幕跟不上视频",
+        "Actionable_Suggestion": "优化弹幕同步机制"
+      },
+      {
+        "id": "com.kuaishou.hmapp_464",
+        "User_Pain_Point": "直播不能语音聊天，不能上麦",
+        "Actionable_Suggestion": "增加直播语音聊天和上麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_465",
+        "User_Pain_Point": "点进作品图片这么糊",
+        "Actionable_Suggestion": "提升图片加载清晰度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_466",
+        "User_Pain_Point": "聊天都做不好",
+        "Actionable_Suggestion": "完善聊天功能稳定性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_466",
+        "User_Pain_Point": "好友发的视频都看不到",
+        "Actionable_Suggestion": "修复好友视频展示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_469",
+        "User_Pain_Point": "打视频都开不了特效",
+        "Actionable_Suggestion": "支持视频通话时开启特效"
+      },
+      {
+        "id": "com.kuaishou.hmapp_470",
+        "User_Pain_Point": "没登录帐号看评论咋不行",
+        "Actionable_Suggestion": "允许未登录用户查看评论"
+      },
+      {
+        "id": "com.kuaishou.hmapp_471",
+        "User_Pain_Point": "语音通话中如果有信息会自动挂断",
+        "Actionable_Suggestion": "修复语音通话时信息导致挂断的问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_472",
+        "User_Pain_Point": "进不了群聊，显示功能开发中；亲密宝座只有两个",
+        "Actionable_Suggestion": "开放群聊功能，并调整或说明亲密宝座的获取规则"
+      },
+      {
+        "id": "com.kuaishou.hmapp_473",
+        "User_Pain_Point": "定位全开，打开同城都是别地方的",
+        "Actionable_Suggestion": "优化定位算法，确保同城内容基于当前位置展示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_474",
+        "User_Pain_Point": "不支持游戏直播，快手段子无法美颜",
+        "Actionable_Suggestion": "增加游戏直播功能，并支持快手段子的美颜功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_475",
+        "User_Pain_Point": "缺少动图功能，做视频好累",
+        "Actionable_Suggestion": "增加动图（GIF）制作或模板功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_476",
+        "User_Pain_Point": "@功能和粉丝团显示功能缺失",
+        "Actionable_Suggestion": "修复@功能以及粉丝团显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_478",
+        "User_Pain_Point": "好多消息显示暂不支持的消息，表情包也下不了",
+        "Actionable_Suggestion": "扩展消息类型支持，并修复表情包下载功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_479",
+        "User_Pain_Point": "看直播回放没有弹幕",
+        "Actionable_Suggestion": "增加直播回放弹幕功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_479",
+        "User_Pain_Point": "看回放半途切其他app后返回自动跳到主页，且不能自动定位到之前看的位置",
+        "Actionable_Suggestion": "优化回放播放体验，保留播放进度并支持断点续播"
+      },
+      {
+        "id": "com.kuaishou.hmapp_479",
+        "User_Pain_Point": "看自己关注列表点进去经常不显示正在直播，需要搜索才能看",
+        "Actionable_Suggestion": "修复关注列表直播状态显示问题，确保点击可直接进入直播"
+      },
+      {
+        "id": "com.kuaishou.hmapp_480",
+        "User_Pain_Point": "没有视频编辑功能，请尽快适配鸿蒙系统",
+        "Actionable_Suggestion": "适配鸿蒙系统并增加视频编辑功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_481",
+        "User_Pain_Point": "画面太模糊，没有画质调节选项",
+        "Actionable_Suggestion": "增加画质调节选项，允许用户根据网络和偏好调整清晰度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_482",
+        "User_Pain_Point": "私信删除聊天功能被移除或缺失",
+        "Actionable_Suggestion": "恢复私信删除聊天功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_484",
+        "User_Pain_Point": "缺少部分拍摄功能",
+        "Actionable_Suggestion": "补充完整拍摄功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_487",
+        "User_Pain_Point": "鸿蒙版不能使用语音聊天功能",
+        "Actionable_Suggestion": "在鸿蒙版增加语音聊天功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_488",
+        "User_Pain_Point": "发布的作品画质比拍摄时模糊",
+        "Actionable_Suggestion": "优化画质处理流程，减少压缩损失"
+      },
+      {
+        "id": "com.kuaishou.hmapp_489",
+        "User_Pain_Point": "无法发布动态图片",
+        "Actionable_Suggestion": "增加动态图片发布功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_490",
+        "User_Pain_Point": "鸿蒙版发布视频时没有添加文字的选项",
+        "Actionable_Suggestion": "在发布视频界面增加文字编辑功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_492",
+        "User_Pain_Point": "幸运星功能不上了",
+        "Actionable_Suggestion": "恢复幸运星功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_493",
+        "User_Pain_Point": "好友分享录制的相册不能下载保存",
+        "Actionable_Suggestion": "支持下载保存好友分享的相册"
+      },
+      {
+        "id": "com.kuaishou.hmapp_494",
+        "User_Pain_Point": "进群功能开发中，长时间未上线",
+        "Actionable_Suggestion": "尽快完成进群功能开发并上线"
+      },
+      {
+        "id": "com.kuaishou.hmapp_495",
+        "User_Pain_Point": "进入直播间不能上麦",
+        "Actionable_Suggestion": "增加直播间上麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_496",
+        "User_Pain_Point": "开直播没有音乐、连麦、视频录屏功能",
+        "Actionable_Suggestion": "增加直播音乐、连麦、视频录屏功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_498",
+        "User_Pain_Point": "无法换绑手机号",
+        "Actionable_Suggestion": "支持换绑手机号功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_499",
+        "User_Pain_Point": "直播连麦功能缺失",
+        "Actionable_Suggestion": "增加直播连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_500",
+        "User_Pain_Point": "发布图文时不能打字和添加动态表情包",
+        "Actionable_Suggestion": "增加发布图文时的打字和动态表情包功能"
+      }
+    ],
+    "Positive": [
+      {
+        "id": "com.kuaishou.hmapp_62",
+        "User_Pain_Point": "快手小店商家版功能更新及时",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_231",
+        "User_Pain_Point": "能看到对方在线状态",
+        "Actionable_Suggestion": "无"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.kuaishou.hmapp_93",
+        "User_Pain_Point": "希望增加自动播放下一个短视频功能",
+        "Actionable_Suggestion": "增加自动播放下一个短视频功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_97",
+        "User_Pain_Point": "询问什么时候可以过聊天室",
+        "Actionable_Suggestion": "明确聊天室功能上线时间"
+      },
+      {
+        "id": "com.kuaishou.hmapp_100",
+        "User_Pain_Point": "询问什么时候能聊天室直播",
+        "Actionable_Suggestion": "明确聊天室直播功能上线时间"
+      },
+      {
+        "id": "com.kuaishou.hmapp_124",
+        "User_Pain_Point": "希望在打视频时能加特效。",
+        "Actionable_Suggestion": "开发视频通话特效功能，丰富用户体验。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_126",
+        "User_Pain_Point": "希望直接给照片美颜，不用跳转快影。",
+        "Actionable_Suggestion": "在快手APP内集成图片美颜功能，减少用户操作路径。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_131",
+        "User_Pain_Point": "免流量服务启用时间不明确",
+        "Actionable_Suggestion": "明确免流量服务的启用时间或规则"
+      },
+      {
+        "id": "com.kuaishou.hmapp_139",
+        "User_Pain_Point": "缺少电脑版应用",
+        "Actionable_Suggestion": "考虑开发电脑版应用"
+      },
+      {
+        "id": "com.kuaishou.hmapp_273",
+        "User_Pain_Point": "希望更新语音、视频连麦功能",
+        "Actionable_Suggestion": "增加语音和视频连麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_274",
+        "User_Pain_Point": "希望更新快手直播间抽奖活动和表情",
+        "Actionable_Suggestion": "增加直播间抽奖活动和表情功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_278",
+        "User_Pain_Point": "建议更新快手动图",
+        "Actionable_Suggestion": "优化或增加快手动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_295",
+        "User_Pain_Point": "希望增加闪电购功能",
+        "Actionable_Suggestion": "评估并考虑增加闪电购功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_417",
+        "User_Pain_Point": "可以看到别人发作品的IP地址",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_444",
+        "User_Pain_Point": "希望积极更新新功能，与安卓版功能一致",
+        "Actionable_Suggestion": "持续更新功能，缩小与安卓版差距，增加如B站微信等常见功能"
+      }
+    ]
+  },
+  "系统与机型适配": {
+    "Negative": [
+      {
+        "id": "com.kuaishou.hmapp_5",
+        "User_Pain_Point": "鸿蒙版动态卡不显示",
+        "Actionable_Suggestion": "修复鸿蒙版动态卡显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_9",
+        "User_Pain_Point": "鸿蒙系统无法发动图",
+        "Actionable_Suggestion": "适配鸿蒙系统，支持动图发布"
+      },
+      {
+        "id": "com.kuaishou.hmapp_10",
+        "User_Pain_Point": "鸿蒙版无法语音上麦",
+        "Actionable_Suggestion": "修复语音上麦功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_24",
+        "User_Pain_Point": "功能适配不全，仅适配了开屏广告，其他功能未适配。",
+        "Actionable_Suggestion": "全面适配各项功能，确保与系统兼容。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_34",
+        "User_Pain_Point": "鸿蒙系统不完善",
+        "Actionable_Suggestion": "完善鸿蒙系统兼容性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_41",
+        "User_Pain_Point": "杀后台严重，切换到桌面后应用很快被关闭",
+        "Actionable_Suggestion": "优化后台进程管理，减少对应用的清理"
+      },
+      {
+        "id": "com.kuaishou.hmapp_47",
+        "User_Pain_Point": "带广告的视频无法正常刷看，需要适配",
+        "Actionable_Suggestion": "适配广告视频播放功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_59",
+        "User_Pain_Point": "鸿蒙系统手机无法发送动图",
+        "Actionable_Suggestion": "适配鸿蒙系统，支持发送动图"
+      },
+      {
+        "id": "com.kuaishou.hmapp_148",
+        "User_Pain_Point": "鸿蒙6.0好多东西用不了，最主要发动图",
+        "Actionable_Suggestion": "适配鸿蒙6.0，修复动图功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_164",
+        "User_Pain_Point": "鸿蒙系统不能在直播间语音发送",
+        "Actionable_Suggestion": "适配鸿蒙系统，支持直播间语音发送"
+      },
+      {
+        "id": "com.kuaishou.hmapp_178",
+        "User_Pain_Point": "当前版本太旧，希望更新",
+        "Actionable_Suggestion": "建议推送最新版本更新"
+      },
+      {
+        "id": "com.kuaishou.hmapp_197",
+        "User_Pain_Point": "用苹果拍的照片发作品看着有点糊",
+        "Actionable_Suggestion": "建议优化图片上传处理，提高跨平台清晰度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_227",
+        "User_Pain_Point": "该手机很多功能缺失",
+        "Actionable_Suggestion": "适配机型，补齐缺失功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_254",
+        "User_Pain_Point": "看不见PK血条，部分功能用不了，怀疑与鸿蒙系统有关",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复PK血条等缺失功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_255",
+        "User_Pain_Point": "软件适配太差，火花契约等互动不能用，无法进聊天群",
+        "Actionable_Suggestion": "改善鸿蒙系统适配，确保互动功能正常"
+      },
+      {
+        "id": "com.kuaishou.hmapp_256",
+        "User_Pain_Point": "鸿蒙系统无法支持显示群和加群功能",
+        "Actionable_Suggestion": "适配鸿蒙系统，实现群功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_290",
+        "User_Pain_Point": "系统更新后产品链接不显示讲解回放",
+        "Actionable_Suggestion": "适配新系统，确保讲解回放功能正常"
+      },
+      {
+        "id": "com.kuaishou.hmapp_298",
+        "User_Pain_Point": "从苹果换到华为后快手版本变低",
+        "Actionable_Suggestion": "适配华为机型，提供与iOS版本一致的功能和更新"
+      },
+      {
+        "id": "com.kuaishou.hmapp_298",
+        "User_Pain_Point": "切换设备后直播间可刷的礼物缺失",
+        "Actionable_Suggestion": "修复礼物功能，确保华为机型用户能看到并赠送全部礼物"
+      },
+      {
+        "id": "com.kuaishou.hmapp_300",
+        "User_Pain_Point": "更新鸿蒙6系统后直播不能发表情包",
+        "Actionable_Suggestion": "适配鸿蒙6系统，恢复直播中发表情包功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_307",
+        "User_Pain_Point": "鸿蒙系统下聊天室无法观看",
+        "Actionable_Suggestion": "适配鸿蒙系统，修复聊天室兼容性问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_309",
+        "User_Pain_Point": "希望官方开放所有软件或功能",
+        "Actionable_Suggestion": "评估用户需求，逐步开放更多应用或功能，尤其是热门应用"
+      },
+      {
+        "id": "com.kuaishou.hmapp_320",
+        "User_Pain_Point": "升级鸿蒙6后账号丢失",
+        "Actionable_Suggestion": "优化系统升级后的账号迁移机制，提供账号找回方案"
+      },
+      {
+        "id": "com.kuaishou.hmapp_326",
+        "User_Pain_Point": "部分直播显示此版本暂不支持",
+        "Actionable_Suggestion": "加快直播功能的适配更新"
+      },
+      {
+        "id": "com.kuaishou.hmapp_327",
+        "User_Pain_Point": "鸿蒙系统下功能不全",
+        "Actionable_Suggestion": "完善鸿蒙系统下的功能覆盖"
+      },
+      {
+        "id": "com.kuaishou.hmapp_330",
+        "User_Pain_Point": "很多版本不支持某些功能",
+        "Actionable_Suggestion": "扩大版本适配范围"
+      },
+      {
+        "id": "com.kuaishou.hmapp_346",
+        "User_Pain_Point": "更新也更新不好",
+        "Actionable_Suggestion": "优化更新流程"
+      },
+      {
+        "id": "com.kuaishou.hmapp_348",
+        "User_Pain_Point": "鸿蒙6.0系统下‘不给谁看’功能找不到",
+        "Actionable_Suggestion": "修复鸿蒙6.0系统兼容性问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_360",
+        "User_Pain_Point": "鸿蒙系统无法购买货物",
+        "Actionable_Suggestion": "适配鸿蒙系统的支付与购买功能，解决兼容性问题。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_398",
+        "User_Pain_Point": "聊天功能显示版本不支持",
+        "Actionable_Suggestion": "解决版本兼容问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_422",
+        "User_Pain_Point": "华为备用机上功能不可用，适配存在问题。",
+        "Actionable_Suggestion": "优化华为设备兼容性。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_424",
+        "User_Pain_Point": "华为手机无法观看聊天室画面。",
+        "Actionable_Suggestion": "修复华为设备上聊天室画面显示问题。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_439",
+        "User_Pain_Point": "鸿蒙系统没有快手小店卖家版入口",
+        "Actionable_Suggestion": "在鸿蒙系统增加快手小店卖家版入口"
+      },
+      {
+        "id": "com.kuaishou.hmapp_448",
+        "User_Pain_Point": "设备名称显示不全，只显示华为在线",
+        "Actionable_Suggestion": "正确显示完整设备名称，适配更多机型"
+      },
+      {
+        "id": "com.kuaishou.hmapp_477",
+        "User_Pain_Point": "以前的账号怎么了？可能无法登录或使用",
+        "Actionable_Suggestion": "检查旧账号兼容性问题，确保账号数据正常迁移和使用"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.kuaishou.hmapp_280",
+        "User_Pain_Point": "隔空传送未适配",
+        "Actionable_Suggestion": "适配鸿蒙系统隔空传送功能"
+      }
+    ]
+  },
+  "稳定性与性能": {
+    "Negative": [
+      {
+        "id": "com.kuaishou.hmapp_15",
+        "User_Pain_Point": "应用卡顿，刷视频转圈，刷快了重复",
+        "Actionable_Suggestion": "优化性能，减少卡顿和重复加载"
+      },
+      {
+        "id": "com.kuaishou.hmapp_20",
+        "User_Pain_Point": "应用时不时蓝屏",
+        "Actionable_Suggestion": "修复蓝屏崩溃问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_33",
+        "User_Pain_Point": "评论区发表情包不显示，无法评论",
+        "Actionable_Suggestion": "修复评论区发表情包不显示的问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_39",
+        "User_Pain_Point": "使用聊天气泡没显示出来",
+        "Actionable_Suggestion": "修复聊天气泡不显示的问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_41",
+        "User_Pain_Point": "应用存在大量bug",
+        "Actionable_Suggestion": "全面排查并修复已知bug，提升稳定性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_54",
+        "User_Pain_Point": "评论区图片点击延迟三秒",
+        "Actionable_Suggestion": "优化图片加载速度，减少延迟"
+      },
+      {
+        "id": "com.kuaishou.hmapp_57",
+        "User_Pain_Point": "新版本耗电非常厉害",
+        "Actionable_Suggestion": "优化功耗，减少耗电"
+      },
+      {
+        "id": "com.kuaishou.hmapp_109",
+        "User_Pain_Point": "设置中很多功能无法生效",
+        "Actionable_Suggestion": "修复设置功能的可用性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_114",
+        "User_Pain_Point": "WiFi满格且有流量却显示无网络",
+        "Actionable_Suggestion": "修复网络状态检测，确保正确显示网络连接"
+      },
+      {
+        "id": "com.kuaishou.hmapp_116",
+        "User_Pain_Point": "更新后仍无法发送消息",
+        "Actionable_Suggestion": "修复发消息功能，确保正常工作"
+      },
+      {
+        "id": "com.kuaishou.hmapp_141",
+        "User_Pain_Point": "退出快手后再进，上下滑第一下必卡顿",
+        "Actionable_Suggestion": "优化启动或滑动流畅度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_147",
+        "User_Pain_Point": "环境需要优化（可能指应用运行环境）",
+        "Actionable_Suggestion": "优化应用运行环境，提升稳定性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_156",
+        "User_Pain_Point": "发布作品模糊不清",
+        "Actionable_Suggestion": "优化发布作品画质"
+      },
+      {
+        "id": "com.kuaishou.hmapp_158",
+        "User_Pain_Point": "没有声音",
+        "Actionable_Suggestion": "修复声音问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_159",
+        "User_Pain_Point": "视频播放失败，需重新点击才能看",
+        "Actionable_Suggestion": "修复播放失败问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_179",
+        "User_Pain_Point": "应用闪退",
+        "Actionable_Suggestion": "建议修复闪退bug"
+      },
+      {
+        "id": "com.kuaishou.hmapp_217",
+        "User_Pain_Point": "评论区卡顿，经常显示不出来",
+        "Actionable_Suggestion": "优化评论区性能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_222",
+        "User_Pain_Point": "小黄车打不开，需要多次点击",
+        "Actionable_Suggestion": "修复点击响应问题，提升稳定性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_235",
+        "User_Pain_Point": "翻看购物车时频繁闪退",
+        "Actionable_Suggestion": "修复购物车闪退问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_236",
+        "User_Pain_Point": "续火花操作有延迟",
+        "Actionable_Suggestion": "优化续火花的响应速度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_246",
+        "User_Pain_Point": "看视频卡顿，有时卡死",
+        "Actionable_Suggestion": "优化视频播放性能，减少卡顿和卡死现象"
+      },
+      {
+        "id": "com.kuaishou.hmapp_324",
+        "User_Pain_Point": "更改简介后不生效",
+        "Actionable_Suggestion": "修复简介修改后不保存的bug"
+      },
+      {
+        "id": "com.kuaishou.hmapp_325",
+        "User_Pain_Point": "作品莫名其妙被私密，反复发生",
+        "Actionable_Suggestion": "修复作品状态异常变为私密的问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_327",
+        "User_Pain_Point": "应用卡顿",
+        "Actionable_Suggestion": "优化性能，减少卡顿"
+      },
+      {
+        "id": "com.kuaishou.hmapp_345",
+        "User_Pain_Point": "作品浏览记录可看几天后消失",
+        "Actionable_Suggestion": "修复浏览记录消失问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_346",
+        "User_Pain_Point": "功能一直显示‘检测中’无法使用",
+        "Actionable_Suggestion": "修复功能检测状态，确保功能可用"
+      },
+      {
+        "id": "com.kuaishou.hmapp_348",
+        "User_Pain_Point": "作品流量记录显示不了",
+        "Actionable_Suggestion": "修复作品流量记录显示"
+      },
+      {
+        "id": "com.kuaishou.hmapp_349",
+        "User_Pain_Point": "作品浏览记录突然消失",
+        "Actionable_Suggestion": "修复浏览记录消失bug"
+      },
+      {
+        "id": "com.kuaishou.hmapp_358",
+        "User_Pain_Point": "每次更新后部分信息无法查看",
+        "Actionable_Suggestion": "优化更新兼容性，确保更新后所有信息正常显示。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_363",
+        "User_Pain_Point": "直播回放非常卡",
+        "Actionable_Suggestion": "优化播放性能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_377",
+        "User_Pain_Point": "三倍速视频音画不同步",
+        "Actionable_Suggestion": "修复三倍速视频音画不同步问题，兼容鸿蒙6.0和6.1系统"
+      },
+      {
+        "id": "com.kuaishou.hmapp_383",
+        "User_Pain_Point": "更新后无法购买商品，一直提示重试",
+        "Actionable_Suggestion": "修复购买功能异常，确保更新后稳定"
+      },
+      {
+        "id": "com.kuaishou.hmapp_387",
+        "User_Pain_Point": "更新后浏览记录消失",
+        "Actionable_Suggestion": "修复浏览记录丢失问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_389",
+        "User_Pain_Point": "评论区点开卡顿几秒",
+        "Actionable_Suggestion": "优化评论区加载性能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_397",
+        "User_Pain_Point": "视频无法加载或连接失败",
+        "Actionable_Suggestion": "修复视频加载问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_408",
+        "User_Pain_Point": "团购界面卡顿",
+        "Actionable_Suggestion": "建议优化团购界面性能，减少卡顿"
+      },
+      {
+        "id": "com.kuaishou.hmapp_427",
+        "User_Pain_Point": "闪退、卡顿、超级耗电。",
+        "Actionable_Suggestion": "优化稳定性，减少卡顿和耗电。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_431",
+        "User_Pain_Point": "太多漏洞",
+        "Actionable_Suggestion": "修复漏洞，提高稳定性"
+      },
+      {
+        "id": "com.kuaishou.hmapp_436",
+        "User_Pain_Point": "有严重bug，144hz没有120hz流畅",
+        "Actionable_Suggestion": "修复144hz流畅度问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_461",
+        "User_Pain_Point": "给别人发评论的时候会卡一会",
+        "Actionable_Suggestion": "优化评论提交性能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_463",
+        "User_Pain_Point": "看个快手都感觉会慢半拍，打开评论等半天",
+        "Actionable_Suggestion": "优化整体运行流畅度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_468",
+        "User_Pain_Point": "快手查看浏览人卡，就退出",
+        "Actionable_Suggestion": "修复查看浏览人时的卡顿和闪退问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_470",
+        "User_Pain_Point": "卡成啥了呀？这快手bug巨多",
+        "Actionable_Suggestion": "全面优化系统兼容性和性能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_470",
+        "User_Pain_Point": "偶尔还会一直卡",
+        "Actionable_Suggestion": "排查并修复随机卡顿问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_470",
+        "User_Pain_Point": "登录界面看都不能看，还得重新进",
+        "Actionable_Suggestion": "修复登录界面卡死问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_485",
+        "User_Pain_Point": "应用会自动调用摄像头，存在异常行为",
+        "Actionable_Suggestion": "修复自动调用摄像头的问题，确保隐私安全"
+      },
+      {
+        "id": "com.kuaishou.hmapp_486",
+        "User_Pain_Point": "更新后所有付费内容无法观看",
+        "Actionable_Suggestion": "修复付费内容无法观看的bug"
+      },
+      {
+        "id": "com.kuaishou.hmapp_491",
+        "User_Pain_Point": "无线网打开卡顿慢",
+        "Actionable_Suggestion": "修复鸿蒙系统无线网卡顿问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_497",
+        "User_Pain_Point": "直播有时看不到人",
+        "Actionable_Suggestion": "修复直播画面显示问题"
+      }
+    ]
+  },
+  "UI与交互": {
+    "Negative": [
+      {
+        "id": "com.kuaishou.hmapp_29",
+        "User_Pain_Point": "界面设计奇怪，用户体验不佳。",
+        "Actionable_Suggestion": "优化界面设计，使其更符合用户习惯和美观。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_53",
+        "User_Pain_Point": "视频下方大黑边不能缩小",
+        "Actionable_Suggestion": "优化视频下方黑边大小，提供缩小选项"
+      },
+      {
+        "id": "com.kuaishou.hmapp_76",
+        "User_Pain_Point": "私信页面过于简洁，功能不足",
+        "Actionable_Suggestion": "丰富私信页面功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_119",
+        "User_Pain_Point": "分享视频给好友需点击更多再搜索名字，流程繁琐",
+        "Actionable_Suggestion": "优化分享流程，提供直接搜索或推荐好友列表"
+      },
+      {
+        "id": "com.kuaishou.hmapp_123",
+        "User_Pain_Point": "看直播时加减音量不显示。",
+        "Actionable_Suggestion": "修复音量调节控件显示异常，确保用户可正常调节音量。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_129",
+        "User_Pain_Point": "底部出现镂空字，显示异常。",
+        "Actionable_Suggestion": "排查UI渲染问题，修复底部镂空字显示错误。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_152",
+        "User_Pain_Point": "缺少底部悬浮tab栏适配",
+        "Actionable_Suggestion": "适配底部悬浮tab栏，深度适配鸿蒙"
+      },
+      {
+        "id": "com.kuaishou.hmapp_250",
+        "User_Pain_Point": "特效土，不如其他手机上的特效好看",
+        "Actionable_Suggestion": "优化特效设计，提升美观度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_347",
+        "User_Pain_Point": "没有字体大小调节",
+        "Actionable_Suggestion": "增加字体大小调节功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_389",
+        "User_Pain_Point": "缺少夜间模式",
+        "Actionable_Suggestion": "增加夜间模式功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_414",
+        "User_Pain_Point": "引用评论交互不友好",
+        "Actionable_Suggestion": "优化引用评论的交互体验，使其更友好"
+      },
+      {
+        "id": "com.kuaishou.hmapp_453",
+        "User_Pain_Point": "很多界面看不到",
+        "Actionable_Suggestion": "修复界面显示异常问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_457",
+        "User_Pain_Point": "右上角抽奖图标不显示",
+        "Actionable_Suggestion": "修复抽奖图标显示问题"
+      },
+      {
+        "id": "com.kuaishou.hmapp_459",
+        "User_Pain_Point": "评论区字体太小且不能调整大小",
+        "Actionable_Suggestion": "增加评论区字体大小调节功能"
+      }
+    ]
+  },
+  "运营与规则": {
+    "Negative": [
+      {
+        "id": "com.kuaishou.hmapp_2",
+        "User_Pain_Point": "正常视频被错误封禁",
+        "Actionable_Suggestion": "优化审核机制，减少误封"
+      },
+      {
+        "id": "com.kuaishou.hmapp_16",
+        "User_Pain_Point": "进入应用有广告且摇一摇触发广告",
+        "Actionable_Suggestion": "减少广告干扰，优化摇一摇广告机制或提供关闭选项"
+      },
+      {
+        "id": "com.kuaishou.hmapp_48",
+        "User_Pain_Point": "预售、缺货、饥饿营销等问题",
+        "Actionable_Suggestion": "改善预售策略，保障供应，停止饥饿营销"
+      },
+      {
+        "id": "com.kuaishou.hmapp_66",
+        "User_Pain_Point": "实名认证方式单一且误限制",
+        "Actionable_Suggestion": "增加实名认证方式，优化认证流程"
+      },
+      {
+        "id": "com.kuaishou.hmapp_105",
+        "User_Pain_Point": "平台存在无良电商、不良网红，影响社会风气",
+        "Actionable_Suggestion": "加强平台内容审核与治理"
+      },
+      {
+        "id": "com.kuaishou.hmapp_133",
+        "User_Pain_Point": "广告过多影响体验",
+        "Actionable_Suggestion": "减少广告插入频率"
+      },
+      {
+        "id": "com.kuaishou.hmapp_140",
+        "User_Pain_Point": "没有天天预约领金币功能",
+        "Actionable_Suggestion": "开发天天预约领金币功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_144",
+        "User_Pain_Point": "更新的太慢",
+        "Actionable_Suggestion": "加快版本更新频率"
+      },
+      {
+        "id": "com.kuaishou.hmapp_145",
+        "User_Pain_Point": "提了虞书欣名字就被封，审核规则不合理",
+        "Actionable_Suggestion": "优化审核规则，避免误封"
+      },
+      {
+        "id": "com.kuaishou.hmapp_165",
+        "User_Pain_Point": "功能更新速度太慢",
+        "Actionable_Suggestion": "加快功能更新速度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_167",
+        "User_Pain_Point": "打了五星，别给我限流",
+        "Actionable_Suggestion": "承诺不因好评限流，建立透明机制"
+      },
+      {
+        "id": "com.kuaishou.hmapp_180",
+        "User_Pain_Point": "发作品被违规审核",
+        "Actionable_Suggestion": "建议优化审核规则，避免误判"
+      },
+      {
+        "id": "com.kuaishou.hmapp_185",
+        "User_Pain_Point": "操作完成后仍需实名登录，流程繁琐",
+        "Actionable_Suggestion": "简化实名登录流程或提供其他便捷登录方式"
+      },
+      {
+        "id": "com.kuaishou.hmapp_234",
+        "User_Pain_Point": "账号被盗用于发布违规内容，导致账号被注销",
+        "Actionable_Suggestion": "加强账号安全保护，及时处理异常登录和违规内容"
+      },
+      {
+        "id": "com.kuaishou.hmapp_275",
+        "User_Pain_Point": "金币越来越少了",
+        "Actionable_Suggestion": "调整金币奖励规则或增加获取途径"
+      },
+      {
+        "id": "com.kuaishou.hmapp_287",
+        "User_Pain_Point": "开发团队优先加无用功能，有用功能不加",
+        "Actionable_Suggestion": "优化功能优先级，增加用户需求高的功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_294",
+        "User_Pain_Point": "强制实名且不满足条件无法使用，还不给注销账号",
+        "Actionable_Suggestion": "优化实名认证流程，提供合理的注销账号途径"
+      },
+      {
+        "id": "com.kuaishou.hmapp_306",
+        "User_Pain_Point": "活动签到入口难找，签到后入口消失",
+        "Actionable_Suggestion": "优化签到入口位置，确保用户易于发现且签到后仍可找到"
+      },
+      {
+        "id": "com.kuaishou.hmapp_319",
+        "User_Pain_Point": "广告过多，一个视频配多个广告",
+        "Actionable_Suggestion": "减少广告投放频率，优化广告策略"
+      },
+      {
+        "id": "com.kuaishou.hmapp_325",
+        "User_Pain_Point": "客服没有转人工功能",
+        "Actionable_Suggestion": "提供人工客服转接功能"
+      },
+      {
+        "id": "com.kuaishou.hmapp_357",
+        "User_Pain_Point": "当前安装的版本太老，需要更新",
+        "Actionable_Suggestion": "加快版本迭代，向鸿蒙用户推送最新版本。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_375",
+        "User_Pain_Point": "快手吞掉5.7元",
+        "Actionable_Suggestion": "查明吞钱原因并退还，完善资金安全机制"
+      },
+      {
+        "id": "com.kuaishou.hmapp_414",
+        "User_Pain_Point": "版本更新速度慢",
+        "Actionable_Suggestion": "加快版本更新迭代速度"
+      },
+      {
+        "id": "com.kuaishou.hmapp_427",
+        "User_Pain_Point": "摇一摇广告过多。",
+        "Actionable_Suggestion": "减少摇一摇广告。"
+      },
+      {
+        "id": "com.kuaishou.hmapp_432",
+        "User_Pain_Point": "小黄车显示操作频繁",
+        "Actionable_Suggestion": "优化操作频率限制规则"
+      },
+      {
+        "id": "com.kuaishou.hmapp_460",
+        "User_Pain_Point": "点击评论强制登录且登录失败",
+        "Actionable_Suggestion": "优化登录流程，允许非登录用户评论或改善登录体验"
+      },
+      {
+        "id": "com.kuaishou.hmapp_483",
+        "User_Pain_Point": "账号被随意封禁，封号规则不合理",
+        "Actionable_Suggestion": "优化封号机制，增加规则透明度和申诉渠道"
+      },
+      {
+        "id": "com.kuaishou.hmapp_492",
+        "User_Pain_Point": "多次反馈问题未解决",
+        "Actionable_Suggestion": "改进用户反馈处理机制"
+      }
+    ],
+    "Neutral": [
+      {
+        "id": "com.kuaishou.hmapp_168",
+        "User_Pain_Point": "希望更新到最新版本",
+        "Actionable_Suggestion": "提供版本更新渠道或推送更新"
+      }
+    ]
+  },
+  "体验赞赏": {
+    "Positive": [
+      {
+        "id": "com.kuaishou.hmapp_67",
+        "User_Pain_Point": "整体体验漂亮",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_71",
+        "User_Pain_Point": "用户整体体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_79",
+        "User_Pain_Point": "用户认可产品的逐步成长",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_103",
+        "User_Pain_Point": "用户对平台表示感谢",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_111",
+        "User_Pain_Point": "观看体验不错",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_125",
+        "User_Pain_Point": "用户认为还可以，整体体验尚可。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_128",
+        "User_Pain_Point": "用户评价挺好，满意。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_130",
+        "User_Pain_Point": "用户认为很不错，赞赏。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_137",
+        "User_Pain_Point": "用户表示喜欢",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_174",
+        "User_Pain_Point": "体验很好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_193",
+        "User_Pain_Point": "整体体验优秀",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_243",
+        "User_Pain_Point": "快手挺好看的",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_267",
+        "User_Pain_Point": "一直在进化，给快手团队点赞👍",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_288",
+        "User_Pain_Point": "用户对应用表示赞赏",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_296",
+        "User_Pain_Point": "用户表达对快手整体好评",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_321",
+        "User_Pain_Point": "用户整体评价非常好",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_388",
+        "User_Pain_Point": "没有礼物界面，省钱",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_428",
+        "User_Pain_Point": "更新态度积极，令人赞赏。",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_433",
+        "User_Pain_Point": "很好.",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_451",
+        "User_Pain_Point": "用户表示好用",
+        "Actionable_Suggestion": "无"
+      },
+      {
+        "id": "com.kuaishou.hmapp_467",
+        "User_Pain_Point": "优秀",
+        "Actionable_Suggestion": "无"
+      }
+    ]
+  },
+  "内容生态": {
+    "Negative": [
+      {
+        "id": "com.kuaishou.hmapp_35",
+        "User_Pain_Point": "推荐视频内容不精准，不符合16岁年龄段",
+        "Actionable_Suggestion": "优化推荐算法，根据年龄推荐合适视频"
+      },
+      {
+        "id": "com.kuaishou.hmapp_147",
+        "User_Pain_Point": "视频质量需要优化",
+        "Actionable_Suggestion": "优化视频质量"
+      },
+      {
+        "id": "com.kuaishou.hmapp_253",
+        "User_Pain_Point": "希望删除AI合成视频和评分低的视频",
+        "Actionable_Suggestion": "优化推荐算法，减少AI合成视频和低评分视频的展示"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5513 @@
+{
+  "n_items": 550,
+  "n_items_deduped": 545,
+  "功能体验": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "功能缺失",
+          "canonical_issue": "应用缺少多项核心功能，如一起刷视频、直播回放、短剧播放等",
+          "size": 9,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_2",
+              "pain": "缺少‘一起刷视频’功能，未适配",
+              "suggestion": "尽快开发并上线‘一起刷视频’功能",
+              "source": "一起刷视频什么时候适配？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_7",
+              "pain": "直播回放功能无法正常观看",
+              "suggestion": "修复直播回放功能",
+              "source": "我想看直播回放，老是看不了。",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_16",
+              "pain": "主播中心缺少回放功能",
+              "suggestion": "在主播中心添加回放功能",
+              "source": "主播中心没有回放功能。请尽快完善",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_23",
+              "pain": "短剧看不了",
+              "suggestion": "修复短剧无法播放的问题",
+              "source": "短剧看不了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_24",
+              "pain": "不能发布动图作品",
+              "suggestion": "支持动图作品发布功能",
+              "source": "到现在都不能发动图作品，网络正常的时候刷抖音，过一会这个自己卡住",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_25",
+              "pain": "缺少辅助账号创建功能",
+              "suggestion": "完善辅助账号功能，支持同一手机号注册辅助账号",
+              "source": "希望完善创建辅助账号功能（同一个手机号注册辅助账号）",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_27",
+              "pain": "实况作品只能选30秒BGM，限制过于死板",
+              "suggestion": "放宽实况作品BGM时长选择，允许自定义时长",
+              "source": "发个实况作品，只能选30秒bgm，太死板了",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_36",
+              "pain": "视频通话缺少特效",
+              "suggestion": "添加视频通话特效功能",
+              "source": "打视频没有特效",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_39",
+              "pain": "缺少直播积分玩法",
+              "suggestion": "尽快上线直播积分玩法",
+              "source": "直播的积分玩法什么时候开通",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_2",
+            "com.ss.hm.ugc.aweme_7",
+            "com.ss.hm.ugc.aweme_16",
+            "com.ss.hm.ugc.aweme_23",
+            "com.ss.hm.ugc.aweme_24",
+            "com.ss.hm.ugc.aweme_25",
+            "com.ss.hm.ugc.aweme_27",
+            "com.ss.hm.ugc.aweme_36",
+            "com.ss.hm.ugc.aweme_39"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "平板功能不全",
+          "canonical_issue": "平板版本功能缺失，关注列表缺少更新、直播、批量管理、分组等功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_3",
+              "pain": "平板版关注列表缺少更新、直播、批量管理、分组等功能",
+              "suggestion": "补齐平板版关注列表的缺失功能",
+              "source": "matepad mini的抖音缺少很多功能，比如关注列表“更新、直播、批量管理、分组”手机上有，但平板全没有。这个功能什么时候能加上。",
+              "device": "HUAWEI MatePad Mini"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_3"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "反馈渠道缺失",
+          "canonical_issue": "应用内缺少产品反馈入口，用户无法提交问题或建议",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_6",
+              "pain": "App内找不到产品反馈入口",
+              "suggestion": "在设置或帮助菜单中添加产品反馈渠道",
+              "source": "横屏的时候中间那个全屏观看很容易误触，但是找了一大圈app内却没有了产品反馈的地方",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_6"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "更新引导不足",
+          "canonical_issue": "用户不清楚如何更新应用，缺乏明确的更新提示和引导",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_8",
+              "pain": "用户不清楚如何更新应用",
+              "suggestion": "优化更新提示和操作流程，引导用户更新",
+              "source": "就是不知道怎么更新剩下的特别好，比快手都好唯一我最喜欢的是这个深色模式我感觉很舒服，看完之后眼睛也不累然后呢干什么或者举报的话，官方都能第一时间给我们解决太好用了然后里面的视频都是按我的性格来做食品的，而且还是我喜欢的类型真是太推荐了",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_8"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "缓存管理异常",
+          "canonical_issue": "缓存视频消失但占用空间不释放，缓存清理逻辑存在问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_31",
+              "pain": "缓存视频消失但占用空间不释放",
+              "suggestion": "修复缓存清理逻辑，确保缓存视频丢失时自动释放空间",
+              "source": "缓存的视频和离线缓存的视频会莫名其妙的没了，但仍显示占用一个多G的内存",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_31"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "音频播放异常",
+          "canonical_issue": "应用没有声音，音频播放功能异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_33",
+              "pain": "应用没有声音",
+              "suggestion": "排查并修复音频播放功能",
+              "source": "没有声音",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_33"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "通话功能异常",
+          "canonical_issue": "接收不到电话，应用内通话功能异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_35",
+              "pain": "接收不到电话（可能指应用内通话功能）",
+              "suggestion": "修复应用内通话接收功能",
+              "source": "啥意思啊我咋接收不到电话。。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_35"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "直播观看异常",
+          "canonical_issue": "部分直播无法观看，直播功能异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_37",
+              "pain": "部分直播无法观看",
+              "suggestion": "修复部分直播无法观看的问题",
+              "source": "有点直播看不了干啥呢都",
+              "device": "HUAWEI Mate X6"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_37"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "视频上传质量差",
+          "canonical_issue": "上传视频模糊不清，视频上传清晰度处理不佳",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_40",
+              "pain": "上传视频模糊不清",
+              "suggestion": "优化视频上传清晰度处理",
+              "source": "怎么发得视频都那么模糊，一点也不清楚了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_40"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "整体体验待优化",
+          "canonical_issue": "应用需要大幅改善和更新，功能不够完善，整体体验有待提升",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_1",
+              "pain": "App需要大幅改善和更新，功能不够完善",
+              "suggestion": "持续收集用户反馈，制定迭代计划，提升整体体验",
+              "source": "还需要大大的改善和更新哦，",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_1"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "会员入口缺失",
+          "canonical_issue": "直播间会员好礼入口消失且无V字会员入口",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_41",
+              "pain": "有些播间会员好礼入口消失了，但是没有V字会员入口",
+              "suggestion": "建议恢复会员好礼入口，并添加V字会员入口。",
+              "source": "有些播间会员好礼入口消失了，但是没有V字会员入口",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_41"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "聊天背景自定义缺失",
+          "canonical_issue": "缺少聊天背景自定义功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_43",
+              "pain": "缺少聊天背景自定义",
+              "suggestion": "建议增加聊天背景自定义功能。",
+              "source": "终于有直播间预言功能了，还差一个聊天背景自定义，希望下次可以上",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_43"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "辅助号注册功能缺失",
+          "canonical_issue": "不能注册辅助号或小号",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_44",
+              "pain": "不能注册辅助号",
+              "suggestion": "建议增加辅助号注册功能。",
+              "source": "真的不好，不能注册辅助号",
+              "device": "nova 14 活力版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_68",
+              "pain": "不能辅助注册小号。",
+              "suggestion": "增加辅助注册小号功能。",
+              "source": "不能辅助注册小号，通知消息也打不开查看不了详情，希望能解决",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_44",
+            "com.ss.hm.ugc.aweme_68"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "日常内容显示异常",
+          "canonical_issue": "无法查看他人发布的日常内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_45",
+              "pain": "看不了别人发的日常",
+              "suggestion": "建议修复日常内容显示问题。",
+              "source": "看不了别人发的日常，拍视频音乐节点卡不上",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_45"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "拍视频音乐节点对齐问题",
+          "canonical_issue": "拍视频时音乐节点无法准确对齐",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_45",
+              "pain": "拍视频音乐节点卡不上",
+              "suggestion": "建议优化拍视频时音乐节点对齐功能。",
+              "source": "看不了别人发的日常，拍视频音乐节点卡不上",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_45"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "无障碍光标失效",
+          "canonical_issue": "屏幕朗读无法捕捉光标，影响盲人用户操作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_47",
+              "pain": "无障碍光标问题，屏幕朗读抓不到光标，盲人无法用",
+              "suggestion": "建议修复无障碍光标，确保屏幕朗读能正常捕捉光标。",
+              "source": "赶紧把你们的无障碍光标做一做吧，鸿蒙版的怎么回事啊屏幕朗读根本都抓不到光标，盲人完全无法用。看看多少盲人在反映这个问题。",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_47"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "小程序游戏支持不全",
+          "canonical_issue": "抖音小程序游戏无法全部运行",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_53",
+              "pain": "抖音小程序游戏不能全部玩",
+              "suggestion": "升级支持所有小程序游戏",
+              "source": "什么时候抖音小程序的游戏可以全部都能玩？能不能升级一下",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_53"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "语音播放切换异常",
+          "canonical_issue": "听评论区语音时切换视频后语音仍在播放",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_54",
+              "pain": "听评论区语音时划到下一个视频语音依旧还在",
+              "suggestion": "修复语音播放切换逻辑",
+              "source": "最新内测抖音有两个问题：\n1.无法退出横屏直播，想退出的时候反复进入横屏\n2.听评论区语音的时候划到下一个视频语音依旧还在",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_54"
+          ]
+        },
+        {
+          "cluster_id": "18",
+          "cluster_name": "私信内容无法查看",
+          "canonical_issue": "私信提醒可见但无法查看具体内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_58",
+              "pain": "私信提醒看不到具体内容",
+              "suggestion": "修复私信内容显示",
+              "source": "只见私信提醒看不到具体内容",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_58"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "音画不同步",
+          "canonical_issue": "视频播放时音画不同步",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_60",
+              "pain": "抖音没有声音，来回刷才有声音",
+              "suggestion": "修复声音播放问题",
+              "source": "抖音卡顿，没有声音，来回刷一下才有声音，还是会卡顿",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_72",
+              "pain": "音画不同步",
+              "suggestion": "修复音画同步问题",
+              "source": "这两天鸿蒙抖音问题有点多啊，音画不同步，评论点不开",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_60",
+            "com.ss.hm.ugc.aweme_72"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "青少年模式误报",
+          "canonical_issue": "无法发消息且提示青少年模式，但无相关设置功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_62",
+              "pain": "不能发消息，一直说青少年模式，但并没有该设置功能。",
+              "suggestion": "在设置中提供青少年模式开关，或修复青少年模式误报问题。",
+              "source": "不能发消息，一直说青少年模式。然而并没有这个设置功能。卸载几次都不行。真牛逼。",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_62"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "封面选取功能异常",
+          "canonical_issue": "无法选取视频或图片封面",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_64",
+              "pain": "无法选取封面。",
+              "suggestion": "完善封面选取功能，支持本地图片或视频帧选择。",
+              "source": "封面选取不了 可以快点完善吗",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_64"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "小程序支付页面显示不全",
+          "canonical_issue": "特定机型小程序支付二级页面显示不全且无法滚动",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_66",
+              "pain": "在Pura X Max机型上，小程序购买机票时支付二级页面显示不全且无法下滑，导致支付按钮无法点击。",
+              "suggestion": "适配该机型，修复支付页面的显示和滚动问题。",
+              "source": "pxmax机型小程序购买机票时点开支付二级页面无法显示全部页面，同时二级页面无法下滑，导致最下方的支付按钮无法点击完成购买",
+              "device": "HUAWEI Pura X Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_66"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "通知消息无法查看详情",
+          "canonical_issue": "通知消息无法打开查看详情",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_68",
+              "pain": "通知消息无法打开查看详情。",
+              "suggestion": "修复通知消息的跳转和详情展示功能。",
+              "source": "不能辅助注册小号，通知消息也打不开查看不了详情，希望能解决",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_68"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "网页版登录方式受限",
+          "canonical_issue": "网页版登录必须扫码，无法直接输入账号密码",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_70",
+              "pain": "网页版登录必须用手机扫码，无法直接输入账号密码。",
+              "suggestion": "提供账号密码直接登录方式，满足无手机场景需求。",
+              "source": "我登陆个网页版的还需要手机扫码登录，那我请问了，我手机上要是有抖音我干嘛还要登陆网页版的呢？",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_70"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "评论无法点开",
+          "canonical_issue": "评论区域无法点击展开",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_72",
+              "pain": "评论点不开",
+              "suggestion": "修复评论无法点开的问题",
+              "source": "这两天鸿蒙抖音问题有点多啊，音画不同步，评论点不开",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_72"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "直播功能异常",
+          "canonical_issue": "直播相关功能缺失或异常",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_73",
+              "pain": "直播间商品看不到直播讲解回放了",
+              "suggestion": "恢复直播间讲解回放功能",
+              "source": "直播间商品看不到直播讲解回放了",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_78",
+              "pain": "开直播 打台球功能 进入房间不能连麦打台球",
+              "suggestion": "修复直播打台球连麦功能",
+              "source": "开直播 打台球功能 进入房间不能连麦打台球我在问你什么时候能解决？",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_100",
+              "pain": "直播不能播放音乐",
+              "suggestion": "增加直播播放音乐的功能",
+              "source": "直播不能播放音乐",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_73",
+            "com.ss.hm.ugc.aweme_78",
+            "com.ss.hm.ugc.aweme_100"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "截屏功能异常",
+          "canonical_issue": "更新后截屏功能被禁止",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_80",
+              "pain": "怎么突然不让我截屏了我就更新",
+              "suggestion": "修复更新后截屏被禁止的问题",
+              "source": "怎么突然不让我截屏了我就更新",
+              "device": "HUAWEI Mate XT | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_80"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "拍同款功能异常",
+          "canonical_issue": "拍同款功能效果不一致",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_82",
+              "pain": "拍同款功能效果不一致",
+              "suggestion": "修复拍同款功能，确保效果与样本一致",
+              "source": "拍同款出来不一样。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_82"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "视频录制问题",
+          "canonical_issue": "视频录制延迟且音画不同步",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_84",
+              "pain": "拍视频延迟且音画不同步",
+              "suggestion": "优化视频录制延迟和音画同步问题",
+              "source": "为什么拍视频,,会延迟，音画不同步啊啊啊啊华为鸿蒙系统6.1",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_84"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "作品恢复功能缺失",
+          "canonical_issue": "鸿蒙端作品删除后无法恢复",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_85",
+              "pain": "鸿蒙端作品删除后无法恢复，而安卓端可以",
+              "suggestion": "鸿蒙端增加作品恢复功能，与安卓端保持一致",
+              "source": "鸿蒙端作品删除了恢复不了，安卓端就可以",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_85"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "好友备注功能缺失",
+          "canonical_issue": "无法修改好友备注名",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_89",
+              "pain": "无法修改好友备注名",
+              "suggestion": "添加好友备注编辑功能",
+              "source": "修改好友备注名，这个先弄一下",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_89"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "种草计划入口缺失",
+          "canonical_issue": "种草计划入口缺失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_90",
+              "pain": "种草计划入口缺失",
+              "suggestion": "在发布入口增加种草计划入口",
+              "source": "种草计划入口没有，发表视频文字时候添加话题没有自动联想！",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_90"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "话题自动联想缺失",
+          "canonical_issue": "发表视频文字时添加话题无自动联想",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_90",
+              "pain": "发表视频文字时添加话题无自动联想",
+              "suggestion": "在话题输入时提供自动联想功能",
+              "source": "种草计划入口没有，发表视频文字时候添加话题没有自动联想！",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_90"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "视频播放无声音",
+          "canonical_issue": "看视频没有声音",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_91",
+              "pain": "看视频没有声音",
+              "suggestion": "修复无声音的问题，确保音频正常播放",
+              "source": "看视频卡的不动，卡爆了。看视频竟然没有声音",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_97",
+              "pain": "刷视频有时无声音",
+              "suggestion": "修复无声音的Bug，确保音频正常输出",
+              "source": "这一版本有BUG，刷视频有时候会很卡，无声音，上下滑动视频切换后才正常播放，还有就是滑动下一个视频后，上一个视频会无限播放，跟现在的视频音频重叠，无语了",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_91",
+            "com.ss.hm.ugc.aweme_97"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "抖店二维码扫描功能缺失",
+          "canonical_issue": "不能扫抖店二维码",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_93",
+              "pain": "不能扫抖店二维码",
+              "suggestion": "增加扫一扫功能，支持抖店二维码扫描",
+              "source": "不能扫抖店二维码！\n抖店商品二维码无法扫，很影响电商行业",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_93"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "视频编辑功能缺失",
+          "canonical_issue": "发布的视频不支持编辑",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_95",
+              "pain": "发布的视频不支持编辑，无编辑按钮",
+              "suggestion": "添加视频编辑功能，在发布后提供编辑入口",
+              "source": "发布的视频还不支持编辑，没那个按钮。",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_95"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "视频播放重叠问题",
+          "canonical_issue": "滑动下一个视频后，上一个视频无限播放，与当前视频音频重叠",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_97",
+              "pain": "滑动下一个视频后，上一个视频无限播放，与当前视频音频重叠",
+              "suggestion": "修复视频播放Bug，确保切换视频时停止上一个视频的播放",
+              "source": "这一版本有BUG，刷视频有时候会很卡，无声音，上下滑动视频切换后才正常播放，还有就是滑动下一个视频后，上一个视频会无限播放，跟现在的视频音频重叠，无语了",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_97"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "评论区图片无法查看",
+          "canonical_issue": "评论区的图片无法查看",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_102",
+              "pain": "评论区的图片无法查看",
+              "suggestion": "修复评论区的图片加载功能",
+              "source": "评论区的图片无法查看",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_102"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "视频聊天功能需优化",
+          "canonical_issue": "抖音视频聊天功能需要优化",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_105",
+              "pain": "抖音视频聊天功能需要优化",
+              "suggestion": "优化视频聊天功能，提升用户体验",
+              "source": "抖音视频聊天能不能优化一下啊",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_105"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "小游戏链接功能消失",
+          "canonical_issue": "视频左下角小游戏链接功能消失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_106",
+              "pain": "视频左下角小游戏链接功能消失",
+              "suggestion": "恢复或修复视频左下角小游戏链接功能",
+              "source": "前一段时间都可以直接在视频左下角链接玩小游戏了现在又不见了",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_106"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "评论区语音播放逻辑异常",
+          "canonical_issue": "评论区语音播放后滑动评论或视频时仍持续播放，未正确停止",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_108",
+              "pain": "评论区播放语音后，滑动评论仍然播放语音",
+              "suggestion": "优化评论区语音播放逻辑，滑动时停止播放",
+              "source": "最新版本加鸿蒙6.1后，刷视频会有卡顿，只有视频没声音或者只有声音没视频，评论区播放语音后，滑动评论仍旧播放语音，滑动视频仍就播放语音",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_108",
+              "pain": "滑动视频时仍播放语音",
+              "suggestion": "优化视频滑动时语音播放逻辑",
+              "source": "最新版本加鸿蒙6.1后，刷视频会有卡顿，只有视频没声音或者只有声音没视频，评论区播放语音后，滑动评论仍旧播放语音，滑动视频仍就播放语音",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_108",
+            "com.ss.hm.ugc.aweme_108"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "消息中被@视频无法滑动",
+          "canonical_issue": "消息中被@的视频列表不支持上下滑动，影响查看体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_110",
+              "pain": "消息里被@的视频不能上下滑动，查看不便",
+              "suggestion": "优化消息中被@视频列表的滑动功能",
+              "source": "消息里被@的视频不能上下滑动是几个意思，需要我挨个退出点进去吗",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_110"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "直播间滑动误跳转",
+          "canonical_issue": "直播间滑动评论区时误跳转到其他直播间",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_114",
+              "pain": "直播间滑动评论区时误跳转到其他直播间",
+              "suggestion": "优化直播评论区的滑动逻辑，防止误跳转",
+              "source": "直播间看评论的时候，有时候往上一滑  明明想看未读消息，结果一下跳转到另外一个直播间了。。。",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_114"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "AI续灯牌功能在鸿蒙6系",
+          "canonical_issue": "AI续灯牌功能在鸿蒙6系统上无法使用，需适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_117",
+              "pain": "AI续灯牌功能在鸿蒙6上不支持",
+              "suggestion": "适配鸿蒙6系统，恢复AI续灯牌功能",
+              "source": "为啥还不更新AI续灯牌啊，我这鸿蒙4就可以，升级到鸿蒙6就弄不了了",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_117"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "语音识别口音适配差",
+          "canonical_issue": "语音识别对口音适应能力不足，识别不准确",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_119",
+              "pain": "语音识别口音不匹配",
+              "suggestion": "优化语音识别对口音的适应能力",
+              "source": "对，口音老是对不上。",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_119"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "缺失弹幕功能",
+          "canonical_issue": "应用缺少弹幕功能，影响观看体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_120",
+              "pain": "缺失弹幕功能",
+              "suggestion": "恢复或增加弹幕功能",
+              "source": "没有弹幕功能了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_120"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "直播间横竖屏切换异常",
+          "canonical_issue": "游戏直播间横竖屏切换逻辑错误，无法自由控制",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_121",
+              "pain": "进入游戏直播间横屏后自动转竖屏，从直播间外点击横屏进入后无法切回竖屏",
+              "suggestion": "修复横竖屏切换逻辑，允许用户自由控制屏幕方向",
+              "source": "最新的测试版，进游戏直播间横屏后会自动转成竖屏，如果在直播间外点击横屏进去后，就一直是横屏，无法竖屏",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_121"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "视频封面编辑功能缺失",
+          "canonical_issue": "视频无法编辑封面，功能被移除或未开放",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_122",
+              "pain": "视频不能编辑封面",
+              "suggestion": "恢复或添加视频封面编辑功能",
+              "source": "视频居然不能编辑封面了",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_127",
+              "pain": "无法编辑已发布的抖音作品（如修改封面）",
+              "suggestion": "提供编辑已发布作品的功能，包括修改封面等",
+              "source": "为什么现在还不能编辑已发的抖音作品，你像封面啥的，再一个发抖音的时候的添加歌词为什么每次都分辨不出来，再一个现在升级为什么每次都是名额已满？一块儿升级嘛",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_122",
+            "com.ss.hm.ugc.aweme_127"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "视频通话功能缺失",
+          "canonical_issue": "视频通话缺少画中画、特效及小火人功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_123",
+              "pain": "视频通话时无法缩小画面或使用特效，缺少小火人功能",
+              "suggestion": "增加视频通话画中画功能、特效及小火人特效",
+              "source": "能不能更新打视频能缩小，可以带特效\n啥时候可以用小火人",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_123"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "歌词识别失败",
+          "canonical_issue": "添加歌词时识别失败，算法需优化",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_127",
+              "pain": "添加歌词时每次都识别失败",
+              "suggestion": "优化歌词识别算法，提高识别成功率",
+              "source": "为什么现在还不能编辑已发的抖音作品，你像封面啥的，再一个发抖音的时候的添加歌词为什么每次都分辨不出来，再一个现在升级为什么每次都是名额已满？一块儿升级嘛",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_127"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "不支持云闪付支付",
+          "canonical_issue": "应用未接入云闪付支付方式",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_130",
+              "pain": "不支持云闪付支付",
+              "suggestion": "接入云闪付支付方式",
+              "source": "不支持云闪付支付，省钱卡没有，直播没大额优惠券，鸿蒙版啥优惠没有呗",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_130"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "日常功能未上线",
+          "canonical_issue": "日常相关功能尚未上线，用户期待尽快推出",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_131",
+              "pain": "缺少日常功能",
+              "suggestion": "建议尽快上线并完善日常相关功能。",
+              "source": "赶紧把日常给我弄出来啊",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_131"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "聊天功能不完善",
+          "canonical_issue": "聊天功能支持的消息类型有限，常提示不支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_134",
+              "pain": "聊天功能不完善，不支持某些消息类型",
+              "suggestion": "完善聊天功能，支持更多消息类型。",
+              "source": "希望赶快完善聊天功能，尤其是很有都是“你收到一条消息，暂不支持此类消息”",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_134"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "火花状态展示缺失",
+          "canonical_issue": "分享页面缺少好友火花状态展示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_135",
+              "pain": "缺少火花状态展示",
+              "suggestion": "在分享页面增加好友火花状态展示功能。",
+              "source": "什么时候能把和好友的火花状态展示在分享的页面上？？？好让我知道今天没有给谁转发视频！！！",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_135"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "商城筛选功能缺失",
+          "canonical_issue": "商城无法筛选商品，功能被移除或未实现",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_138",
+              "pain": "商城不能筛选",
+              "suggestion": "恢复或增加商城筛选功能。",
+              "source": "越改越难用，现在商城都不能筛选",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_138"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "更新后视频画质模糊",
+          "canonical_issue": "应用更新后视频画面变模糊，且伴随卡顿和无声问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_139",
+              "pain": "更新后视频画面模糊",
+              "suggestion": "优化视频画质，修复更新导致的模糊问题。",
+              "source": "更新了过后，视频画面比之前的更糊了。\n2026/5/14，更新完后，视频容易卡不说，还容易没声。",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_139"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "团购页面交互问题",
+          "canonical_issue": "团购页面自动弹出支付且字号过大遮挡信息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_141",
+              "pain": "团购页面自动跳出支付且字号过大遮挡信息",
+              "suggestion": "优化团购页面交互，避免自动弹出支付页面，调整字号大小",
+              "source": "一进团购哪里，自动跳出支付的那个页面，这个字号这个大啊，太夸张了，信息都看不到了",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_141"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "朋友栏目显示问题",
+          "canonical_issue": "朋友栏目显示昵称而非备注名",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_142",
+              "pain": "朋友栏目显示昵称而非备注名",
+              "suggestion": "在朋友栏目中优先显示备注名称或提供选项",
+              "source": "刷抖音朋友栏目的时候没有显示朋友的备注名字，显示的朋友抖音昵称，快点修复下",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_142"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "缺少AI功能",
+          "canonical_issue": "应用缺少AI相关功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_143",
+              "pain": "缺少AI功能",
+              "suggestion": "增加AI功能（如AI剪辑、推荐等）",
+              "source": "没有ai功能",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_143"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "视频推荐误触问题",
+          "canonical_issue": "视频推荐给功能易误触且无法关闭",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_144",
+              "pain": "视频推荐给功能易误触且无法关闭",
+              "suggestion": "提供关闭“视频推荐给”功能的选项或优化交互位置",
+              "source": "抖音什么时候才能把视频推荐给关掉！！！总是误点到",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_144"
+          ]
+        },
+        {
+          "cluster_id": "61",
+          "cluster_name": "视频播放画质问题",
+          "canonical_issue": "视频播放不支持超清/蓝光，画质模糊",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_146",
+              "pain": "视频播放不支持超清/蓝光，模糊",
+              "suggestion": "增加视频播放的超清/蓝光选项",
+              "source": "鸿蒙版这个抖音视频没法超清或者蓝光播放，特别模糊。真的差劲。只有直播间可以选择超清或者蓝光，这什么玩意，不够上火的",
+              "device": "HUAWEI Pura 90 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_170",
+              "pain": "视频画质太差",
+              "suggestion": "提升视频画质",
+              "source": "视频画质太差了",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_146",
+            "com.ss.hm.ugc.aweme_170"
+          ]
+        },
+        {
+          "cluster_id": "62",
+          "cluster_name": "商城订单物流问题",
+          "canonical_issue": "商城订单无法查看物流信息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_147",
+              "pain": "商城订单无法查看物流",
+              "suggestion": "修复商城订单物流入口，确保可查看物流信息",
+              "source": "商城买的东西，点不进去看物流。",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_147"
+          ]
+        },
+        {
+          "cluster_id": "63",
+          "cluster_name": "直播美颜功能缺失",
+          "canonical_issue": "直播缺少美颜功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_148",
+              "pain": "直播缺少美颜功能",
+              "suggestion": "增加直播美颜功能",
+              "source": "直播没有美颜，拍照不好看",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_148"
+          ]
+        },
+        {
+          "cluster_id": "64",
+          "cluster_name": "直播群优惠券问题",
+          "canonical_issue": "直播群优惠券消息不支持，无法领取",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_150",
+              "pain": "直播群优惠券消息不支持，领不到优惠券",
+              "suggestion": "修复支持直播群优惠券消息功能",
+              "source": "直播间购物，直播群里发的优惠劵显示：暂不支持此类消息。\n赶快修复吧，领不到优惠劵啊",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_150"
+          ]
+        },
+        {
+          "cluster_id": "65",
+          "cluster_name": "语音转文字功能缺失",
+          "canonical_issue": "发语音没有转文字的选项",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_153",
+              "pain": "发语音没有转文字的选项",
+              "suggestion": "增加语音转文字功能",
+              "source": "发语音没有转文字的选项",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_153"
+          ]
+        },
+        {
+          "cluster_id": "66",
+          "cluster_name": "更换壁纸功能缺失",
+          "canonical_issue": "缺少更换壁纸功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_154",
+              "pain": "缺少更换壁纸功能",
+              "suggestion": "增加更换壁纸功能",
+              "source": "小火人更多玩法更新下啊，系统不支持很不行啊，还有更换壁纸也搞一下吧！！",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_154"
+          ]
+        },
+        {
+          "cluster_id": "67",
+          "cluster_name": "连线显示问题",
+          "canonical_issue": "连线不显示",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_155",
+              "pain": "连线不显示",
+              "suggestion": "修复连线显示问题",
+              "source": "连线不显示",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_155"
+          ]
+        },
+        {
+          "cluster_id": "68",
+          "cluster_name": "发弹幕功能缺失",
+          "canonical_issue": "刷视频不能发弹幕",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_157",
+              "pain": "刷视频不能发弹幕了",
+              "suggestion": "恢复发弹幕功能",
+              "source": "刷视频怎么不能发弹幕了？",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_157"
+          ]
+        },
+        {
+          "cluster_id": "69",
+          "cluster_name": "同城关闭功能缺失",
+          "canonical_issue": "没有同城关闭功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_158",
+              "pain": "没有同城关闭功能",
+              "suggestion": "增加关闭同城功能选项",
+              "source": "没有同城关闭功能",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_158"
+          ]
+        },
+        {
+          "cluster_id": "70",
+          "cluster_name": "拍同款自动字幕缺失",
+          "canonical_issue": "拍同款没有自动字幕",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_159",
+              "pain": "拍同款没有自动字幕",
+              "suggestion": "增加拍同款自动字幕功能",
+              "source": "下载好几回了。拍同款没有自动字幕。",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_159"
+          ]
+        },
+        {
+          "cluster_id": "71",
+          "cluster_name": "日常内容观看问题",
+          "canonical_issue": "无法观看'日常'内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_165",
+              "pain": "无法观看'日常'内容",
+              "suggestion": "增加'日常'功能支持",
+              "source": "为什么还是看不了日常😭",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_165"
+          ]
+        },
+        {
+          "cluster_id": "72",
+          "cluster_name": "语音聊天播放问题",
+          "canonical_issue": "语音聊天无法自动连续播放第二条语音，且设置中无循环自动播放选项",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_169",
+              "pain": "语音聊天无法自动连续播放第二条语音，且设置中无循环自动播放选项",
+              "suggestion": "增加语音自动连续播放功能",
+              "source": "抖音语音聊天语音没法自动连续播放第二条语音！设置里面没有循环自动播放设置",
+              "device": "HUAWEI Pura 80 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_169"
+          ]
+        },
+        {
+          "cluster_id": "73",
+          "cluster_name": "声音叠加问题",
+          "canonical_issue": "点推荐进去两个视频声音叠加",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_171",
+              "pain": "点推荐进去两个视频声音叠加",
+              "suggestion": "修复声音叠加bug，确保只有一个视频播放声音",
+              "source": "点推荐进去两个视频声音叠加",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_171"
+          ]
+        },
+        {
+          "cluster_id": "74",
+          "cluster_name": "同城功能缺失",
+          "canonical_issue": "同城功能被移除或不可用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_172",
+              "pain": "为什么同城没了！真差劲",
+              "suggestion": "恢复同城功能",
+              "source": "为什么同城没了！真差劲",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_172"
+          ]
+        },
+        {
+          "cluster_id": "75",
+          "cluster_name": "转发功能异常",
+          "canonical_issue": "日常转发功能无法使用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_173",
+              "pain": "日常无法转发，等弄好了更新",
+              "suggestion": "修复转发功能",
+              "source": "日常无法转发，等弄好了更新",
+              "device": "nova 15"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_173"
+          ]
+        },
+        {
+          "cluster_id": "76",
+          "cluster_name": "弹幕大小调节缺失",
+          "canonical_issue": "缺少弹幕大小调节功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_174",
+              "pain": "能不能调弹幕大小",
+              "suggestion": "增加弹幕大小调节功能",
+              "source": "能不能调弹幕大小",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_174"
+          ]
+        },
+        {
+          "cluster_id": "77",
+          "cluster_name": "视频通话特效缺失",
+          "canonical_issue": "视频通话时无法使用特效",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_175",
+              "pain": "视频通话时不能使用特效 干巴巴聊天感觉失去短视频平台的趣味性 望更新",
+              "suggestion": "增加视频通话特效功能",
+              "source": "视频通话时不能使用特效 干巴巴聊天感觉失去短视频平台的趣味性 望更新",
+              "device": "HUAWEI Pura X 典藏版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_194",
+              "pain": "视频通话中无法使用特效。",
+              "suggestion": "增加视频通话中的特效功能。",
+              "source": "华为鸿蒙系统什么时候适配视频通话小窗功能啊，还有视频通话中没法玩特效",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_175",
+            "com.ss.hm.ugc.aweme_194"
+          ]
+        },
+        {
+          "cluster_id": "78",
+          "cluster_name": "直播间橱窗显示异常",
+          "canonical_issue": "直播间头像弹出卡片不显示橱窗",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_176",
+              "pain": "电机直播间头像弹出的卡片不显示橱窗？",
+              "suggestion": "修复直播间头像弹出卡片不显示橱窗的问题",
+              "source": "电机直播间头像弹出的卡片不显示橱窗？",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_176"
+          ]
+        },
+        {
+          "cluster_id": "79",
+          "cluster_name": "回车发送功能缺失",
+          "canonical_issue": "缺少回车发送消息功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_177",
+              "pain": "更新一下回车发送呗",
+              "suggestion": "增加回车发送消息功能",
+              "source": "更新一下回车发送呗",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_177"
+          ]
+        },
+        {
+          "cluster_id": "80",
+          "cluster_name": "视频聊天功能异常",
+          "canonical_issue": "视频聊天时对方看不到自己",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_181",
+              "pain": "视频聊天时对方看不到自己，但自己能看到对方？描述不清晰，疑似视频聊天功能异常。",
+              "suggestion": "检查视频聊天权限和摄像头功能，优化视频聊天体验。",
+              "source": "怎么我的手机上抖音视频聊天就看到我，不视频就看不到，我手机过时了吗？",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_181"
+          ]
+        },
+        {
+          "cluster_id": "81",
+          "cluster_name": "直播听歌功能缺失",
+          "canonical_issue": "直播时无法听歌",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_183",
+              "pain": "直播时无法听歌，希望增加该功能。",
+              "suggestion": "增加直播时听歌功能（如背景音乐或同时播放音乐）。",
+              "source": "什么时候支持直播的时候可以听歌？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_183"
+          ]
+        },
+        {
+          "cluster_id": "82",
+          "cluster_name": "首条视频无声",
+          "canonical_issue": "进入应用时首条视频没有声音",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_184",
+              "pain": "进入抖音第一条视频没有声音，设置里也未找到相关设置。",
+              "suggestion": "修复进入应用时首条视频无声的bug。",
+              "source": "为什么进入抖音第一条视频没有声音，设置里也没设置",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_184"
+          ]
+        },
+        {
+          "cluster_id": "83",
+          "cluster_name": "未读消息红点缺失",
+          "canonical_issue": "聊天列表未读消息没有红点标记",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_185",
+              "pain": "聊天列表未读消息没有红点标记。",
+              "suggestion": "增加未读消息红点提示功能。",
+              "source": "什么时候完善聊天列表将未读的消息标记红点？",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_185"
+          ]
+        },
+        {
+          "cluster_id": "84",
+          "cluster_name": "后台直播音频播放异常",
+          "canonical_issue": "后台继续播放直播音频功能不可用",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_186",
+              "pain": "后台继续播放直播音频功能不可用。",
+              "suggestion": "修复后台播放直播音频功能。",
+              "source": "后台继续播放直播音频用不了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_186"
+          ]
+        },
+        {
+          "cluster_id": "85",
+          "cluster_name": "怀旧找茬功能消失",
+          "canonical_issue": "怀旧找茬功能玩两天后消失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_190",
+              "pain": "怀旧找茬功能玩两天后消失。",
+              "suggestion": "检查该功能为何消失，确保稳定存在。",
+              "source": "怀旧找茬怎么玩两天又不见了？",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_190"
+          ]
+        },
+        {
+          "cluster_id": "86",
+          "cluster_name": "缓存功能异常",
+          "canonical_issue": "200条视频的缓存功能无法生效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_193",
+              "pain": "200条视频的缓存功能无法生效。",
+              "suggestion": "修复缓存功能，确保用户设置的缓存数量正常生效。",
+              "source": "经常断网，体验不好。200条视频的缓存功能也无法生效。",
+              "device": "HUAWEI Mate X6 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_193"
+          ]
+        },
+        {
+          "cluster_id": "87",
+          "cluster_name": "拍摄口型不同步",
+          "canonical_issue": "拍摄抖音视频时口型对不上",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_195",
+              "pain": "拍摄抖音视频时口型对不上。",
+              "suggestion": "优化音视频同步算法，修复口型不同步问题。",
+              "source": "拍抖音对不上口型！！",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_195"
+          ]
+        },
+        {
+          "cluster_id": "88",
+          "cluster_name": "视频发送速度慢",
+          "canonical_issue": "视频发送速度慢",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_199",
+              "pain": "视频发送速度慢。",
+              "suggestion": "优化视频上传速度，提高发送效率。",
+              "source": "希望可以优化一下视频发送速度",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_199"
+          ]
+        },
+        {
+          "cluster_id": "89",
+          "cluster_name": "合拍功能缺失",
+          "canonical_issue": "鸿蒙抖音缺少合拍功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_201",
+              "pain": "鸿蒙抖音缺少合拍功能",
+              "suggestion": "增加合拍功能",
+              "source": "鸿蒙抖音什么时候可以出合拍功能呃呃呃",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_201"
+          ]
+        },
+        {
+          "cluster_id": "90",
+          "cluster_name": "视频播放无声",
+          "canonical_issue": "刷视频时经常没声音",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_203",
+              "pain": "刷视频时经常没声音",
+              "suggestion": "修复声音播放问题",
+              "source": "断流就算了 怎么刷着刷着老是没声音啊 这个版本",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_203"
+          ]
+        },
+        {
+          "cluster_id": "91",
+          "cluster_name": "删除作品功能缺失",
+          "canonical_issue": "应用内缺少删除已发布作品的功能入口",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_204",
+              "pain": "没有删除作品的按钮",
+              "suggestion": "添加删除作品功能",
+              "source": "没有删除作品的按钮",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_204"
+          ]
+        },
+        {
+          "cluster_id": "92",
+          "cluster_name": "视频无声问题",
+          "canonical_issue": "部分视频播放时出现无声或声音异常",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_206",
+              "pain": "刷视频嘴动没声音，下一个就有",
+              "suggestion": "修复部分视频无声的问题",
+              "source": "怎么刷视频嘴动没声音，下一个就有呢",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_227",
+              "pain": "视频打开无声音",
+              "suggestion": "修复视频播放无声问题",
+              "source": "现在点开首页就是刷新，回复一下点回去就这样，现在视频打开声音都没有",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_206",
+            "com.ss.hm.ugc.aweme_227"
+          ]
+        },
+        {
+          "cluster_id": "93",
+          "cluster_name": "提词器功能缺失",
+          "canonical_issue": "拍摄视频时缺少提词器功能支持",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_207",
+              "pain": "缺少提词器功能",
+              "suggestion": "增加提词器功能",
+              "source": "为什么还是没有提词器呢",
+              "device": "HUAWEI Mate 60"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_218",
+              "pain": "拍视频没有提词器",
+              "suggestion": "添加拍视频提词器功能",
+              "source": "拍视频提词器没有",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_207",
+            "com.ss.hm.ugc.aweme_218"
+          ]
+        },
+        {
+          "cluster_id": "94",
+          "cluster_name": "横竖屏切换异常",
+          "canonical_issue": "横竖屏切换时视频回退到历史浏览记录",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_208",
+              "pain": "竖屏转横屏观看时会切回到之前浏览过的横屏视频",
+              "suggestion": "修复横竖屏切换时视频回退的Bug",
+              "source": "竖屏转横屏观看时会切回到当前打开过的之前(几十分钟前）浏览过的横屏视频",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_208"
+          ]
+        },
+        {
+          "cluster_id": "95",
+          "cluster_name": "音画不同步",
+          "canonical_issue": "视频播放时出现音画不同步现象",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_210",
+              "pain": "更新后音画不同步",
+              "suggestion": "修复音画不同步问题",
+              "source": "为什么我感觉今天更新后音画不同步了",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_210"
+          ]
+        },
+        {
+          "cluster_id": "96",
+          "cluster_name": "清理缓存功能缺失",
+          "canonical_issue": "应用内缺少清理缓存的功能入口",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_211",
+              "pain": "没有清理缓存功能",
+              "suggestion": "增加清理缓存的功能入口",
+              "source": "怎么没有清理缓存了",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_215",
+              "pain": "版本缺少清理缓存功能",
+              "suggestion": "恢复清理缓存功能",
+              "source": "这版本没有清理缓存吗",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_211",
+            "com.ss.hm.ugc.aweme_215"
+          ]
+        },
+        {
+          "cluster_id": "97",
+          "cluster_name": "备注名显示异常",
+          "canonical_issue": "视频界面无法显示用户备注名，仅显示昵称",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_216",
+              "pain": "视频界面无法显示备注名，只能显示昵称",
+              "suggestion": "在视频界面上添加显示备注名的功能",
+              "source": "点击用户主页可以看到备注名，视频界面无法直接显示备注名，只能显示昵称，太不方便了，希望早点修复这个bug，更新了几次都没修复这个问题",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_216"
+          ]
+        },
+        {
+          "cluster_id": "98",
+          "cluster_name": "定时关闭功能故障",
+          "canonical_issue": "定时关闭功能无法正常工作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_224",
+              "pain": "定时关闭功能故障",
+              "suggestion": "修复定时关闭功能",
+              "source": "今天的定时关闭功能又坏了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_224"
+          ]
+        },
+        {
+          "cluster_id": "99",
+          "cluster_name": "首页自动刷新",
+          "canonical_issue": "进入首页时自动刷新，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_227",
+              "pain": "点开首页自动刷新",
+              "suggestion": "优化首页加载逻辑，避免不必要的刷新",
+              "source": "现在点开首页就是刷新，回复一下点回去就这样，现在视频打开声音都没有",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_227"
+          ]
+        },
+        {
+          "cluster_id": "100",
+          "cluster_name": "回复后页面刷新",
+          "canonical_issue": "回复操作后页面异常刷新，打断用户操作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_227",
+              "pain": "回复后页面刷新",
+              "suggestion": "优化回复操作后的页面状态保持",
+              "source": "现在点开首页就是刷新，回复一下点回去就这样，现在视频打开声音都没有",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_227"
+          ]
+        },
+        {
+          "cluster_id": "101",
+          "cluster_name": "私信通知异常",
+          "canonical_issue": "私信消息无推送提醒",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_228",
+              "pain": "私信不提醒",
+              "suggestion": "修复私信推送通知功能",
+              "source": "为什么私信不提醒？还有就是通知消息无法点开查看详情，什么时候能解决呢？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_228"
+          ]
+        },
+        {
+          "cluster_id": "102",
+          "cluster_name": "通知点击跳转异常",
+          "canonical_issue": "通知消息无法点击查看详情",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_228",
+              "pain": "通知消息无法点开查看详情",
+              "suggestion": "修复通知点击跳转详情功能",
+              "source": "为什么私信不提醒？还有就是通知消息无法点开查看详情，什么时候能解决呢？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_228"
+          ]
+        },
+        {
+          "cluster_id": "103",
+          "cluster_name": "录唱功能异常",
+          "canonical_issue": "录唱视频时无法同时录制原声和配乐",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_229",
+              "pain": "录唱视频不能同时录制原声和配乐",
+              "suggestion": "优化录唱功能，支持同时录制原声和配乐",
+              "source": "录唱视频没办法录，用原声就没有配乐，用配乐就无法录原声",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_229"
+          ]
+        },
+        {
+          "cluster_id": "104",
+          "cluster_name": "朋友动态不可见",
+          "canonical_issue": "无法查看朋友的日常动态内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_231",
+              "pain": "看不到朋友的日常",
+              "suggestion": "优化朋友动态展示逻辑，确保用户能看到朋友的日常内容",
+              "source": "看不到朋友的日常",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_231"
+          ]
+        },
+        {
+          "cluster_id": "105",
+          "cluster_name": "外语翻译功能缺失",
+          "canonical_issue": "应用内缺少外语翻译功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_233",
+              "pain": "没有外语翻译功能",
+              "suggestion": "增加外语翻译功能",
+              "source": "没有外语翻译功能",
+              "device": "nova 13 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_233"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "131",
+          "cluster_name": "日常发送功能更新",
+          "canonical_issue": "日常发送功能需要更新以优化便捷性或速度",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_192",
+              "pain": "期望日常发送功能得到更新。",
+              "suggestion": "评估并优化日常发送功能，提升便捷性或速度。",
+              "source": "日常的发送可以更新一手",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_192"
+          ]
+        },
+        {
+          "cluster_id": "132",
+          "cluster_name": "PK宝箱获取指引",
+          "canonical_issue": "缺少PK宝箱获取方法的相关指引",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_338",
+              "pain": "用户不知道如何获取PK宝箱，缺少相关指引。",
+              "suggestion": "增加PK宝箱获取方法说明或引导。",
+              "source": "Pk宝箱怎么获取",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_338"
+          ]
+        },
+        {
+          "cluster_id": "133",
+          "cluster_name": "AI生成入口期待",
+          "canonical_issue": "用户期待增加AI生成入口",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_397",
+              "pain": "期待AI生成入口",
+              "suggestion": "增加AI生成入口",
+              "source": "期待更新Ai生成入口",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_397"
+          ]
+        }
+      ]
+    }
+  },
+  "系统与机型适配": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "0",
+          "cluster_name": "鸿蒙API频繁变更",
+          "canonical_issue": "鸿蒙系统频繁更换API版本导致应用不稳定",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_5",
+              "pain": "鸿蒙系统频繁更换API版本导致应用不稳定",
+              "suggestion": "加强鸿蒙系统版本兼容性测试，适配API变化",
+              "source": "刷一个视频能卡三次，更新版本后直接前面几秒的声音都没了，不管你是WiFi还是手机网络，一样出现，集体摆烂了，鸿蒙三天两头换API版本，哈哈哈哈",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_5"
+          ]
+        },
+        {
+          "cluster_id": "1",
+          "cluster_name": "限时日常内容无法观看",
+          "canonical_issue": "鸿蒙系统无法观看限时日常内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_38",
+              "pain": "鸿蒙系统无法观看限时日常内容",
+              "suggestion": "适配鸿蒙系统，解决限时日常无法观看问题",
+              "source": "鸿蒙系统为啥看不了限时日常啊！！！",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_38"
+          ]
+        },
+        {
+          "cluster_id": "2",
+          "cluster_name": "6.1版本不适配，缺少拍",
+          "canonical_issue": "6.1版本不适配，缺少拍同款功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_52",
+              "pain": "6.1版本不适配，缺少拍同款功能",
+              "suggestion": "优化适配，增加拍同款功能",
+              "source": "6.1还是有很多不适配，一个拍同款都没",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_52"
+          ]
+        },
+        {
+          "cluster_id": "3",
+          "cluster_name": "外屏显示未适配",
+          "canonical_issue": "外屏未适配",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_88",
+              "pain": "外屏未适配",
+              "suggestion": "适配外屏显示，确保正常使用",
+              "source": "啥时候外屏能适配啊 我的哥",
+              "device": "HUAWEI Pura X 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_88"
+          ]
+        },
+        {
+          "cluster_id": "4",
+          "cluster_name": "折叠屏评论区显示不全",
+          "canonical_issue": "三折叠竖屏评论区只能显示一半",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_126",
+              "pain": "三折叠竖屏评论区只能显示一半",
+              "suggestion": "适配折叠屏竖屏显示，确保评论区域完整展示",
+              "source": "三折叠竖屏评论区只能显示一半",
+              "device": "HUAWEI Mate XTs | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_126"
+          ]
+        },
+        {
+          "cluster_id": "5",
+          "cluster_name": "小火人玩法不支持",
+          "canonical_issue": "小火人更多玩法系统不支持",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_154",
+              "pain": "小火人更多玩法系统不支持",
+              "suggestion": "适配更多系统版本以支持小火人更多玩法",
+              "source": "小火人更多玩法更新下啊，系统不支持很不行啊，还有更换壁纸也搞一下吧！！",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_154"
+          ]
+        },
+        {
+          "cluster_id": "6",
+          "cluster_name": "游戏适配未兑现",
+          "canonical_issue": "游戏适配未兑现",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_160",
+              "pain": "游戏适配未兑现",
+              "suggestion": "完善游戏适配，确保宣传与实际一致",
+              "source": "不是说适配了嘛，游戏了？",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_160"
+          ]
+        },
+        {
+          "cluster_id": "7",
+          "cluster_name": "鸿蒙系统未适配视频通话小",
+          "canonical_issue": "鸿蒙系统未适配视频通话小窗功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_194",
+              "pain": "鸿蒙系统未适配视频通话小窗功能。",
+              "suggestion": "加快适配，支持视频通话小窗。",
+              "source": "华为鸿蒙系统什么时候适配视频通话小窗功能啊，还有视频通话中没法玩特效",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_194"
+          ]
+        },
+        {
+          "cluster_id": "8",
+          "cluster_name": "视频文字编辑功能缺失",
+          "canonical_issue": "华为手机不能修改视频的文字编辑",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_232",
+              "pain": "华为手机不能修改视频的文字编辑",
+              "suggestion": "适配华为手机的视频文字编辑功能",
+              "source": "为什么华为手机不能修改视频的文字编辑",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_232"
+          ]
+        },
+        {
+          "cluster_id": "9",
+          "cluster_name": "特效拍照模糊",
+          "canonical_issue": "抖音特效拍照模糊，像马赛克一样",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_235",
+              "pain": "抖音特效拍照模糊，像马赛克一样",
+              "suggestion": "优化华为手机上的特效拍照清晰度",
+              "source": "抖音特效拍照模糊。像马赛克一样华为手机赶紧搞搞吧",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_235"
+          ]
+        },
+        {
+          "cluster_id": "10",
+          "cluster_name": "鸿蒙版抖音卡顿",
+          "canonical_issue": "鸿蒙版的抖音对鸿蒙系统太不友好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_244",
+              "pain": "鸿蒙版的抖音对鸿蒙系统太不友好",
+              "suggestion": "优化鸿蒙版的适配性",
+              "source": "鸿蒙版的抖音对鸿蒙系统太不友好了，卡的要死，点都点不动。",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_244"
+          ]
+        },
+        {
+          "cluster_id": "11",
+          "cluster_name": "鸿蒙系统更新慢",
+          "canonical_issue": "鸿蒙系统更新慢",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_258",
+              "pain": "鸿蒙系统更新慢",
+              "suggestion": "加快鸿蒙系统更新节奏",
+              "source": "收藏的小程序都找不到，鸿蒙系统更新有点慢哦",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_258"
+          ]
+        },
+        {
+          "cluster_id": "12",
+          "cluster_name": "聊天背景和气泡更换功能失效",
+          "canonical_issue": "更新鸿蒙系统后聊天背景和气泡换不了",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_269",
+              "pain": "更新鸿蒙系统后聊天背景和气泡换不了",
+              "suggestion": "适配鸿蒙系统，恢复聊天背景和气泡更换功能",
+              "source": "为什么更新了鸿蒙新系统之后抖音的聊天背景和聊天气泡换不了了",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_269"
+          ]
+        },
+        {
+          "cluster_id": "13",
+          "cluster_name": "直播界面不支持屏幕旋转",
+          "canonical_issue": "直播界面不能跟随屏幕旋转",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_286",
+              "pain": "直播界面不能跟随屏幕旋转",
+              "suggestion": "适配鸿蒙系统，支持直播屏幕旋转",
+              "source": "鸿蒙的看直播不能跟随屏幕转方向",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_286"
+          ]
+        },
+        {
+          "cluster_id": "14",
+          "cluster_name": "折叠屏作者主页分栏不支持",
+          "canonical_issue": "折叠屏抖音不支持作者主页分栏",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_311",
+              "pain": "折叠屏抖音不支持作者主页分栏",
+              "suggestion": "适配折叠屏，支持作者主页分栏",
+              "source": "折叠屏抖音不支持看作者主页分栏了 卓易通版的微信就可以",
+              "device": "HUAWEI Mate X6"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_311"
+          ]
+        },
+        {
+          "cluster_id": "15",
+          "cluster_name": "CBA场次切换问题",
+          "canonical_issue": "鸿蒙系统CBA观看切换不了场次",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_314",
+              "pain": "鸿蒙系统CBA观看切换不了场次",
+              "suggestion": "解决鸿蒙系统上CBA场次切换问题",
+              "source": "CBA观看切换不了场次仅限于鸿蒙系统希望尽快解决",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_314"
+          ]
+        },
+        {
+          "cluster_id": "16",
+          "cluster_name": "鸿蒙版软件研发上架慢",
+          "canonical_issue": "鸿蒙版抖音极速版等软件研发上架更新慢",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_316",
+              "pain": "鸿蒙版抖音极速版等软件研发上架更新慢",
+              "suggestion": "加快鸿蒙版抖音极速版等软件的研发和上架",
+              "source": "其他抖软件，鸿蒙软件安装包研发太慢，抖音极速版赶紧研发等着领金币，华为一键登入、今日头条登入、微信、QQ登入都没有，其他抖软件研发上架更新真的好慢",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_316"
+          ]
+        },
+        {
+          "cluster_id": "17",
+          "cluster_name": "小游戏无法运行",
+          "canonical_issue": "鸿蒙系统下部分小游戏无法运行",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_359",
+              "pain": "鸿蒙系统下部分小游戏无法运行",
+              "suggestion": "建议优化鸿蒙系统对小游戏的兼容性",
+              "source": "有的小游戏都不让玩，鸿蒙系统，为什么！",
+              "device": "HUAWEI Mate X5"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_359"
+          ]
+        }
+      ]
+    },
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "134",
+          "cluster_name": "鸿蒙适配与更新",
+          "canonical_issue": "用户希望加快鸿蒙系统适配并持续更新",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_446",
+              "pain": "用户希望抓紧适配鸿蒙并持续更新",
+              "suggestion": "无",
+              "source": "抓紧适配鸿蒙，争取日日更新",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_446"
+          ]
+        }
+      ]
+    }
+  },
+  "稳定性与性能": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "18",
+          "cluster_name": "视频卡顿",
+          "canonical_issue": "视频播放过程中频繁卡顿，包括重复播放、滑动切换、快进等场景",
+          "size": 10,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_5",
+              "pain": "刷视频卡顿严重，更新后无声",
+              "suggestion": "修复卡顿和音频丢失问题",
+              "source": "刷一个视频能卡三次，更新版本后直接前面几秒的声音都没了，不管你是WiFi还是手机网络，一样出现，集体摆烂了，鸿蒙三天两头换API版本，哈哈哈哈",
+              "device": "HUAWEI Mate 60 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_9",
+              "pain": "同一视频重复播放时卡顿",
+              "suggestion": "修复重复播放卡顿问题",
+              "source": "同一视频重复播放的时候会卡；\n近期疯狂各种团购、活动，10条里有4-5条，疯了？",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_10",
+              "pain": "刷视频时卡顿，感觉在缓冲",
+              "suggestion": "优化视频缓冲机制，减少卡顿",
+              "source": "这个版本，刷视频的时候总会卡顿一下，感觉在缓冲",
+              "device": "HUAWEI Pura X Max 典藏版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_17",
+              "pain": "更新后出现卡顿，不是网速问题",
+              "suggestion": "优化更新后的性能表现",
+              "source": "更新以后开始卡了，不是网速卡",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_18",
+              "pain": "刷抖音经常卡着",
+              "suggestion": "修复卡顿问题",
+              "source": "刷抖音怎么老是会卡着，",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_19",
+              "pain": "每次使用都一卡一卡",
+              "suggestion": "排查并修复卡顿原因",
+              "source": "为什么我每次都会一卡一卡的，到底是哪里出了问题？",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_22",
+              "pain": "长按快进后画面卡住，声音仍在播放",
+              "suggestion": "修复长按快进后画面卡住的问题",
+              "source": "刷视频一长按快进就会出现视频快进了几秒但画面卡住不动，声音还会有的情况",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_24",
+              "pain": "刷抖音时应用卡住",
+              "suggestion": "修复滑动时应用卡顿或卡死的问题",
+              "source": "到现在都不能发动图作品，网络正常的时候刷抖音，过一会这个自己卡住",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_26",
+              "pain": "应用卡顿",
+              "suggestion": "优化性能，减少卡顿现象",
+              "source": "为啥这么卡",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_48",
+              "pain": "视频卡顿，看一半卡半天",
+              "suggestion": "建议优化性能，减少卡顿现象。",
+              "source": "会卡啊  多少年没遇到过看一半卡半天的情况了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_5",
+            "com.ss.hm.ugc.aweme_9",
+            "com.ss.hm.ugc.aweme_10",
+            "com.ss.hm.ugc.aweme_17",
+            "com.ss.hm.ugc.aweme_18",
+            "com.ss.hm.ugc.aweme_19",
+            "com.ss.hm.ugc.aweme_22",
+            "com.ss.hm.ugc.aweme_24",
+            "com.ss.hm.ugc.aweme_26",
+            "com.ss.hm.ugc.aweme_48"
+          ]
+        },
+        {
+          "cluster_id": "19",
+          "cluster_name": "后台切换卡顿",
+          "canonical_issue": "应用后台切换时出现明显卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_4",
+              "pain": "后台切换时出现卡顿",
+              "suggestion": "优化应用后台切换的性能",
+              "source": "卡顿 后台切换的时候",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_4"
+          ]
+        },
+        {
+          "cluster_id": "20",
+          "cluster_name": "音画不同步",
+          "canonical_issue": "视频播放时音频与画面不同步",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_14",
+              "pain": "更新后刷视频偶尔音画不同步",
+              "suggestion": "修复音画同步问题",
+              "source": "更新好偶尔会有刷视频音画不同步现象",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_14"
+          ]
+        },
+        {
+          "cluster_id": "21",
+          "cluster_name": "音频丢失",
+          "canonical_issue": "视频播放时出现无声或音频丢失问题",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_21",
+              "pain": "划到视频没声音，需重新滑动才有声音",
+              "suggestion": "修复滑动时视频声音丢失的bug",
+              "source": "新版本有的视频刚划到没声音，重新划回来才有声音，出bug了",
+              "device": "nova 12 Ultra 星耀版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_28",
+              "pain": "视频播放时无声",
+              "suggestion": "修复视频无声问题",
+              "source": "视频会没声音，掉帧",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_49",
+              "pain": "刷着刷着音频会有一段时间没声音",
+              "suggestion": "建议修复音频丢失问题。",
+              "source": "刷着刷着音频会有一段时间没声音。",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_21",
+            "com.ss.hm.ugc.aweme_28",
+            "com.ss.hm.ugc.aweme_49"
+          ]
+        },
+        {
+          "cluster_id": "22",
+          "cluster_name": "掉帧",
+          "canonical_issue": "视频播放时出现掉帧现象",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_28",
+              "pain": "视频播放时掉帧",
+              "suggestion": "优化性能，减少掉帧现象",
+              "source": "视频会没声音，掉帧",
+              "device": "HUAWEI Mate 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_28"
+          ]
+        },
+        {
+          "cluster_id": "23",
+          "cluster_name": "流畅度差",
+          "canonical_issue": "应用整体流畅度下降，帧率偏低",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_12",
+              "pain": "更新后流畅度差，感觉像40帧",
+              "suggestion": "优化性能，提升帧率",
+              "source": "更新下流畅度吧。用起来感觉像40帧率一样",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_12"
+          ]
+        },
+        {
+          "cluster_id": "24",
+          "cluster_name": "直播间卡死",
+          "canonical_issue": "直播间查看链接时应用卡死无响应",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_32",
+              "pain": "直播间查看链接时卡死无响应",
+              "suggestion": "优化直播间链接加载性能，修复卡死问题",
+              "source": "直播间看看链接就卡住不动，任何选项都点不了，太差劲",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_32"
+          ]
+        },
+        {
+          "cluster_id": "25",
+          "cluster_name": "横屏跳转异常",
+          "canonical_issue": "横屏操作后视频跳转异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_50",
+              "pain": "手机横屏以后，会突然跳转到很久之前的视频去",
+              "suggestion": "建议修复横屏跳转Bug。",
+              "source": "手机横屏以后，会突然跳转到很久之前的视频去",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_50"
+          ]
+        },
+        {
+          "cluster_id": "26",
+          "cluster_name": "视频播放卡顿",
+          "canonical_issue": "视频播放过程中卡顿、不连续",
+          "size": 9,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_55",
+              "pain": "刷视频卡顿，需上下翻动才有，其他安卓手机正常",
+              "suggestion": "优化性能，解决卡顿问题",
+              "source": "为什么刷个抖音那么卡，非得上下翻动一下才有，开始以为是网络问题，可家里其他安卓手机没这个问题",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_56",
+              "pain": "视频播放不连续，很卡，排除网络原因",
+              "suggestion": "优化视频播放连续性",
+              "source": "刷视频好卡啊，排除了网络原因！就是视频播放不连续，也不见走流量。赶紧看看啥情况啊，用回安卓版就好了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_57",
+              "pain": "更新后刷视频卡顿严重",
+              "suggestion": "修复更新后卡顿问题",
+              "source": "更新了啥，刷个视频卡的要死",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_60",
+              "pain": "抖音卡顿，声音问题也导致卡顿感知",
+              "suggestion": "优化性能减少卡顿",
+              "source": "抖音卡顿，没有声音，来回刷一下才有声音，还是会卡顿",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_65",
+              "pain": "刷视频卡顿。",
+              "suggestion": "优化视频播放性能，减少卡顿。",
+              "source": "刷个视频卡顿卡顿的😂",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_71",
+              "pain": "刷几个视频就巨卡无比，不是网的问题，反应迟钝",
+              "suggestion": "优化视频播放卡顿问题",
+              "source": "刷几个视频就巨卡无比，不是网的问题，反应迟钝",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_75",
+              "pain": "经常卡住和卡顿，同样的网络mate40pro没这种同题",
+              "suggestion": "优化特定设备（如Mate 80 Pro Max）上的卡顿问题",
+              "source": "经常卡住和卡顿，同样的网络mate40pro没这种同题",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_83",
+              "pain": "滑动刷视频有卡顿问题",
+              "suggestion": "优化滑动流畅性，减少卡顿",
+              "source": "这版本怎么刷着有卡顿问题。🥲🥲🥲",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_91",
+              "pain": "看视频卡爆了，卡的不动",
+              "suggestion": "优化视频播放性能，减少卡顿",
+              "source": "看视频卡的不动，卡爆了。看视频竟然没有声音",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_55",
+            "com.ss.hm.ugc.aweme_56",
+            "com.ss.hm.ugc.aweme_57",
+            "com.ss.hm.ugc.aweme_60",
+            "com.ss.hm.ugc.aweme_65",
+            "com.ss.hm.ugc.aweme_71",
+            "com.ss.hm.ugc.aweme_75",
+            "com.ss.hm.ugc.aweme_83",
+            "com.ss.hm.ugc.aweme_91"
+          ]
+        },
+        {
+          "cluster_id": "27",
+          "cluster_name": "鸿蒙适配卡顿",
+          "canonical_issue": "鸿蒙系统适配不佳导致卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_59",
+              "pain": "卡顿且与鸿蒙不匹配",
+              "suggestion": "优化鸿蒙系统适配",
+              "source": "卡顿与鸿蒙不匹配",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_59"
+          ]
+        },
+        {
+          "cluster_id": "28",
+          "cluster_name": "版本更新后卡顿",
+          "canonical_issue": "版本更新后整体性能下降",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_69",
+              "pain": "新版本太卡。",
+              "suggestion": "优化新版本性能，降低资源占用。",
+              "source": "新版本太卡",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_87",
+              "pain": "更新版本后进直播间和商城卡顿",
+              "suggestion": "优化更新后的性能，特别是直播间和商城模块",
+              "source": "更新版本后进直播间，去商城都好卡",
+              "device": "HUAWEI Pura 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_69",
+            "com.ss.hm.ugc.aweme_87"
+          ]
+        },
+        {
+          "cluster_id": "29",
+          "cluster_name": "视频状态恢复异常",
+          "canonical_issue": "切换桌面后视频进度丢失",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_63",
+              "pain": "版本38.7.0有bug：视频切换到桌面后重新播放，但第二次不会出现。",
+              "suggestion": "修复该版本中视频状态保存的bug，确保切换桌面后恢复播放进度。",
+              "source": "这个38.7.0版本有bug，大家可以试试！看视频的时候你切换到桌面，你会发现视频从头开始播放了，但是同个视频第二次就不会出现这种情况",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_63"
+          ]
+        },
+        {
+          "cluster_id": "30",
+          "cluster_name": "数据恢复卡死",
+          "canonical_issue": "更新后数据恢复过程卡死",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_67",
+              "pain": "更新后无法打开，一直显示数据恢复中，且无法预估等待时间。",
+              "suggestion": "优化更新后数据恢复机制，显示进度条或预估时间，或允许跳过恢复直接使用。",
+              "source": "打不开，数据恢复中，不知道什么时候来打开，如果做不到更新完就能打开，就不要提示更新软件",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_67"
+          ]
+        },
+        {
+          "cluster_id": "31",
+          "cluster_name": "设置界面卡顿",
+          "canonical_issue": "设置界面操作卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_76",
+              "pain": "设置界面卡的要死",
+              "suggestion": "优化设置界面流畅度",
+              "source": "设置界面卡的要死",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_76"
+          ]
+        },
+        {
+          "cluster_id": "32",
+          "cluster_name": "商城直播卡顿",
+          "canonical_issue": "商城和直播页面卡顿",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_81",
+              "pain": "抖音商城卡顿，订单点击刷新缓慢",
+              "suggestion": "优化商城页面加载速度和订单刷新响应",
+              "source": "抖音商城卡顿，订单点击刷新缓慢。请尽快改善更新",
+              "device": "HUAWEI Pura 90 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_92",
+              "pain": "打开商城或直播买东西时卡成PPT",
+              "suggestion": "优化商城和直播页面的流畅度",
+              "source": "打开商城或者直播买东西的券多之类的，都卡成PPT了",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_81",
+            "com.ss.hm.ugc.aweme_92"
+          ]
+        },
+        {
+          "cluster_id": "33",
+          "cluster_name": "视频播放卡顿",
+          "canonical_issue": "视频播放过程中频繁卡顿，影响观看体验",
+          "size": 9,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_94",
+              "pain": "个别视频卡顿，音画不同步",
+              "suggestion": "优化视频播放性能，解决音画不同步问题",
+              "source": "个别视频，要么特别卡顿，要么画面在动音频卡住后出，导致不同步。同一批视频反复推送，已经好几个月了，找过客服到现在都还没解决。",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_97",
+              "pain": "刷视频有时候会很卡",
+              "suggestion": "优化视频播放性能，减少卡顿",
+              "source": "这一版本有BUG，刷视频有时候会很卡，无声音，上下滑动视频切换后才正常播放，还有就是滑动下一个视频后，上一个视频会无限播放，跟现在的视频音频重叠，无语了",
+              "device": "HUAWEI Pura 70 Ultra"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_101",
+              "pain": "刷视频一直卡顿，排除网络问题",
+              "suggestion": "优化视频播放性能，检查内存或渲染问题",
+              "source": "刷视频一直卡顿，别说是网的问题，在哪都这样。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_108",
+              "pain": "最新版本加鸿蒙6.1后刷视频卡顿",
+              "suggestion": "优化视频播放性能，适配鸿蒙6.1",
+              "source": "最新版本加鸿蒙6.1后，刷视频会有卡顿，只有视频没声音或者只有声音没视频，评论区播放语音后，滑动评论仍旧播放语音，滑动视频仍就播放语音",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_111",
+              "pain": "应用不够流畅，有卡顿现象",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "不够流畅，用起来还是有点卡卡的。",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_113",
+              "pain": "最近应用卡顿",
+              "suggestion": "排查卡顿原因并优化",
+              "source": "最近卡怎么回事？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_118",
+              "pain": "刷视频时网络卡顿",
+              "suggestion": "优化网络加载策略，减少卡顿",
+              "source": "经常刷着刷着看卡网，不知道为什么。。。",
+              "device": "HUAWEI Mate 70 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_125",
+              "pain": "抖音卡顿如幻灯片，频繁缓冲，无论WiFi还是流量",
+              "suggestion": "优化性能，减少卡顿和缓冲现象",
+              "source": "抖音莫名其妙的卡顿，有时候像幻灯片一样，很多时候会动不动就缓冲，不管是用流量还是wifi都这样",
+              "device": "HUAWEI Pura 70 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_129",
+              "pain": "什么都卡",
+              "suggestion": "全面优化性能，解决卡顿问题",
+              "source": "什么都卡",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_94",
+            "com.ss.hm.ugc.aweme_97",
+            "com.ss.hm.ugc.aweme_101",
+            "com.ss.hm.ugc.aweme_108",
+            "com.ss.hm.ugc.aweme_111",
+            "com.ss.hm.ugc.aweme_113",
+            "com.ss.hm.ugc.aweme_118",
+            "com.ss.hm.ugc.aweme_125",
+            "com.ss.hm.ugc.aweme_129"
+          ]
+        },
+        {
+          "cluster_id": "34",
+          "cluster_name": "音画不同步",
+          "canonical_issue": "视频播放时音频与画面不同步，或仅有画面无声音",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_99",
+              "pain": "更新之后音画不同步",
+              "suggestion": "修复音画不同步的Bug",
+              "source": "更新之后音画不同步",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_107",
+              "pain": "更新后音画不同步",
+              "suggestion": "修复音画同步问题，检查更新兼容性",
+              "source": "更新后 音画不同步",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_108",
+              "pain": "只有视频没声音或者只有声音没视频",
+              "suggestion": "修复音视频不同步或缺失问题",
+              "source": "最新版本加鸿蒙6.1后，刷视频会有卡顿，只有视频没声音或者只有声音没视频，评论区播放语音后，滑动评论仍旧播放语音，滑动视频仍就播放语音",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_124",
+              "pain": "部分视频没有声音，需要反复刷新才能播放",
+              "suggestion": "排查音频播放问题，确保视频声音正常",
+              "source": "有的视频没声音 得反复刷一下",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_128",
+              "pain": "偶尔断流，声音和画面不同步",
+              "suggestion": "优化网络连接稳定性，修复音画同步问题",
+              "source": "偶尔断流，声音和画面不同步",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_99",
+            "com.ss.hm.ugc.aweme_107",
+            "com.ss.hm.ugc.aweme_108",
+            "com.ss.hm.ugc.aweme_124",
+            "com.ss.hm.ugc.aweme_128"
+          ]
+        },
+        {
+          "cluster_id": "35",
+          "cluster_name": "音频输出异常",
+          "canonical_issue": "视频播放时声音忽大忽小或完全无声音",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_104",
+              "pain": "声音偶尔忽大忽小",
+              "suggestion": "修复音频输出稳定性，确保音量一致",
+              "source": "刷视频的时候，声音偶尔忽大忽小",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_104"
+          ]
+        },
+        {
+          "cluster_id": "36",
+          "cluster_name": "横竖屏切换异常",
+          "canonical_issue": "直播横屏观看时无法正常退出，横竖屏切换逻辑错误",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_109",
+              "pain": "直播横屏观看按返回退出竖屏又回到横屏，无限循环退不出直播间",
+              "suggestion": "修复横竖屏切换逻辑，确保退出直播功能正常",
+              "source": "38.8.0的版本看直播横屏观看按返回退出竖屏又会回到横屏来，这个bug赶紧修复等同于无限循环，退不出直播间",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_109"
+          ]
+        },
+        {
+          "cluster_id": "37",
+          "cluster_name": "交互响应异常",
+          "canonical_issue": "横屏下评论区点击无响应，屏幕触控失效",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_112",
+              "pain": "横屏下侧边评论区点击不感兴趣后屏幕无响应",
+              "suggestion": "修复横屏下评论区交互bug",
+              "source": "又整了个bug，横屏打开侧边评论区，长按点击不感兴趣，有概率，屏幕会点击不了，点哪都没反应，38.7.0",
+              "device": "HUAWEI MatePad 11.5''S"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_112"
+          ]
+        },
+        {
+          "cluster_id": "38",
+          "cluster_name": "商城页面卡顿",
+          "canonical_issue": "抖音商城页面加载缓慢，操作卡顿",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_98",
+              "pain": "抖音商城很卡",
+              "suggestion": "优化商城页面加载和响应速度",
+              "source": "为啥今天抖音商城这么卡",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_98"
+          ]
+        },
+        {
+          "cluster_id": "39",
+          "cluster_name": "视频播放卡顿",
+          "canonical_issue": "视频播放过程中出现卡顿、卡住、不流畅问题",
+          "size": 10,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_132",
+              "pain": "网络正常但视频卡顿",
+              "suggestion": "优化视频播放卡顿问题，排查非网络因素导致的卡顿。",
+              "source": "我就想问问网络没问题的情况下莫名其妙的卡视频是怎么回事",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_137",
+              "pain": "视频卡住不动，网络正常，其他视频软件正常",
+              "suggestion": "排查并修复视频播放卡住问题。",
+              "source": "看视频经常卡住不动，像是网络不好，但是我网络是正常的，不管是wifi还是流量都会这样。看其他视频软件没有这个问题，希望能修复",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_139",
+              "pain": "更新后视频卡顿",
+              "suggestion": "修复卡顿问题。",
+              "source": "更新了过后，视频画面比之前的更糊了。\n2026/5/14，更新完后，视频容易卡不说，还容易没声。",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_140",
+              "pain": "上下滑动卡顿，播放卡顿",
+              "suggestion": "优化滑动和播放性能，减少卡顿。",
+              "source": "这个版本上下滑动卡顿，播放卡顿",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_152",
+              "pain": "升级后视频卡顿严重",
+              "suggestion": "优化视频播放性能，修复卡顿",
+              "source": "升级了视频卡得不得了",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_156",
+              "pain": "声音和图像不同步，图像卡顿",
+              "suggestion": "修复音画不同步和卡顿问题",
+              "source": "这两天我怎么发现刷抖音的时候声音和图像不同步呢？就是图像会卡顿一下。卡顿的时候，声音在播放。",
+              "device": "HUAWEI Pura 70 Ultra"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_162",
+              "pain": "画面卡住、断断续续，视频突然没有声音或音画不匹配",
+              "suggestion": "优化视频播放流畅性，修复音画同步问题",
+              "source": "有时候画面会卡住，断断续续的，有的视频会突然没有声音，或者声音和视频不匹配",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_163",
+              "pain": "自动重播视频卡着不动，打开视频卡顿严重，与网络无关",
+              "suggestion": "修复自动重播卡住问题，优化视频加载流畅性",
+              "source": "这个版本是不是有问题？抖音正常播放一个视频完了，然后自动重播视频卡着不动，而且有的视频打开卡的不得了，跟网络没有问题",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_164",
+              "pain": "视频卡住不会自动缓冲，一直卡",
+              "suggestion": "优化缓冲机制，避免卡死",
+              "source": "有时候卡住不会自己缓冲，一直卡",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_166",
+              "pain": "刷视频时无端卡顿，无论WiFi还是流量",
+              "suggestion": "优化整体流畅性，解决随机卡顿",
+              "source": "刷着刷着就莫名其妙卡着，不管用WiFi还是流量",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_132",
+            "com.ss.hm.ugc.aweme_137",
+            "com.ss.hm.ugc.aweme_139",
+            "com.ss.hm.ugc.aweme_140",
+            "com.ss.hm.ugc.aweme_152",
+            "com.ss.hm.ugc.aweme_156",
+            "com.ss.hm.ugc.aweme_162",
+            "com.ss.hm.ugc.aweme_163",
+            "com.ss.hm.ugc.aweme_164",
+            "com.ss.hm.ugc.aweme_166"
+          ]
+        },
+        {
+          "cluster_id": "40",
+          "cluster_name": "设备发热严重",
+          "canonical_issue": "使用应用时设备发热严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_133",
+              "pain": "刷抖音发热严重",
+              "suggestion": "优化应用功耗，减少设备发热。",
+              "source": "Mate70 air使用过程刷抖音就发热严重",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_133"
+          ]
+        },
+        {
+          "cluster_id": "41",
+          "cluster_name": "应用整体卡顿",
+          "canonical_issue": "应用整体运行卡顿，无法正常操作",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_136",
+              "pain": "卡顿无法操作",
+              "suggestion": "修复卡顿问题，提升流畅度。",
+              "source": "卡主动不了",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_182",
+              "pain": "应用卡顿严重。",
+              "suggestion": "优化应用性能，减少卡顿。",
+              "source": "卡卡卡",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_136",
+            "com.ss.hm.ugc.aweme_182"
+          ]
+        },
+        {
+          "cluster_id": "42",
+          "cluster_name": "直播卡顿",
+          "canonical_issue": "直播播放过程中出现卡顿问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_145",
+              "pain": "直播卡顿",
+              "suggestion": "优化直播播放性能，减少卡顿",
+              "source": "直播为什么那么卡？",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_145"
+          ]
+        },
+        {
+          "cluster_id": "43",
+          "cluster_name": "音画不同步",
+          "canonical_issue": "视频播放时声音和图像不同步",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_139",
+              "pain": "更新后视频没声音",
+              "suggestion": "解决播放无声问题。",
+              "source": "更新了过后，视频画面比之前的更糊了。\n2026/5/14，更新完后，视频容易卡不说，还容易没声。",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_139"
+          ]
+        },
+        {
+          "cluster_id": "44",
+          "cluster_name": "直播间显示异常",
+          "canonical_issue": "直播间显示黑屏或显示不全",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_168",
+              "pain": "更新后进入9宫格直播间黑屏显示不全",
+              "suggestion": "修复直播间显示问题",
+              "source": "更新这个版本后，进9宫格直播间黑屏显示不全",
+              "device": "nova 13"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_168"
+          ]
+        },
+        {
+          "cluster_id": "45",
+          "cluster_name": "声音叠加bug",
+          "canonical_issue": "退出后重新进入应用时，上一个视频的声音和新视频的声音同时播放",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_178",
+              "pain": "退出后播放打开时，再次进入，刷一个新的视频，上一个视频的声音和新视频的声音同时播放，高发！",
+              "suggestion": "修复声音叠加bug，确保退出后重新进入时音频正确停止",
+              "source": "退出后播放打开时，再次进入，刷一个新的视频，上一个视频的声音和新视频的声音同时播放，高发！",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_178"
+          ]
+        },
+        {
+          "cluster_id": "46",
+          "cluster_name": "直播间购物车异常",
+          "canonical_issue": "直播间添加购物车时多次弹出界面，无法返回",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_180",
+              "pain": "直播间添加购物车点几次没反应，几秒钟之后连续弹出几个添选SKU的界面，无法返回，只能杀死重来",
+              "suggestion": "优化直播间购物车响应，防止多次弹出，增加返回功能",
+              "source": "直播间添加购物车点几次没反应，几秒钟之后连续弹出几个添选SKU的界面，无法返回，只能杀死重来",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_180"
+          ]
+        },
+        {
+          "cluster_id": "47",
+          "cluster_name": "应用卡顿",
+          "canonical_issue": "应用运行卡顿，包括刷视频卡顿、更新后卡顿、滑动卡顿等",
+          "size": 9,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_187",
+              "pain": "更新后越来越卡，看几秒就卡死，有时完全看不见。",
+              "suggestion": "优化更新后的性能，减少卡顿。",
+              "source": "怎么越更新越卡，每次看没几秒就卡的要死，有的时候压根看不见，老是更新，我就想知道，到底更新了啥",
+              "device": "nova 15 Ultra"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_196",
+              "pain": "更新后应用卡顿。",
+              "suggestion": "优化更新后的性能，减少卡顿现象。",
+              "source": "更新完卡卡的",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_198",
+              "pain": "刷视频经常卡顿。",
+              "suggestion": "优化视频流播放性能，减少卡顿。",
+              "source": "刷视频经常卡顿的问题又来了",
+              "device": "HUAWEI Pura 70 Ultra"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_205",
+              "pain": "太卡了",
+              "suggestion": "优化应用流畅度",
+              "source": "太卡了",
+              "device": "HUAWEI Mate X6 典藏版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_209",
+              "pain": "刷着刷着就会卡着不动",
+              "suggestion": "修复卡顿问题",
+              "source": "刷着刷着就会卡着不动",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_213",
+              "pain": "播放一半卡住，多次更新未修复",
+              "suggestion": "优化播放稳定性，解决卡顿问题",
+              "source": "经常播放一半就卡住了，都更新几次了，还没修复。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_220",
+              "pain": "刷视频时卡顿",
+              "suggestion": "优化滑动加载流畅度",
+              "source": "刷视频的时候会卡",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_223",
+              "pain": "鸿蒙系统下刷抖音卡顿，更新后更严重",
+              "suggestion": "优化鸿蒙系统下抖音性能，减少卡顿",
+              "source": "你们鸿蒙系统刷抖音卡嘛\n找华为反馈他们说让我清理缓存，卸载重新下载\n无语了，想退坑\n\n昨天更新完，更是卡成PPT了",
+              "device": "HUAWEI Mate XT | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_226",
+              "pain": "6.1版本卡顿",
+              "suggestion": "优化6.1版本性能，解决卡顿问题",
+              "source": "6.1卡顿，卡卡卡卡顿",
+              "device": "HUAWEI Pura 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_187",
+            "com.ss.hm.ugc.aweme_196",
+            "com.ss.hm.ugc.aweme_198",
+            "com.ss.hm.ugc.aweme_205",
+            "com.ss.hm.ugc.aweme_209",
+            "com.ss.hm.ugc.aweme_213",
+            "com.ss.hm.ugc.aweme_220",
+            "com.ss.hm.ugc.aweme_223",
+            "com.ss.hm.ugc.aweme_226"
+          ]
+        },
+        {
+          "cluster_id": "48",
+          "cluster_name": "网络连接问题",
+          "canonical_issue": "网络连接不稳定，包括断网、断流、网络正常但视频卡住等问题",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_188",
+              "pain": "网络正常但刷视频时卡住不动。",
+              "suggestion": "修复视频播放卡死问题。",
+              "source": "网络正常，但是刷一会儿视频会卡住 不动",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_193",
+              "pain": "经常断网，体验不好。",
+              "suggestion": "优化网络连接稳定性，减少断网情况。",
+              "source": "经常断网，体验不好。200条视频的缓存功能也无法生效。",
+              "device": "HUAWEI Mate X6 典藏版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_203",
+              "pain": "断流问题",
+              "suggestion": "优化网络连接稳定性",
+              "source": "断流就算了 怎么刷着刷着老是没声音啊 这个版本",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_239",
+              "pain": "断网",
+              "suggestion": "修复网络连接稳定性问题",
+              "source": "断网。。服了",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_188",
+            "com.ss.hm.ugc.aweme_193",
+            "com.ss.hm.ugc.aweme_203",
+            "com.ss.hm.ugc.aweme_239"
+          ]
+        },
+        {
+          "cluster_id": "49",
+          "cluster_name": "音频播放异常",
+          "canonical_issue": "视频播放时音频异常，包括无声、部分视频无声、刷着刷着没声音等问题",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_212",
+              "pain": "有时候没有声音",
+              "suggestion": "排查并修复音频播放异常问题",
+              "source": "有时候没声音？",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_219",
+              "pain": "部分视频进去后没有声音，返回再进正常",
+              "suggestion": "修复首次进入视频无声的bug",
+              "source": "更新后出现部分视频进去后没有声音，返回再进又正常了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_212",
+            "com.ss.hm.ugc.aweme_219"
+          ]
+        },
+        {
+          "cluster_id": "50",
+          "cluster_name": "直播功能异常",
+          "canonical_issue": "直播功能存在严重bug，影响观看体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_189",
+              "pain": "观看直播bug严重（38.8测试版）。",
+              "suggestion": "修复测试版直播bug。",
+              "source": "38.8测试版的观看直播的bug简直逆天🙃",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_189"
+          ]
+        },
+        {
+          "cluster_id": "51",
+          "cluster_name": "设备发热掉帧",
+          "canonical_issue": "设备在使用过程中发热严重并伴随掉帧现象",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_217",
+              "pain": "发热掉帧",
+              "suggestion": "优化性能，减少发热和掉帧",
+              "source": "有没有发热掉帧的？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_217"
+          ]
+        },
+        {
+          "cluster_id": "52",
+          "cluster_name": "流量消耗异常",
+          "canonical_issue": "应用更新后流量消耗异常，短时间内消耗大量流量",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_237",
+              "pain": "每次更新后流量消耗离谱，一小时用11G",
+              "suggestion": "优化网络请求，减少不必要的流量消耗",
+              "source": "搞不懂，每次更新之后流量就很离谱，今天我才刷了一个小时，已经用了11G了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_237"
+          ]
+        },
+        {
+          "cluster_id": "53",
+          "cluster_name": "应用卡顿",
+          "canonical_issue": "应用整体卡顿，操作响应慢",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_244",
+              "pain": "卡的要死，点都点不动",
+              "suggestion": "修复卡顿问题",
+              "source": "鸿蒙版的抖音对鸿蒙系统太不友好了，卡的要死，点都点不动。",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_248",
+              "pain": "卡顿死机",
+              "suggestion": "修复卡顿和死机问题",
+              "source": "你们抖音，卡顿死机吗",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_251",
+              "pain": "抖音卡顿",
+              "suggestion": "优化应用性能，减少卡顿",
+              "source": "抖音卡顿。",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_295",
+              "pain": "应用非常卡顿，影响使用",
+              "suggestion": "全面优化应用性能，解决卡顿问题",
+              "source": "还是卡的要死，还能继续用吗？",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_298",
+              "pain": "点击内容反应慢，比卓易通的抖音极速版慢",
+              "suggestion": "提升响应速度，优化性能以对标竞品",
+              "source": "每回一点想要的内容往往都会卡，要反应好一会儿，我进卓易通的抖音极速版都比鸿蒙版抖音快",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_244",
+            "com.ss.hm.ugc.aweme_248",
+            "com.ss.hm.ugc.aweme_251",
+            "com.ss.hm.ugc.aweme_295",
+            "com.ss.hm.ugc.aweme_298"
+          ]
+        },
+        {
+          "cluster_id": "54",
+          "cluster_name": "耗电异常",
+          "canonical_issue": "应用耗电异常，影响设备续航",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_242",
+              "pain": "耗电异常，建议排查",
+              "suggestion": "排查耗电异常原因并进行优化",
+              "source": "耗电异常，建议排查",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_242"
+          ]
+        },
+        {
+          "cluster_id": "55",
+          "cluster_name": "发布卡顿",
+          "canonical_issue": "发布作品时卡顿，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_249",
+              "pain": "发布作品卡顿",
+              "suggestion": "优化发布作品流程的性能",
+              "source": "发布作品卡顿。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_249"
+          ]
+        },
+        {
+          "cluster_id": "56",
+          "cluster_name": "设备发热",
+          "canonical_issue": "应用更新后导致设备发热",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_250",
+              "pain": "越更新导致手机发热",
+              "suggestion": "优化更新版本，减少发热问题",
+              "source": "越更新导致手机发热，越来越不好用",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_250"
+          ]
+        },
+        {
+          "cluster_id": "57",
+          "cluster_name": "滑动不跟手",
+          "canonical_issue": "滑动操作不流畅，响应迟钝",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_255",
+              "pain": "更新后刷视频上翻反应迟钝",
+              "suggestion": "优化更新后的滑动响应性能",
+              "source": "更新完 刷视频上翻感觉反应好迟钝",
+              "device": "nova 12 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_264",
+              "pain": "滑动不跟手",
+              "suggestion": "优化滑动流畅度",
+              "source": "新版本滑动起来不跟手啊",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_255",
+            "com.ss.hm.ugc.aweme_264"
+          ]
+        },
+        {
+          "cluster_id": "58",
+          "cluster_name": "声音问题",
+          "canonical_issue": "视频播放时声音异常或丢失",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_268",
+              "pain": "刷新视频没声音几秒后又恢复",
+              "suggestion": "修复刷新视频声音丢失的bug",
+              "source": "刷新视频会没声音几秒又可以了新版本bug",
+              "device": "ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_283",
+              "pain": "视频播放结束后声音仍循环播放",
+              "suggestion": "修复音视频不同步问题，确保视频循环播放时声音同步",
+              "source": "视频内容播放完不循环，声音却一直都在循环播放",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_268",
+            "com.ss.hm.ugc.aweme_283"
+          ]
+        },
+        {
+          "cluster_id": "59",
+          "cluster_name": "显示异常",
+          "canonical_issue": "视频或文字显示尺寸异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_271",
+              "pain": "朋友分享的视频尺寸突然变大，小火人底下的文字也异常显示",
+              "suggestion": "修复视频和文字显示尺寸异常的bug",
+              "source": "朋友分享的视频尺寸突然会变大是啥bug，小火人底下的那行字也是。在刷视频的时候点搜索或者到其他界面原视频声音不会听",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_271"
+          ]
+        },
+        {
+          "cluster_id": "60",
+          "cluster_name": "数据丢失",
+          "canonical_issue": "草稿箱视频丢失，数据安全问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_277",
+              "pain": "草稿箱里的视频丢失",
+              "suggestion": "修复草稿箱数据丢失问题，确保用户草稿安全存储",
+              "source": "能不能把我以前草稿箱里的视频还给我了！！！",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_277"
+          ]
+        },
+        {
+          "cluster_id": "61",
+          "cluster_name": "画面波动",
+          "canonical_issue": "视频播放时画面上下波动",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_278",
+              "pain": "视频播放时偶尔上下波动",
+              "suggestion": "修复视频播放时画面波动的bug",
+              "source": "鸿蒙版抖音，视频偶尔会上下波动一下",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_278"
+          ]
+        },
+        {
+          "cluster_id": "62",
+          "cluster_name": "语音延迟",
+          "canonical_issue": "私信语音消息响应延迟",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_290",
+              "pain": "私信语音消息点击后响应延迟十几秒",
+              "suggestion": "优化私信语音播放性能，减少响应延迟",
+              "source": "私信的语音功能什么时候修复一下，每次对面发语音过来一点击得等个十几秒才响应，你们开发者到底用不用鸿蒙版抖音的",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_290"
+          ]
+        },
+        {
+          "cluster_id": "63",
+          "cluster_name": "播放卡顿",
+          "canonical_issue": "视频播放过程中卡顿或停止",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_294",
+              "pain": "视频经常播着播着就不动了，更新后更卡",
+              "suggestion": "优化视频播放性能，减少卡顿和停止播放的问题",
+              "source": "视频经常播着播着就不动了，赶紧优化啊。。。更新后更卡了。。。",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_294"
+          ]
+        },
+        {
+          "cluster_id": "64",
+          "cluster_name": "音画不同步",
+          "canonical_issue": "更新后画面与声音出现延迟",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_300",
+              "pain": "更新后画面与声音出现延迟",
+              "suggestion": "修复音画不同步问题，确保更新后功能正常",
+              "source": "为什么更新完画面跟声音会延迟",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_300"
+          ]
+        },
+        {
+          "cluster_id": "65",
+          "cluster_name": "更新后卡顿",
+          "canonical_issue": "应用更新后出现卡顿、加载慢、音画不同步等性能问题",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_302",
+              "pain": "更新后刷视频卡顿，视频加载慢",
+              "suggestion": "优化应用性能，减少更新后卡顿和加载时间",
+              "source": "更新完以后刷视频特别卡，不是网速卡只是抖音卡，视频加载半天",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_327",
+              "pain": "更新后出现严重卡顿",
+              "suggestion": "修复更新导致的性能问题",
+              "source": "今天一更新又又又卡了我真的无语了😑😑😑😑😑",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_313",
+              "pain": "推荐页音画不同步",
+              "suggestion": "修复推荐页音画不同步问题",
+              "source": "这个版本在推荐页，时不时出现音画不同步的情况，视频都开始动了，声音都还没出来，快修",
+              "device": "nova 14 Ultra"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_343",
+              "pain": "看视频断断续续，不是网络问题，可能是bug",
+              "suggestion": "排查并修复视频播放卡顿bug",
+              "source": "为什么看视频断断续续，不是网络不稳定那种，是bug吗？",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_302",
+            "com.ss.hm.ugc.aweme_327",
+            "com.ss.hm.ugc.aweme_313",
+            "com.ss.hm.ugc.aweme_343"
+          ]
+        },
+        {
+          "cluster_id": "66",
+          "cluster_name": "网络环境卡顿",
+          "canonical_issue": "WiFi和流量环境下均出现卡顿，非网络问题",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_304",
+              "pain": "WiFi和流量环境均卡顿严重",
+              "suggestion": "优化网络加载策略，提升弱网环境流畅度",
+              "source": "wifi和流量都卡的要死卡",
+              "device": "HUAWEI Mate 70 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_369",
+              "pain": "特定时间段内视频持续缓冲，用户网络正常",
+              "suggestion": "优化缓冲问题，排查服务器或客户端原因",
+              "source": "5月8日-5月12日抖音什么问题老是缓冲，我网络没问题。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_304",
+            "com.ss.hm.ugc.aweme_369"
+          ]
+        },
+        {
+          "cluster_id": "67",
+          "cluster_name": "通用卡顿问题",
+          "canonical_issue": "应用频繁卡顿，影响正常使用",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_307",
+              "pain": "卡顿时间太长，影响使用",
+              "suggestion": "优化应用流畅度，缩短卡顿持续时间",
+              "source": "卡的时间太多了，很烦人",
+              "device": "nova 12 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_322",
+              "pain": "经常卡顿",
+              "suggestion": "优化性能，减少卡顿现象",
+              "source": "经常会卡顿，",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_373",
+              "pain": "卡顿退不出来不流畅",
+              "suggestion": "优化卡顿和退不出的问题",
+              "source": "不能编辑封面，有时卡顿退不出来不流畅",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_307",
+            "com.ss.hm.ugc.aweme_322",
+            "com.ss.hm.ugc.aweme_373"
+          ]
+        },
+        {
+          "cluster_id": "68",
+          "cluster_name": "视频画面异常",
+          "canonical_issue": "视频画面抖动、动图卡死、特效卡顿等视频相关问题",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_332",
+              "pain": "更新后Pura X Max设备上视频画面抖动，评论区图片无法打开，影响使用。",
+              "suggestion": "修复视频画面抖动和评论区图片加载问题。",
+              "source": "更新后Pura x max视频画面抖动，评论区图片打不开",
+              "device": "HUAWEI Pura X Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_363",
+              "pain": "动图播放第二遍时卡死",
+              "suggestion": "修复动图播放卡死问题",
+              "source": "动图目前播放第二遍的时候直接没有中间过程卡死",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_372",
+              "pain": "自拍视频加特效卡顿",
+              "suggestion": "优化特效渲染性能",
+              "source": "为什么抖音自拍视频加特效就卡啊",
+              "device": "nova 15 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_332",
+            "com.ss.hm.ugc.aweme_363",
+            "com.ss.hm.ugc.aweme_372"
+          ]
+        },
+        {
+          "cluster_id": "69",
+          "cluster_name": "界面交互卡顿",
+          "canonical_issue": "私聊界面、商品图片切换等特定界面卡顿",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_344",
+              "pain": "私聊界面超级卡，点小火人卡三秒才能出来",
+              "suggestion": "优化私聊界面性能，解决卡顿问题",
+              "source": "卡死了，很卡很卡，在私聊界面超级卡，点了个小火人，卡了三秒钟才能出来。然后发视频色调就变得很奇怪，变得死白死白的。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_374",
+              "pain": "商品图片切换卡顿",
+              "suggestion": "优化切换性能",
+              "source": "抖音商城点开商品图片左右切换商品规格的时候很卡 希望能尽快优化下",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_344",
+            "com.ss.hm.ugc.aweme_374"
+          ]
+        },
+        {
+          "cluster_id": "70",
+          "cluster_name": "功能异常",
+          "canonical_issue": "多选图片处理失败、无法进入小程序等功能性问题",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_356",
+              "pain": "多选图片后素材处理失败",
+              "suggestion": "建议修复素材处理失败的Bug，确保图片多选功能正常",
+              "source": "为什么多选图片的时候选完一直显示素材处理失败，能不能完善一下，想发作品发不了",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_365",
+              "pain": "更新后无法进入抖音小程序的我的花园世界",
+              "suggestion": "修复更新后无法进入小程序的问题",
+              "source": "更新了以后突然没办法进抖音小程序的我的花园世界了",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_356",
+            "com.ss.hm.ugc.aweme_365"
+          ]
+        },
+        {
+          "cluster_id": "71",
+          "cluster_name": "应用闪退",
+          "canonical_issue": "应用闪退问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_377",
+              "pain": "应用闪退",
+              "suggestion": "修复闪退问题",
+              "source": "解决哈闪退把",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_377"
+          ]
+        },
+        {
+          "cluster_id": "72",
+          "cluster_name": "鸿蒙6.1闪屏",
+          "canonical_issue": "鸿蒙6.1系统下抖音闪屏问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_382",
+              "pain": "鸿蒙6.1系统抖音闪屏问题",
+              "suggestion": "针对鸿蒙6.1系统进行专项优化，修复闪屏bug，与华为团队协同测试。",
+              "source": "鸿蒙6.1系统抖音闪屏问题什么时候能解决？",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_382"
+          ]
+        },
+        {
+          "cluster_id": "73",
+          "cluster_name": "抖音特效卡顿",
+          "canonical_issue": "抖音特效和表情加载卡顿，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_398",
+              "pain": "抖音特效卡顿",
+              "suggestion": "优化特效性能",
+              "source": "抖音特效还是一卡一卡的，抖音表情大部分无法查看",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_398"
+          ]
+        },
+        {
+          "cluster_id": "74",
+          "cluster_name": "应用整体卡顿",
+          "canonical_issue": "抖音应用整体运行卡顿，性能表现不佳",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_413",
+              "pain": "应用特别卡顿",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "特别卡",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_423",
+              "pain": "更新后应用变得超级卡顿",
+              "suggestion": "优化应用性能，减少卡顿问题",
+              "source": "抖音更新完变得超级卡顿",
+              "device": "nova 14 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_473",
+              "pain": "抖音比其他应用更容易卡顿",
+              "suggestion": "针对性优化抖音性能",
+              "source": "就抖音最容易卡顿",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_483",
+              "pain": "卡顿",
+              "suggestion": "优化性能，减少卡顿",
+              "source": "会有卡顿",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_413",
+            "com.ss.hm.ugc.aweme_423",
+            "com.ss.hm.ugc.aweme_473",
+            "com.ss.hm.ugc.aweme_483"
+          ]
+        },
+        {
+          "cluster_id": "75",
+          "cluster_name": "直播滑屏卡顿",
+          "canonical_issue": "直播滑屏切换时卡顿严重，影响观看体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_438",
+              "pain": "直播滑屏卡顿",
+              "suggestion": "优化直播滑屏性能",
+              "source": "先给个五星，但是也不要光增加新功能，也要优化下软件啊，现在看直播滑屏到下一个直播，都卡的很啊，优化一下吧。",
+              "device": "HUAWEI Mate 80 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_487",
+              "pain": "直播横屏卡顿、掉帧严重",
+              "suggestion": "优化直播横屏性能",
+              "source": "直播横屏一卡一卡，掉帧非常严重",
+              "device": "HUAWEI Mate 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_438",
+            "com.ss.hm.ugc.aweme_487"
+          ]
+        },
+        {
+          "cluster_id": "76",
+          "cluster_name": "视频重播画面卡住",
+          "canonical_issue": "视频完播后重播时画面定住，只有声音",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_450",
+              "pain": "视频完播后重播只有声音画面定住",
+              "suggestion": "修复重播画面卡住的问题",
+              "source": "升级最新版后，播放视频完播后重播时只有声音，画面定住，经常发生",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_450"
+          ]
+        },
+        {
+          "cluster_id": "77",
+          "cluster_name": "视频播放卡顿",
+          "canonical_issue": "视频播放过程中卡顿，影响观看流畅度",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_456",
+              "pain": "自己发布了视频，卡的要死，看不了",
+              "suggestion": "优化视频播放性能",
+              "source": "自己发布了视频，卡的要死，看不了，用卓易通版本看居然不卡，什么原因呢",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_492",
+              "pain": "刷几个视频就会出现一个卡顿的视频，第一遍看完缓冲完看第二遍还是继续卡，要重新缓冲，WiFi和移动数据下都会卡，和网络没关系，从鸿蒙5开始就出现，现在越来越严重",
+              "suggestion": "优化视频播放性能，解决卡顿问题",
+              "source": "刷几个视频就会出现一个卡顿的视频（无论长短），第一遍看完缓冲完看第二遍还是继续卡，要重新缓冲，WiFi和移动数据下都会卡，和网络没关系，从鸿蒙5开始就出现，现在越来越严重",
+              "device": "HUAWEI Mate 70 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_456",
+            "com.ss.hm.ugc.aweme_492"
+          ]
+        },
+        {
+          "cluster_id": "78",
+          "cluster_name": "通知和音量调节导致画面变糊",
+          "canonical_issue": "来通知和调节音量等操作导致视频界面变糊",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_460",
+              "pain": "来通知和调节音量等操作会让视频界面变糊",
+              "suggestion": "修复因通知和音量调节导致的渲染问题",
+              "source": "主页的导航条修复了，来通知和调节音量等操作会让视频界面变糊这个问题啥时候修复？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_460"
+          ]
+        },
+        {
+          "cluster_id": "79",
+          "cluster_name": "自定义贴纸点不了下一步",
+          "canonical_issue": "发布文字后自定义贴纸功能无法点击下一步",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_469",
+              "pain": "发布文字后自定义贴纸点不了下一步",
+              "suggestion": "修复自定义贴纸时点不了下一步的bug",
+              "source": "发布了文字，右下面出现自定义贴纸，点不了下一步。求解",
+              "device": "HUAWEI Pura X Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_469"
+          ]
+        },
+        {
+          "cluster_id": "80",
+          "cluster_name": "拍摄视频导致应用死机",
+          "canonical_issue": "多次拍摄视频导致应用死机，无法操作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_478",
+              "pain": "多次拍摄视频导致应用死机，无法操作",
+              "suggestion": "修复拍摄卡死问题，优化录制性能",
+              "source": "拍抖音，没拍好，重复多拍几次视频，就是像死机一样，中间的红圈点不动，也退出不了。只能到元服务去停止运行，才能重新启用抖音",
+              "device": "HUAWEI Mate 70 Air"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_478"
+          ]
+        },
+        {
+          "cluster_id": "81",
+          "cluster_name": "刷视频时没声音",
+          "canonical_issue": "刷视频时声音丢失，影响观看体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_485",
+              "pain": "刷视频时没声音",
+              "suggestion": "修复声音丢失问题",
+              "source": "和好友视频聊天功能太少了，不能后台聊天，有时刷着视频会没声音，",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_485"
+          ]
+        },
+        {
+          "cluster_id": "82",
+          "cluster_name": "评论打开关闭时屏幕抖动",
+          "canonical_issue": "点开和关闭评论时屏幕抖动严重",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_500",
+              "pain": "刷抖音过程中，点开评论时抖屏幕，关掉评论时抖得更厉害",
+              "suggestion": "修复评论打开/关闭时屏幕抖动问题",
+              "source": "刷抖音的过程中  点开评论的时候抖屏幕 在关掉评论的时候抖得更厉害",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_500"
+          ]
+        }
+      ]
+    }
+  },
+  "UI与交互": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "83",
+          "cluster_name": "横屏误触与操作问题",
+          "canonical_issue": "横屏模式下触控区域设计不合理，导致误触、无法退出或按钮无响应",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_6",
+              "pain": "横屏全屏观看时中间区域容易误触",
+              "suggestion": "优化横屏全屏触控区域，增加防误触机制",
+              "source": "横屏的时候中间那个全屏观看很容易误触，但是找了一大圈app内却没有了产品反馈的地方",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_54",
+              "pain": "无法退出横屏直播，反复进入横屏",
+              "suggestion": "修复横屏直播退出逻辑",
+              "source": "最新内测抖音有两个问题：\n1.无法退出横屏直播，想退出的时候反复进入横屏\n2.听评论区语音的时候划到下一个视频语音依旧还在",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_115",
+              "pain": "缺少对话框左滑功能，横屏锁屏旋转方向限制",
+              "suggestion": "增加对话框左滑功能，优化横屏锁屏旋转控制",
+              "source": "能不能弄出一个对话框左滑的功能。而不是长按对话框，看直播横屏锁屏会旋转。只能锁屏一个方向",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_179",
+              "pain": "评论键横屏状态经常点不开，太影响体验了",
+              "suggestion": "修复横屏状态下评论键点击无响应的问题",
+              "source": "评论键横屏状态经常点不开，太影响体验了",
+              "device": "HUAWEI Pura X Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_6",
+            "com.ss.hm.ugc.aweme_54",
+            "com.ss.hm.ugc.aweme_115",
+            "com.ss.hm.ugc.aweme_179"
+          ]
+        },
+        {
+          "cluster_id": "84",
+          "cluster_name": "界面元素如加号图标、聊天",
+          "canonical_issue": "界面元素如加号图标、聊天气泡、文字位置等显示异常或适配问题",
+          "size": 4,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_61",
+              "pain": "屏幕烧屏，加号图标无法隐藏或降低亮度。",
+              "suggestion": "提供加号图标的隐藏选项或降低亮度功能，防止烧屏。",
+              "source": "烧屏了，那个加号就不能隐藏或降低亮度吗？",
+              "device": "nova 13"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_200",
+              "pain": "Pura X上文字位置过于靠上，与视频内容重叠。",
+              "suggestion": "调整文字位置，避免与视频内容重叠。",
+              "source": "Pura x，下方的文字全部都太靠上了，与视频内容重叠，影响体验",
+              "device": "HUAWEI Pura X"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_272",
+              "pain": "聊天气泡不显示",
+              "suggestion": "修复聊天气泡显示问题",
+              "source": "聊天气泡不显示的嘛",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_333",
+              "pain": "升级系统后搜索栏字体太小，难以辨认。",
+              "suggestion": "调整搜索栏字体大小，提供可调节选项。",
+              "source": "升级系统后搜索栏字体太小",
+              "device": "HUAWEI Mate 60"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_61",
+            "com.ss.hm.ugc.aweme_200",
+            "com.ss.hm.ugc.aweme_272",
+            "com.ss.hm.ugc.aweme_333"
+          ]
+        },
+        {
+          "cluster_id": "85",
+          "cluster_name": "页面布局与适配问题",
+          "canonical_issue": "页面布局在不同设备或分屏模式下显示不全或适配不一致",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_30",
+              "pain": "投稿活动页面需要更新",
+              "suggestion": "优化投稿活动页面的设计或交互流程",
+              "source": "啥时候可以更新下参与一些投稿活动的页面",
+              "device": "HUAWEI Pura X Max 典藏版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_149",
+              "pain": "购物页面字体适配不一致，大小不均难以阅读",
+              "suggestion": "优化购物页面字体大小适配不同机型",
+              "source": "X7的购物页面字体需要再适配一下，有的很大，有的很小，都看不清字",
+              "device": "HUAWEI Mate X7 典藏版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_310",
+              "pain": "分屏时评论区从右侧出现且显示不全",
+              "suggestion": "优化分屏布局，确保评论区完整显示",
+              "source": "purax max分屏时评论区会从右侧出现显示不全",
+              "device": "HUAWEI Pura X Max 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_30",
+            "com.ss.hm.ugc.aweme_149",
+            "com.ss.hm.ugc.aweme_310"
+          ]
+        },
+        {
+          "cluster_id": "86",
+          "cluster_name": "交互响应延迟",
+          "canonical_issue": "操作响应延迟，如关闭评论区后无法立即滑动或按键不灵敏",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_96",
+              "pain": "按键不灵敏，体验很差",
+              "suggestion": "优化按键响应灵敏度",
+              "source": "按键不灵敏，体验很差。都想注销账号了。",
+              "device": "华为畅享 90 Pro Max"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_151",
+              "pain": "关闭评论区后不能立马划下一个视频，需要等待",
+              "suggestion": "优化滑动响应，减少关闭评论区后的延迟",
+              "source": "操作不能很快，比如不能关闭评论区的时候立马划下一个视频，得稍微停一下才行",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_96",
+            "com.ss.hm.ugc.aweme_151"
+          ]
+        },
+        {
+          "cluster_id": "87",
+          "cluster_name": "播放控制显示错误",
+          "canonical_issue": "播放控制界面显示错误，如加速条显示异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_167",
+              "pain": "快进播放时，不加速但下方依然显示加速条",
+              "suggestion": "修复加速条显示错误",
+              "source": "快进播放有bug，不加速时下面依然显示加速条，但是普通速度",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_167"
+          ]
+        },
+        {
+          "cluster_id": "88",
+          "cluster_name": "评论与回复显示问题",
+          "canonical_issue": "评论与回复显示布局混乱或功能异常",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_77",
+              "pain": "更新了，怎么评论回复，显示的乱七八糟的",
+              "suggestion": "修复评论回复显示布局问题",
+              "source": "更新了，怎么评论回复，显示的乱七八糟的",
+              "device": "HUAWEI Mate 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_77"
+          ]
+        },
+        {
+          "cluster_id": "89",
+          "cluster_name": "初始静音设置",
+          "canonical_issue": "应用启动时自动静音，缺乏用户选择",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_46",
+              "pain": "刚打开时静音",
+              "suggestion": "建议提供选项让用户选择是否开启初始静音。",
+              "source": "为什么非得刚打开的时候静音呢",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_46"
+          ]
+        },
+        {
+          "cluster_id": "90",
+          "cluster_name": "界面透明度与沉浸感",
+          "canonical_issue": "界面底部透明度不足，缺乏沉浸式设计",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_279",
+              "pain": "界面底部不够透明，希望像mate70air一样透明",
+              "suggestion": "增加界面底部透明度自定义选项，或参考mate70air设计进行优化",
+              "source": "为什么不能像mate70air一样下面也透明，希望你改进一下",
+              "device": "HUAWEI Mate 60"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_330",
+              "pain": "底部未采用沉浸式设计",
+              "suggestion": "将底部改为沉浸式设计",
+              "source": "什么时候更新啊 把下面的也改成沉浸式",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_279",
+            "com.ss.hm.ugc.aweme_330"
+          ]
+        },
+        {
+          "cluster_id": "91",
+          "cluster_name": "沉浸光感适配不全",
+          "canonical_issue": "底部导航栏或横条未完全适配沉浸光感或防烧屏暗化",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_371",
+              "pain": "加号那一排没有防烧屏暗化",
+              "suggestion": "优化UI亮度或增加防烧屏模式",
+              "source": "＋号那一排， 什么时候才能像安卓一样，暗点，防烧屏",
+              "device": "HUAWEI Pura 80 Pro+"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_452",
+              "pain": "搜索页小横条还没完全沉浸适配",
+              "suggestion": "完成搜索页小横条沉浸适配",
+              "source": "新版本不错 主页小横条沉浸适配了 但是还有一点点小问题 就是搜索页小横条还没完全沉浸适配， 请后面慢慢也更新适配吧",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_371",
+            "com.ss.hm.ugc.aweme_452"
+          ]
+        },
+        {
+          "cluster_id": "92",
+          "cluster_name": "订单界面未适配全屏显示，",
+          "canonical_issue": "订单界面未适配全屏显示，影响视觉体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_375",
+              "pain": "订单界面不是全屏，体验差",
+              "suggestion": "适配全屏显示",
+              "source": "什么时候能把Pura X 我的订单界面升级成全屏，唉目前这种不是配的用着体验感不好。",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_375"
+          ]
+        },
+        {
+          "cluster_id": "93",
+          "cluster_name": "屏幕黑边严重",
+          "canonical_issue": "屏幕黑边明显，影响视觉沉浸感",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_431",
+              "pain": "屏幕黑边严重",
+              "suggestion": "优化屏幕黑边设计",
+              "source": "黑边儿太难受了",
+              "device": "华为畅享 90 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_431"
+          ]
+        },
+        {
+          "cluster_id": "94",
+          "cluster_name": "缺少左滑删除功能",
+          "canonical_issue": "对话框或消息列表缺少左滑删除功能",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_433",
+              "pain": "缺少左滑删除对话框功能",
+              "suggestion": "增加左滑删除对话框功能",
+              "source": "能不能跟苹果一样可以左滑删对话框，能不能跟苹果一样能直接拉广告",
+              "device": "HUAWEI Mate X7 典藏版"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_433"
+          ]
+        },
+        {
+          "cluster_id": "95",
+          "cluster_name": "底部下巴区域过大",
+          "canonical_issue": "界面底部下巴区域过大，影响视觉平衡",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_454",
+              "pain": "下巴还是那么大",
+              "suggestion": "优化界面布局，减小底部下巴区域",
+              "source": "更新不知道更新了什么 订单信息还是看不了 下巴还是那么大 登陆还没有切换账号 是更新了版本号吗",
+              "device": "HUAWEI Mate 80 RS | ULTIMATE DESIGN"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_454"
+          ]
+        },
+        {
+          "cluster_id": "96",
+          "cluster_name": "一起看功能无法最小化",
+          "canonical_issue": "一起看功能无法最小化到聊天页面，影响多任务操作",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_464",
+              "pain": "一起看功能不能最小化到聊天页面",
+              "suggestion": "建议增加最小化功能或悬浮窗",
+              "source": "一起看为什么不能发消息啊😭😭也不能最小化到聊天页面，跟对象打语音好不方便啊啊啊啊啊啊啊",
+              "device": "HUAWEI Pura 70 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_464"
+          ]
+        },
+        {
+          "cluster_id": "97",
+          "cluster_name": "横屏侧边评论无法关闭",
+          "canonical_issue": "横屏侧边评论无法关闭，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_480",
+              "pain": "横屏侧边评论无法关闭，影响体验",
+              "suggestion": "提供关闭横屏侧边评论的选项",
+              "source": "怎么关掉横屏侧边评论呀  很别扭",
+              "device": "HUAWEI MatePad Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_480"
+          ]
+        }
+      ]
+    }
+  },
+  "运营与规则": {
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "98",
+          "cluster_name": "广告频率过高",
+          "canonical_issue": "广告展示频率过高，影响用户体验",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_9",
+              "pain": "团购和活动广告过多，影响体验",
+              "suggestion": "控制广告展示频率，减少团购活动推送",
+              "source": "同一视频重复播放的时候会卡；\n近期疯狂各种团购、活动，10条里有4-5条，疯了？",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_20",
+              "pain": "更新后广告增多，之前没有广告",
+              "suggestion": "控制广告数量，避免过度增加",
+              "source": "别更新了兄弟们，广告越来越多了，之前看都没有广告",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_42",
+              "pain": "更新之后广告特别多，每刷两个视频就有一个广告",
+              "suggestion": "建议优化广告频率，减少广告数量。",
+              "source": "更新之后广告特别多，每刷两个视频就有一个广告，影响体验",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_86",
+              "pain": "广告视频过多",
+              "suggestion": "减少广告频率或提供广告过滤选项",
+              "source": "全是广告视频",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_197",
+              "pain": "合集之间广告插入频繁，影响观看体验且质疑分成问题。",
+              "suggestion": "合理控制广告频率，考虑与合集博主分成或透明化广告规则。",
+              "source": "合集之间频繁加广告，你们跟合集博主分钱么？",
+              "device": "HUAWEI Mate 60 Pro+"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_9",
+            "com.ss.hm.ugc.aweme_20",
+            "com.ss.hm.ugc.aweme_42",
+            "com.ss.hm.ugc.aweme_86",
+            "com.ss.hm.ugc.aweme_197"
+          ]
+        },
+        {
+          "cluster_id": "99",
+          "cluster_name": "举报机制滥用",
+          "canonical_issue": "举报机制被滥用，缺乏有效审核",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_11",
+              "pain": "举报机制被滥用，随意举报他人和家人",
+              "suggestion": "完善举报审核机制，防止恶意举报",
+              "source": "干啥让别人举报我呀？，还是我家人。，闲的你。",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_11"
+          ]
+        },
+        {
+          "cluster_id": "100",
+          "cluster_name": "更新提示不一致",
+          "canonical_issue": "应用市场与抖音内更新提示不一致",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_13",
+              "pain": "应用市场不提示更新，但抖音内频繁提示升级",
+              "suggestion": "统一更新提示逻辑，避免不一致",
+              "source": "为啥应用市场不提示更新，抖音进入后总是提示升级？",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_13"
+          ]
+        },
+        {
+          "cluster_id": "101",
+          "cluster_name": "登录流程复杂",
+          "canonical_issue": "登录流程过于复杂，收集过多信息",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_74",
+              "pain": "用手机号登都不行了？都有验证码了还要我身份信息呢？",
+              "suggestion": "简化登录流程，减少不必要的信息收集",
+              "source": "6666我用手机号登都不行了？都有验证码了还要我身份信息呢？",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_74"
+          ]
+        },
+        {
+          "cluster_id": "102",
+          "cluster_name": "推荐限制不合理",
+          "canonical_issue": "推荐限制策略不合理，影响用户推荐体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_79",
+              "pain": "为什么推荐不了我想推荐的视频，说刷视频刷太久了，应该禁止播放而不是禁止推荐",
+              "suggestion": "调整推荐限制策略，改为限制播放而非推荐",
+              "source": "为什么推荐不了我想推荐的视频🙃何意味，说我刷视频刷太久了，视频刷久了就应该禁止视频播放，而不是禁止推荐，在保护谁啊，自己心里应该有数吧",
+              "device": "nova 12 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_79"
+          ]
+        },
+        {
+          "cluster_id": "103",
+          "cluster_name": "视频重复推送",
+          "canonical_issue": "同一批视频反复推送，客服处理效率低",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_94",
+              "pain": "同一批视频反复推送，找客服至今未解决",
+              "suggestion": "优化推荐算法避免重复推送，提升客服处理效率",
+              "source": "个别视频，要么特别卡顿，要么画面在动音频卡住后出，导致不同步。同一批视频反复推送，已经好几个月了，找过客服到现在都还没解决。",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_94"
+          ]
+        },
+        {
+          "cluster_id": "104",
+          "cluster_name": "权限收集过度",
+          "canonical_issue": "应用过度收集用户权限，缺乏隐私透明度",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_116",
+              "pain": "应用过度收集用户权限，获取手机型号信息",
+              "suggestion": "减少不必要权限收集，增强隐私透明度",
+              "source": "抖音过度收集用户权限，连我手机什么型号都知道。",
+              "device": "nova 14 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_116"
+          ]
+        },
+        {
+          "cluster_id": "105",
+          "cluster_name": "升级名额限制",
+          "canonical_issue": "升级名额限制过严，无法批量升级",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_127",
+              "pain": "升级时每次都提示名额已满，无法批量升级",
+              "suggestion": "放宽升级名额限制，或支持分批升级",
+              "source": "为什么现在还不能编辑已发的抖音作品，你像封面啥的，再一个发抖音的时候的添加歌词为什么每次都分辨不出来，再一个现在升级为什么每次都是名额已满？一块儿升级嘛",
+              "device": "HUAWEI Mate 70 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_127"
+          ]
+        },
+        {
+          "cluster_id": "106",
+          "cluster_name": "鸿蒙版优惠缺失",
+          "canonical_issue": "鸿蒙版缺乏优惠活动，与安卓版不同步",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_130",
+              "pain": "没有省钱卡，直播无大额优惠券，鸿蒙版无优惠",
+              "suggestion": "增加省钱卡、直播优惠券等运营活动，与安卓版同步",
+              "source": "不支持云闪付支付，省钱卡没有，直播没大额优惠券，鸿蒙版啥优惠没有呗",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_240",
+              "pain": "没有618活动卷",
+              "suggestion": "提供618活动优惠券",
+              "source": "没有618活动卷",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_252",
+              "pain": "没有优惠券",
+              "suggestion": "增加优惠券发放或活动",
+              "source": "为什么不给我优惠券",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_130",
+            "com.ss.hm.ugc.aweme_240",
+            "com.ss.hm.ugc.aweme_252"
+          ]
+        },
+        {
+          "cluster_id": "107",
+          "cluster_name": "内测报名误导",
+          "canonical_issue": "内测报名名额已满后仍提示更新，存在误导",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_191",
+              "pain": "内测报名名额已满后仍提示更新，存在误导。",
+              "suggestion": "优化内测报名流程，名额满后不再向用户推送更新提示或明确告知名额已满。",
+              "source": "既然参与内测报名的人达到上限了，那你们还提示我更新干嘛，这不纯纯的忽悠人吗？😡😡😡😡",
+              "device": "华为畅享 70X"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_191"
+          ]
+        },
+        {
+          "cluster_id": "108",
+          "cluster_name": "推荐算法不准",
+          "canonical_issue": "推荐算法不准确，推荐内容不符合用户喜好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_246",
+              "pain": "老是推荐不喜欢看的",
+              "suggestion": "改进推荐算法，提高内容匹配度",
+              "source": "老是推荐不喜欢看的",
+              "device": "HUAWEI Pura 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_246"
+          ]
+        },
+        {
+          "cluster_id": "109",
+          "cluster_name": "直播内容管控",
+          "canonical_issue": "直播内容管控不严，存在情感套路行为",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_288",
+              "pain": "直播中存在主播利用感情套路用户",
+              "suggestion": "加强对直播内容的审核和管控，尤其是情感类套路行为",
+              "source": "希望抖音对直播严格管控，一些小主播就是拿着感情套路别人",
+              "device": "HUAWEI Pura 70 Ultra"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_288"
+          ]
+        },
+        {
+          "cluster_id": "110",
+          "cluster_name": "审核机制问题",
+          "canonical_issue": "审核标准不合理或执行过严，导致正常内容被误判或无法发布",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_319",
+              "pain": "审核不严，存在私生视频",
+              "suggestion": "加强审核，对私生视频严格处理",
+              "source": "就是希望审核能再严一点，私生视频最好都违规，",
+              "device": "HUAWEI MatePad 11.5 S 活力版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_337",
+              "pain": "在未违规情况下视频和动图无法发布，流量差且内容发出去别人看不见，客服无法解决问题。",
+              "suggestion": "优化审核机制，提升内容可见性和流量分配，改善客服服务质量。",
+              "source": "如果不是非要给颗星，我一个都不会点。在没违规的情况下，视频视频不让我发，动图动图也不让发，流量差就算了，发出去别人看不见是啥意思，对抖音很失望。客服也解决不了，生气😠",
+              "device": "nova 14"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_451",
+              "pain": "天天在那里乱审核我的视频，就一个肩膀不让发",
+              "suggestion": "优化审核模型，放宽对正常内容的审核标准",
+              "source": "天天在那里乱审核我的视频，我又没有漏什么很隐私的地方，就一个肩膀，然后不让我发",
+              "device": "nova 14 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_319",
+            "com.ss.hm.ugc.aweme_337",
+            "com.ss.hm.ugc.aweme_451"
+          ]
+        },
+        {
+          "cluster_id": "111",
+          "cluster_name": "广告推送问题",
+          "canonical_issue": "广告推送过于频繁且用户无法有效屏蔽同类内容",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_412",
+              "pain": "广告推广频繁，禁止类似视频后仍推送相同发布者的同类视频",
+              "suggestion": "优化广告推荐算法，用户禁止后不再推送同类内容",
+              "source": "使劲推广广告，你禁了类似视频，还继续推同样的发布人的同样的视频",
+              "device": "HUAWEI Pura 70 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_459",
+              "pain": "广告太多太密集了",
+              "suggestion": "减少广告数量或优化广告展示频率",
+              "source": "广告太多太密集了",
+              "device": "HUAWEI Pura X"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_412",
+            "com.ss.hm.ugc.aweme_459"
+          ]
+        },
+        {
+          "cluster_id": "112",
+          "cluster_name": "功能缺失或限制",
+          "canonical_issue": "部分功能被移除或限制，影响用户体验",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_435",
+              "pain": "无法进行积分预言",
+              "suggestion": "恢复或增加积分预言功能",
+              "source": "又不能积分预言。",
+              "device": "HUAWEI Mate 80 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_476",
+              "pain": "用户质疑为什么是极速版（可能希望正式版功能）",
+              "suggestion": "明确版本定位，或考虑提供完整版",
+              "source": "为啥是极速版",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_435",
+            "com.ss.hm.ugc.aweme_476"
+          ]
+        },
+        {
+          "cluster_id": "113",
+          "cluster_name": "客服服务质量",
+          "canonical_issue": "客服响应不及时或态度不佳，无法有效解决用户问题",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_491",
+              "pain": "客服态度非常蛮横",
+              "suggestion": "加强客服培训，改善服务态度",
+              "source": "抖音无障碍做的太差了，跟他反映过多少遍，一直不更新，然后客服态度非常蛮横，差评。",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_491"
+          ]
+        },
+        {
+          "cluster_id": "114",
+          "cluster_name": "更新进度缓慢",
+          "canonical_issue": "应用更新速度慢，未能及时跟进其他平台的功能或优化",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_486",
+              "pain": "更新进度慢，对准安卓iOS",
+              "suggestion": "加快更新速度，全面对标安卓iOS",
+              "source": "还得加把劲更新，争取明年过年前全量，对准安卓iOS",
+              "device": "HUAWEI MatePad 11.5\"S 灵动款"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_486"
+          ]
+        }
+      ]
+    }
+  },
+  "体验赞赏": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "115",
+          "cluster_name": "深色模式体验佳",
+          "canonical_issue": "赞赏深色模式舒适、护眼",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_8",
+              "pain": "赞赏深色模式舒适、举报响应快、视频推荐精准",
+              "suggestion": "无",
+              "source": "就是不知道怎么更新剩下的特别好，比快手都好唯一我最喜欢的是这个深色模式我感觉很舒服，看完之后眼睛也不累然后呢干什么或者举报的话，官方都能第一时间给我们解决太好用了然后里面的视频都是按我的性格来做食品的，而且还是我喜欢的类型真是太推荐了",
+              "device": "HUAWEI MatePad 11.5"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_8"
+          ]
+        },
+        {
+          "cluster_id": "116",
+          "cluster_name": "直播间预言功能",
+          "canonical_issue": "赞赏直播间预言功能上线",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_43",
+              "pain": "终于有直播间预言功能了",
+              "suggestion": "无",
+              "source": "终于有直播间预言功能了，还差一个聊天背景自定义，希望下次可以上",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_43"
+          ]
+        },
+        {
+          "cluster_id": "117",
+          "cluster_name": "平台生活记录价值",
+          "canonical_issue": "赞赏平台帮助记录生活、改善心情",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_103",
+              "pain": "抖音平台好，学会记录生活，心情变好",
+              "suggestion": "无",
+              "source": "抖音是个好的平台。让我学会了很多记录生活。每天刷抖音，心情烦恼都没有。我爱抖音。生活自理让我很充实。",
+              "device": "HUAWEI Pura 80 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_103"
+          ]
+        },
+        {
+          "cluster_id": "118",
+          "cluster_name": "无商城省钱",
+          "canonical_issue": "赞赏无商城设计节省开支",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_161",
+              "pain": "没有商城，一个月省了不少钱",
+              "suggestion": "无",
+              "source": "没有商城。一个月省不少钱了，哈哈",
+              "device": "HUAWEI Mate X7"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_161"
+          ]
+        },
+        {
+          "cluster_id": "119",
+          "cluster_name": "整体体验赞赏",
+          "canonical_issue": "用户表达整体使用体验良好",
+          "size": 14,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_29",
+              "pain": "用户表达整体使用很棒",
+              "suggestion": "无",
+              "source": "很棒。",
+              "device": "HUAWEI Mate 60 RS | ULTIMATE DESIGN"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_202",
+              "pain": "用户评价“不赖”，表示赞赏",
+              "suggestion": "无",
+              "source": "不赖",
+              "device": "HUAWEI Mate 70"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_214",
+              "pain": "很实用，超喜欢",
+              "suggestion": "无",
+              "source": "很实用，超喜欢！",
+              "device": "nova 15"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_225",
+              "pain": "用户表达赞赏",
+              "suggestion": "无",
+              "source": "非常好非常好",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_247",
+              "pain": "非常好，今天能进去了，能发评论了",
+              "suggestion": "无",
+              "source": "非常好，今天能进去了，能发评论了",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_262",
+              "pain": "挺好挺好",
+              "suggestion": "无",
+              "source": "挺好挺好",
+              "device": "HUAWEI MatePad 11.5"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_276",
+              "pain": "应用很好用，很实用",
+              "suggestion": "无",
+              "source": "很好用，很实用",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_285",
+              "pain": "用户赞赏抖音",
+              "suggestion": "无",
+              "source": "抖音牛逼",
+              "device": "nova 12 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_306",
+              "pain": "用户称赞应用",
+              "suggestion": "无",
+              "source": "NB",
+              "device": "HUAWEI MatePad 11.5"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_309",
+              "pain": "应用好用，功能越来越完善",
+              "suggestion": "无",
+              "source": "好用。功能越来越完善了。",
+              "device": "HUAWEI Mate 70 Pro 优享版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_317",
+              "pain": "很好",
+              "suggestion": "无",
+              "source": "很好",
+              "device": "HUAWEI MatePad Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_323",
+              "pain": "整体体验不错",
+              "suggestion": "无",
+              "source": "有一说一很不错",
+              "device": "nova 12"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_329",
+              "pain": "评价良好，表示满意",
+              "suggestion": "无",
+              "source": "👌好好",
+              "device": "HUAWEI Mate 60 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_334",
+              "pain": "用户表示‘不错’，整体体验认可。",
+              "suggestion": "无",
+              "source": "不错",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_29",
+            "com.ss.hm.ugc.aweme_202",
+            "com.ss.hm.ugc.aweme_214",
+            "com.ss.hm.ugc.aweme_225",
+            "com.ss.hm.ugc.aweme_247",
+            "com.ss.hm.ugc.aweme_262",
+            "com.ss.hm.ugc.aweme_276",
+            "com.ss.hm.ugc.aweme_285",
+            "com.ss.hm.ugc.aweme_306",
+            "com.ss.hm.ugc.aweme_309",
+            "com.ss.hm.ugc.aweme_317",
+            "com.ss.hm.ugc.aweme_323",
+            "com.ss.hm.ugc.aweme_329",
+            "com.ss.hm.ugc.aweme_334"
+          ]
+        },
+        {
+          "cluster_id": "120",
+          "cluster_name": "整体体验良好",
+          "canonical_issue": "用户对应用整体体验表示满意",
+          "size": 5,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_341",
+              "pain": "用户表示‘挺好的’",
+              "suggestion": "无",
+              "source": "挺好的",
+              "device": "HUAWEI Pura 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_381",
+              "pain": "很棒的软件",
+              "suggestion": "无",
+              "source": "很棒的软件",
+              "device": "HUAWEI Pura 80 Ultra"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_388",
+              "pain": "挺好的，没事打发时间，玩看看。",
+              "suggestion": "无",
+              "source": "挺好的，没事打发时间，玩看看。",
+              "device": "华为畅享 70X"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_410",
+              "pain": "用户很喜欢该应用",
+              "suggestion": "无",
+              "source": "我很喜欢。",
+              "device": "HUAWEI MatePad 11.5''S"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_421",
+              "pain": "用户整体体验良好",
+              "suggestion": "无",
+              "source": "good",
+              "device": "HUAWEI MatePad Air"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_341",
+            "com.ss.hm.ugc.aweme_381",
+            "com.ss.hm.ugc.aweme_388",
+            "com.ss.hm.ugc.aweme_410",
+            "com.ss.hm.ugc.aweme_421"
+          ]
+        },
+        {
+          "cluster_id": "121",
+          "cluster_name": "更新速度快",
+          "canonical_issue": "用户赞赏应用更新迭代迅速",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_390",
+              "pain": "抖音更新的真快，给工程师点赞👍",
+              "suggestion": "无",
+              "source": "抖音更新的真快，给工程师点赞👍",
+              "device": "nova 12 Ultra"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_408",
+              "pain": "更新速度快",
+              "suggestion": "无",
+              "source": "更新很快，加油加油冲冲冲",
+              "device": "HUAWEI Mate 60 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_390",
+            "com.ss.hm.ugc.aweme_408"
+          ]
+        },
+        {
+          "cluster_id": "122",
+          "cluster_name": "功能逐步完善",
+          "canonical_issue": "用户认可应用功能持续优化和完善",
+          "size": 3,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_391",
+              "pain": "最新版与安卓版功能基本持平",
+              "suggestion": "无",
+              "source": "今天最新版跟安卓版功能基本上持平了……",
+              "device": "HUAWEI Pura 80 Pro"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_396",
+              "pain": "逐步完善，感觉不错",
+              "suggestion": "无",
+              "source": "逐步在完善了，感觉还是挺不错",
+              "device": "HUAWEI Mate X6 典藏版"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_468",
+              "pain": "用户认为不错，快要追上安卓版了",
+              "suggestion": "无",
+              "source": "不错快要追上安卓版了",
+              "device": "HUAWEI Mate 80"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_391",
+            "com.ss.hm.ugc.aweme_396",
+            "com.ss.hm.ugc.aweme_468"
+          ]
+        },
+        {
+          "cluster_id": "123",
+          "cluster_name": "沉浸光感适配",
+          "canonical_issue": "用户赞赏主页沉浸光感适配改进",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_452",
+              "pain": "主页小横条沉浸适配了",
+              "suggestion": "无",
+              "source": "新版本不错 主页小横条沉浸适配了 但是还有一点点小问题 就是搜索页小横条还没完全沉浸适配， 请后面慢慢也更新适配吧",
+              "device": "HUAWEI Mate 80"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_460",
+              "pain": "主页的导航条修复了",
+              "suggestion": "无",
+              "source": "主页的导航条修复了，来通知和调节音量等操作会让视频界面变糊这个问题啥时候修复？",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_452",
+            "com.ss.hm.ugc.aweme_460"
+          ]
+        },
+        {
+          "cluster_id": "124",
+          "cluster_name": "当前版本良好",
+          "canonical_issue": "用户认为当前版本整体表现良好",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_498",
+              "pain": "现在很好了",
+              "suggestion": "无",
+              "source": "现在很好了！那个私聊分享视频和对话状态已读未读状态尽快添加一下",
+              "device": "HUAWEI Mate 80 Pro Max"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_498"
+          ]
+        }
+      ]
+    }
+  },
+  "内容生态": {
+    "positive": {
+      "clusters": [
+        {
+          "cluster_id": "125",
+          "cluster_name": "内容质量高",
+          "canonical_issue": "用户赞赏作品质量优秀",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_15",
+              "pain": "用户赞赏作品很好",
+              "suggestion": "无",
+              "source": "很好的作品",
+              "device": "nova 14"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_15"
+          ]
+        }
+      ]
+    },
+    "negative": {
+      "clusters": [
+        {
+          "cluster_id": "126",
+          "cluster_name": "推荐算法问题",
+          "canonical_issue": "推荐算法未能精准匹配用户偏好，推送不相关内容",
+          "size": 2,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_34",
+              "pain": "推荐了不喜欢的伤感文案",
+              "suggestion": "优化推荐算法，减少或允许用户屏蔽伤感文案类内容",
+              "source": "臭抖音谁让你推伤感文案了tui",
+              "device": "HUAWEI Pura 70"
+            },
+            {
+              "id": "com.ss.hm.ugc.aweme_405",
+              "pain": "视频内容过于猎奇",
+              "suggestion": "优化推荐算法，减少猎奇内容",
+              "source": "嗯嗯嗯 视频太猎奇了 其他没啥",
+              "device": "华为畅享 90 Plus"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_34",
+            "com.ss.hm.ugc.aweme_405"
+          ]
+        },
+        {
+          "cluster_id": "127",
+          "cluster_name": "音乐版权缺失",
+          "canonical_issue": "收藏音乐因版权问题未上架，影响用户体验",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_221",
+              "pain": "收藏的音乐未上架",
+              "suggestion": "加快音乐版权合作，尽快上架收藏音乐",
+              "source": "收藏的音乐还不上架呢，，，",
+              "device": "nova 15 Pro"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_221"
+          ]
+        },
+        {
+          "cluster_id": "128",
+          "cluster_name": "小游戏内容不足",
+          "canonical_issue": "平台小游戏内容匮乏，用户期待更多游戏选择",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_253",
+              "pain": "缺少小游戏",
+              "suggestion": "丰富小游戏内容",
+              "source": "很多小游戏是不是没有 你们也是么",
+              "device": "nova 12"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_253"
+          ]
+        },
+        {
+          "cluster_id": "129",
+          "cluster_name": "广告内容过多",
+          "canonical_issue": "内容过度商业化，卖货类内容占比过高",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_260",
+              "pain": "内容太多卖货",
+              "suggestion": "平衡内容类型，减少广告化内容",
+              "source": "都在卖货",
+              "device": "HUAWEI Pura 70"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_260"
+          ]
+        }
+      ]
+    },
+    "neutral": {
+      "clusters": [
+        {
+          "cluster_id": "130",
+          "cluster_name": "八月手札内容缺失",
+          "canonical_issue": "缺少八月手札内容",
+          "size": 1,
+          "sample_members": [
+            {
+              "id": "com.ss.hm.ugc.aweme_51",
+              "pain": "缺少八月手札内容",
+              "suggestion": "建议添加八月手札内容",
+              "source": "为什么没有八月手札我的华为手机",
+              "device": "HUAWEI Mate X7"
+            }
+          ],
+          "member_ids": [
+            "com.ss.hm.ugc.aweme_51"
+          ]
+        }
+      ]
+    }
+  },
+  "n_clusters": 135
+}
