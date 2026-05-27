@@ -78,7 +78,7 @@ The main contributions of this work are:
   \item An \textbf{LLM-based classification pipeline} that performs multi-dimensional sentiment analysis on user comments and extracts concrete, actionable suggestions for developers.
   \item A \textbf{two-stage clustering workflow} that groups semantically similar issues within each dimension-sentiment bucket and merges cross-bucket redundancies.
   \item An \textbf{interactive web dashboard} that presents aggregated results---sentiment distribution, dimension breakdown, topic clusters, and raw comments---in an intuitive visual format.
-  \item An \textbf{empirical dataset} covering 55 HarmonyOS applications across multiple categories, with over 27,000 scraped comments.
+  \item A \textbf{curated application dataset} spanning multiple categories (social, e-commerce, finance, entertainment, etc.) on the HarmonyOS AppGallery, with over 10,000 comments collected, serving as a testbed for the analysis pipeline.
 \end{enumerate}
 
 
@@ -289,7 +289,7 @@ During clustering, identical issues from different source comments are deduplica
 
 \begin{lstlisting}[caption={Project directory layout.}, label=lst:structure]
 project/
-  app.json                  # 55 target app definitions
+  app.json                  # Target app definitions
   config.py                 # Device ID, screen bounds, XPath constants
   main.py                   # Single-app scraper entry point
   comments.py               # Comment parsing & scrolling logic
@@ -324,7 +324,7 @@ project/
 \section{Dataset}
 % ──────────────────────────────────────────────────────────────────────────
 
-The scraping pipeline was executed against 55 HarmonyOS applications listed in Table~\ref{tab:apps}. The selection covers a diverse range of categories:
+The scraping pipeline was executed against a diverse set of HarmonyOS applications listed in Table~\ref{tab:apps}, spanning the following categories:
 
 \begin{itemize}[nosep]
   \item \textbf{Social \& Communication:} WeChat, QQ, Douyin (TikTok), Kuaishou, Xiaohongshu (RED), Weibo, DingTalk, Tencent Meeting
@@ -358,7 +358,7 @@ Honor of Kings & \texttt{com.tencent.tmgp.sgame.hw} & Gaming \\
 \end{tabular}
 \end{table}
 
-For each application, up to 500 comment swipes were performed. The total raw dataset comprises over 27,000 individual comments, though the actual count per app varies depending on the volume of reviews available on the AppGallery.
+For each application, up to 500 comment swipes were performed. The total raw dataset comprises over 10,000 individual comments, though the actual count per app varies depending on the volume of reviews available on the AppGallery.
 
 
 % ──────────────────────────────────────────────────────────────────────────
@@ -401,7 +401,7 @@ Several limitations should be acknowledged:
 \section{Conclusion and Future Work}
 % ──────────────────────────────────────────────────────────────────────────
 
-This paper presented \textsc{AGCommentSpy}, a complete pipeline for collecting and analyzing user comments from the Huawei AppGallery on HarmonyOS. The system demonstrates that combining UI automation with LLM-based natural language understanding can effectively transform unstructured app store reviews into actionable developer insights. The web dashboard provides an accessible interface for browsing sentiment distributions, dimension breakdowns, and topic clusters across 55 real-world applications.
+This paper presented \textsc{AGCommentSpy}, a complete pipeline for collecting and analyzing user comments from the Huawei AppGallery on HarmonyOS. The system demonstrates that combining UI automation with LLM-based natural language understanding can effectively transform unstructured app store reviews into actionable developer insights. The web dashboard provides an accessible interface for browsing sentiment distributions, dimension breakdowns, and topic clusters across a diverse set of real-world applications.
 
 Several directions for future work are apparent:
 
