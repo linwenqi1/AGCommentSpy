@@ -17,3 +17,15 @@ hmdriver2/.cache/
 env/
 venv/
 temp/
+
+# LaTeX auxiliary files
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.bbl
+docs/*.blg
+docs/*.synctex.gz
+docs/*.fdb_latexmk
+docs/*.fls
+docs/*.xdv

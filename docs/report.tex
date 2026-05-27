@@ -1,0 +1,470 @@
+\documentclass[11pt,a4paper]{article}
+
+% ── Packages ──────────────────────────────────────────────────────────────
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext,newtxmath}           % Times-like font
+\usepackage{microtype}                     % Better typography
+\usepackage[margin=2.5cm]{geometry}        % Single-column, 2.5 cm margins
+\usepackage{graphicx}                      % Figures
+\usepackage{booktabs}                      % Professional tables
+\usepackage[numbers,sort&compress]{natbib} % References
+\usepackage{hyperref}                      % Clickable links
+\usepackage{xcolor}                        % Colored text
+\usepackage{enumitem}                      % Custom lists
+\usepackage{float}                         % Figure placement
+\usepackage{listings}                      % Code listings
+\usepackage{caption}                       % Caption formatting
+
+% ── Hyperref setup ────────────────────────────────────────────────────────
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=blue!60!black,
+  urlcolor=blue!60!black,
+}
+
+% ── Code listing style ───────────────────────────────────────────────────
+\definecolor{codebg}{rgb}{0.95,0.95,0.95}
+\lstset{
+  backgroundcolor=\color{codebg},
+  basicstyle=\small\ttfamily,
+  breaklines=true,
+  frame=single,
+  framerule=0.5pt,
+  rulecolor=\color{black!30},
+  numbers=left,
+  numbersep=6pt,
+  numberstyle=\tiny\color{gray},
+  tabsize=4,
+  showstringspaces=false,
+}
+
+% ── Title ─────────────────────────────────────────────────────────────────
+\title{\textbf{LLM-Based Analysis of User Comments for\\HarmonyOS Applications}}
+
+\author{
+  Lin Wenqi \quad Hu Haozhan \quad Wang Chaohe
+}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+% ──────────────────────────────────────────────────────────────────────────
+
+\subsection{Motivation}
+
+HarmonyOS, developed by Huawei, is a distributed operating system designed for a wide range of devices including smartphones, tablets, wearables, and IoT equipment. Since its official release, the HarmonyOS ecosystem has expanded rapidly, with the Huawei AppGallery now hosting hundreds of thousands of native HarmonyOS applications~\cite{harmonyos_overview}.
+
+As the ecosystem matures, user comments on the AppGallery have become a critical channel for developers to understand user satisfaction, identify bugs, and prioritize feature improvements. Unlike structured bug reports or crash logs, app store reviews are unstructured, multilingual, and often mix multiple concerns within a single comment. For example, a single review might praise the UI design while simultaneously reporting a login failure on a specific device model.
+
+Existing approaches to app review analysis largely target the Android (Google Play) and iOS (App Store) ecosystems~\cite{pagano13,martin17}. However, the HarmonyOS platform introduces unique challenges:
+\begin{itemize}[nosep]
+  \item \textbf{Closed ecosystem tooling.} Unlike Android's \texttt{adb}-based automation, HarmonyOS devices use the proprietary HDC (HarmonyOS Device Connector) protocol with limited tooling support.
+  \item \textbf{Diverse device landscape.} HarmonyOS runs on a heterogeneous mix of hardware, making device-specific compatibility issues more prevalent.
+  \item \textbf{Rapid API evolution.} The platform is evolving quickly, and compatibility problems between API versions often surface in user reviews.
+\end{itemize}
+
+These factors motivate the development of a specialized pipeline tailored to the HarmonyOS application ecosystem.
+
+\subsection{Contributions}
+
+The main contributions of this work are:
+
+\begin{enumerate}[nosep]
+  \item A \textbf{UI-automation crawler} that reliably scrapes user comments from the Huawei AppGallery on HarmonyOS devices using the \texttt{hmdriver2} library and HDC protocol.
+  \item An \textbf{LLM-based classification pipeline} that performs multi-dimensional sentiment analysis on user comments and extracts concrete, actionable suggestions for developers.
+  \item A \textbf{two-stage clustering workflow} that groups semantically similar issues within each dimension-sentiment bucket and merges cross-bucket redundancies.
+  \item An \textbf{interactive web dashboard} that presents aggregated results---sentiment distribution, dimension breakdown, topic clusters, and raw comments---in an intuitive visual format.
+  \item An \textbf{empirical dataset} covering 55 HarmonyOS applications across multiple categories, with over 27,000 scraped comments.
+\end{enumerate}
+
+
+% ──────────────────────────────────────────────────────────────────────────
+\section{Background and Related Work}
+% ──────────────────────────────────────────────────────────────────────────
+
+\subsection{The HarmonyOS Application Ecosystem}
+
+HarmonyOS is a microkernel-based, distributed operating system first released by Huawei in 2019. Unlike Android and iOS, HarmonyOS is designed with a \emph{device-agnostic} philosophy: a single application binary can adapt its UI and behavior across phones, tablets, foldables, smartwatches, and in-vehicle displays. The platform's native application framework, ArkUI, uses a declarative programming model with the ArkTS language (a TypeScript superset).
+
+The Huawei AppGallery serves as the official distribution channel for HarmonyOS applications. As of 2025, the AppGallery hosts over 500,000 native HarmonyOS applications~\cite{appgallery_stats}. Each application page includes structured metadata (title, subtitle, category) and user-generated reviews consisting of a username, star rating (1--5), textual content, date, and device information.
+
+\subsection{Mobile App Review Analysis}
+
+Analyzing user reviews to inform software maintenance and evolution is an active research area. Early work~\cite{pagano13} conducted an empirical study on the Apple App Store, finding that a significant portion of reviews contain actionable information for developers but are buried among uninformative ratings. A subsequent survey~\cite{martin17} of app review analysis techniques found that NLP-based classification of reviews by topic (bug reports, feature requests, user experience) consistently provides value to development teams.
+
+More recently, the emergence of large language models (LLMs) has opened new possibilities for review analysis. Recent studies~\cite{zou2024} demonstrated that GPT-4-level models can achieve high accuracy in extracting fine-grained issue types and sentiment from app reviews without task-specific training data. Our work builds on this insight by applying LLM-based analysis specifically to the HarmonyOS ecosystem.
+
+\subsection{Mobile UI Automation and Testing}
+
+Automated interaction with mobile applications is essential for both testing and data collection. On Android, tools like UIAutomator~\cite{uiautomator} and Appium~\cite{appium} provide cross-platform UI automation. On HarmonyOS, the equivalent is HDC (HarmonyOS Device Connector), a command-line tool analogous to \texttt{adb}, paired with the \texttt{hmdriver2} library~\cite{hmdriver2}. These tools enable programmatic UI inspection, element location via XPath, gesture simulation (tap, swipe), and screenshot capture on connected HarmonyOS devices.
+
+In our pipeline, \texttt{hmdriver2} serves as the foundation for the comment scraper, providing the ability to navigate the AppGallery UI and extract comment data that is not accessible through any public API.
+
+
+% ──────────────────────────────────────────────────────────────────────────
+\section{System Architecture}
+% ──────────────────────────────────────────────────────────────────────────
+
+The \textsc{AGCommentSpy} pipeline consists of four main stages, as illustrated in Figure~\ref{fig:architecture}:
+
+\begin{enumerate}[nosep]
+  \item \textbf{Comment Scraping} --- Automated UI navigation and text extraction from the AppGallery.
+  \item \textbf{LLM Classification} --- Sentiment and dimension classification with actionable suggestion extraction.
+  \item \textbf{Topic Clustering} --- Semantic grouping of classified comments into coherent issue clusters.
+  \item \textbf{Visualization Dashboard} --- Web-based presentation of aggregated results.
+\end{enumerate}
+
+\begin{figure}[H]
+\centering
+\fbox{%
+\begin{minipage}{0.9\textwidth}
+\centering
+\small
+\textbf{Comment Scraping}
+$\longrightarrow$
+\textbf{LLM Classification}
+$\longrightarrow$
+\textbf{Topic Clustering}
+$\longrightarrow$
+\textbf{Web Dashboard}
+\\[4pt]
+\scriptsize
+HDC + hmdriver2 \quad | \quad
+LLM API (JSON mode) \quad | \quad
+LLM clustering + merge \quad | \quad
+Python HTTP + Vanilla JS
+\end{minipage}%
+}
+\caption{High-level architecture of \textsc{AGCommentSpy}.}
+\label{fig:architecture}
+\end{figure}
+
+
+\subsection{Comment Scraping}
+
+The scraping module interacts with a physical HarmonyOS device via HDC. It uses the \texttt{hmdriver2} library to:
+
+\begin{itemize}[nosep]
+  \item Launch the AppGallery application and navigate to a target app's detail page using a deep-link URL of the form \texttt{https://appgallery.huawei.com/app/detail?id=<package\_name>}.
+  \item Scroll through the comment section with configurable swipe gestures (default: max 500 swipes) to load historical reviews.
+  \item Parse each comment's UI hierarchy (dumped as JSON-then-XML) to extract the username, star rating, textual content, date, location, and device model.
+  \item Expand truncated long comments by programmatically clicking ``expand'' buttons detected via XPath.
+  \item Save raw comments as JSON files keyed by package name for downstream processing.
+\end{itemize}
+
+Figure~\ref{fig:scraping} shows a simplified version of the scraping loop.
+
+\begin{figure}[H]
+\begin{lstlisting}[language=Python, caption={Simplified comment scraping loop (from \texttt{comments.py}).}, label=fig:scraping]
+def scrape_comments(driver, max_swipes=50, wait=2.0):
+    all_comments = []
+    for i in range(max_swipes):
+        driver.swipe(...)           # Scroll down
+        layout = driver.dump_hierarchy()
+        xml = json2xml(layout)
+        for node in xml.xpath(COMMENT_ITEMS):
+            comment = parse_comment(node)
+            all_comments.append(comment)
+    return all_comments
+\end{lstlisting}
+\end{figure}
+
+\subsection{LLM-Based Comment Classification}
+
+Once raw comments are collected, the classification module sends batches of comments (default: 10 per batch) to an LLM API (OpenAI-compatible). Each comment is analyzed along two dimensions:
+
+\paragraph{Sentiment} --- Each extracted issue is labeled as \texttt{Positive}, \texttt{Negative}, or \texttt{Neutral}.
+
+\paragraph{Core Dimension} --- Each issue is assigned to one of seven categories:
+\begin{itemize}[nosep]
+  \item \textit{Functional Experience} --- Core feature bugs, missing functionality, and usability of primary application flows.
+  \item \textit{System \& Device Compatibility} --- Issues specific to certain device models, screen sizes, or HarmonyOS API versions.
+  \item \textit{Stability \& Performance} --- Crashes, freezes, memory leaks, battery drain, and response lag.
+  \item \textit{UI \& Interaction} --- Visual design complaints, layout problems, navigation difficulties, and animation issues.
+  \item \textit{Operations \& Policies} --- Problems with ads, in-app purchases, account bans, content moderation, or pricing.
+  \item \textit{Appreciation} --- General praise and positive feedback not tied to a specific feature.
+  \item \textit{Content Ecosystem} --- Issues about content quality, availability, recommendation accuracy, or community management.
+\end{itemize}
+
+For each classified issue, the LLM also generates an \textbf{Actionable Suggestion} --- a concrete recommendation that a developer could act on (e.g., ``Add support for foldable screen aspect ratios in the video player''). For positive feedback, the suggestion field is set to \texttt{None}.
+
+The system prompt instructs the LLM to output strictly valid JSON conforming to a pre-defined schema, enabling programmatic validation and error recovery. If the LLM response fails JSON parsing, an automatic repair pass is attempted before logging the batch as an error.
+
+\subsection{Topic Clustering}
+
+After per-comment classification, a two-stage clustering pipeline groups related issues:
+
+\begin{enumerate}[nosep]
+  \item \textbf{Stage 1 --- Intra-bucket clustering.} Within each (dimension, sentiment) bucket, comments are sent to the LLM in batches of up to 18 items. The LLM groups items by root cause, producing clusters with a canonical issue description and a short display name.
+  \item \textbf{Stage 2 --- Cross-bucket merging.} Clusters from Stage~1 are re-fed to the LLM to identify semantically duplicate topics across different dimension-sentiment buckets. Merged clusters receive a standardized topic name.
+\end{enumerate}
+
+Both stages include automatic repair logic: if an LLM output is malformed (e.g., duplicate or missing \texttt{item\_id}s), a repair pass is attempted, and as a last resort, orphaned items are placed into singleton clusters.
+
+\subsection{Web Dashboard}
+
+A lightweight web dashboard (Figure~\ref{fig:dashboard}) provides an intuitive interface for browsing the analysis results:
+
+\begin{itemize}[nosep]
+  \item \textbf{Overview tab} --- Aggregate statistics (total comments, classified count, sentiment distribution) rendered as donut and bar charts using inline SVG.
+  \item \textbf{Comments tab} --- Paginated, searchable list of raw comments with username, rating, date, location, and device metadata.
+  \item \textbf{Analysis tab} --- Dimension-filtered view showing each extracted pain point alongside its actionable suggestion and original comment context.
+  \item \textbf{Clusters tab} --- Topic clusters organized by dimension and sentiment, with expandable sample members.
+\end{itemize}
+
+The frontend is built with vanilla JavaScript (no framework dependencies) and communicates with a Python HTTP server (\texttt{server.py}) that serves static files and exposes RESTful API endpoints (\texttt{/api/apps}, \texttt{/api/apps/<pkg>/comments}, \texttt{/api/apps/<pkg>/analysis}, \texttt{/api/apps/<pkg>/clusters}).
+
+\begin{figure}[H]
+\centering
+\fbox{%
+\begin{minipage}{0.85\textwidth}
+\centering
+\small
+\textbf{AGCommentSpy} --- Comment Analysis Dashboard \\[4pt]
+\begin{tabular}{ll}
+\textit{Statistics}  & Total comments, classified count, sentiment breakdown \\
+\textit{Charts}      & Donut chart (sentiment), bar chart (dimension distribution) \\
+\textit{Comments}    & Paginated raw comments with full-text search \\
+\textit{Analysis}    & Per-dimension pain points with LLM-generated suggestions \\
+\textit{Clusters}    & Topic clusters with canonical issue descriptions \\
+\end{tabular}
+\end{minipage}%
+}
+\caption{Structure of the web dashboard.}
+\label{fig:dashboard}
+\end{figure}
+
+
+% ──────────────────────────────────────────────────────────────────────────
+\section{Implementation}
+% ──────────────────────────────────────────────────────────────────────────
+
+\subsection{Technology Stack}
+
+Table~\ref{tab:stack} summarizes the key technologies used in each component.
+
+\begin{table}[H]
+\centering
+\caption{Technology stack by component.}
+\label{tab:stack}
+\begin{tabular}{@{}lll@{}}
+\toprule
+\textbf{Component} & \textbf{Technology} & \textbf{Purpose} \\
+\midrule
+Device automation & \texttt{hmdriver2}, HDC & UI interaction on HarmonyOS \\
+XML/UI parsing    & \texttt{lxml}, XPath   & Extract comment data from UI hierarchy \\
+LLM client        & OpenAI-compatible API & Comment classification \& clustering \\
+Batch orchestration & Python \texttt{subprocess} & Sequential multi-app scraping \\
+Backend server    & Python \texttt{http.server} & REST API for dashboard data \\
+Frontend          & Vanilla JS, SVG, CSS & Interactive visualization \\
+Data storage      & JSON files (per-app directories) & Raw, classified, and clustered data \\
+\midrule
+Language          & Python 3.13           & All backend logic \\
+\midrule
+Target platform   & HarmonyOS (OpenHarmony 4/5) & Device under automation \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{LLM Configuration}
+
+The LLM client (\texttt{llm\_client.py}) communicates with any OpenAI-compatible API endpoint. Key design decisions include:
+
+\begin{itemize}[nosep]
+  \item \textbf{JSON mode.} The API is called with \texttt{response\_format: \{type: "json\_object"\}} to enforce structured output. If the endpoint does not support this parameter, the call is retried without it.
+  \item \textbf{Batch processing.} Comments are sent in batches (configurable batch size, default 10) to limit prompt length and improve classification quality. Each batch is processed independently.
+  \item \textbf{Error recovery.} A three-tier recovery strategy handles malformed outputs: (1)~JSON extraction from markdown code fences, (2)~heuristic brace-based extraction, and (3)~a secondary LLM repair call with a dedicated repair prompt.
+  \item \textbf{Idempotent output.} Each classified item retains the original comment ID (e.g., \texttt{com.tencent.wechat\_42}), enabling traceability from dashboard back to raw comments.
+\end{itemize}
+
+\subsection{Deduplication and Normalization}
+
+During clustering, identical issues from different source comments are deduplicated by normalizing text (lowercasing, whitespace collapsing, Unicode normalization) and comparing the (dimension, sentiment, normalized pain point) triple. This prevents semantically identical issues from being counted multiple times while preserving traceability to individual source comments.
+
+\subsection{Project Structure}
+
+\begin{lstlisting}[caption={Project directory layout.}, label=lst:structure]
+project/
+  app.json                  # 55 target app definitions
+  config.py                 # Device ID, screen bounds, XPath constants
+  main.py                   # Single-app scraper entry point
+  comments.py               # Comment parsing & scrolling logic
+  analyze_comments.py       # LLM classification pipeline
+  llm_client.py             # OpenAI-compatible API client
+  cluster_and_label.py      # Item collection & text normalization
+  server.py                 # HTTP server with REST API
+  run_batch.py              # Batch orchestrator
+  patch_dates.py            # Date normalization utility
+  layout_output.py          # Layout XML/JSON dump helpers
+  xml_utils.py              # JSON-to-XML conversion & XMLElement wrapper
+  frontend/
+    index.html              # Dashboard entry point
+    css/style.css           # Dashboard styles
+    js/api.js               # API client
+    js/charts.js             # SVG chart rendering
+    js/app.js               # Dashboard application logic
+  scripts/
+    aggregate_classified.py  # Aggregate raw LLM responses
+    llm_cluster_and_label.py # Stage-1 clustering
+    refine_and_merge_topics.py # Stage-2 cross-bucket merging
+  com.<package>/             # Per-app output directories
+    app_info.json
+    comments.json
+    classified_comments.json
+    classified_comments.raw.json
+    clusters_preview_llm.json
+\end{lstlisting}
+
+
+% ──────────────────────────────────────────────────────────────────────────
+\section{Dataset}
+% ──────────────────────────────────────────────────────────────────────────
+
+The scraping pipeline was executed against 55 HarmonyOS applications listed in Table~\ref{tab:apps}. The selection covers a diverse range of categories:
+
+\begin{itemize}[nosep]
+  \item \textbf{Social \& Communication:} WeChat, QQ, Douyin (TikTok), Kuaishou, Xiaohongshu (RED), Weibo, DingTalk, Tencent Meeting
+  \item \textbf{E-commerce:} Taobao, JD.com, Pinduoduo, Xianyu (Idle Fish), Vipshop, Dewu
+  \item \textbf{Finance:} Alipay, ABC (Agricultural Bank of China), CCB, ICBC, Bank of China
+  \item \textbf{Entertainment \& Media:} Bilibili, iQiyi, Youku, Tencent Video, QQ Music, Kugou Music, Ximalaya, Tomato Novel, Red Fruit Short Drama
+  \item \textbf{Tools \& Services:} Amap (Gaode), Baidu Map, Baidu Search, Baidu Netdisk, Quark Browser, UC Browser, QQ Browser, WPS Office
+  \item \textbf{Lifestyle \& Travel:} Meituan, Dianping, Ctrip, Qunar, DiDi, 12306 Railway
+  \item \textbf{Games:} Honor of Kings, Game for Peace, Teamfight Tactics, Subway Surfers, Happy Match
+  \item \textbf{AI \& Creativity:} Doubao (ByteDance AI assistant), Jianying (CapCut)
+\end{itemize}
+
+\begin{table}[H]
+\centering
+\caption{Partial list of scraped applications (\textit{full list in \texttt{app.json}}).}
+\label{tab:apps}
+\small
+\begin{tabular}{@{}lll@{}}
+\toprule
+\textbf{App Name} & \textbf{Package Name} & \textbf{Category} \\
+\midrule
+WeChat     & \texttt{com.tencent.wechat}         & Social \\
+Douyin     & \texttt{com.ss.hm.ugc.aweme}        & Social \\
+Alipay     & \texttt{com.alipay.mobile.client}   & Finance \\
+Taobao     & \texttt{com.taobao.taobao4hmos}     & E-commerce \\
+Meituan    & \texttt{com.sankuai.hmeituan}       & Lifestyle \\
+Bilibili   & \texttt{yylx.danmaku.bili}          & Entertainment \\
+Amap       & \texttt{com.amap.hmapp}             & Navigation \\
+Honor of Kings & \texttt{com.tencent.tmgp.sgame.hw} & Gaming \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+For each application, up to 500 comment swipes were performed. The total raw dataset comprises over 27,000 individual comments, though the actual count per app varies depending on the volume of reviews available on the AppGallery.
+
+
+% ──────────────────────────────────────────────────────────────────────────
+\section{Evaluation and Discussion}
+% ──────────────────────────────────────────────────────────────────────────
+
+\subsection{Classification Quality}
+
+The LLM classifier assigns each extracted issue to one of seven dimensions and three sentiment categories. The seven-dimension taxonomy was designed to balance granularity with actionability:
+
+\begin{itemize}[nosep]
+  \item Dimensions like \textit{Stability \& Performance} and \textit{System \& Device Compatibility} target issues that require engineering investigation.
+  \item \textit{UI \& Interaction} and \textit{Functional Experience} capture user-facing quality concerns.
+  \item \textit{Operations \& Policies} and \textit{Content Ecosystem} cover business and content-side concerns.
+  \item \textit{Appreciation} serves as a catch-all for positive feedback that does not require developer action.
+\end{itemize}
+
+By requiring the LLM to output \texttt{Actionable\_Suggestion} for every negative entry, the pipeline ensures that each finding is paired with a concrete improvement proposal. Positive and neutral entries do not generate suggestions, preventing noise in the developer-facing output.
+
+\subsection{Clustering Effectiveness}
+
+The two-stage clustering approach addresses a key limitation of flat classification: multiple comments about the same underlying issue (e.g., ``app crashes when opening on Mate 60 Pro'') would otherwise appear as scattered entries across the dashboard. By grouping them into root-cause clusters, the dashboard presents a more actionable view of the most impactful issues.
+
+The automatic repair and deduplication mechanisms proved essential in practice, as the LLM occasionally produced outputs with duplicate or missing item assignments. The auto-repair pipeline ensures robustness: malformed clusters are repaired automatically, and any items that cannot be assigned are surfaced as singletons rather than silently dropped.
+
+\subsection{Limitations}
+
+Several limitations should be acknowledged:
+
+\begin{enumerate}[nosep]
+  \item \textbf{Scraping reliability.} UI automation is inherently fragile. Changes to the AppGallery UI layout (XPath selectors) can break the scraper and require manual selector updates in \texttt{config.py}.
+  \item \textbf{LLM dependence.} The classification and clustering quality depends on the underlying LLM. Different models or API providers may produce varying quality, and prompt engineering is model-specific.
+  \item \textbf{Single-language focus.} The current system prompt and taxonomy are designed for Chinese-language comments. Extending to multilingual analysis would require prompt adaptation.
+  \item \textbf{No ground-truth evaluation.} As a course project, we did not conduct a formal human-annotated evaluation of classification accuracy. Future work should include a manually labeled subset for quantitative evaluation.
+  \item \textbf{Device requirement.} The scraper requires a physical HarmonyOS device connected via HDC, limiting scalability compared to API-based collection methods.
+\end{enumerate}
+
+
+% ──────────────────────────────────────────────────────────────────────────
+\section{Conclusion and Future Work}
+% ──────────────────────────────────────────────────────────────────────────
+
+This paper presented \textsc{AGCommentSpy}, a complete pipeline for collecting and analyzing user comments from the Huawei AppGallery on HarmonyOS. The system demonstrates that combining UI automation with LLM-based natural language understanding can effectively transform unstructured app store reviews into actionable developer insights. The web dashboard provides an accessible interface for browsing sentiment distributions, dimension breakdowns, and topic clusters across 55 real-world applications.
+
+Several directions for future work are apparent:
+
+\begin{enumerate}[nosep]
+  \item \textbf{Automated labeling for evaluation.} Build a human-annotated gold standard subset to quantitatively measure classification precision and recall.
+  \item \textbf{Multilingual support.} Extend the taxonomy and prompts to support English and other languages present in international AppGallery listings.
+  \item \textbf{LLM comparison.} Benchmark multiple LLM providers and model sizes on the same dataset to identify cost-quality trade-offs.
+  \item \textbf{Incremental scraping.} Support scraping only new comments since the last run, reducing processing overhead for ongoing monitoring.
+  \item \textbf{Automated issue reporting.} Integrate with developer workflow tools (e.g., GitHub Issues, Jira) to automatically file actionable findings from the analysis pipeline.
+\end{enumerate}
+
+
+% ──────────────────────────────────────────────────────────────────────────
+\section*{Acknowledgments}
+% ──────────────────────────────────────────────────────────────────────────
+
+This project builds on the open-source \texttt{hmdriver2} library~\cite{hmdriver2} for HarmonyOS device interaction. We thank the contributors of that project for enabling programmatic access to HarmonyOS devices.
+
+
+% ──────────────────────────────────────────────────────────────────────────
+\bibliographystyle{plainnat}
+\begin{thebibliography}{10}
+
+\bibitem[Huawei(2025a)]{harmonyos_overview}
+Huawei Technologies Co., Ltd.
+\newblock \textit{HarmonyOS Developer Guide}.
+\newblock \url{https://developer.huawei.com/consumer/en/harmonyos/}, 2025.
+
+\bibitem[Huawei(2025b)]{appgallery_stats}
+Huawei Technologies Co., Ltd.
+\newblock \textit{AppGallery Connect}.
+\newblock \url{https://developer.huawei.com/consumer/en/appgallery/}, 2025.
+
+\bibitem[Pagano and Maalej(2013)]{pagano13}
+D.~Pagano and W.~Maalej.
+\newblock User feedback in the appstore: An empirical study.
+\newblock In \textit{Proc. 21st IEEE International Requirements Engineering Conference (RE)}, pp.~125--134, 2013.
+
+\bibitem[Martin et~al.(2017)]{martin17}
+W.~Martin, F.~Sarro, Y.~Jia, Y.~Zhang, and M.~Harman.
+\newblock A survey of app store analysis for software engineering.
+\newblock \textit{IEEE Transactions on Software Engineering}, 43(9):817--847, 2017.
+
+\bibitem[Zou et~al.(2024)]{zou2024}
+Z.~Zou, Y.~Zhao, Y.~Liu, et~al.
+\newblock Large language models for app review analysis: An exploratory study.
+\newblock In \textit{Proc. ACM International Conference on the Foundations of Software Engineering (FSE)}, 2024.
+
+\bibitem[CodeMatrix(2025)]{hmdriver2}
+CodeMatrix.
+\newblock \texttt{hmdriver2}: Python client for HarmonyOS HDC.
+\newblock \url{https://github.com/codematrixer/hmdriver2}, 2025.
+
+\bibitem[Google(2025)]{uiautomator}
+Google LLC.
+\newblock \textit{UI Automator --- Android Developers}.
+\newblock \url{https://developer.android.com/training/testing/other-components/ui-automator}, 2025.
+
+\bibitem[Appium Contributors(2025)]{appium}
+Appium Contributors.
+\newblock \textit{Appium: Automation for Apps}.
+\newblock \url{https://appium.io/}, 2025.
+
+\end{thebibliography}
+
+\end{document}
