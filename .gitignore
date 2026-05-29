@@ -29,3 +29,7 @@ docs/*.synctex.gz
 docs/*.fdb_latexmk
 docs/*.fls
 docs/*.xdv
+docs/*.nav
+docs/*.snm
+docs/*.pdf
+docs/*.vrb
