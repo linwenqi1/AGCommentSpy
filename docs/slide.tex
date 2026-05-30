@@ -214,39 +214,73 @@ def scrape_comments(driver, max_swipes=50):
 \subsection{LLM Classification}
 
 \begin{frame}{Stage 2: LLM-Based Classification}
+  \scriptsize
   \begin{columns}[T]
-    \begin{column}{0.48\textwidth}
-      \textbf{Sentiment (3 labels)}
+    \begin{column}{0.45\textwidth}
+      \textbf{Goal}\\
+      Raw app reviews $\rightarrow$ structured developer insights
+
+      \vspace{0.12cm}
+      \textbf{Classification}
       \begin{itemize}
-        \item \textcolor{green!60!black}{Positive}
-        \item \textcolor{red!60!black}{Negative}
-        \item \textcolor{gray}{Neutral}
+        \setlength\itemsep{0pt}
+        \item \textbf{Sentiment:} \textcolor{green!60!black}{Positive},
+              \textcolor{red!60!black}{Negative}, \textcolor{gray}{Neutral}
+        \item \textbf{7 dimensions:}
+      \end{itemize}
+      \vspace{-0.22cm}
+      \begin{columns}[T,onlytextwidth]
+        \begin{column}{0.5\textwidth}
+          \begin{itemize}\tiny
+            \setlength\itemsep{0pt}
+            \item Functional Experience
+            \item System Compatibility
+            \item Stability \& Performance
+            \item UI \& Interaction
+          \end{itemize}
+        \end{column}
+        \begin{column}{0.5\textwidth}
+          \begin{itemize}\tiny
+            \setlength\itemsep{0pt}
+            \item Operations \& Policies
+            \item Appreciation
+            \item Content Ecosystem
+          \end{itemize}
+        \end{column}
+      \end{columns}
+
+      \vspace{0.08cm}
+      \textbf{Structured Output}
+      \begin{itemize}
+        \setlength\itemsep{0pt}
+        \item Pain point + actionable suggestion
+        \item Comment ID for traceability
       \end{itemize}
 
-      \vspace{0.4cm}
-      \textbf{7 Core Dimensions}
-      \begin{benumerate}\footnotesize
-        \item Functional Experience
-        \item System \& Device Compatibility
-        \item Stability \& Performance
-        \item UI \& Interaction
-        \item Operations \& Policies
-        \item Appreciation
-        \item Content Ecosystem
-      \end{benumerate}
-    \end{column}
-    \begin{column}{0.52\textwidth}
-      \textbf{Key Design Decisions}
+      \vspace{0.08cm}
+      \textbf{Reliability}
       \begin{itemize}
-        \item \textbf{JSON mode} --- structured output enforcement
-        \item \textbf{Batch processing} --- 10 comments/batch
-        \item \textbf{3-tier error recovery}:\\
-              \scriptsize 1.~Extract JSON from markdown fences\\
-              \scriptsize 2.~Heuristic brace extraction\\
-              \scriptsize 3.~Secondary LLM repair call
-        \item \textbf{Actionable Suggestion} for every negative issue
-        \item \textbf{Idempotent IDs} --- traceable to raw comments
+        \setlength\itemsep{0pt}
+        \item JSON schema, 10 comments/batch
+        \item Auto-repair malformed responses
       \end{itemize}
+    \end{column}
+    \begin{column}{0.55\textwidth}
+      \begin{exampleblock}{Example}
+        \scriptsize
+        \textbf{Raw review}\\
+        ``The HarmonyOS version crashes when opening videos, and landscape mode is poorly adapted.''
+
+        \vspace{0.1cm}
+        \textbf{LLM classification output}
+        \begin{itemize}
+          \setlength\itemsep{1pt}
+          \item \textbf{Sentiment:} \textcolor{red!60!black}{Negative}
+          \item \textbf{Dimension:} Stability \& Performance
+          \item \textbf{Pain point:} Video playback crashes
+          \item \textbf{Suggestion:} Check crash logs; improve landscape adaptation
+        \end{itemize}
+      \end{exampleblock}
     \end{column}
   \end{columns}
 \end{frame}
