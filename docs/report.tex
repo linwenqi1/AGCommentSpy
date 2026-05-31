@@ -3,18 +3,19 @@
 % ── Packages ──────────────────────────────────────────────────────────────
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{newtxtext,newtxmath}           % Times-like font
-\usepackage{microtype}                     % Better typography
-\usepackage[margin=2.5cm]{geometry}        % Single-column, 2.5 cm margins
-\usepackage{graphicx}                      % Figures
-\usepackage{booktabs}                      % Professional tables
-\usepackage[numbers,sort&compress]{natbib} % References
-\usepackage{hyperref}                      % Clickable links
-\usepackage{xcolor}                        % Colored text
-\usepackage{enumitem}                      % Custom lists
-\usepackage{float}                         % Figure placement
-\usepackage{listings}                      % Code listings
-\usepackage{caption}                       % Caption formatting
+\usepackage{CJKutf8}                        % CJK support for pdflatex
+\usepackage{newtxtext,newtxmath}            % Times-like font
+\usepackage{microtype}                      % Better typography
+\usepackage[margin=2.5cm]{geometry}         % Single-column, 2.5 cm margins
+\usepackage{graphicx}                       % Figures
+\usepackage{booktabs}                       % Professional tables
+\usepackage[numbers,sort&compress]{natbib}  % References
+\usepackage{hyperref}                        % Clickable links
+\usepackage{xcolor}                         % Colored text
+\usepackage{enumitem}                       % Custom lists
+\usepackage{float}                          % Figure placement
+\usepackage{listings}                       % Code listings
+\usepackage{caption}                        % Caption formatting
 
 % ── Hyperref setup ────────────────────────────────────────────────────────
 \hypersetup{
@@ -44,11 +45,12 @@
 \title{\textbf{LLM-Based Analysis of User Comments for\\HarmonyOS Applications}}
 
 \author{
-  Lin Wenqi \quad Hu Haozhan \quad Wang Chaohe
+  Lin Wenqi \quad Hu Haozhan \quad Wang Zhaohe
 }
 \date{\today}
 
 \begin{document}
+\begin{CJK*}{UTF8}{gbsn}
 \maketitle
 
 \section{Introduction}
@@ -76,7 +78,7 @@ The main contributions of this work are:
 \begin{enumerate}[nosep]
   \item A \textbf{UI-automation crawler} that reliably scrapes user comments from the Huawei AppGallery on HarmonyOS devices using the \texttt{hmdriver2} library and HDC protocol.
   \item An \textbf{LLM-based classification pipeline} that performs multi-dimensional sentiment analysis on user comments and extracts concrete, actionable suggestions for developers.
-  \item A \textbf{two-stage clustering workflow} that groups semantically similar issues within each dimension-sentiment bucket and merges cross-bucket redundancies.
+  \item A \textbf{two-stage clustering workflow} that groups semantically similar issues within each dimension-sentiment bucket and merges cross-batch redundancies, with label standardization.
   \item An \textbf{interactive web dashboard} that presents aggregated results---sentiment distribution, dimension breakdown, topic clusters, and raw comments---in an intuitive visual format.
   \item A \textbf{curated application dataset} spanning multiple categories (social, e-commerce, finance, entertainment, etc.) on the HarmonyOS AppGallery, with over 10,000 comments collected, serving as a testbed for the analysis pipeline.
 \end{enumerate}
@@ -196,14 +198,18 @@ The system prompt instructs the LLM to output strictly valid JSON conforming to 
 
 \subsection{Topic Clustering}
 
-After per-comment classification, a two-stage clustering pipeline groups related issues:
+After classification, we group related pain points into coherent topic clusters. This is non-trivial because multiple comments may describe the same issue using superficially different language. For example, ``连朋友资料都没，这算什么社交软件'' and ``好友来源、好友共同群聊、添加好友时间等信息都没有显示'' use entirely different wording but both complain about the same missing feature: friend profile information. A statistical clustering method based on word embeddings would likely separate them into unrelated clusters due to near-zero lexical overlap; our solution uses the LLM directly as the clustering engine, which can reason that both comments target the same root cause---insufficient friend information display.
+
+\paragraph{Clustering Rules.} The System Prompt injects explicit rules guiding the LLM: merge items describing the same feature with different wording (e.g., synonyms for ``light sensor''), ignore superficial differences such as device model or OS version when the root cause is identical, split comments that contain multiple independent issues, and guarantee that every input item appears in exactly one cluster. Each output cluster includes a \texttt{cluster\_name} (4--12 Chinese characters) and a \texttt{canonical\_issue} (a one-sentence description of the root cause).
+
+\paragraph{Two-Stage Pipeline.} Clustering proceeds in two stages:
 
 \begin{enumerate}[nosep]
-  \item \textbf{Stage 1 --- Intra-bucket clustering.} Within each (dimension, sentiment) bucket, comments are sent to the LLM in batches of up to 18 items. The LLM groups items by root cause, producing clusters with a canonical issue description and a short display name.
-  \item \textbf{Stage 2 --- Cross-bucket merging.} Clusters from Stage~1 are re-fed to the LLM to identify semantically duplicate topics across different dimension-sentiment buckets. Merged clusters receive a standardized topic name.
+  \item \textbf{Stage~1 --- Intra-bucket clustering.} Classified items are partitioned into up to 21 homogeneous (dimension, sentiment) buckets. Within each bucket, items are deduplicated and sent to the LLM in batches of up to 18. The LLM groups them into root-cause clusters, each containing a \texttt{cluster\_name} (4--12 Chinese characters), a \texttt{canonical\_issue} (one-sentence root-cause description), \texttt{size} (number of member items), and \texttt{member\_ids} (references back to all source comment IDs).
+  \item \textbf{Stage~2 --- Intra-bucket refinement.} Stage~1 splits large buckets into independent batches, which may independently produce semantically overlapping clusters. Stage~2 collects all clusters within each bucket and re-feeds them to the LLM for cross-batch deduplication and label standardization, producing a consolidated set of professionally named clusters with merged member assignments.
 \end{enumerate}
 
-Both stages include automatic repair logic: if an LLM output is malformed (e.g., duplicate or missing \texttt{item\_id}s), a repair pass is attempted, and as a last resort, orphaned items are placed into singleton clusters.
+\paragraph{Error Recovery.} To handle non-deterministic LLM outputs, a three-tier repair pipeline is applied: automatic deduplication removes duplicate item assignments and hallucinated IDs; token-overlap reassignment matches unassigned items to existing clusters via word overlap; and a secondary LLM repair call is invoked as a last resort. Any item that cannot be assigned is placed into a singleton cluster to prevent data loss. The pipeline supports \texttt{--resume} to persist intermediate results after each batch and continue from interruptions.
 
 \subsection{Web Dashboard}
 
@@ -283,7 +289,7 @@ The LLM client (\texttt{llm\_client.py}) communicates with any OpenAI-compatible
 
 \subsection{Deduplication and Normalization}
 
-During clustering, identical issues from different source comments are deduplicated by normalizing text (lowercasing, whitespace collapsing, Unicode normalization) and comparing the (dimension, sentiment, normalized pain point) triple. This prevents semantically identical issues from being counted multiple times while preserving traceability to individual source comments.
+During clustering, identical issues from different source comments are deduplicated by normalizing text (lowercasing, whitespace collapsing, zero-width character stripping) and comparing the (dimension, sentiment, normalized pain point) triple, preventing semantically identical items from being counted multiple times.
 
 \subsection{Project Structure}
 
@@ -310,7 +316,7 @@ project/
   scripts/
     aggregate_classified.py  # Aggregate raw LLM responses
     llm_cluster_and_label.py # Stage-1 clustering
-    refine_and_merge_topics.py # Stage-2 cross-bucket merging
+    refine_and_merge_topics.py # Stage-2 merging \& label standardization
   com.<package>/             # Per-app output directories
     app_info.json
     comments.json
@@ -362,12 +368,12 @@ For each application, up to 500 comment swipes were performed. The total raw dat
 
 
 % ──────────────────────────────────────────────────────────────────────────
-\section{Evaluation and Discussion}
+\section{Qualitative Discussion}
 % ──────────────────────────────────────────────────────────────────────────
 
-\subsection{Classification Quality}
+\subsection{Classification and Taxonomy Design}
 
-The LLM classifier assigns each extracted issue to one of seven dimensions and three sentiment categories. The seven-dimension taxonomy was designed to balance granularity with actionability:
+The seven-dimension taxonomy was designed to balance granularity with actionability:
 
 \begin{itemize}[nosep]
   \item Dimensions like \textit{Stability \& Performance} and \textit{System \& Device Compatibility} target issues that require engineering investigation.
@@ -378,11 +384,34 @@ The LLM classifier assigns each extracted issue to one of seven dimensions and t
 
 By requiring the LLM to output \texttt{Actionable\_Suggestion} for every negative entry, the pipeline ensures that each finding is paired with a concrete improvement proposal. Positive and neutral entries do not generate suggestions, preventing noise in the developer-facing output.
 
-\subsection{Clustering Effectiveness}
+\subsection{Clustering Approach Comparison}
 
-The two-stage clustering approach addresses a key limitation of flat classification: multiple comments about the same underlying issue (e.g., ``app crashes when opening on Mate 60 Pro'') would otherwise appear as scattered entries across the dashboard. By grouping them into root-cause clusters, the dashboard presents a more actionable view of the most impactful issues.
+Section~3.3 describes our final LLM-as-clusterer design. This section discusses the design rationale behind that choice.
 
-The automatic repair and deduplication mechanisms proved essential in practice, as the LLM occasionally produced outputs with duplicate or missing item assignments. The auto-repair pipeline ensures robustness: malformed clusters are repaired automatically, and any items that cannot be assigned are surfaced as singletons rather than silently dropped.
+Our initial clustering prototype followed a conventional NLP workflow: pain-point texts were embedded with Sentence-BERT~\cite{reimers19}, clustered via KMeans or DBSCAN, and each resulting cluster was summarized by the LLM into a label. We observed two fundamental problems with this approach:
+
+\begin{enumerate}[nosep]
+  \item \textbf{Surface-form blindness.} Revisiting the friend-information example from Section~3.3: the phrases ``连朋友资料都没'' and ``好友来源、好友共同群聊等都没有'' share almost no common words, so their embedding vectors would be far apart and assigned to different clusters---despite both targeting the identical root cause of insufficient friend information display. Word embeddings capture lexical similarity but cannot detect root-cause equivalence.
+  \item \textbf{Short-text noise.} Most pain-point items are 10--30 Chinese characters, yielding sparse, high-dimensional vectors that make unsupervised clustering boundaries unreliable.
+\end{enumerate}
+
+These observations motivated the LLM-as-clusterer approach, where the LLM directly partitions items without an intermediate embedding step. The System Prompt injects domain rules---merge synonyms, ignore device-model differences, split multi-issue items, guarantee coverage---which allow the model to reason about root causes rather than lexical surface forms.
+
+The two-stage decomposition addresses a fundamental tension: the full set of classified items exceeds a single LLM prompt, but splitting items arbitrarily would break semantic dependencies across batches. We resolve this by first partitioning items by (dimension, sentiment), so each batch is semantically homogeneous (e.g., all complaints about UI and interaction). This focus increases the chance that related items co-occur in the same batch and are correctly merged. However, batching introduces a side effect---different batches within the same bucket may independently discover the same root cause. Stage~2 reconciles this by re-feeding the much smaller set of cluster summaries to the LLM in one call for cross-batch deduplication and label standardization. In essence, the two-stage design decomposes a large clustering problem into focused sub-problems with a lightweight reconciliation step.
+
+Our qualitative inspection indicates that this approach produces substantially more coherent groupings than the embedding-based alternative.
+
+\subsection{Robustness Mechanisms}
+
+The LLM-as-clusterer approach introduces a practical challenge: LLM outputs are non-deterministic. Across our dataset, we observed recurring failure modes---duplicate item assignments across multiple clusters, missing items not assigned to any cluster, and hallucinated item IDs. The three-tier repair pipeline described in Section~3.3 was developed to handle these issues progressively:
+
+\begin{enumerate}[nosep]
+  \item \textbf{Automatic deduplication} resolves duplicate assignments by retaining the first occurrence.
+  \item \textbf{Token-overlap reassignment} matches unassigned items to existing clusters by computing simple word overlap between the item text and cluster descriptors.
+  \item \textbf{LLM re-repair} is invoked only as a last resort, re-feeding the original output with validation errors to the model.
+\end{enumerate}
+
+This layered design reflects a practical principle when building LLM-integrated pipelines: deterministic programmatic repair should be exhausted before resorting to additional LLM calls, which are both expensive and themselves fallible. The singleton fallback ensures that no item is silently discarded: even if all repair steps fail, the item remains visible in the dashboard as a standalone entry.
 
 \subsection{Limitations}
 
@@ -392,7 +421,7 @@ Several limitations should be acknowledged:
   \item \textbf{Scraping reliability.} UI automation is inherently fragile. Changes to the AppGallery UI layout (XPath selectors) can break the scraper and require manual selector updates in \texttt{config.py}.
   \item \textbf{LLM dependence.} The classification and clustering quality depends on the underlying LLM. Different models or API providers may produce varying quality, and prompt engineering is model-specific.
   \item \textbf{Single-language focus.} The current system prompt and taxonomy are designed for Chinese-language comments. Extending to multilingual analysis would require prompt adaptation.
-  \item \textbf{No ground-truth evaluation.} As a course project, we did not conduct a formal human-annotated evaluation of classification accuracy. Future work should include a manually labeled subset for quantitative evaluation.
+  \item \textbf{No ground-truth evaluation.} We did not conduct a formal human-annotated evaluation of classification or clustering accuracy. Future work should include a manually labeled subset to enable quantitative measurement of precision and recall.
   \item \textbf{Device requirement.} The scraper requires a physical HarmonyOS device connected via HDC, limiting scalability compared to API-based collection methods.
 \end{enumerate}
 
@@ -423,7 +452,7 @@ This project builds on the open-source \texttt{hmdriver2} library~\cite{hmdriver
 
 % ──────────────────────────────────────────────────────────────────────────
 \bibliographystyle{plainnat}
-\begin{thebibliography}{10}
+\begin{thebibliography}{11}
 
 \bibitem[Huawei(2025a)]{harmonyos_overview}
 Huawei Technologies Co., Ltd.
@@ -450,6 +479,12 @@ Z.~Zou, Y.~Zhao, Y.~Liu, et~al.
 \newblock Large language models for app review analysis: An exploratory study.
 \newblock In \textit{Proc. ACM International Conference on the Foundations of Software Engineering (FSE)}, 2024.
 
+\bibitem[Reimers and Gurevych(2019)]{reimers19}
+N.~Reimers and I.~Gurevych.
+\newblock Sentence-BERT: Sentence embeddings using Siamese BERT-networks.
+\newblock In \textit{Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP)}, 2019.
+\newblock arXiv:1908.10084.
+
 \bibitem[CodeMatrix(2025)]{hmdriver2}
 CodeMatrix.
 \newblock \texttt{hmdriver2}: Python client for HarmonyOS HDC.
@@ -467,4 +502,5 @@ Appium Contributors.
 
 \end{thebibliography}
 
+\end{CJK*}
 \end{document}

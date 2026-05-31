@@ -22,9 +22,11 @@
 % NOTE: Beamer auto-loads xcolor, hyperref, amsmath, geometry.
 %       Do NOT load enumitem --- it breaks Beamer's list handling.
 \usepackage[T1]{fontenc}
+\usepackage{CJKutf8}
 \usepackage{newtxtext,newtxmath}
 \usepackage{microtype}
 \usepackage{graphicx}
+\graphicspath{{docs/}}
 \usepackage{booktabs}
 \usepackage{listingsutf8}
 \usepackage{tikz}
@@ -59,6 +61,7 @@
 \date{\today}
 
 \begin{document}
+\begin{CJK*}{UTF8}{gbsn}
 
 % ══════════════════════════════════════════════════════════════════════════
 \begin{frame}
@@ -124,7 +127,7 @@
   \begin{benumerate}
     \item \textbf{UI-automation crawler} --- reliably scrapes AppGallery comments via \texttt{hmdriver2} + HDC
     \item \textbf{LLM classification pipeline} --- multi-dimensional sentiment analysis + actionable suggestions
-    \item \textbf{Two-stage clustering} --- intra-bucket grouping + cross-bucket merging
+    \item \textbf{Two-stage clustering} --- intra-bucket grouping + cross-batch refinement
     \item \textbf{Interactive web dashboard} --- aggregated results in intuitive visual format
     \item \textbf{Curated dataset} --- \textbf{10,000+} comments across 8 categories on HarmonyOS
   \end{benumerate}
@@ -289,26 +292,43 @@ def scrape_comments(driver, max_swipes=50):
 \subsection{Topic Clustering}
 
 \begin{frame}{Stage 3: Two-Stage Topic Clustering}
-  \begin{block}{Stage 1 --- Intra-bucket Clustering}
-    \begin{itemize}\footnotesize
-      \item Within each (dimension, sentiment) bucket, LLM groups items by root cause
-      \item Up to 18 items per batch $\rightarrow$ canonical issue description + display name
-    \end{itemize}
-  \end{block}
+  \footnotesize
+  \begin{columns}[T]
+    \begin{column}{0.38\textwidth}
+      \textbf{Initial attempt: word-embedding clustering}
+      \begin{itemize}
+        \setlength\itemsep{0pt}
+        \item Sentence-BERT + KMeans/DBSCAN
+        \item \textbf{Failed:} same root cause, different wording $\rightarrow$ far apart in vector space $\rightarrow$ split into different clusters
+      \end{itemize}
 
-  \begin{block}{Stage 2 --- Cross-bucket Merging}
-    \begin{itemize}\footnotesize
-      \item Identifies semantically duplicate topics across dimension-sentiment buckets
-      \item Merged clusters receive standardized topic names
-    \end{itemize}
-  \end{block}
+      \vspace{0.1cm}
+      \textbf{Our approach: LLM-as-clusterer}
+      \begin{itemize}
+        \setlength\itemsep{2pt}
+        \item \textbf{LLM groups directly, no embedding step}
+        \item System Prompt injects domain rules: merge synonyms, ignore device-model differences, split multi-issue comments
+        \item \textbf{Stage 1:} partition by (dimension, sentiment); LLM clusters items within each bucket in batches of 18
+        \item \textbf{Stage 2:} merges overlapping clusters across batches and standardizes topic names
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.62\textwidth}
+      \begin{exampleblock}{Example: Friend Information Missing in HarmonyOS WeChat}
+        \footnotesize
+        \textbf{cluster\_name:} 好友信息功能缺失\\
+        \textbf{canonical\_issue:} 鸿蒙版微信缺少好友来源、共同群聊、添加好友时间等常用功能\\
+        \textbf{size:} 2
 
-  \begin{block}{Robustness Mechanisms}
-    \begin{itemize}\footnotesize
-      \item \textbf{Auto-repair:} malformed outputs $\rightarrow$ repair pass $\rightarrow$ singletons
-      \item \textbf{Deduplication:} normalize text + compare (dimension, sentiment, pain\_point) triples
-    \end{itemize}
-  \end{block}
+        \vspace{0.1cm}
+        \begin{tabular}{@{}p{0.48\textwidth}p{0.48\textwidth}@{}}
+          \footnotesize \textbf{\#264} \quad \textit{华为畅享 90 Pro Max} &
+          \footnotesize \textbf{\#272} \quad \textit{HUAWEI Pura 70 Pro+} \\[2pt]
+          \footnotesize ``好友来源、好友共同群聊、添加好友时间等都没有，求更新'' &
+          \footnotesize ``连朋友资料都没，版本比别人低，别的是8.0.71，我们的是8.0.17'' \\
+        \end{tabular}
+      \end{exampleblock}
+    \end{column}
+  \end{columns}
 \end{frame}
 
 % ──────────────────────────────────────────────────────────────────────────
@@ -362,20 +382,14 @@ def scrape_comments(driver, max_swipes=50):
 
 \begin{frame}{Results --- Dashboard Overview}
   \begin{columns}[T]
-    \begin{column}{0.5\textwidth}
+    \begin{column}{0.55\textwidth}
       \begin{figure}
         \centering
-        \fbox{\begin{minipage}{0.9\textwidth}\centering
-          \vspace{2cm}
-          \scriptsize\color{gray}
-          [Screenshot: Overview tab]\\
-          sentiment donut chart + dimension bar chart
-          \vspace{2cm}
-        \end{minipage}}
+        \includegraphics[width=\textwidth]{overview.png}
         \caption{Overview --- aggregate statistics and charts}
       \end{figure}
     \end{column}
-    \begin{column}{0.5\textwidth}
+    \begin{column}{0.45\textwidth}
       \begin{itemize}
         \item \textbf{Dataset:} \textbf{10,000+} comments across \textbf{45+} apps in 8 categories
         \item \textbf{Sentiment distribution} visualized as an SVG donut chart
@@ -391,26 +405,14 @@ def scrape_comments(driver, max_swipes=50):
     \begin{column}{0.5\textwidth}
       \begin{figure}
         \centering
-        \fbox{\begin{minipage}{0.9\textwidth}\centering
-          \vspace{2cm}
-          \scriptsize\color{gray}
-          [Screenshot: Analysis tab]\\
-          dimension-filtered pain points\\with actionable suggestions
-          \vspace{2cm}
-        \end{minipage}}
+        \includegraphics[width=\textwidth]{analysis.png}
         \caption{Analysis --- per-dimension issues with suggestions}
       \end{figure}
     \end{column}
     \begin{column}{0.5\textwidth}
       \begin{figure}
         \centering
-        \fbox{\begin{minipage}{0.9\textwidth}\centering
-          \vspace{2cm}
-          \scriptsize\color{gray}
-          [Screenshot: Clusters tab]\\
-          topic clusters by dimension $\times$ sentiment
-          \vspace{2cm}
-        \end{minipage}}
+        \includegraphics[width=\textwidth]{cluster.png}
         \caption{Clusters --- grouped issues with canonical descriptions}
       \end{figure}
     \end{column}
@@ -430,8 +432,9 @@ def scrape_comments(driver, max_swipes=50):
 
   \begin{block}{Clustering}
     \begin{itemize}
-      \item Scattered comments on the same issue $\rightarrow$ \textbf{one root-cause cluster}
-      \item Auto-repair ensures malformed outputs are never silently dropped
+      \item Word-embedding clustering separated same-root-cause items (lexical, not semantic)
+      \item LLM-as-clusterer reasons about root causes, merging despite vocabulary variance
+      \item Two-stage design: focused sub-problems + lightweight reconciliation
     \end{itemize}
   \end{block}
 \end{frame}
@@ -480,4 +483,5 @@ def scrape_comments(driver, max_swipes=50):
   \end{center}
 \end{frame}
 
+\end{CJK*}
 \end{document}
