@@ -56,7 +56,7 @@
 % ── Title info ────────────────────────────────────────────────────────────
 \title[AGCommentSpy]{LLM-Based Analysis of User Comments for\\HarmonyOS Applications}
 \subtitle{\textsc{AGCommentSpy} --- From Raw Reviews to Actionable Insights}
-\author{Lin Wenqi \quad Hu Haozhan \quad Wang Chaohe}
+\author{Lin Wenqi \quad Hu Haozhan \quad Wang Zhaohe}
 \institute{CS326 Project}
 \date{\today}
 
@@ -306,25 +306,23 @@ def scrape_comments(driver, max_swipes=50):
       \textbf{Our approach: LLM-as-clusterer}
       \begin{itemize}
         \setlength\itemsep{2pt}
-        \item \textbf{LLM groups directly, no embedding step}
-        \item System Prompt injects domain rules: merge synonyms, ignore device-model differences, split multi-issue comments
         \item \textbf{Stage 1:} partition by (dimension, sentiment); LLM clusters items within each bucket in batches of 18
-        \item \textbf{Stage 2:} merges overlapping clusters across batches and standardizes topic names
-      \end{itemize}
+        \item \textbf{Stage 2:} merges overlapping clusters across batches and standardizes topic names      
+        \end{itemize}
     \end{column}
-    \begin{column}{0.62\textwidth}
-      \begin{exampleblock}{Example: Friend Information Missing in HarmonyOS WeChat}
-        \footnotesize
+    \begin{column}{0.55\textwidth}
+      \begin{exampleblock}{Example}
+        \scriptsize
         \textbf{cluster\_name:} 好友信息功能缺失\\
         \textbf{canonical\_issue:} 鸿蒙版微信缺少好友来源、共同群聊、添加好友时间等常用功能\\
         \textbf{size:} 2
 
         \vspace{0.1cm}
         \begin{tabular}{@{}p{0.48\textwidth}p{0.48\textwidth}@{}}
-          \footnotesize \textbf{\#264} \quad \textit{华为畅享 90 Pro Max} &
-          \footnotesize \textbf{\#272} \quad \textit{HUAWEI Pura 70 Pro+} \\[2pt]
-          \footnotesize ``好友来源、好友共同群聊、添加好友时间等都没有，求更新'' &
-          \footnotesize ``连朋友资料都没，版本比别人低，别的是8.0.71，我们的是8.0.17'' \\
+          \scriptsize \textbf{\#264} \quad \textit{华为畅享 90 Pro Max} &
+          \scriptsize \textbf{\#272} \quad \textit{HUAWEI Pura 70 Pro+} \\[2pt]
+          \scriptsize ``好友来源、好友共同群聊、添加好友时间等都没有，求更新'' &
+          \scriptsize ``连朋友资料都没，版本比别人低...'' \\
         \end{tabular}
       \end{exampleblock}
     \end{column}
