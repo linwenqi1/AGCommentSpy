@@ -158,10 +158,9 @@ The scraping module interacts with a physical HarmonyOS device via HDC. It uses 
   \item Save raw comments as JSON files keyed by package name for downstream processing.
 \end{itemize}
 
-Figure~\ref{fig:scraping} shows a simplified version of the scraping loop.
+Listing~\ref{lst:scraping} shows a simplified version of the scraping loop.
 
-\begin{figure}[H]
-\begin{lstlisting}[language=Python, caption={Simplified comment scraping loop (from \texttt{comments.py}).}, label=fig:scraping]
+\begin{lstlisting}[language=Python, caption={Simplified comment scraping loop (from \texttt{comments.py}).}, label=lst:scraping]
 def scrape_comments(driver, max_swipes=50, wait=2.0):
     all_comments = []
     for i in range(max_swipes):
@@ -173,7 +172,6 @@ def scrape_comments(driver, max_swipes=50, wait=2.0):
             all_comments.append(comment)
     return all_comments
 \end{lstlisting}
-\end{figure}
 
 \subsection{LLM-Based Comment Classification}
 
